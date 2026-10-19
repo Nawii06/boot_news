@@ -93,9 +93,23 @@
   },
   "related_issue_ids": [],
   "report_paths": [
-    "reports/2026/10/2026-10-03.md",
     "reports/2026/10/2026-10-07.md",
     "reports/2026/10/2026-10-10.md"
   ],
-  "changes": []
+  "changes": [
+    {
+      "changed_at": "2026-10-19T16:44:00+09:00",
+      "run_id": "20261019T163900+0900",
+      "field": "report_paths",
+      "before": "키워드 단순일치 기반 과잉 연결",
+      "after": [
+        "reports/2026/10/2026-10-07.md",
+        "reports/2026/10/2026-10-10.md"
+      ],
+      "reason": "충북 제조 AI 지원사업을 실제 본문에서 다룬 회차로만 교정",
+      "source_urls": [
+        "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126558"
+      ]
+    }
+  ]
 }

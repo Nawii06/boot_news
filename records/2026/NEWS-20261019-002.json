@@ -113,7 +113,41 @@
   },
   "related_issue_ids": [],
   "report_paths": [
+    "reports/2026/10/2026-10-03.md",
+    "reports/2026/10/2026-10-04.md",
+    "reports/2026/10/2026-10-05.md",
+    "reports/2026/10/2026-10-06.md",
+    "reports/2026/10/2026-10-07.md",
+    "reports/2026/10/2026-10-08.md",
+    "reports/2026/10/2026-10-09.md",
+    "reports/2026/10/2026-10-10.md",
+    "reports/2026/10/2026-10-12.md",
     "reports/2026/10/2026-10-14.md"
   ],
-  "changes": []
+  "changes": [
+    {
+      "changed_at": "2026-10-19T16:44:00+09:00",
+      "run_id": "20261019T163900+0900",
+      "field": "report_paths",
+      "before": [
+        "reports/2026/10/2026-10-14.md"
+      ],
+      "after": [
+        "reports/2026/10/2026-10-03.md",
+        "reports/2026/10/2026-10-04.md",
+        "reports/2026/10/2026-10-05.md",
+        "reports/2026/10/2026-10-06.md",
+        "reports/2026/10/2026-10-07.md",
+        "reports/2026/10/2026-10-08.md",
+        "reports/2026/10/2026-10-09.md",
+        "reports/2026/10/2026-10-10.md",
+        "reports/2026/10/2026-10-12.md",
+        "reports/2026/10/2026-10-14.md"
+      ],
+      "reason": "과거 회차 부분 복원본 소급 연결",
+      "source_urls": [
+        "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&contents_id=a91f83b67f1e437cb75e3599baccea80"
+      ]
+    }
+  ]
 }

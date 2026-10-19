@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261019T161258+0900",
+  "scheduled_at": null,
+  "cutoff_at": null,
+  "started_at": "2026-10-19T07:12:58.505Z",
+  "collection_completed_at": "2026-10-19T07:12:58.505Z",
+  "search_window": {
+    "mode": "historical_backfill",
+    "report_date": "2026-10-14"
+  },
+  "supplement_windows": [],
+  "search_status": "partial_historical_source_reverification",
+  "queries": [
+    "2026년 첨단분야 인턴십 4차 공고",
+    "부트캠프 AI 산학협력전담교수 2026년 10월",
+    "충북 AI 이니셔티브 2026년 10월"
+  ],
+  "checked_official_sites": [
+    "kiat.or.kr",
+    "ysc.ut.ac.kr"
+  ],
+  "verification_failures": [
+    "10월 14일 리포트의 모든 기사 원문을 전수 재검증하지는 않음"
+  ],
+  "excluded_candidates": [],
+  "previous_success_run_id": null,
+  "coverage_gaps": [
+    "2026-09-15~2026-10-02 원문 미확보",
+    "현재 대화 내 10월 일부 회차는 아직 이관 전"
+  ],
+  "issue_ids": [
+    {
+      "issue_id": "NEWS-20261019-001",
+      "change_status": "new"
+    },
+    {
+      "issue_id": "NEWS-20261019-002",
+      "change_status": "new"
+    },
+    {
+      "issue_id": "NEWS-20261019-003",
+      "change_status": "new"
+    }
+  ],
+  "counts": {
+    "historical_reports_archived": 1,
+    "issues_new": 3,
+    "issues_updated": 0,
+    "unverified_report_items": "일부"
+  },
+  "report_path": "reports/2026/10/2026-10-14.md",
+  "changed_paths": [],
+  "archive_intent": "prepared"
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-003",
+  "title": "충북 AI 이니셔티브 2030 미래전략 선포",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "정책·운영 참고",
+  "first_seen_at": "2026-10-19T07:12:58.505Z",
+  "last_verified_at": "2026-10-19T07:12:58.505Z",
+  "published_date": "2026-10-13",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "충청북도"
+  ],
+  "regions": [
+    "충청북도"
+  ],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "media_only",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-003-F1",
+      "text": "충북도는 2026-10-13 AI 이니셔티브 선포식을 개최했다.",
+      "source_urls": [
+        "https://www.ajunews.com/view/20261013155954006"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-003-F2",
+      "text": "2026년부터 2030년까지 5대 분야, 10대 전략, 60개 사업에 약 2조1150억원 투입을 계획했다.",
+      "source_urls": [
+        "https://www.ajunews.com/view/20261013155954006"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "충북 AI 이니셔티브 선포 보도",
+      "publisher": "아주경제",
+      "source_type": "media_only",
+      "url": "https://www.ajunews.com/view/20261013155954006",
+      "normalized_url": "https://www.ajunews.com/view/20261013155954006",
+      "published_date": "2026-10-13",
+      "accessed_at": "2026-10-19T07:12:58.505Z",
+      "verification_scope": "이번 이관 회차의 원문에서 확인한 항목에 한함",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "제조 AX·미래모빌리티 분야 후속 사업 검토 대상",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "관련 대학 지침 및 사업비 적용요건 별도 확인"
+    ],
+    "limitations": [
+      "과거 뉴스 리포트의 작성 당시 해석과 현재 확정 사실을 구분함"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "산학프로젝트",
+      "기업수요조사"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-003-F1",
+      "NEWS-20261019-003-F2"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-14.md"
+  ],
+  "changes": []
+}

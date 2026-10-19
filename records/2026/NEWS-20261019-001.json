@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-001",
+  "title": "2026년 국립한국교통대 부트캠프(AI)사업단 산학협력전담교수 채용",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "사업단 직접 운영 관련",
+  "first_seen_at": "2026-10-19T07:12:58.505Z",
+  "last_verified_at": "2026-10-19T07:12:58.505Z",
+  "published_date": "2026-10-13",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-001-F1",
+      "text": "국립한국교통대학교 산학협력단 공고 제2026-242호로 2026-10-13 게시되었다.",
+      "source_urls": [
+        "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd="
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-001-F2",
+      "text": "응시코드 A의 산학협력전담교수를 충주캠퍼스 부트캠프(AI)사업단에서 모집한다.",
+      "source_urls": [
+        "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd="
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-001-F3",
+      "text": "원서접수 기간은 2026-10-13부터 2026-10-19 18:00까지이다.",
+      "source_urls": [
+        "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd="
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "제2026-4회 국립한국교통대학교 부트캠프(AI)사업 전담인력 신규채용 공고",
+      "publisher": "국립한국교통대학교",
+      "source_type": "official",
+      "url": "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd=",
+      "normalized_url": "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd=",
+      "published_date": "2026-10-13",
+      "accessed_at": "2026-10-19T07:12:58.505Z",
+      "verification_scope": "이번 이관 회차의 원문에서 확인한 항목에 한함",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": "2026-10-19T18:00:00+09:00",
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "산학협력 역할배분과 기업 수요 발굴 검토 대상",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "관련 대학 지침 및 사업비 적용요건 별도 확인"
+    ],
+    "limitations": [
+      "과거 뉴스 리포트의 작성 당시 해석과 현재 확정 사실을 구분함"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "산학프로젝트",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-001-F1",
+      "NEWS-20261019-001-F2",
+      "NEWS-20261019-001-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-14.md"
+  ],
+  "changes": []
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261019T170700+0900",
+  "scheduled_at": null,
+  "cutoff_at": "2026-10-19T17:07:00+09:00",
+  "started_at": "2026-10-19T17:07:00+09:00",
+  "collection_completed_at": null,
+  "search_window": {
+    "start": "2026-10-18T17:07:00+09:00",
+    "end": "2026-10-19T17:07:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-12",
+      "end": "2026-10-19",
+      "reason": "직접 관련 뉴스 희소 및 진행 공고"
+    }
+  ],
+  "search_status": "partial_verified",
+  "queries": [
+    "site:ut.ac.kr 부트캠프 2026 10월 19일",
+    "site:kiat.or.kr 첨단산업 인재양성 부트캠프 2026 10월",
+    "2026 10월 19일 충북 AI 인재양성 제조 AX 산학협력",
+    "2026 10월 19일 AI 부트캠프 대학 기업 현장실습 뉴스",
+    "2026 10월 18일 충주 충북 인공지능 제조 로봇 인재양성"
+  ],
+  "checked_official_sites": [
+    "axr.kr",
+    "bizinfo.go.kr"
+  ],
+  "verification_failures": [
+    "국립한국교통대학교 채용공고 직접 원문 열람 실패",
+    "영남대학교 부트캠프 공지 원문 열람 시간초과"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.axcampus.co.kr/main/page.jsp?code=physical&embed=landing&v=20260904-mobile-fix",
+      "reason": "민간 동명 부트캠프이며 정부 첨단산업 인재양성 부트캠프와 구분"
+    }
+  ],
+  "previous_success_run_id": null,
+  "coverage_gaps": [
+    "2026-10-18 17:07~2026-10-19 17:07 전수조사 완료를 의미하지 않음",
+    "기존 아카이브의 과거 보고서 일부 미이관; 이전 성공상태 재검증 불완전"
+  ],
+  "issue_ids": [
+    {
+      "issue_id": "NEWS-20261019-004",
+      "change_status": "unchanged"
+    },
+    {
+      "issue_id": "NEWS-20261019-006",
+      "change_status": "duplicate_review"
+    }
+  ],
+  "counts": {
+    "new": 0,
+    "updated": 0,
+    "unchanged": 1,
+    "duplicate_review": 1,
+    "unprocessed": 1
+  },
+  "report_path": "reports/2026/10/2026-10-19/runs/20261019T170700+0900.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-19/runs/20261019T170700+0900.md",
+    "manifests/2026/10/20261019T170700+0900.json",
+    "indexes/2026-10.md"
+  ],
+  "archive_intent": "prepared"
+}

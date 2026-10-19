@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-005",
+  "title": "PAC 2026 피지컬AI 챌린지 결과",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "교육·산학협력 참고",
+  "first_seen_at": "2026-10-19T16:39:00+09:00",
+  "last_verified_at": "2026-10-19T16:39:00+09:00",
+  "published_date": "2026-10-11",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "대구시 발표 기반 전자신문"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "media_only",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-005-F1",
+      "text": "2026-10-09~10-10 개최된 PAC 2026에는 147개 팀, 531명이 지원했다.",
+      "source_urls": [
+        "https://www.etnews.com/20261011000083"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-005-F2",
+      "text": "59개 팀, 206명이 본선에 참여했고 Yard-X팀이 대상을 받았다.",
+      "source_urls": [
+        "https://www.etnews.com/20261011000083"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-005-F3",
+      "text": "기업 PoC·공동개발 연계는 대구시의 계획이다.",
+      "source_urls": [
+        "https://www.etnews.com/20261011000083"
+      ],
+      "evidence_locator": null,
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PAC 2026 피지컬AI 챌린지 결과",
+      "publisher": "대구시 발표 기반 전자신문",
+      "source_type": "media_only",
+      "url": "https://www.etnews.com/20261011000083",
+      "normalized_url": "https://www.etnews.com/20261011000083",
+      "published_date": "2026-10-11",
+      "accessed_at": "2026-10-19T16:39:00+09:00",
+      "verification_scope": "이번 웹 검색에서 원문에 접근해 확인한 범위",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "교육과정·산학협력·학생지원 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "사업단 적용조건과 관련 지침 별도 확인"
+    ],
+    "limitations": [
+      "역사적 자료 최초 이관은 새 기사 발생과 다름"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "산학프로젝트",
+      "교육과정",
+      "성과관리"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-005-F1",
+      "NEWS-20261019-005-F2",
+      "NEWS-20261019-005-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-03.md",
+    "reports/2026/10/2026-10-05.md",
+    "reports/2026/10/2026-10-12.md"
+  ],
+  "changes": []
+}

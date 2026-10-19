@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-004",
+  "title": "AI Bootcamp Innovation Challenger 2026",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "정부 부트캠프 직접 관련 일정",
+  "first_seen_at": "2026-10-19T16:39:00+09:00",
+  "last_verified_at": "2026-10-19T16:39:00+09:00",
+  "published_date": null,
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "교육부·한국산업기술진흥원·한국인공지능소프트웨어산업협회"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-004-F1",
+      "text": "공식 플랫폼은 40개 대학, 40개 팀, 5개 기업 참가를 안내한다.",
+      "source_urls": [
+        "https://axr.kr/ai2026"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-004-F2",
+      "text": "2026-10-06~10-08 기업과제 선택, 2026-11-25 프로젝트 발표 일정을 안내한다.",
+      "source_urls": [
+        "https://axr.kr/ai2026"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AI Bootcamp Innovation Challenger 2026",
+      "publisher": "교육부·한국산업기술진흥원·한국인공지능소프트웨어산업협회",
+      "source_type": "official",
+      "url": "https://axr.kr/ai2026",
+      "normalized_url": "https://axr.kr/ai2026",
+      "published_date": null,
+      "accessed_at": "2026-10-19T16:39:00+09:00",
+      "verification_scope": "이번 웹 검색에서 원문에 접근해 확인한 범위",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "교육과정·산학협력·학생지원 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "사업단 적용조건과 관련 지침 별도 확인"
+    ],
+    "limitations": [
+      "역사적 자료 최초 이관은 새 기사 발생과 다름"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "산학프로젝트",
+      "교육과정",
+      "학생지원"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-004-F1",
+      "NEWS-20261019-004-F2"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-03.md",
+    "reports/2026/10/2026-10-04.md",
+    "reports/2026/10/2026-10-05.md",
+    "reports/2026/10/2026-10-06.md",
+    "reports/2026/10/2026-10-07.md",
+    "reports/2026/10/2026-10-08.md",
+    "reports/2026/10/2026-10-09.md",
+    "reports/2026/10/2026-10-10.md",
+    "reports/2026/10/2026-10-12.md"
+  ],
+  "changes": []
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-007",
+  "title": "경북대 AI부트캠프 SJSU 글로벌 PBL 예고",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "교육·산학협력 참고",
+  "first_seen_at": "2026-10-19T16:39:00+09:00",
+  "last_verified_at": "2026-10-19T16:39:00+09:00",
+  "published_date": "2026-10-05",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "경북대학교 AI부트캠프"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-007-F1",
+      "text": "경북대 AI부트캠프는 2026-10-05 글로벌 AI부트캠프 SJSU 참가자 모집을 사전 예고했다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-007-F2",
+      "text": "2027년 1월 미국 산호세주립대에서 3주간 AI PBL 실시 계획을 밝혔다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "경북대 AI부트캠프 SJSU 글로벌 PBL 예고",
+      "publisher": "경북대학교 AI부트캠프",
+      "source_type": "official",
+      "url": "https://aibootcamp.knu.ac.kr/notices/",
+      "normalized_url": "https://aibootcamp.knu.ac.kr/notices/",
+      "published_date": "2026-10-05",
+      "accessed_at": "2026-10-19T16:39:00+09:00",
+      "verification_scope": "이번 웹 검색에서 원문에 접근해 확인한 범위",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "교육과정·산학협력·학생지원 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "사업단 적용조건과 관련 지침 별도 확인"
+    ],
+    "limitations": [
+      "역사적 자료 최초 이관은 새 기사 발생과 다름"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "비교과",
+      "학생지원"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-007-F1",
+      "NEWS-20261019-007-F2"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-06.md",
+    "reports/2026/10/2026-10-12.md"
+  ],
+  "changes": []
+}

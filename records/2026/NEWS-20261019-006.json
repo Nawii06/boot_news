@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-006",
+  "title": "충북 2026 제조AI 현장 적용 지원사업",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "교육·산학협력 참고",
+  "first_seen_at": "2026-10-19T16:39:00+09:00",
+  "last_verified_at": "2026-10-19T16:39:00+09:00",
+  "published_date": "2026-09-17",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "충북테크노파크·기업마당"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-006-F1",
+      "text": "공고일은 2026-09-17, 신청기간은 2026-09-16~2026-10-11이다.",
+      "source_urls": [
+        "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126558"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-006-F2",
+      "text": "충주·진천·음성의 공정보유 융합바이오 중소·중견기업을 지원한다.",
+      "source_urls": [
+        "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126558"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "충북 2026 제조AI 현장 적용 지원사업",
+      "publisher": "충북테크노파크·기업마당",
+      "source_type": "official",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126558",
+      "normalized_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126558",
+      "published_date": "2026-09-17",
+      "accessed_at": "2026-10-19T16:39:00+09:00",
+      "verification_scope": "이번 웹 검색에서 원문에 접근해 확인한 범위",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": "2026-10-11",
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "교육과정·산학협력·학생지원 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "사업단 적용조건과 관련 지침 별도 확인"
+    ],
+    "limitations": [
+      "역사적 자료 최초 이관은 새 기사 발생과 다름"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "기업수요조사",
+      "산학프로젝트",
+      "신규사업기획"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-006-F1",
+      "NEWS-20261019-006-F2"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-03.md",
+    "reports/2026/10/2026-10-07.md",
+    "reports/2026/10/2026-10-10.md"
+  ],
+  "changes": []
+}

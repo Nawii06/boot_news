@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-011",
+  "title": "경북대학교 2026 AI부트캠프 학생 및 Innovation Challenger 대표팀 모집",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "과거 리포트에 등장한 공식 확인 가능 학생지원·교육·산학협력 사례",
+  "first_seen_at": "2026-10-19T08:00:20.395Z",
+  "last_verified_at": "2026-10-19T08:00:20.395Z",
+  "published_date": "2026-09-14",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "경북대학교"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-011-F1",
+      "text": "경북대 AI부트캠프 참여학생 모집과 전국 AI 경진대회 참가팀 모집 공고가 2026-09-14 게시됐다.",
+      "source_urls": [
+        "https://cse.knu.ac.kr/bbs/board.php?bo_table=sub6_1_a&page=465&sod=asc&sop=and&sst=wr_datetime&wr_id=29440"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-011-F2",
+      "text": "참여학생 접수기간은 2026-09-14부터 2026-09-21 오후 8시까지이다.",
+      "source_urls": [
+        "https://cse.knu.ac.kr/bbs/board.php?bo_table=sub6_1_a&page=465&sod=asc&sop=and&sst=wr_datetime&wr_id=29440"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-011-F3",
+      "text": "Innovation Challenger 대회 출전 4인 팀 모집이 병행되며 교과 참여·인턴십·해외연수·장학금 등 프로그램 안내가 포함돼 있다.",
+      "source_urls": [
+        "https://cse.knu.ac.kr/bbs/board.php?bo_table=sub6_1_a&page=465&sod=asc&sop=and&sst=wr_datetime&wr_id=29440"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "경북대학교 2026 AI부트캠프 학생 및 Innovation Challenger 대표팀 모집",
+      "publisher": "경북대학교",
+      "source_type": "official",
+      "url": "https://cse.knu.ac.kr/bbs/board.php?bo_table=sub6_1_a&page=465&sod=asc&sop=and&sst=wr_datetime&wr_id=29440",
+      "normalized_url": "https://cse.knu.ac.kr/bbs/board.php?bo_table=sub6_1_a&page=465&sod=asc&sop=and&sst=wr_datetime&wr_id=29440",
+      "published_date": "2026-09-14",
+      "accessed_at": "2026-10-19T08:00:20.395Z",
+      "verification_scope": "2026-10-19 웹에서 공식 발표·공지 원문 대조",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": "2026-09-21T20:00:00+09:00",
+    "application_url": null,
+    "current_status": "historical_closed",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "타 대학 교육·인턴십·산학협력·취업연계 방식의 사업단 적용 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "우리 대학 참여자격과 예산·학사·사업 운영규격 별도 확인"
+    ],
+    "limitations": [
+      "다른 대학 지원조건을 국립한국교통대학교에 그대로 적용할 수 없음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "학생지원",
+      "비교과"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-011-F1",
+      "NEWS-20261019-011-F2",
+      "NEWS-20261019-011-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/09/2026-09-15/runs/20260915T111037+0900.md",
+    "reports/2026/09/2026-09-15/runs/20261019T170020+0900-1144.md"
+  ],
+  "changes": []
+}

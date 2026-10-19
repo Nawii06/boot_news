@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-010",
+  "title": "인천대학교 2026 초광역 성장엔진 인재육성사업 제조AX·AI로봇 컨소시엄",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "과거 리포트에 등장한 공식 확인 가능 학생지원·교육·산학협력 사례",
+  "first_seen_at": "2026-10-19T08:00:20.395Z",
+  "last_verified_at": "2026-10-19T08:00:20.395Z",
+  "published_date": "2026-09-14",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "인천대학교"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-010-F1",
+      "text": "국립인천대학교가 교육부 2026년 초광역 성장엔진 인재육성사업 경남·인천·강원 컨소시엄 참여대학에 선정됐다.",
+      "source_urls": [
+        "https://datascience.inu.ac.kr/bbs/inu/2594/430501/artclView.do"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-010-F2",
+      "text": "해당 컨소시엄은 4년간 최대 600억원 규모로 제조AX·AI로봇 실무형 인재 1,500명 양성을 목표로 한다.",
+      "source_urls": [
+        "https://datascience.inu.ac.kr/bbs/inu/2594/430501/artclView.do"
+      ],
+      "evidence_locator": null,
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261019-010-F3",
+      "text": "인천대는 기업연계 프로젝트·기술 구현·현장 실증 등에 참여하는 계획을 설명했다.",
+      "source_urls": [
+        "https://datascience.inu.ac.kr/bbs/inu/2594/430501/artclView.do"
+      ],
+      "evidence_locator": null,
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "인천대학교 2026 초광역 성장엔진 인재육성사업 제조AX·AI로봇 컨소시엄",
+      "publisher": "인천대학교",
+      "source_type": "official",
+      "url": "https://datascience.inu.ac.kr/bbs/inu/2594/430501/artclView.do",
+      "normalized_url": "https://datascience.inu.ac.kr/bbs/inu/2594/430501/artclView.do",
+      "published_date": "2026-09-14",
+      "accessed_at": "2026-10-19T08:00:20.395Z",
+      "verification_scope": "2026-10-19 웹에서 공식 발표·공지 원문 대조",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "historical_closed",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "타 대학 교육·인턴십·산학협력·취업연계 방식의 사업단 적용 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "우리 대학 참여자격과 예산·학사·사업 운영규격 별도 확인"
+    ],
+    "limitations": [
+      "다른 대학 지원조건을 국립한국교통대학교에 그대로 적용할 수 없음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "산학프로젝트",
+      "교육과정"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-010-F1",
+      "NEWS-20261019-010-F2",
+      "NEWS-20261019-010-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/09/2026-09-15.md",
+    "reports/2026/09/2026-09-15/runs/20261019T170020+0900-unknown.md",
+    "reports/2026/09/2026-09-15/runs/20261019T170020+0900-1144.md"
+  ],
+  "changes": []
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-009",
+  "title": "성균관대학교 미래차부트캠프 현대모비스 2026 하반기 채용연계 트랙 모집",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "과거 리포트에 등장한 공식 확인 가능 학생지원·교육·산학협력 사례",
+  "first_seen_at": "2026-10-19T08:00:20.395Z",
+  "last_verified_at": "2026-10-19T08:00:20.395Z",
+  "published_date": "2026-09-11",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "성균관대학교"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-009-F1",
+      "text": "2026년 하반기 현대모비스 미래모빌리티 채용연계 트랙 장학생 모집공고가 게시됐다.",
+      "source_urls": [
+        "https://www.skku.edu/skku/campus/skk_comm/notice05.do?article.offset=0&articleLimit=10&articleNo=139785&mode=view"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-009-F2",
+      "text": "지원대상은 성균관대학교 미래차부트캠프 교과연계형 고급 과정 SDV·전동화·자율주행 중 하나의 이수자 또는 이수 예정자 등 공고 자격을 충족하는 학생이다.",
+      "source_urls": [
+        "https://www.skku.edu/skku/campus/skk_comm/notice05.do?article.offset=0&articleLimit=10&articleNo=139785&mode=view"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-009-F3",
+      "text": "서류 접수기간은 2026-09-11부터 2026-09-29 오전 10시까지이고 선발혜택에는 등록금 전액 지원과 졸업 후 현대모비스 연구소 입사 자격 부여 등이 명시돼 있다.",
+      "source_urls": [
+        "https://www.skku.edu/skku/campus/skk_comm/notice05.do?article.offset=0&articleLimit=10&articleNo=139785&mode=view"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "성균관대학교 미래차부트캠프 현대모비스 2026 하반기 채용연계 트랙 모집",
+      "publisher": "성균관대학교",
+      "source_type": "official",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?article.offset=0&articleLimit=10&articleNo=139785&mode=view",
+      "normalized_url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?article.offset=0&articleLimit=10&articleNo=139785&mode=view",
+      "published_date": "2026-09-11",
+      "accessed_at": "2026-10-19T08:00:20.395Z",
+      "verification_scope": "2026-10-19 웹에서 공식 발표·공지 원문 대조",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": "2026-09-29T10:00:00+09:00",
+    "application_url": null,
+    "current_status": "historical_closed",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "타 대학 교육·인턴십·산학협력·취업연계 방식의 사업단 적용 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "우리 대학 참여자격과 예산·학사·사업 운영규격 별도 확인"
+    ],
+    "limitations": [
+      "다른 대학 지원조건을 국립한국교통대학교에 그대로 적용할 수 없음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "취업연계",
+      "학생지원",
+      "교육과정"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-009-F1",
+      "NEWS-20261019-009-F2",
+      "NEWS-20261019-009-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/09/2026-09-15/runs/20261019T170020+0900-unknown.md"
+  ],
+  "changes": []
+}

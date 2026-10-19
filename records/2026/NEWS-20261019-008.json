@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261019-008",
+  "title": "계명대학교 2026 첨단분야 인턴십 7개사 21명 현장실습 선정",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "과거 리포트에 등장한 공식 확인 가능 학생지원·교육·산학협력 사례",
+  "first_seen_at": "2026-10-19T08:00:20.395Z",
+  "last_verified_at": "2026-10-19T08:00:20.395Z",
+  "published_date": "2026-09-11",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "reference",
+  "change_status": "new",
+  "organizations": [
+    "계명대학교"
+  ],
+  "regions": [],
+  "sectors": [],
+  "keywords": [],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261019-008-F1",
+      "text": "계명대가 2026년 첨단분야 인턴십 지원사업에 선정됐다.",
+      "source_urls": [
+        "https://hongbo.kmu.ac.kr/news_hot/2026/hotnews290.html"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-008-F2",
+      "text": "계절제 13명과 학기제 8명 등 총 학생 21명이 AI·로봇·바이오 분야 참여기업 7개사에서 인턴십에 참여할 예정이다.",
+      "source_urls": [
+        "https://hongbo.kmu.ac.kr/news_hot/2026/hotnews290.html"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-008-F3",
+      "text": "인턴십은 지도교수와 기업 현장멘토가 공동 지도하고 대학이 활동일지·현장 모니터링 등을 관리할 계획이다.",
+      "source_urls": [
+        "https://hongbo.kmu.ac.kr/news_hot/2026/hotnews290.html"
+      ],
+      "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "계명대학교 2026 첨단분야 인턴십 7개사 21명 현장실습 선정",
+      "publisher": "계명대학교",
+      "source_type": "official",
+      "url": "https://hongbo.kmu.ac.kr/news_hot/2026/hotnews290.html",
+      "normalized_url": "https://hongbo.kmu.ac.kr/news_hot/2026/hotnews290.html",
+      "published_date": "2026-09-11",
+      "accessed_at": "2026-10-19T08:00:20.395Z",
+      "verification_scope": "2026-10-19 웹에서 공식 발표·공지 원문 대조",
+      "evidence_locator": null
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "historical_closed",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "타 대학 교육·인턴십·산학협력·취업연계 방식의 사업단 적용 검토",
+    "interpretations": [],
+    "proposed_action": null,
+    "prerequisites": [
+      "우리 대학 참여자격과 예산·학사·사업 운영규격 별도 확인"
+    ],
+    "limitations": [
+      "다른 대학 지원조건을 국립한국교통대학교에 그대로 적용할 수 없음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사"
+    ],
+    "transferable_mechanism": null,
+    "evidence_fact_ids": [
+      "NEWS-20261019-008-F1",
+      "NEWS-20261019-008-F2",
+      "NEWS-20261019-008-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [],
+    "eligibility_checks": [],
+    "evidence_gaps": [],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/09/2026-09-15.md",
+    "reports/2026/09/2026-09-15/runs/20261019T170020+0900-unknown.md"
+  ],
+  "changes": []
+}

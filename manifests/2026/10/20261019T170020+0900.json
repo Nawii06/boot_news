@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261019T170020+0900",
+  "scheduled_at": null,
+  "cutoff_at": null,
+  "started_at": "2026-10-19T08:00:20.395Z",
+  "collection_completed_at": "2026-10-19T08:00:20.395Z",
+  "search_window": {
+    "mode": "historical_user_txt_backfill",
+    "report_date": "2026-09-15"
+  },
+  "supplement_windows": [],
+  "search_status": "archival_import_with_selective_web_verification",
+  "queries": [
+    "경북대 AI부트캠프 2026 9월 14일 학생모집",
+    "계명대 첨단분야 인턴십 2026 9월 11일",
+    "성균관대 현대모비스 2026 하반기 채용연계",
+    "인천대 초광역 성장엔진 2026년"
+  ],
+  "checked_official_sites": [
+    "knu.ac.kr",
+    "kmu.ac.kr",
+    "skku.edu",
+    "inu.ac.kr"
+  ],
+  "verification_failures": [
+    "제공 TXT에 기존 기사 원문 URL이 하나도 포함되지 않음: 전체 출처 링크 완전 복원 불가",
+    "2026-09-16 이후의 리포트 본문은 이번 첨부에 포함되지 않음"
+  ],
+  "excluded_candidates": [],
+  "previous_success_run_id": "20261019T163900+0900",
+  "coverage_gaps": [
+    "2026-09-16~2026-09-30 전문 미확보"
+  ],
+  "issue_ids": [
+    {
+      "issue_id": "NEWS-20261019-008",
+      "change_status": "new"
+    },
+    {
+      "issue_id": "NEWS-20261019-009",
+      "change_status": "new"
+    },
+    {
+      "issue_id": "NEWS-20261019-010",
+      "change_status": "new"
+    },
+    {
+      "issue_id": "NEWS-20261019-011",
+      "change_status": "new"
+    },
+    {
+      "issue_id": "NEWS-20261019-004",
+      "change_status": "updated"
+    }
+  ],
+  "counts": {
+    "historical_report_variants_from_upload": 4,
+    "historical_report_days": 1,
+    "verified_new_issue_records": 4,
+    "existing_record_linked": 1,
+    "missing_urls_in_user_txt": true
+  },
+  "report_path": "reports/2026/09/2026-09-15.md",
+  "changed_paths": [],
+  "archive_intent": "prepared",
+  "uploaded_source_sha256": "f68a3b25cb4343291235d8c77258bc2c33393d6b337ed042e370afd481f158a4"
+}

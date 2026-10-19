@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261020-001",
+  "title": "현대차·기아 소프티어 부트캠프 9기 모집",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "학생 취업연계형 AI 활용 교육사례이며 정부 첨단산업 인재양성 부트캠프의 직접 공고는 아님",
+  "first_seen_at": "2026-10-20T08:04:00+09:00",
+  "last_verified_at": "2026-10-20T08:04:00+09:00",
+  "published_date": "2026-10-19",
+  "modified_date": null,
+  "event_date": "2026-12-28",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["현대자동차", "기아"],
+  "regions": ["대한민국"],
+  "sectors": ["미래모빌리티", "소프트웨어", "인공지능"],
+  "keywords": ["소프티어", "채용연계", "AI 에이전트", "데이터 엔지니어링", "백엔드", "서비스 기획"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261020-001-F1",
+      "text": "현대차·기아는 2026-10-19부터 2026-11-03까지 소프티어 부트캠프 9기 교육생을 모집한다.",
+      "source_urls": ["https://hyundaimotorgroup.co.kr/ko/news/hyundai-kia-softeer-bootcamp-9th-recruitment"],
+      "evidence_locator": "공식 발표 본문 38행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261020-001-F2",
+      "text": "교육은 2026-12-28부터 2027-02-26까지 약 8주간 운영되며 백엔드 개발, 데이터 엔지니어링 및 데이터 아키텍트, 서비스 기획의 3개 분야를 모집한다.",
+      "source_urls": ["https://hyundaimotorgroup.co.kr/ko/news/hyundai-kia-softeer-bootcamp-9th-recruitment"],
+      "evidence_locator": "공식 발표 본문 41행·47행",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261020-001-F3",
+      "text": "4년제 국내외 대학 학사 이상으로 2026년 8월부터 2027년 8월 사이 졸업했거나 졸업 예정인 지원자를 대상으로 하며, 교육은 무상이고 장비와 소프트웨어를 제공한다.",
+      "source_urls": ["https://hyundaimotorgroup.co.kr/ko/news/hyundai-kia-softeer-bootcamp-9th-recruitment"],
+      "evidence_locator": "공식 발표 본문 48행·50행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261020-001-F4",
+      "text": "교육에는 팀 프로젝트, AI 에이전트 활용 강의, AI 활용 1:1 멘토링이 포함되며 수료생에게 현대차·기아 신입 채용 최종면접 기회가 부여된다.",
+      "source_urls": ["https://hyundaimotorgroup.co.kr/ko/news/hyundai-kia-softeer-bootcamp-9th-recruitment"],
+      "evidence_locator": "공식 발표 본문 52행·54행·57행",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "현대차·기아, ‘소프티어 부트캠프 9기’ 모집",
+      "publisher": "현대자동차그룹",
+      "source_type": "company_official",
+      "url": "https://hyundaimotorgroup.co.kr/ko/news/hyundai-kia-softeer-bootcamp-9th-recruitment",
+      "normalized_url": "https://hyundaimotorgroup.co.kr/ko/news/hyundai-kia-softeer-bootcamp-9th-recruitment",
+      "published_date": "2026-10-19",
+      "accessed_at": "2026-10-20T08:04:00+09:00",
+      "verification_scope": "기업 공식 발표 본문의 모집기간·대상·교육구성·채용연계 구조",
+      "evidence_locator": "본문 38~57행"
+    }
+  ],
+  "notice": {
+    "eligibility": "4년제 국내외 대학 학사 이상이며 2026년 8월부터 2027년 8월 사이 졸업했거나 졸업 예정인 자",
+    "support": "약 8주 무상교육, 교육 장비·소프트웨어 제공, 팀 프로젝트·AI 활용 강의·1:1 멘토링, 수료생 대상 신입 채용 최종면접 기회",
+    "deadline": "2026-11-03",
+    "application_url": "https://softeerbootcamp.com/",
+    "current_status": "접수 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "학생 취업정보와 기업 실무자 멘토링·팀 프로젝트·채용연계 비교과 구조의 참고사례",
+    "interpretations": ["AI 도구 활용교육을 프로젝트 수행과 1:1 멘토링에 결합한 운영구조는 비교과 설계 시 적용 검토 가능"],
+    "proposed_action": "대상 학생 존재 여부와 세부 참여조건을 확인한 뒤 취업정보 안내 여부를 검토",
+    "prerequisites": ["공식 모집 홈페이지에서 세부 자격·교육장소·전일제 참여조건·마감시각 재확인", "사업단 프로그램 또는 실적으로 인정하려면 관련 지침 별도 확인"],
+    "limitations": ["기업 채용 프로그램으로서 정부 첨단산업 인재양성 부트캠프와 별도", "수료생에게 최종면접 기회가 제공되지만 채용이 보장되는 것은 아님", "공식 모집 홈페이지는 이번 회차에서 403 오류로 세부내용을 직접 검증하지 못함"]
+  },
+  "development": {
+    "use_cases": ["교육과정", "비교과", "취업연계", "학생지원"],
+    "transferable_mechanism": "기업 실무자 AI 활용 강의와 1:1 멘토링, 팀 프로젝트, 채용 최종면접을 단계적으로 연결",
+    "evidence_fact_ids": ["NEWS-20261020-001-F2", "NEWS-20261020-001-F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업 멘토", "프로젝트 수행환경", "AI 도구 사용기준", "학생 참여시간"],
+    "eligibility_checks": ["학생별 졸업시점", "모집 분야별 요구역량", "교육일정 참여 가능 여부"],
+    "evidence_gaps": ["선발인원", "상세 교육장소·시간", "최종면접 이후 실제 채용성과의 집계기준"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/10/2026-10-20.md"],
+  "changes": []
+}

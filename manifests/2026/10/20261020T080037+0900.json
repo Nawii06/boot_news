@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261020T080037+0900",
+  "scheduled_at": "2026-10-20T08:00:00+09:00",
+  "cutoff_at": "2026-10-20T08:00:00+09:00",
+  "started_at": "2026-10-20T08:00:37+09:00",
+  "collection_completed_at": "2026-10-20T08:04:15+09:00",
+  "search_window": {
+    "start": "2026-10-19T08:00:00+09:00",
+    "end": "2026-10-20T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-13",
+      "end": "2026-10-20",
+      "reason": "사업 직접 관련 신규 지침이 제한적이어서 최근 7일과 진행 중 공고를 보완 확인"
+    }
+  ],
+  "search_status": "partial_verified",
+  "queries": [
+    "2026년 10월 19일 10월 20일 첨단산업 인재양성 부트캠프 교육부 KIAT AI 부트캠프",
+    "site:ut.ac.kr 2026 10월 19 부트캠프 AI 국립한국교통대학교",
+    "site:kiat.or.kr 2026 10월 첨단산업 인재양성 부트캠프 공고 지침",
+    "2026년 10월 19일 충북 충주 AI 인재양성 산학협력 제조AI 제조AX",
+    "2026년 10월 19일 대학 기업 AI 현장실습 인턴십 취업지원 공고",
+    "현대자동차그룹 소프티어 부트캠프 9기 2026 모집 공식",
+    "site:chungbuk.go.kr 2026-10-19 인공지능",
+    "전기다목적자동차 연구센터 준공 충북 음성 2026 10 19"
+  ],
+  "checked_official_sites": [
+    "ut.ac.kr",
+    "kiat.or.kr",
+    "axr.kr",
+    "hyundaimotorgroup.co.kr",
+    "chungbuk.go.kr",
+    "bizinfo.go.kr"
+  ],
+  "verification_failures": [
+    "국립한국교통대학교 일부 게시판 원문이 502 또는 내부 오류로 열리지 않음",
+    "소프티어 공식 모집 홈페이지가 403 오류로 열리지 않아 기업 공식 발표 범위로 세부 자격을 검증함",
+    "충청북도 전기다목적자동차 연구센터 공식 보도자료 원문이 502 오류로 열리지 않아 복수 언론보도로 검증함"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://bootcamp.com/",
+      "reason": "정부 첨단산업 인재양성 부트캠프와 무관한 해외 민간 교육서비스"
+    },
+    {
+      "url": "https://kr.investing.com/etfs/0127r0-seoul-historical-data",
+      "reason": "RISE 키워드가 ETF 상품명으로 검색된 금융정보이며 인재양성 정책과 무관"
+    }
+  ],
+  "previous_success_run_id": "20261019T170700+0900",
+  "coverage_gaps": [
+    "기본 검색기간의 모든 공개자료를 전수조사한 것은 아님",
+    "충청북도 공식 보도자료와 국립한국교통대학교 일부 게시판은 원문 접근 장애로 검증 범위가 제한됨",
+    "소프티어 모집페이지의 상세 지원조건·접수 마감시각은 재확인 필요"
+  ],
+  "issue_ids": [
+    {"issue_id": "NEWS-20261019-004", "change_status": "updated"},
+    {"issue_id": "NEWS-20261020-001", "change_status": "new"},
+    {"issue_id": "NEWS-20261020-002", "change_status": "new"}
+  ],
+  "counts": {
+    "new": 2,
+    "updated": 1,
+    "unchanged": 0,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-20.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-20.md",
+    "records/2026/NEWS-20261019-004.json",
+    "records/2026/NEWS-20261020-001.json",
+    "records/2026/NEWS-20261020-002.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261020T080037+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

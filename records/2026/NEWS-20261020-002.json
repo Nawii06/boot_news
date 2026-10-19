@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261020-002",
+  "title": "충북 음성 전기다목적자동차 연구센터 정식 운영",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "충북 미래모빌리티 기업지원 인프라로 산학과제·기업수요 발굴에 참고 가능하나 사업단 직접 연계는 미확인",
+  "first_seen_at": "2026-10-20T08:04:00+09:00",
+  "last_verified_at": "2026-10-20T08:04:00+09:00",
+  "published_date": "2026-10-19",
+  "modified_date": null,
+  "event_date": "2026-10-19",
+  "effective_date": "2026-10-19",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["충청북도", "음성군", "한국자동차연구원"],
+  "regions": ["충청북도", "음성군"],
+  "sectors": ["미래모빌리티", "전기자동차", "자동차부품"],
+  "keywords": ["전기다목적자동차", "PBV", "전비시험", "성능평가", "기업지원 인프라"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "media_only",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261020-002-F1",
+      "text": "음성군은 2026-10-19 휴먼스마트밸리 산업단지에서 한국자동차연구원 전기다목적자동차 연구센터 준공식을 열고 정식 운영을 시작했다.",
+      "source_urls": ["https://www.nocutnews.co.kr/news/6593837", "https://www.seoul.co.kr/news/society/2026/10/19/20261019500247"],
+      "evidence_locator": "기사 본문 준공식·정식 운영 설명",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261020-002-F2",
+      "text": "센터는 부지 24,612㎡, 연면적 2,796.62㎡ 규모의 본관동·전비시험동과 전비시험장비 등 총 9종의 평가 장비를 갖췄다.",
+      "source_urls": ["https://www.seoul.co.kr/news/society/2026/10/19/20261019500247"],
+      "evidence_locator": "기사 본문 시설 규모·장비 설명",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261020-002-F3",
+      "text": "센터는 냉동·냉장 화물차, 소형 셔틀버스, 캠핑카 등 다목적차량 부품업계의 전기차 전환을 지원하기 위해 전기전력 모듈과 섀시 플랫폼 성능평가 등을 담당한다.",
+      "source_urls": ["https://www.seoul.co.kr/news/society/2026/10/19/20261019500247"],
+      "evidence_locator": "기사 본문 지원대상·기능 설명",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "충북 음성 한국자동차연구원 전기다목적자동차 연구센터 준공",
+      "publisher": "충북CBS",
+      "source_type": "media",
+      "url": "https://www.nocutnews.co.kr/news/6593837",
+      "normalized_url": "https://www.nocutnews.co.kr/news/6593837",
+      "published_date": "2026-10-19",
+      "accessed_at": "2026-10-20T08:04:00+09:00",
+      "verification_scope": "준공식 일자·위치·시설 및 운영 목적",
+      "evidence_locator": "기사 본문"
+    },
+    {
+      "title": "충북 음성에 전기다목적자동차 연구센터 준공",
+      "publisher": "서울신문",
+      "source_type": "media",
+      "url": "https://www.seoul.co.kr/news/society/2026/10/19/20261019500247",
+      "normalized_url": "https://www.seoul.co.kr/news/society/2026/10/19/20261019500247",
+      "published_date": "2026-10-19",
+      "accessed_at": "2026-10-20T08:04:00+09:00",
+      "verification_scope": "정식 운영·시설 규모·장비·성능평가 기능",
+      "evidence_locator": "기사 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "정식 운영 개시 보도",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "충북 미래모빌리티 기업의 전동화·시험평가 수요와 산학과제 후보를 탐색할 수 있는 지역 인프라",
+    "interpretations": ["기업지원 프로그램과 교육기관 협력경로가 별도로 확인될 경우 산학프로젝트 또는 기업수요조사에 적용 검토 가능"],
+    "proposed_action": "연구센터의 공개 기업지원 프로그램, 장비 활용조건, 교육기관 협력절차와 관련 기업의 AI·데이터 과제 수요 확인",
+    "prerequisites": ["대학·학생의 장비 접근 가능 여부", "기업 데이터·보안 조건", "부트캠프 사업지침상 산학프로젝트·현장실습 연계 가능성"],
+    "limitations": ["공식 보도자료 원문은 이번 회차에서 502 오류로 열리지 않아 언론보도 범위로 검증", "국립한국교통대학교 또는 부트캠프사업단과의 공식 협력관계는 확인되지 않음", "학생교육·현장실습 공개 프로그램의 존재는 확인되지 않음"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "산학프로젝트", "현장실습인턴십", "기업수요조사"],
+    "transferable_mechanism": "지역 시험평가 인프라를 기반으로 기업의 전동화 기술문제와 데이터·성능평가 수요를 확인한 후 교육·프로젝트 과제로 전환하는 구조",
+    "evidence_fact_ids": ["NEWS-20261020-002-F1", "NEWS-20261020-002-F2", "NEWS-20261020-002-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["시험장비 접근협의", "참여기업 수요조사", "데이터 보안·활용기준", "지도교원·프로젝트 운영인력"],
+    "eligibility_checks": ["교육기관 협력 가능 여부", "장비·기업지원 프로그램의 신청자격", "사업비·성과 인정기준"],
+    "evidence_gaps": ["센터의 공개 기업지원 프로그램", "대학·학생 대상 협력절차", "AI·데이터 기반 프로젝트 수요"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/10/2026-10-20.md"],
+  "changes": []
+}

@@ -6,16 +6,14 @@
   "priority": "A",
   "priority_reason": "정부 부트캠프 직접 관련 일정",
   "first_seen_at": "2026-10-19T16:39:00+09:00",
-  "last_verified_at": "2026-10-19T16:39:00+09:00",
+  "last_verified_at": "2026-10-20T08:04:00+09:00",
   "published_date": null,
   "modified_date": null,
   "event_date": null,
   "effective_date": null,
-  "freshness": "reference",
-  "change_status": "new",
-  "organizations": [
-    "교육부·한국산업기술진흥원·한국인공지능소프트웨어산업협회"
-  ],
+  "freshness": "ongoing_notice",
+  "change_status": "updated",
+  "organizations": ["교육부·한국산업기술진흥원·한국인공지능소프트웨어산업협회"],
   "regions": [],
   "sectors": [],
   "keywords": [],
@@ -26,19 +24,22 @@
     {
       "fact_id": "NEWS-20261019-004-F1",
       "text": "공식 플랫폼은 40개 대학, 40개 팀, 5개 기업 참가를 안내한다.",
-      "source_urls": [
-        "https://axr.kr/ai2026"
-      ],
+      "source_urls": ["https://axr.kr/ai2026"],
       "evidence_locator": null,
       "claim_type": "confirmed_fact"
     },
     {
       "fact_id": "NEWS-20261019-004-F2",
       "text": "2026-10-06~10-08 기업과제 선택, 2026-11-25 프로젝트 발표 일정을 안내한다.",
-      "source_urls": [
-        "https://axr.kr/ai2026"
-      ],
+      "source_urls": ["https://axr.kr/ai2026"],
       "evidence_locator": null,
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-004-F3",
+      "text": "공식 플랫폼은 AI 기업 특화 교육을 2026-10-19 09:00부터 진행 중으로 표시하며 세부 기간을 2026-10-19~2026-11-08로 안내한다.",
+      "source_urls": ["https://axr.kr/ai2026"],
+      "evidence_locator": "공식 플랫폼 111~115행·145~149행",
       "claim_type": "confirmed_fact"
     }
   ],
@@ -50,9 +51,9 @@
       "url": "https://axr.kr/ai2026",
       "normalized_url": "https://axr.kr/ai2026",
       "published_date": null,
-      "accessed_at": "2026-10-19T16:39:00+09:00",
-      "verification_scope": "이번 웹 검색에서 원문에 접근해 확인한 범위",
-      "evidence_locator": null
+      "accessed_at": "2026-10-20T08:04:00+09:00",
+      "verification_scope": "참가규모·기업특화교육 진행상태·프로젝트 발표일정",
+      "evidence_locator": "공식 플랫폼 15~22행·111~122행·145~165행"
     }
   ],
   "notice": {
@@ -60,35 +61,24 @@
     "support": null,
     "deadline": null,
     "application_url": null,
-    "current_status": null,
+    "current_status": "AI 기업 특화 교육 진행 중",
     "university_eligibility_verified": false
   },
   "analysis": {
     "relevance": "교육과정·산학협력·학생지원 검토",
     "interpretations": [],
-    "proposed_action": null,
-    "prerequisites": [
-      "사업단 적용조건과 관련 지침 별도 확인"
-    ],
-    "limitations": [
-      "역사적 자료 최초 이관은 새 기사 발생과 다름"
-    ]
+    "proposed_action": "참가팀의 선택기업·과제, 학생별 역할, 교육 참여기록, 개발환경과 결과물 관리계획 확인",
+    "prerequisites": ["사업단 적용조건과 관련 지침 별도 확인"],
+    "limitations": ["역사적 자료 최초 이관은 새 기사 발생과 다름", "공식 플랫폼의 전체 진행상태로 개별 대학 팀의 실제 이수상태를 판단할 수 없음", "페이지 상단 전체 교육기간 종료일은 2026-11-07, 세부 기업특화교육 종료일은 2026-11-08로 하루 차이가 있어 재확인 필요"]
   },
   "development": {
-    "use_cases": [
-      "산학프로젝트",
-      "교육과정",
-      "학생지원"
-    ],
+    "use_cases": ["산학프로젝트", "교육과정", "학생지원"],
     "transferable_mechanism": null,
-    "evidence_fact_ids": [
-      "NEWS-20261019-004-F1",
-      "NEWS-20261019-004-F2"
-    ],
+    "evidence_fact_ids": ["NEWS-20261019-004-F1", "NEWS-20261019-004-F2", "NEWS-20261019-004-F3"],
     "candidate_partners": [],
     "resource_requirements": [],
     "eligibility_checks": [],
-    "evidence_gaps": [],
+    "evidence_gaps": ["국립한국교통대학교 참가팀의 실제 출석·과제수행 상태"],
     "maturity": "evidence_only"
   },
   "related_issue_ids": [],
@@ -103,41 +93,27 @@
     "reports/2026/10/2026-10-10.md",
     "reports/2026/10/2026-10-12.md",
     "reports/2026/09/2026-09-15/runs/20260915T111037+0900.md",
-    "reports/2026/09/2026-09-15/runs/20261019T170020+0900-1144.md"
+    "reports/2026/09/2026-09-15/runs/20261019T170020+0900-1144.md",
+    "reports/2026/10/2026-10-20.md"
   ],
   "changes": [
     {
       "changed_at": "2026-10-19T08:00:20.395Z",
       "run_id": "20261019T170020+0900",
       "field": "report_paths",
-      "before": [
-        "reports/2026/10/2026-10-03.md",
-        "reports/2026/10/2026-10-04.md",
-        "reports/2026/10/2026-10-05.md",
-        "reports/2026/10/2026-10-06.md",
-        "reports/2026/10/2026-10-07.md",
-        "reports/2026/10/2026-10-08.md",
-        "reports/2026/10/2026-10-09.md",
-        "reports/2026/10/2026-10-10.md",
-        "reports/2026/10/2026-10-12.md"
-      ],
-      "after": [
-        "reports/2026/10/2026-10-03.md",
-        "reports/2026/10/2026-10-04.md",
-        "reports/2026/10/2026-10-05.md",
-        "reports/2026/10/2026-10-06.md",
-        "reports/2026/10/2026-10-07.md",
-        "reports/2026/10/2026-10-08.md",
-        "reports/2026/10/2026-10-09.md",
-        "reports/2026/10/2026-10-10.md",
-        "reports/2026/10/2026-10-12.md",
-        "reports/2026/09/2026-09-15/runs/20260915T111037+0900.md",
-        "reports/2026/09/2026-09-15/runs/20261019T170020+0900-1144.md"
-      ],
+      "before": ["reports/2026/10/2026-10-03.md", "reports/2026/10/2026-10-04.md", "reports/2026/10/2026-10-05.md", "reports/2026/10/2026-10-06.md", "reports/2026/10/2026-10-07.md", "reports/2026/10/2026-10-08.md", "reports/2026/10/2026-10-09.md", "reports/2026/10/2026-10-10.md", "reports/2026/10/2026-10-12.md"],
+      "after": ["reports/2026/10/2026-10-03.md", "reports/2026/10/2026-10-04.md", "reports/2026/10/2026-10-05.md", "reports/2026/10/2026-10-06.md", "reports/2026/10/2026-10-07.md", "reports/2026/10/2026-10-08.md", "reports/2026/10/2026-10-09.md", "reports/2026/10/2026-10-10.md", "reports/2026/10/2026-10-12.md", "reports/2026/09/2026-09-15/runs/20260915T111037+0900.md", "reports/2026/09/2026-09-15/runs/20261019T170020+0900-1144.md"],
       "reason": "업로드된 2026-09-15 원문에 AI Bootcamp Innovation Challenger 관련 보도가 있었으므로 과거 리포트를 기존 이슈에 연결",
-      "source_urls": [
-        "https://axr.kr/ai2026"
-      ]
+      "source_urls": ["https://axr.kr/ai2026"]
+    },
+    {
+      "changed_at": "2026-10-20T08:04:00+09:00",
+      "run_id": "20261020T080037+0900",
+      "field": "verified_facts,notice.current_status,freshness,last_verified_at,report_paths",
+      "before": "기업특화교육 현재 상태 미기록",
+      "after": "2026-10-19 09:00부터 기업특화교육 진행 중 상태와 2026-10-20 정기 리포트 연결",
+      "reason": "공식 플랫폼에서 현재 진행상태와 세부 일정을 재검증",
+      "source_urls": ["https://axr.kr/ai2026"]
     }
   ]
 }

@@ -1,0 +1,27 @@
+# 부트캠프(AI) 뉴스 아카이브
+
+국립한국교통대학교 부트캠프(AI)사업단의 정책·교육·산학협력 검토 및 신규사업 기획을 위한 공개자료 요약 아카이브입니다.
+
+## 탐색
+
+- [2026년 10월 색인](indexes/2026-10.md)
+- [데이터 규격](docs/schema.md)
+- [예약 실행 프롬프트](docs/execution-prompt.md)
+
+## 운영
+
+매일 08:00 Asia/Seoul에 기존 ChatGPT 예약작업에서 검색·원문 검증·리포트 작성·GitHub 반영을 수행하도록 설정했습니다. GitHub Actions는 사용하지 않습니다. 예약 설정과 실제 실행 성공은 구분하며 매 회차 저장 결과를 확인합니다.
+
+- reports/YYYY/MM/YYYY-MM-DD.md: 최초 정기 리포트
+- reports/YYYY/MM/YYYY-MM-DD/runs/RUN_ID.md: 추가 실행 리포트
+- records/YYYY/ISSUE_ID.json: 사건별 근거자료
+- indexes/YYYY-MM.md: 월별 색인
+- manifests/YYYY/MM/RUN_ID.json: 검색·검증·처리 기록
+
+분류: bootcamp / policy_region / industry / technology_curriculum.
+
+## 자료의 한계
+
+기사 전문을 복제하지 않고 자체 요약과 원문 링크를 보관합니다. 사실·해석·검토 제안을 구분합니다. 제안은 사업단의 승인·예산 확보·참여 자격 확정을 뜻하지 않습니다. 공개 저장소에 개인정보·내부 문서·인증정보를 저장하지 않습니다.
+
+2026-10-19 초기 구성. 초기 구성 자체는 뉴스 수집 실적이 아닙니다. 과거 리포트의 소급 이관은 수행하지 않았습니다.

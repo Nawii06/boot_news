@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261021T080409+0900",
+  "scheduled_at": "2026-10-21T08:00:00+09:00",
+  "cutoff_at": "2026-10-21T08:00:00+09:00",
+  "started_at": "2026-10-21T08:04:09+09:00",
+  "collection_completed_at": "2026-10-21T08:06:19+09:00",
+  "search_window": {
+    "start": "2026-10-20T08:00:00+09:00",
+    "end": "2026-10-21T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-14",
+      "end": "2026-10-21",
+      "reason": "사업 직접 관련 신규 지침이 제한적이어서 최근 7일과 진행 중 공고를 보완 확인"
+    }
+  ],
+  "search_status": "partial_verified",
+  "queries": [
+    "2026년 10월 20일 첨단산업 인재양성 부트캠프 교육부 KIAT AI",
+    "site:ut.ac.kr 2026 10월 20 부트캠프 AI 국립한국교통대학교",
+    "site:kiat.or.kr 2026 10월 20 첨단산업 인재양성 부트캠프",
+    "2026년 10월 20일 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026. 10. 20 AI 인재양성 대학 기업",
+    "2026-10-20 산학협력 AI 대학 기업 인턴십",
+    "2026년 10월 20일 제조AX 피지컬AI 로봇 미래모빌리티 인재양성",
+    "site:cb21.net 2026 10 20 AI 제조AX 산학협력 인재양성",
+    "site:moe.go.kr 2026-10-20 인재양성 AI 대학",
+    "site:chungbuk.go.kr 2026-10-20 AI 제조 인재 산학",
+    "site:korea.kr 2026.10.20 AI 인재 양성 대학",
+    "site:msit.go.kr 2026-10-20 AI 인재 양성",
+    "site:motie.go.kr 2026-10-20 제조 AI 인재"
+  ],
+  "checked_official_sites": [
+    "ut.ac.kr",
+    "kiat.or.kr",
+    "moe.go.kr",
+    "msit.go.kr",
+    "motie.go.kr",
+    "chungbuk.go.kr",
+    "axr.kr",
+    "hyundaimotorgroup.co.kr",
+    "softeerbootcamp.com"
+  ],
+  "verification_failures": [
+    "청주대학교 산학협력단 사이트는 robots.txt 차단으로 검색결과에 나타난 AI 인재양성 협력 게시물 원문을 검증하지 못함",
+    "소프티어 공식 모집 홈페이지가 403 오류로 열리지 않아 현대자동차그룹 공식 발표 범위로 일정·대상·지원내용을 재확인함",
+    "국립한국교통대학교 검색결과에서 기준기간 내 부트캠프 신규 게시물 원문이 식별되지 않음"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.yna.co.kr/amp/view/AKR20261019154000017",
+      "reason": "강원 지역 청년 AI 인재양성 논의를 보도했으나 구체적인 교육과정·지원대상·대학 협력조건이 없어 신규 이슈 등록에서 제외"
+    },
+    {
+      "url": "https://iacf.cju.ac.kr/",
+      "reason": "검색결과에 AI 인재양성 산학협력 문구가 나타났으나 robots.txt 차단으로 원문과 게시시각을 검증하지 못함"
+    },
+    {
+      "url": "https://www.gachon.ac.kr/",
+      "reason": "홈페이지 검색결과에 AI 인재양성 협력 문구가 나타났으나 개별 원문·게시시각·세부 협력범위를 검증하지 못함"
+    }
+  ],
+  "previous_success_run_id": "20261020T080037+0900",
+  "coverage_gaps": [
+    "기본 검색기간의 모든 공개자료를 전수조사한 것은 아님",
+    "검색엔진 색인 지연 또는 기관 게시판 접근 제한으로 일부 당일 자료가 누락될 수 있음",
+    "소프티어 모집페이지의 세부 지원조건·교육장소·접수 마감시각은 재확인 필요"
+  ],
+  "issue_ids": [
+    {"issue_id": "NEWS-20261019-004", "change_status": "unchanged"},
+    {"issue_id": "NEWS-20261020-001", "change_status": "unchanged"}
+  ],
+  "counts": {
+    "new": 0,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-21.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-21.md",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261021T080409+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

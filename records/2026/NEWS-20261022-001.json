@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261022-001",
+  "title": "2027년 가상공학플랫폼구축사업(자율실험실) 기업 수요조사",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "소재·제조기업의 AI 도입·애로·공동활용 인프라 수요를 조사하는 구조가 기업수요조사와 산학프로젝트 기획에 참고되지만, 부트캠프 직접 공고나 지원사업 신청은 아니다.",
+  "first_seen_at": "2026-10-22T08:02:38+09:00",
+  "last_verified_at": "2026-10-22T08:06:14+09:00",
+  "published_date": "2026-10-21",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": ["한국산업기술진흥원", "산업통상부"],
+  "regions": ["대한민국"],
+  "sectors": ["소재·부품·장비", "소재AI"],
+  "keywords": ["가상공학플랫폼", "자율실험실", "소재데이터", "기업수요조사", "AX"],
+  "program_year": 2027,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "F1",
+      "text": "한국산업기술진흥원은 2027년 가상공학플랫폼구축사업 신규과제 기획에 산업계 수요를 반영하기 위해 2026년 10월 21일부터 11월 4일까지 기업 수요조사를 진행한다.",
+      "source_urls": ["https://www.kiat.or.kr/front/board/boardContentsView.do?contents_id=f511d776231a44d68e18a81b3079b7eb"],
+      "evidence_locator": "공고 상단 접수기간 및 본문 조사목적",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "F2",
+      "text": "조사대상은 금속·화학·세라믹·섬유 분야를 포함한 소재·부품·장비 및 관련 영리기업이며, 소재개발·AI 도입 현황, 애로사항, 공공 자율실험실 수요 등 14개 문항을 조사한다.",
+      "source_urls": ["https://www.kiat.or.kr/front/board/boardContentsView.do?contents_id=f511d776231a44d68e18a81b3079b7eb"],
+      "evidence_locator": "본문 조사대상 및 조사항목",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "F3",
+      "text": "사업은 소재데이터·자율실험실 등 소재AI 인프라를 활용하고, AX 투자·활용이 필요한 소재기업을 위해 공동활용 자율실험실 시설·장비를 구축하는 방향으로 기획되고 있다.",
+      "source_urls": ["https://www.kiat.or.kr/front/board/boardContentsView.do?contents_id=f511d776231a44d68e18a81b3079b7eb"],
+      "evidence_locator": "본문 사업개요",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "F4",
+      "text": "이번 조사는 과제 선정이 아닌 의견수렴이며, 결과는 신규사업 기획 기초자료로만 활용되고 향후 시행계획 공고 내용은 달라질 수 있다.",
+      "source_urls": ["https://www.kiat.or.kr/front/board/boardContentsView.do?contents_id=f511d776231a44d68e18a81b3079b7eb"],
+      "evidence_locator": "본문 유의사항 및 향후 일정",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2027년 가상공학플랫폼구축사업(자율실험실) 기업 수요조사",
+      "publisher": "한국산업기술진흥원",
+      "source_type": "official_notice",
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?contents_id=f511d776231a44d68e18a81b3079b7eb",
+      "normalized_url": "https://www.kiat.or.kr/front/board/boardContentsView.do?contents_id=f511d776231a44d68e18a81b3079b7eb",
+      "published_date": "2026-10-21",
+      "accessed_at": "2026-10-22T08:06:14+09:00",
+      "verification_scope": "접수기간, 조사목적·대상·문항, 사업개요, 유의사항과 향후 일정",
+      "evidence_locator": "공고 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "소재·부품·장비 및 관련 영리기업(금속·화학·세라믹·섬유 분야 포함)",
+    "support": "신규사업 기획을 위한 의견수렴으로, 응답기업에 대한 직접 지원이나 과제 선정이 아님",
+    "deadline": "2026-11-04",
+    "application_url": "https://www.kiat.or.kr/front/board/boardContentsView.do?contents_id=f511d776231a44d68e18a81b3079b7eb",
+    "current_status": "접수 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "지역 제조기업의 AI 도입수준과 데이터·장비 병목, 공동활용 인프라 수요를 교육·산학프로젝트 기획에 연결할 때 참고할 수 있다.",
+    "interpretations": ["기업의 현재업무·AI 활용·애로·인프라 수요를 분리해 묻는 구조는 수요조사의 실행가능성을 높이는 참고 요소다."],
+    "proposed_action": "충북·충주 제조기업 대상 수요조사에 소재개발 업무, AI 적용단계, 데이터 확보, 실험·장비 병목, 공동활용 의향을 구분한 문항을 둘지 검토한다.",
+    "prerequisites": ["조사목적과 대상기업 정의", "개인정보·응답자료 관리방안", "사업지침상 조사비 집행 가능 여부", "향후 시행계획에서 대학 참여자격 재확인"],
+    "limitations": ["공고일의 게시시각이 없어 24시간 신규가 아닌 72시간 보완자료로 분류했다.", "의견수렴 단계이며 과제 선정이나 지원 확정이 아니다.", "부트캠프 또는 국립한국교통대학교의 직접 사업 공고가 아니다."]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "산학프로젝트", "기업수요조사"],
+    "transferable_mechanism": "기업의 소재개발·AI 도입 현황과 데이터·실험장비 애로를 조사하고, 공동활용 인프라 수요를 신규사업 기획과 과제 설계에 반영하는 구조",
+    "evidence_fact_ids": ["F1", "F2", "F3", "F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업 조사설계 역량", "응답자료 분석 인력", "공동활용 인프라 수요를 교육·프로젝트로 번역할 교원·산업체 전문가"],
+    "eligibility_checks": ["향후 시행계획의 대학·컨소시엄 참여자격", "부트캠프 사업비로 기업수요조사 수행 가능 여부"],
+    "evidence_gaps": ["향후 확정 지원분야·지원대상·예산", "조사 결과와 시행계획의 실제 연계 방식"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/10/2026-10-22.md"],
+  "changes": []
+}

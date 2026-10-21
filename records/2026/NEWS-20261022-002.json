@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261022-002",
+  "title": "서울과기대-코난테크놀로지 국방 AI 산학협력",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "공동연구·기업기술·교원자문·교육·인턴십·취업연계를 하나의 협약 구조로 제시해 산학협력 프로그램 설계에 참고되지만, 타지역 국방 AI 분야의 추진계획이다.",
+  "first_seen_at": "2026-10-22T08:02:38+09:00",
+  "last_verified_at": "2026-10-22T08:06:14+09:00",
+  "published_date": "2026-10-21",
+  "modified_date": null,
+  "event_date": "2026-10-19",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["서울과학기술대학교", "코난테크놀로지"],
+  "regions": ["서울"],
+  "sectors": ["국방AI", "산학협력"],
+  "keywords": ["국방AI", "공동연구", "산학프로젝트", "인턴십", "취업연계", "비즈캠퍼스", "ISR"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "F1",
+      "text": "서울과학기술대학교와 코난테크놀로지는 2026년 10월 19일 국방 AI 공동연구, 기술개발, 전문인재 양성을 위한 업무협약을 체결했다.",
+      "source_urls": ["https://www.seoultech.ac.kr/service/info/news?bidx=896800&bnum=3596&do=commonview", "https://www.yna.co.kr/amp/view/AKR20261021032000017"],
+      "evidence_locator": "서울과기대 본문 첫 단락 및 연합뉴스 본문",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "F2",
+      "text": "협약은 국방 AI 공동연구·정부과제, 기업 기술의 대학 주도 AI 프로젝트 참여, 교수진 자문·공동연구를 추진과제로 둔다.",
+      "source_urls": ["https://www.seoultech.ac.kr/service/info/news?bidx=896800&bnum=3596&do=commonview"],
+      "evidence_locator": "서울과기대 본문 주요 협력분야",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "F3",
+      "text": "학생·졸업생을 대상으로 인턴십·산학프로젝트·취업연계를 추진하고, 국방 AI 활용 교과와 연계한 실무교육·특강을 운영하기로 했다.",
+      "source_urls": ["https://www.seoultech.ac.kr/service/info/news?bidx=896800&bnum=3596&do=commonview"],
+      "evidence_locator": "서울과기대 본문 주요 협력분야",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "F4",
+      "text": "양측은 교내 산학협력 거점인 비즈캠퍼스 설치를 검토하고, ISR 및 전 출처 정보분석의 AI 전환 솔루션을 공동 기획할 계획이다.",
+      "source_urls": ["https://www.seoultech.ac.kr/service/info/news?bidx=896800&bnum=3596&do=commonview"],
+      "evidence_locator": "서울과기대 본문 비즈캠퍼스 및 공동기획 설명",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "서울과기대-코난테크놀로지, 국방 AI 산학협력 업무협약 체결",
+      "publisher": "서울과학기술대학교",
+      "source_type": "university_official",
+      "url": "https://www.seoultech.ac.kr/service/info/news?bidx=896800&bnum=3596&do=commonview",
+      "normalized_url": "https://www.seoultech.ac.kr/service/info/news?bidx=896800&bnum=3596&do=commonview",
+      "published_date": "2026-10-21",
+      "accessed_at": "2026-10-22T08:06:14+09:00",
+      "verification_scope": "협약일, 목적, 주요 협력분야, 비즈캠퍼스 검토와 공동기획 계획",
+      "evidence_locator": "대학 뉴스 본문"
+    },
+    {
+      "title": "서울과기대, 코난테크놀로지와 국방 AI 산학협력",
+      "publisher": "연합뉴스",
+      "source_type": "media",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261021032000017",
+      "normalized_url": "https://www.yna.co.kr/amp/view/AKR20261021032000017",
+      "published_date": "2026-10-21",
+      "accessed_at": "2026-10-22T08:06:14+09:00",
+      "verification_scope": "2026-10-21 09:25 보도시각과 협약 핵심내용 교차확인",
+      "evidence_locator": "기사 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "업무협약 체결 후 실행과제 추진 계획",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "기업 기술·데이터와 교수진을 공동연구에 연결하고 학생 프로젝트·인턴십·취업으로 확장하는 역할구조를 산학협력 프로그램 설계에 참고할 수 있다.",
+    "interpretations": ["협약 조항을 공동연구, 교육, 학생경험, 진로연계로 구분하면 담당주체와 성과증빙을 설계하기 쉽다."],
+    "proposed_action": "지역기업 협약서 또는 실행계획에서 기업 과제·데이터 제공, 산업체 멘토, 교원 자문, 프로젝트 산출물, 인턴십 선발, 채용연계 여부를 분리해 확인하는 체크리스트를 검토한다.",
+    "prerequisites": ["기업의 실제 과제와 참여 확약", "데이터 보안·지식재산권 합의", "교원과 산업체 전문가 확보", "학점·학생지원·예산 기준", "성과지표와 증빙방식"],
+    "limitations": ["협약상 추진계획이며 교육·인턴십·취업·기술 성과가 확인된 것은 아니다.", "국방 AI와 서울 지역 사례로 충북 제조·모빌리티 기업에 그대로 적용할 수 없다.", "비즈캠퍼스 설치는 검토 단계다."]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "산학프로젝트", "현장실습인턴십", "취업연계", "성과관리"],
+    "transferable_mechanism": "공동연구·정부과제와 기업기술·교원자문을 결합하고, 교과 연계 실무교육·학생 프로젝트·인턴십·취업으로 이어지는 산학협력 구조",
+    "evidence_fact_ids": ["F1", "F2", "F3", "F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업 기술·과제와 데이터", "참여교원 및 산업체 전문가", "프로젝트 운영·학생지원 예산", "보안·지식재산권 관리체계"],
+    "eligibility_checks": ["부트캠프 지침상 협약·인턴십·취업연계 비용과 성과 인정범위", "국방 데이터·시설 접근자격과 보안요건"],
+    "evidence_gaps": ["협약 후 개별 실행과제의 일정·예산·참여학생 규모", "인턴십·채용·교육성과", "비즈캠퍼스 설치 여부"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/10/2026-10-22.md"],
+  "changes": []
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261023-002",
+  "title": "국립한국해양대-케이조선 AI 인재양성·산학협력 협약",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "시설·장비 공동활용, 산학 공동과제, AI 인재양성, 취업연계 현장실습·인턴십을 한 협약에 연결한 구조가 기업협력 설계에 참고되지만, 타지역 조선·해양 분야의 협약상 계획이다.",
+  "first_seen_at": "2026-10-23T07:59:44+09:00",
+  "last_verified_at": "2026-10-23T08:01:27+09:00",
+  "published_date": "2026-10-20",
+  "modified_date": null,
+  "event_date": "2026-10-20",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": ["국립한국해양대학교", "케이조선"],
+  "regions": ["부산", "경남"],
+  "sectors": ["조선·해양", "AI", "북극항로"],
+  "keywords": ["산학협력", "시설장비공동활용", "공동과제", "AI인재양성", "현장실습", "인턴십", "취업연계"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "F1",
+      "text": "국립한국해양대학교와 케이조선은 2026년 10월 20일 조선·해양 전문인력 양성과 산학협력 확대를 위한 업무협약을 체결했다.",
+      "source_urls": ["https://www.kmou.ac.kr/kmou/na/ntt/selectNttInfo.do?mi=1455&nttSn=10380307", "https://www.inthenews.co.kr/news/article.html?no=93348"],
+      "evidence_locator": "대학 공식자료 및 인더뉴스 본문",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "F2",
+      "text": "협약에는 학술정보와 교육·연구 시설·장비 공동활용, 산학 공동과제 개발·수행이 포함됐다.",
+      "source_urls": ["https://www.kmou.ac.kr/kmou/na/ntt/selectNttInfo.do?mi=1455&nttSn=10380307"],
+      "evidence_locator": "대학 공식자료 협력항목",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "F3",
+      "text": "양 기관은 AI 관련 전문가·인재 양성 프로그램 공동운영과 취업연계 현장실습·인턴십을 추진하기로 했다.",
+      "source_urls": ["https://www.kmou.ac.kr/kmou/na/ntt/selectNttInfo.do?mi=1455&nttSn=10380307"],
+      "evidence_locator": "대학 공식자료 협력항목",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "F4",
+      "text": "구체적인 공동과제와 현장실습·인턴십 프로그램의 내용과 범위는 후속 협의를 거쳐 정할 계획이다.",
+      "source_urls": ["https://www.kmou.ac.kr/kmou/na/ntt/selectNttInfo.do?mi=1455&nttSn=10380307", "https://www.inthenews.co.kr/news/article.html?no=93348"],
+      "evidence_locator": "대학 공식자료 마지막 단락 및 인더뉴스 후속계획",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "국립한국해양대, 조선·해양 전문기업 케이조선과 업무협약",
+      "publisher": "국립한국해양대학교",
+      "source_type": "university_official",
+      "url": "https://www.kmou.ac.kr/kmou/na/ntt/selectNttInfo.do?mi=1455&nttSn=10380307",
+      "normalized_url": "https://www.kmou.ac.kr/kmou/na/ntt/selectNttInfo.do?mi=1455&nttSn=10380307",
+      "published_date": "2026-10-20",
+      "accessed_at": "2026-10-23T08:01:27+09:00",
+      "verification_scope": "협약일, 협력항목, 후속협의 계획",
+      "evidence_locator": "대학 보도자료 본문"
+    },
+    {
+      "title": "국립한국해양대, 케이조선과 협약…북극항로·AI 전문인력 양성 협력",
+      "publisher": "인더뉴스",
+      "source_type": "media",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=93348",
+      "normalized_url": "https://www.inthenews.co.kr/news/article.html?no=93348",
+      "published_date": "2026-10-21",
+      "accessed_at": "2026-10-23T08:01:27+09:00",
+      "verification_scope": "2026-10-21 13:10 보도시각, 협력항목과 후속협의 계획 교차확인",
+      "evidence_locator": "기사 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "업무협약 체결 후 세부 실행범위 협의 계획",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "시설·장비, 공동과제, AI 교육, 현장실습·인턴십, 취업연계를 협약과 후속 실행계획으로 구분하는 기업협력 구조를 참고할 수 있다.",
+    "interpretations": ["기업협약의 협력분야를 자원공유·공동과제·교육·학생경험·진로연계로 분리하면 담당주체와 증빙을 구체화하기 쉽다."],
+    "proposed_action": "기업 협약서 또는 실행계획에서 시설·데이터 이용조건, 공동과제 절차, 산업체 전문가 역할, 학생 선발·안전·보험, 인턴십·채용연계, 결과물·지식재산권을 분리해 검토한다.",
+    "prerequisites": ["기업 참여확약", "대학 규정과 사업지침", "시설·데이터 접근조건", "학생 안전·보험", "보안·지식재산권", "예산과 성과인정 기준"],
+    "limitations": ["협약상 계획이며 공동과제·교육·인턴십·채용 성과가 확인된 것은 아니다.", "조선·해양과 북극항로 분야로 충북 제조·모빌리티에 직접 적용할 수 없다.", "전일 회차에서 누락되어 72시간 보완자료로 수집했다."]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "산학프로젝트", "현장실습인턴십", "취업연계", "성과관리"],
+    "transferable_mechanism": "대학 시설·장비와 기업 현장경험을 공동과제·AI 인재양성 프로그램에 결합하고 현장실습·인턴십·취업연계로 확장하는 협약 구조",
+    "evidence_fact_ids": ["F1", "F2", "F3", "F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["공동활용 시설·장비", "기업 과제와 산업체 전문가", "참여교원", "현장실습·인턴십 운영인력", "안전·보안·지식재산권 관리"],
+    "eligibility_checks": ["부트캠프 지침상 시설·장비 공동활용과 인턴십 비용·성과 인정범위", "기업 현장실습 운영자격과 학생보험"],
+    "evidence_gaps": ["세부 교육과정과 참여인원", "공동과제·현장실습·인턴십 일정과 예산", "취업연계 방식과 성과"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/10/2026-10-23.md"],
+  "changes": []
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261023-001",
+  "title": "국립군산대 제조AX 혁신 얼라이언스 세미나",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "지역 제조기업의 AX 애로를 수집하고 대학 인재양성·ICC 기업지원·특구 기술사업화를 연결한 구조가 지역기업 협력 설계에 참고되지만, 타지역 세미나 사례이며 신규 지원공고는 아니다.",
+  "first_seen_at": "2026-10-23T07:59:44+09:00",
+  "last_verified_at": "2026-10-23T08:01:27+09:00",
+  "published_date": "2026-10-22",
+  "modified_date": null,
+  "event_date": "2026-10-21",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["국립군산대학교", "국립군산대학교 앵커사업단", "군산강소특구육성사업단", "군산시", "중소벤처기업진흥공단 전북서부지부", "한국산업단지공단 전북지역본부", "한국조선해양기자재연구원", "자동차융합기술원"],
+  "regions": ["전북", "군산"],
+  "sectors": ["제조AX", "조선", "지역산업"],
+  "keywords": ["제조AX", "산학연관", "기업애로", "현장실습", "인턴십", "산업협업센터", "기술사업화"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "F1",
+      "text": "국립군산대 앵커사업단과 군산강소특구육성사업단은 2026년 10월 21일 군산 주력산업 제조AX 혁신 얼라이언스 M.AX 세미나를 공동 개최했다.",
+      "source_urls": ["https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000021&dataSid=1388600&menuCd=DOM_000000105001008000", "https://www.domin.co.kr/news/articleView.html?idxno=1572784&sc_section_code=S1N1"],
+      "evidence_locator": "국립군산대 본문 및 전북도민일보 기사",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "F2",
+      "text": "세미나는 7개 기관이 체결한 제조AX 혁신 얼라이언스 협약을 기반으로 지역 제조기업의 기술·인력·정보 부족 등 AX 도입 애로와 지원방안을 논의했다.",
+      "source_urls": ["https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000021&dataSid=1388600&menuCd=DOM_000000105001008000"],
+      "evidence_locator": "국립군산대 본문 7개 기관 협약 및 기업 간담회 설명",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "F3",
+      "text": "국립군산대 앵커사업단은 현장실습·인턴십 등 실무형 인재양성 프로그램과 산업협업센터의 기업지원·R&D 사업을 소개했다.",
+      "source_urls": ["https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000021&dataSid=1388600&menuCd=DOM_000000105001008000"],
+      "evidence_locator": "국립군산대 본문 기관별 지원사업 설명",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "F4",
+      "text": "군산강소특구육성사업단은 딥테크 공공기술 창출, 기술사업화, 창업과 기업 성장단계별 지원사업을 안내했다.",
+      "source_urls": ["https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000021&dataSid=1388600&menuCd=DOM_000000105001008000"],
+      "evidence_locator": "국립군산대 본문 기관별 지원사업 설명",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "국립군산대, 지역 제조기업 AX 전환 위한 산·학·연·관 협력 본격화",
+      "publisher": "국립군산대학교",
+      "source_type": "university_official",
+      "url": "https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000021&dataSid=1388600&menuCd=DOM_000000105001008000",
+      "normalized_url": "https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000021&dataSid=1388600&menuCd=DOM_000000105001008000",
+      "published_date": "2026-10-22",
+      "accessed_at": "2026-10-23T08:01:27+09:00",
+      "verification_scope": "행사일, 7개 기관 협력체계, 기업 애로, 대학·특구 지원내용",
+      "evidence_locator": "KSNU소식 본문"
+    },
+    {
+      "title": "국립군산대, 지역 제조기업 AX 전환 위한 산·학·연·관 협력 본격화",
+      "publisher": "전북도민일보",
+      "source_type": "media",
+      "url": "https://www.domin.co.kr/news/articleView.html?idxno=1572784&sc_section_code=S1N1",
+      "normalized_url": "https://www.domin.co.kr/news/articleView.html?idxno=1572784&sc_section_code=S1N1",
+      "published_date": "2026-10-22",
+      "accessed_at": "2026-10-23T08:01:27+09:00",
+      "verification_scope": "2026-10-22 13:52 보도시각과 핵심내용 교차확인",
+      "evidence_locator": "기사 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "세미나 개최 및 후속 협력사업 발굴 계획",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "기업의 AX 애로를 분류하고 대학 교육·인턴십, ICC 기업지원·R&D, 특구 기술사업화를 연결하는 구조를 지역기업 수요 대응에 참고할 수 있다.",
+    "interpretations": ["기업 애로를 먼저 구조화하고 기관별 지원수단과 연결하면 교육과 기업지원의 역할 중복을 줄일 수 있다."],
+    "proposed_action": "지역 제조기업 간담회 문항을 기술·인력·데이터·정보·자금으로 구분하고 사업단 교육·산학프로젝트·외부 지원기관과 연결하는 매핑표를 검토한다.",
+    "prerequisites": ["참여기관별 역할과 권한 확인", "기업정보 이용동의와 보안", "사업비 집행근거", "성과·지식재산권 귀속", "충북·충주 기업수요 확인"],
+    "limitations": ["전북·군산의 RISE·강소특구 체계로 충북에 직접 적용할 수 없다.", "세미나와 사업소개 단계이며 후속 기업지원·인턴십 성과는 확인되지 않았다.", "부트캠프 직접 공고나 제도변경이 아니다."]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "재직자교육", "산학프로젝트", "현장실습인턴십", "기업수요조사", "성과관리"],
+    "transferable_mechanism": "제조기업의 AX 도입 애로를 기술·인력·정보로 분류하고 대학 인재양성·ICC 기업지원·R&D와 외부 기술사업화 수단에 매칭하는 구조",
+    "evidence_fact_ids": ["F1", "F2", "F3", "F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업수요 조사·분석 인력", "기관별 지원사업 매핑", "산업체 전문가와 참여교원", "후속과제 관리체계"],
+    "eligibility_checks": ["부트캠프 사업비의 기업수요조사·기관협력 집행 가능범위", "외부 기관 사업과의 중복지원·성과귀속 기준"],
+    "evidence_gaps": ["참여기업 수와 구체 애로내용", "후속 공동과제·교육·인턴십 규모와 일정", "기업지원 성과"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/10/2026-10-23.md"],
+  "changes": []
+}

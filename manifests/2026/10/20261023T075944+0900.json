@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261023T075944+0900",
+  "scheduled_at": "2026-10-23T08:00:00+09:00",
+  "cutoff_at": "2026-10-23T08:00:00+09:00",
+  "started_at": "2026-10-23T07:59:44+09:00",
+  "collection_completed_at": "2026-10-23T08:01:27+09:00",
+  "search_window": {
+    "start": "2026-10-22T08:00:00+09:00",
+    "end": "2026-10-23T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-20T08:00:00+09:00",
+      "end": "2026-10-23T08:00:00+09:00",
+      "reason": "사업 직접 관련 신규자료가 제한적이어서 72시간 보완검색을 수행하고 전일 회차 누락자료 1건을 복구함"
+    }
+  ],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "국립한국교통대학교 부트캠프 AI 2026-10-22",
+    "첨단산업 인재양성 부트캠프 교육부 KIAT AI 공고 2026-10-22",
+    "충북 충주 AI 인재양성 산학협력 제조AI 제조AX 2026-10-22",
+    "대학 기업 AI 인턴십 현장실습 취업 산학협력 2026-10-22",
+    "국립한국해양대학교 케이조선 AI 전문인력 양성 업무협약",
+    "국립군산대학교 제조기업 AX 혁신 얼라이언스 세미나"
+  ],
+  "checked_official_sites": [
+    "교육부 공개자료·검색결과",
+    "한국산업기술진흥원 사업공고·검색결과",
+    "국립한국교통대학교 공개공지·검색결과",
+    "충청북도·충주시 공개자료·검색결과",
+    "국립군산대학교 KSNU소식",
+    "국립한국해양대학교 보도자료"
+  ],
+  "verification_failures": [],
+  "excluded_candidates": [
+    {
+      "url": "https://www.inthenews.co.kr/news/article.html?no=93348",
+      "reason": "기본 24시간 밖의 2026-10-21 13:10 보도이므로 신규 24시간이 아닌 누락 보완으로 처리"
+    },
+    {
+      "url": "https://www.inews24.com/v/2018073",
+      "reason": "일반 AI 산업포럼으로 부트캠프 운영·기업수요·학생교육에 직접 연결되는 근거 부족"
+    },
+    {
+      "url": "https://www.kw.ac.kr/ko/life/notice.jsp?articleNo=1485145&mode=view",
+      "reason": "기존 2026-10-02 게시물의 수정일만 변경된 것으로 실질 변경 확인 불가"
+    }
+  ],
+  "previous_success_run_id": "20261022T080238+0900",
+  "coverage_gaps": [
+    "검색 범위에서 첨단산업 인재양성 부트캠프의 신규 공고·운영지침·선정결과·성과평가 변경을 확인하지 못했으며 실제 자료 부재를 단정하지 않음",
+    "기준일 2026-10-23 당일 게시자료 중 08:00 이전 공개시각이 확인되지 않는 항목은 신규 확정에서 제외함"
+  ],
+  "issue_ids": {
+    "NEWS-20261023-001": "new",
+    "NEWS-20261023-002": "new"
+  },
+  "counts": {
+    "new": 2,
+    "new_24h": 1,
+    "supplement_72h": 1,
+    "updated": 0,
+    "unchanged": 0,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-23.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-23.md",
+    "records/2026/NEWS-20261023-001.json",
+    "records/2026/NEWS-20261023-002.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261023T075944+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

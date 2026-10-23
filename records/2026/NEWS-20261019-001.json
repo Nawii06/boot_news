@@ -4,23 +4,39 @@
   "title": "2026년 국립한국교통대 부트캠프(AI)사업단 산학협력전담교수 채용",
   "category": "bootcamp",
   "priority": "A",
-  "priority_reason": "사업단 직접 운영 관련",
+  "priority_reason": "사업단 직접 운영인력 채용 절차의 실질 갱신",
   "first_seen_at": "2026-10-19T07:12:58.505Z",
-  "last_verified_at": "2026-10-19T07:12:58.505Z",
+  "last_verified_at": "2026-10-24T07:58:51+09:00",
   "published_date": "2026-10-13",
   "modified_date": null,
-  "event_date": null,
+  "event_date": "2026-10-26",
   "effective_date": null,
-  "freshness": "reference",
-  "change_status": "new",
+  "freshness": "new_24h",
+  "change_status": "updated",
   "organizations": [
-    "국립한국교통대학교"
+    "국립한국교통대학교",
+    "국립한국교통대학교 산학협력단"
   ],
-  "regions": [],
-  "sectors": [],
-  "keywords": [],
+  "regions": [
+    "충청북도",
+    "충주시"
+  ],
+  "sectors": [
+    "인공지능",
+    "미래모빌리티",
+    "산학협력"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "산학협력전담교수",
+    "기업수요조사",
+    "산학프로젝트",
+    "현장실습",
+    "인턴십",
+    "취업연계"
+  ],
   "program_year": 2026,
-  "notice_number": null,
+  "notice_number": "제2026-242호; 제2026-248호",
   "verification_level": "official",
   "verified_facts": [
     {
@@ -29,25 +45,44 @@
       "source_urls": [
         "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd="
       ],
-      "evidence_locator": null,
+      "evidence_locator": "게시물 본문 공고번호·게시일",
       "claim_type": "confirmed_fact"
     },
     {
       "fact_id": "NEWS-20261019-001-F2",
-      "text": "응시코드 A의 산학협력전담교수를 충주캠퍼스 부트캠프(AI)사업단에서 모집한다.",
+      "text": "응시코드 A의 산학협력전담교수 1명을 충주캠퍼스 부트캠프(AI)사업단에서 모집했고 주요업무는 기업수요 조사, 교육과정·산학프로젝트 기획, 현장실습·인턴십·취업 연계 등을 포함한다.",
       "source_urls": [
-        "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd="
+        "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd=",
+        "https://www.korea.kr/archive/recruitInfoView.do?dataId=396480"
       ],
-      "evidence_locator": null,
+      "evidence_locator": "원 모집공고 채용분야·주요업무",
       "claim_type": "confirmed_fact"
     },
     {
       "fact_id": "NEWS-20261019-001-F3",
-      "text": "원서접수 기간은 2026-10-13부터 2026-10-19 18:00까지이다.",
+      "text": "원서접수 기간은 2026-10-13부터 2026-10-19 18:00까지였다.",
       "source_urls": [
         "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd="
       ],
-      "evidence_locator": null,
+      "evidence_locator": "원 모집공고 접수기간",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-001-F4",
+      "text": "국립한국교통대학교 산학협력단은 제2026-248호로 서류전형 합격자와 면접시험 일정을 2026-10-23 공고했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589"
+      ],
+      "evidence_locator": "후속 공고 본문 공고번호·게시일",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261019-001-F5",
+      "text": "면접은 2026-10-26 16:00부터 국립한국교통대학교 충주캠퍼스 대학본부 별관에서 진행되며 사전등록은 같은 날 15:40까지이다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589"
+      ],
+      "evidence_locator": "후속 공고 면접일시·장소·사전등록",
       "claim_type": "confirmed_fact"
     }
   ],
@@ -59,51 +94,127 @@
       "url": "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd=",
       "normalized_url": "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd=",
       "published_date": "2026-10-13",
-      "accessed_at": "2026-10-19T07:12:58.505Z",
-      "verification_scope": "이번 이관 회차의 원문에서 확인한 항목에 한함",
-      "evidence_locator": null
+      "accessed_at": "2026-10-24T07:58:51+09:00",
+      "verification_scope": "채용분야·인원·주요업무·접수기간 확인",
+      "evidence_locator": "게시물 본문과 첨부 공고 요약"
+    },
+    {
+      "title": "제2026-4회 국립한국교통대학교 부트캠프(AI)사업 전담인력 신규채용 공고",
+      "publisher": "대한민국 정책브리핑",
+      "source_type": "official",
+      "url": "https://www.korea.kr/archive/recruitInfoView.do?dataId=396480",
+      "normalized_url": "https://www.korea.kr/archive/recruitInfoView.do?dataId=396480",
+      "published_date": "2026-10-13",
+      "accessed_at": "2026-10-24T07:58:51+09:00",
+      "verification_scope": "채용인원·주요업무·자격·근무조건·채용절차 보완 확인",
+      "evidence_locator": "채용정보 본문"
+    },
+    {
+      "title": "제2026-4회 국립한국교통대학교 부트캠프(AI)사업 전담인력 신규채용 서류전형 합격자 및 면접시험 일정 공고",
+      "publisher": "국립한국교통대학교",
+      "source_type": "official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589",
+      "published_date": "2026-10-23",
+      "accessed_at": "2026-10-24T07:58:51+09:00",
+      "verification_scope": "공고번호·서류전형 결과 공고·면접일시·장소·사전등록 확인, 지원자 개인정보 미수집",
+      "evidence_locator": "게시물 본문 및 첨부 PDF 요약"
     }
   ],
   "notice": {
-    "eligibility": null,
+    "eligibility": "원 모집공고 지원자 중 서류전형 합격자",
     "support": null,
     "deadline": "2026-10-19T18:00:00+09:00",
-    "application_url": null,
-    "current_status": null,
+    "application_url": "https://ysc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?kind=&mno=sitemap_12&nttId=1125340&pageIndex=154&searchCnd=&searchWrd=",
+    "current_status": "서류전형 합격자 공고·2026-10-26 면접 예정",
     "university_eligibility_verified": false
   },
   "analysis": {
-    "relevance": "산학협력 역할배분과 기업 수요 발굴 검토 대상",
-    "interpretations": [],
-    "proposed_action": null,
+    "relevance": "사업단의 기업수요·교육과정·산학프로젝트·현장실습·취업연계를 담당할 직접 운영인력 채용 절차",
+    "interpretations": [
+      "면접 일정 공고는 채용 절차의 진전을 뜻하지만 최종 채용·임용 완료를 의미하지 않는다."
+    ],
+    "proposed_action": "최종합격자 공고와 실제 임용 여부를 후속 확인하고, 임용 시 공고상 주요업무를 역할·산출물·증빙 단위로 구체화할지 검토",
     "prerequisites": [
-      "관련 대학 지침 및 사업비 적용요건 별도 확인"
+      "대학 인사규정 확인",
+      "부트캠프 사업지침과 사업비 적용요건 확인",
+      "최종합격·임용 여부 확인",
+      "내부 업무분장 승인 확인"
     ],
     "limitations": [
-      "과거 뉴스 리포트의 작성 당시 해석과 현재 확정 사실을 구분함"
+      "면접 대상자의 개인정보는 수집하지 않음",
+      "최종합격·근무개시·업무분장은 확인되지 않음"
     ]
   },
   "development": {
     "use_cases": [
+      "교육과정",
       "산학프로젝트",
+      "현장실습인턴십",
+      "취업연계",
       "기업수요조사",
       "성과관리"
     ],
-    "transferable_mechanism": null,
+    "transferable_mechanism": "기업수요 조사에서 교과·산학프로젝트와 현장실습·인턴십·취업연계까지 담당역할을 하나의 직무체계로 연결",
     "evidence_fact_ids": [
-      "NEWS-20261019-001-F1",
       "NEWS-20261019-001-F2",
-      "NEWS-20261019-001-F3"
+      "NEWS-20261019-001-F4",
+      "NEWS-20261019-001-F5"
     ],
     "candidate_partners": [],
-    "resource_requirements": [],
-    "eligibility_checks": [],
-    "evidence_gaps": [],
+    "resource_requirements": [
+      "산학협력전담교수 인건비와 업무수행 예산의 사업비 적용근거 확인",
+      "기업수요·학생정보·성과증빙 관리체계"
+    ],
+    "eligibility_checks": [
+      "최종합격·임용 여부",
+      "대학 인사규정과 부트캠프 사업지침상 직무·사업비 적합성"
+    ],
+    "evidence_gaps": [
+      "최종합격 여부",
+      "임용일과 실제 업무분장",
+      "채용 이후 성과지표와 산출물"
+    ],
     "maturity": "evidence_only"
   },
   "related_issue_ids": [],
   "report_paths": [
-    "reports/2026/10/2026-10-14.md"
+    "reports/2026/10/2026-10-14.md",
+    "reports/2026/10/2026-10-24.md"
   ],
-  "changes": []
+  "changes": [
+    {
+      "changed_at": "2026-10-24T07:58:51+09:00",
+      "run_id": "20261024T075538+0900",
+      "field": "change_status",
+      "before": "new",
+      "after": "updated",
+      "reason": "서류전형 합격자와 면접시험 일정의 새 공식 공고 확인",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589"
+      ]
+    },
+    {
+      "changed_at": "2026-10-24T07:58:51+09:00",
+      "run_id": "20261024T075538+0900",
+      "field": "event_date",
+      "before": null,
+      "after": "2026-10-26",
+      "reason": "면접시험 예정일 확인",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589"
+      ]
+    },
+    {
+      "changed_at": "2026-10-24T07:58:51+09:00",
+      "run_id": "20261024T075538+0900",
+      "field": "notice.current_status",
+      "before": null,
+      "after": "서류전형 합격자 공고·2026-10-26 면접 예정",
+      "reason": "채용 절차 진행상태 갱신",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589"
+      ]
+    }
+  ]
 }

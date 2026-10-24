@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261025-001",
+  "title": "국립한국교통대 부트캠프(AI) 사업 학생모집 설명회",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "국립한국교통대학교 부트캠프(AI)사업단이 학생을 대상으로 교육과정·소단위전공·동계 현장실습을 직접 안내하는 진행 중 공고",
+  "first_seen_at": "2026-10-25T08:00:47+09:00",
+  "last_verified_at": "2026-10-25T08:04:54+09:00",
+  "published_date": null,
+  "modified_date": null,
+  "event_date": "2026-10-28",
+  "effective_date": null,
+  "freshness": "ongoing_notice",
+  "change_status": "new",
+  "organizations": ["국립한국교통대학교", "국립한국교통대학교 부트캠프(AI)사업단"],
+  "regions": ["충청북도", "충주시"],
+  "sectors": ["인공지능", "미래모빌리티", "자율주행", "항공", "철도"],
+  "keywords": ["학생모집", "교육과정", "소단위전공", "동계현장실습", "오픈데이터", "미래모빌리티"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261025-001-F1",
+      "text": "국립한국교통대학교 학생역량통합관리시스템은 부트캠프(AI)사업단 운영 프로그램으로 학생모집 설명회를 게시하고 신청기간을 2026-10-14 00:00부터 2026-10-28 23:59까지로 안내한다.",
+      "source_urls": ["https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn="],
+      "evidence_locator": "상세페이지 신청기간·운영부서",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261025-001-F2",
+      "text": "설명회는 2026-10-28 17:00 충주캠퍼스 종합강의동 110호에서 열릴 예정이다.",
+      "source_urls": ["https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn="],
+      "evidence_locator": "상세페이지 세부내용 일시·장소",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261025-001-F3",
+      "text": "세부내용에는 2027학년도 교육과정 이수와 소단위전공 등 학사 연계제도, 2026학년도 동계 현장실습 소개가 포함돼 있다.",
+      "source_urls": ["https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn="],
+      "evidence_locator": "상세페이지 세부내용",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261025-001-F4",
+      "text": "대상 학과와 학년은 제한 없음으로 표시됐고 모집 정원은 100명이며, 2026-10-25 08:04 KST 확인 시 신청자는 14명이었다.",
+      "source_urls": ["https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn="],
+      "evidence_locator": "상세페이지 대상·모집인원; 신청자 수는 조회시점 동적 값",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261025-001-F5",
+      "text": "프로그램 목표는 AI 기술의 본격 접목에 앞서 자율주행·항공·철도 등 미래모빌리티 도메인의 기본개념과 개방형 데이터 플랫폼의 오픈데이터 구조·기초기술을 교육하는 것으로 제시돼 있다.",
+      "source_urls": ["https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn="],
+      "evidence_locator": "상세페이지 프로그램 목표",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261025-001-F6",
+      "text": "신청방법은 학생역량통합관리시스템(UTRO+) 접수이며, 마일리지 20M·인증시간 0~4시간과 선착순 50명 대상 약 4만원 상당 기념품이 안내돼 있다.",
+      "source_urls": ["https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn="],
+      "evidence_locator": "상세페이지 신청방법·마일리지·인증시간·세부내용",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "첨단산업 AI 프로젝트 리드(LEAD) 클래스(8차)-부트캠프(AI) 사업 학생모집 설명회",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn=",
+      "normalized_url": "https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn=",
+      "published_date": null,
+      "accessed_at": "2026-10-25T08:04:54+09:00",
+      "verification_scope": "운영부서, 대상, 정원·조회시점 신청자, 신청기간, 행사 일시·장소, 안내내용, 신청방법, 지원사항 확인",
+      "evidence_locator": "학생역량통합관리시스템 프로그램 상세페이지"
+    }
+  ],
+  "notice": {
+    "eligibility": "국립한국교통대학교 학생 대상 학과·학년 제한 없음",
+    "support": "마일리지 20M, 인증시간 0~4시간, 선착순 50명 대상 약 4만원 상당 기념품 안내",
+    "deadline": "2026-10-28T23:59:00+09:00",
+    "application_url": "https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn=",
+    "current_status": "모집 중(2026-10-25 08:04 KST 확인)",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "학생모집 설명회에서 교육과정·소단위전공·동계 현장실습을 연계해 안내하는 사업단 직접 프로그램",
+    "interpretations": ["설명회를 학생 유입의 시작점으로 삼고 교육과정·소단위전공·현장실습 전환을 단계별로 관리하는 구조를 검토할 수 있다."],
+    "proposed_action": "신청자·참석자·교육과정 신청자·동계 현장실습 지원자를 구분해 전환 흐름을 점검할지 검토",
+    "prerequisites": ["개인정보 최소수집과 집계기준", "소단위전공 등 학사제도 적용요건", "현장실습 자격·보험·기업배정", "사업지침상 성과 인정기준"],
+    "limitations": ["게시일과 최초 공개시각이 표시되지 않아 최근 24시간 사건 신규로 분류하지 않음", "신청자 14명은 조회시점 동적 값으로 최종 참여·이수 실적이 아님", "현장실습 기업·인원·기간·선발기준은 상세페이지에서 확인되지 않음"]
+  },
+  "development": {
+    "use_cases": ["교육과정", "비교과", "현장실습인턴십", "학생지원", "성과관리"],
+    "transferable_mechanism": "학생모집 설명회에서 교육과정·소단위전공·동계 현장실습을 한 흐름으로 안내하고 단계별 참여전환을 추적하는 구조",
+    "evidence_fact_ids": ["NEWS-20261025-001-F1", "NEWS-20261025-001-F2", "NEWS-20261025-001-F3", "NEWS-20261025-001-F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["학생 안내·상담 인력", "교육과정·학사제도 안내자료", "현장실습 운영인력", "단계별 참여집계 체계"],
+    "eligibility_checks": ["학생별 교육과정·소단위전공 이수요건", "동계 현장실습 지원자격·보험·기업배정", "사업실적 인정범위"],
+    "evidence_gaps": ["게시일·최초 공개시각", "설명회 최종 참석인원", "후속 교육과정·소단위전공 신청 전환", "동계 현장실습 기업·인원·기간·선발기준"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/10/2026-10-25.md"],
+  "changes": []
+}
+

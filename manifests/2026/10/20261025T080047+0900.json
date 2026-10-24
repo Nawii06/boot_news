@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261025T080047+0900",
+  "scheduled_at": "2026-10-25T08:00:00+09:00",
+  "cutoff_at": "2026-10-25T08:00:00+09:00",
+  "started_at": "2026-10-25T08:00:47+09:00",
+  "collection_completed_at": "2026-10-25T08:04:54+09:00",
+  "search_window": {
+    "start": "2026-10-24T08:00:00+09:00",
+    "end": "2026-10-25T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-22T08:00:00+09:00",
+      "end": "2026-10-24T08:00:00+09:00",
+      "reason": "직접 관련 신규자료가 제한적이어서 72시간 보완검색"
+    },
+    {
+      "start": "2026-10-14T00:00:00+09:00",
+      "end": "2026-10-25T08:00:00+09:00",
+      "reason": "신청기한이 남은 국립한국교통대학교 직접 공고의 현재 상태 확인"
+    }
+  ],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "2026-10-24 국립한국교통대학교 AI 부트캠프 첨단산업 인재양성",
+    "2026-10-24 첨단산업 인재양성 부트캠프 교육부 KIAT 공고",
+    "2026-10-24 충북 충주 AI 인재양성 산학협력 제조AI 제조AX",
+    "2026-10-24 대학 기업 AI 현장실습 인턴십 취업 산학협력",
+    "site:ut.ac.kr 2026.10.24 AI 인공지능 부트캠프",
+    "site:moe.go.kr OR site:kiat.or.kr 2026-10-24 AI 첨단산업 인재양성",
+    "site:chungbuk.go.kr OR site:chungju.go.kr 2026-10-24 AI 제조AX 산학협력",
+    "2026.10.24 AI 인재양성 제조AI 제조AX 피지컬AI 대학 산학협력 기업",
+    "부트캠프(AI) 사업 학생모집 설명회",
+    "첨단산업 AI 프로젝트 리드 LEAD 클래스 8차"
+  ],
+  "checked_official_sites": [
+    "https://www.ut.ac.kr/",
+    "https://lets.ut.ac.kr/",
+    "https://aicc.ut.ac.kr/",
+    "https://www.moe.go.kr/",
+    "https://www.kiat.or.kr/",
+    "https://www.chungbuk.go.kr/",
+    "https://www.chungju.go.kr/",
+    "https://hyundaimotorgroup.co.kr/",
+    "https://github.com/Nawii06/boot_news"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn=",
+      "reason": "일반 검색 도구에서는 직접 열리지 않았으나 공식 대학 시스템의 브라우저 상세화면에서 본문·신청조건·일시·장소를 확인함. 게시일·최초 공개시각은 미표시"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?board_id=90&contents_id=f511558b704b42afb4c9841db235e76e",
+      "reason": "기존 NEWS-20261022-001의 공식 상세 URL은 이번 회차 검색도구로 다시 열리지 않았고, 검색 결과의 유사 제목은 2026년 7월 별도 수요조사여서 변경 근거로 사용하지 않음"
+    },
+    {
+      "url": "https://www.kiat.or.kr/",
+      "reason": "검색된 첨단분야 인턴십 4차 공고는 2026-10-12 접수 종료된 기존 자료"
+    },
+    {
+      "url": "https://www.chungju.go.kr/",
+      "reason": "충주시 AI 활용교육 자료는 2026-10-02 행사 보도이며 이번 검색기간의 신규 인재양성·산학협력 이슈가 아님"
+    }
+  ],
+  "previous_success_run_id": "20261024T075538+0900",
+  "coverage_gaps": [
+    "교육부·KIAT·충북도·충주시 공식 사이트의 기간 내 관련 게시물은 검색엔진 노출 범위에서 확인했으며 각 게시판 전체 목록을 완전 수집하지는 못함",
+    "국립한국교통대학교 학생역량통합관리시스템 프로그램 상세에는 게시일·최초 공개시각이 표시되지 않음",
+    "일부 자료는 게시일만 제공되어 기준시각 이전 공개 여부를 시각 단위로 확정할 수 없음"
+  ],
+  "issue_ids": {
+    "NEWS-20261025-001": "new",
+    "NEWS-20261019-001": "unchanged",
+    "NEWS-20261020-001": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-25.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-25.md",
+    "records/2026/NEWS-20261025-001.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261025T080047+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

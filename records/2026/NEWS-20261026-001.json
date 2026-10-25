@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261026-001",
+  "title": "울산 지역성장인재양성체계(앵커) 혁신인재양성 포럼·개방형 설계센터 사례",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "지자체·대학·기업의 역할분담과 기업 직무교육·현장과제·채용 성과를 연결한 타지역 산학협력 사례로 신규사업·교육과정·성과관리 설계에 참고 가능",
+  "first_seen_at": "2026-10-26T07:55:15+09:00",
+  "last_verified_at": "2026-10-26T07:59:29+09:00",
+  "published_date": "2026-10-23",
+  "modified_date": null,
+  "event_date": "2026-10-23",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "울산광역시",
+    "울산대학교",
+    "울산과학대학교",
+    "춘해보건대학교",
+    "HD현대이엔티"
+  ],
+  "regions": [
+    "울산광역시"
+  ],
+  "sectors": [
+    "지역인재양성",
+    "산학협력",
+    "조선설계",
+    "인공지능"
+  ],
+  "keywords": [
+    "지역성장인재양성체계",
+    "앵커사업",
+    "RISE",
+    "성과관리",
+    "개방형 설계센터",
+    "기업수요",
+    "취업연계"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261026-001-F1",
+      "text": "울산광역시는 2026-10-23 13:30 울산대학교 비전홀에서 대학·산업체·유관기관 관계자 약 150명이 참여한 지역성장인재양성체계(앵커) 혁신인재양성 포럼을 개최했다.",
+      "source_urls": [
+        "https://www.ulsan.go.kr/u/rep/bbs/view.ulsan?bbsId=BBS_0000000000000027&nttId=184906&mId=001004003001000000"
+      ],
+      "evidence_locator": "울산시 보도자료 본문 행사개요",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261026-001-F2",
+      "text": "공식 행사는 교육부의 앵커사업 개편방향, 지역·기업 우수사례, 지역대학 추진상황 공유로 구성됐고 울산과학대학교·HD현대이엔티 개방형 설계센터 사례가 포함됐다.",
+      "source_urls": [
+        "https://www.ulsan.go.kr/u/rep/bbs/view.ulsan?bbsId=BBS_0000000000000027&nttId=184906&mId=001004003001000000"
+      ],
+      "evidence_locator": "울산시 보도자료 본문 주요내용·일정",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261026-001-F3",
+      "text": "울산매일이 전한 발표내용에 따르면 개방형 설계센터 사례는 AI·직무교육 181명, 세미나 참석 559명, 교육연계 채용 8명을 제시했다.",
+      "source_urls": [
+        "https://www.iusm.co.kr/news/articleView.html?idxno=1086386"
+      ],
+      "evidence_locator": "기사 중 HD현대이엔티 발표내용",
+      "claim_type": "company_claim"
+    },
+    {
+      "fact_id": "NEWS-20261026-001-F4",
+      "text": "같은 발표사례는 센터에 14개 조선설계기업과 인력 100명이 입주했고 HD현대이엔티 설계물량의 약 5%를 수행한다고 제시했다.",
+      "source_urls": [
+        "https://www.iusm.co.kr/news/articleView.html?idxno=1086386"
+      ],
+      "evidence_locator": "기사 중 개방형 설계센터 현황",
+      "claim_type": "company_claim"
+    },
+    {
+      "fact_id": "NEWS-20261026-001-F5",
+      "text": "언론보도는 울산시가 정책·재정을, 울산과학대학교가 교육·실습공간을, HD현대이엔티가 현장인력·기술수요 연계를 맡는 역할구조로 사례를 설명했다.",
+      "source_urls": [
+        "https://www.iusm.co.kr/news/articleView.html?idxno=1086386"
+      ],
+      "evidence_locator": "기사 중 기관별 역할 설명",
+      "claim_type": "company_claim"
+    }
+  ],
+  "sources": [
+    {
+      "title": "울산, 지역성장인재양성체계 혁신인재양성 포럼 개최",
+      "publisher": "울산광역시",
+      "source_type": "government_official",
+      "url": "https://www.ulsan.go.kr/u/rep/bbs/view.ulsan?bbsId=BBS_0000000000000027&nttId=184906&mId=001004003001000000",
+      "normalized_url": "https://www.ulsan.go.kr/u/rep/bbs/view.ulsan?bbsId=BBS_0000000000000027&nttId=184906&mId=001004003001000000",
+      "published_date": "2026-10-23",
+      "accessed_at": "2026-10-26T07:59:29+09:00",
+      "verification_scope": "행사 일시·장소·참석규모·목적·공식 일정 확인",
+      "evidence_locator": "보도자료 본문"
+    },
+    {
+      "title": "RISE 넘어 ANCHOR로…울산 인재양성 패러다임 전환",
+      "publisher": "울산매일",
+      "source_type": "media",
+      "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1086386",
+      "normalized_url": "https://www.iusm.co.kr/news/articleView.html?idxno=1086386",
+      "published_date": "2026-10-25",
+      "accessed_at": "2026-10-26T07:59:29+09:00",
+      "verification_scope": "개방형 설계센터 발표사례의 교육·채용·입주기업 수치와 역할구조 확인",
+      "evidence_locator": "HD현대이엔티 사례 발표 보도"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "2026-10-23 포럼 개최 완료",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "지자체·대학·기업 역할을 분리하고 교육·실습·현장과제·채용을 성과지표로 연결한 지역 인재양성 사례",
+    "interpretations": [
+      "기업 현장수요를 대학 교육공간과 프로젝트로 연결하고 교육·채용 지표를 함께 관리하는 구조로 해석할 수 있다."
+    ],
+    "proposed_action": "충북 제조·모빌리티 기업을 대상으로 기업과제·멘토·현장접근 제공 여부와 대학의 교육·프로젝트 운영역할을 구분한 협력모델 비교 검토",
+    "prerequisites": [
+      "충북·충주 기업수요 검증",
+      "기업 협약과 데이터·보안·안전 기준",
+      "교원·실습공간·장비·예산",
+      "현장실습·채용연계의 학사·노동·보험 요건",
+      "성과지표 정의와 증빙"
+    ],
+    "limitations": [
+      "울산·조선설계 분야의 개별 사례로 충북에 직접 적용할 수 없음",
+      "교육·채용·입주기업 수치는 기업 발표를 전한 언론보도 기준이며 독립 성과평가로 검증되지 않음",
+      "포럼 강연의 정책·재정 방향은 확정된 교육부 지침으로 확인되지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "교육과정",
+      "산학프로젝트",
+      "취업연계",
+      "성과관리"
+    ],
+    "transferable_mechanism": "지자체가 정책·재정을 지원하고 대학이 교육·실습공간을 운영하며 기업이 현장수요·과제·채용경로를 연결해 교육→프로젝트→채용을 측정하는 구조",
+    "evidence_fact_ids": [
+      "NEWS-20261026-001-F2",
+      "NEWS-20261026-001-F3",
+      "NEWS-20261026-001-F5"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업과제·멘토",
+      "실습공간·장비",
+      "교육과정·프로젝트 운영교원",
+      "현장접근·보안·안전체계",
+      "성과추적 체계"
+    ],
+    "eligibility_checks": [
+      "본 사업 지침상 기업공동교육·현장프로젝트 허용범위",
+      "학점·현장실습 인정요건",
+      "기업·학생 데이터와 지식재산권",
+      "채용성과 산정·증빙기준"
+    ],
+    "evidence_gaps": [
+      "교육 181명·세미나 559명·채용 8명의 집계기간과 분모",
+      "기업별 과제·교육과정 구성",
+      "참여학생·재직자 구분",
+      "채용의 고용유지·직무연계 결과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-26.md"
+  ],
+  "changes": []
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261026T075515+0900",
+  "scheduled_at": "2026-10-26T08:00:00+09:00",
+  "cutoff_at": "2026-10-26T08:00:00+09:00",
+  "started_at": "2026-10-26T07:55:15+09:00",
+  "collection_completed_at": "2026-10-26T07:59:29+09:00",
+  "search_window": {
+    "start": "2026-10-25T08:00:00+09:00",
+    "end": "2026-10-26T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-23T08:00:00+09:00",
+      "end": "2026-10-25T08:00:00+09:00",
+      "reason": "직접 관련 신규자료가 제한적이어서 72시간 보완검색"
+    },
+    {
+      "start": "2026-10-14",
+      "end": "2026-10-26T08:00:00+09:00",
+      "reason": "신청이 진행 중이고 기준일 대응이 필요한 충주시 제조 AI 연장공고와 국립한국교통대학교 직접 공고의 현재 상태 확인"
+    }
+  ],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "2026-10-25 국립한국교통대학교 AI 부트캠프 첨단산업 인재양성",
+    "2026-10-25 첨단산업 인재양성 부트캠프 교육부 KIAT 공고",
+    "2026-10-25 충북 충주 AI 인재양성 산학협력 제조AI 제조AX",
+    "2026-10-25 대학 기업 AI 현장실습 인턴십 취업 산학협력",
+    "site:kiat.or.kr 2026 첨단분야 인턴십 4차 공고",
+    "site:bizinfo.go.kr 충주시 2026 제조 AI 현장 적용 연장",
+    "site:ut.ac.kr 부트캠프 AI 2026-10-25",
+    "site:moe.go.kr AI 인재양성 2026-10-25",
+    "site:ulsan.go.kr 2026-10-23 지역성장인재양성체계 앵커 혁신인재양성 포럼",
+    "울산 개방형 설계센터 AI 직무교육 채용 2026-10-25"
+  ],
+  "checked_official_sites": [
+    "https://www.ut.ac.kr/",
+    "https://lets.ut.ac.kr/",
+    "https://aicc.ut.ac.kr/",
+    "https://www.moe.go.kr/",
+    "https://www.kiat.or.kr/",
+    "https://www.bizinfo.go.kr/",
+    "https://www.chungbuk.go.kr/",
+    "https://www.chungju.go.kr/",
+    "https://www.ulsan.go.kr/",
+    "https://github.com/Nawii06/boot_news"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn=",
+      "reason": "일반 검색 도구에서는 직접 열리지 않았으나 공식 대학 시스템의 브라우저 상세화면에서 본문·신청조건·조회시점 신청자·일시·장소를 확인함. 게시일·최초 공개시각은 미표시"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.kiat.or.kr/",
+      "reason": "검색된 2026년 첨단분야 인턴십 지원사업 4차 공고는 2026-10-12 접수 종료된 기존 자료"
+    },
+    {
+      "url": "https://www.chosun.ac.kr/",
+      "reason": "AI부트캠프사업단 기간제근로자 재공고는 2026-10-14 게시·2026-10-25 접수 종료 자료로 이번 기준시각의 직접 신규가 아님"
+    },
+    {
+      "url": "https://ai.snu.ac.kr/",
+      "reason": "AI 플랫폼 구축 챌린지는 2026-10-25 접수 종료됐고 국립한국교통대학교 사업운영과 직접 연결되는 근거가 부족해 제외"
+    },
+    {
+      "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1086386",
+      "reason": "울산시 공식 행사와 동일 사건이므로 별도 이슈로 만들지 않고 NEWS-20261026-001의 보완출처로 병합"
+    }
+  ],
+  "previous_success_run_id": "20261025T080047+0900",
+  "coverage_gaps": [
+    "교육부·KIAT·충북도·충주시 공식 게시판은 검색엔진 노출과 확인 가능한 상세페이지 범위에서 점검했으며 전체 게시판을 완전 수집하지는 못함",
+    "국립한국교통대학교 학생역량통합관리시스템 상세에는 게시일·최초 공개시각이 표시되지 않음",
+    "충주시 제조 AI 연장공고에는 마감일만 있고 정확한 접수 마감시각이 표시되지 않음",
+    "울산 개방형 설계센터의 교육·채용 수치는 기업 발표를 인용한 언론보도 기준이며 독립 성과검증 자료는 확인하지 못함"
+  ],
+  "issue_ids": {
+    "NEWS-20261026-001": "new",
+    "NEWS-20261019-006": "updated",
+    "NEWS-20261025-001": "unchanged",
+    "NEWS-20261019-001": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 1,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-26.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-26.md",
+    "records/2026/NEWS-20261019-006.json",
+    "records/2026/NEWS-20261026-001.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261026T075515+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

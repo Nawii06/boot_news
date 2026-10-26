@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261027T080448+0900",
+  "scheduled_at": "2026-10-27T08:00:00+09:00",
+  "cutoff_at": "2026-10-27T08:00:00+09:00",
+  "started_at": "2026-10-27T08:04:48+09:00",
+  "collection_completed_at": "2026-10-27T08:07:31+09:00",
+  "search_window": {
+    "start": "2026-10-26T08:00:00+09:00",
+    "end": "2026-10-27T08:00:00+09:00"
+  },
+  "supplement_windows": [],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "2026-10-26 국립한국교통대학교 AI 부트캠프 첨단산업 인재양성",
+    "2026-10-26 첨단산업 인재양성 부트캠프 교육부 KIAT 공고",
+    "2026-10-26 충북 충주 AI 인재양성 산학협력 제조AI 제조AX",
+    "2026-10-26 대학 기업 AI 현장실습 인턴십 취업 산학협력",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr 2026.10.26 부트캠프 AI",
+    "site:moe.go.kr OR site:kiat.or.kr 2026.10.26 첨단산업 인재양성 AI",
+    "site:chungbuk.go.kr OR site:chungju.go.kr 2026.10.26 AI 인재양성 제조AX 산학협력",
+    "\"2026-10-26\" \"AI 인재양성\" 대학 기업",
+    "\"2026. 10. 26\" \"제조AI\" OR \"제조AX\"",
+    "site:ut.ac.kr \"제2026-4회\" \"최종합격\" 부트캠프 AI"
+  ],
+  "checked_official_sites": [
+    "https://www.ut.ac.kr/",
+    "https://aicc.ut.ac.kr/",
+    "https://lets.ut.ac.kr/",
+    "https://www.moe.go.kr/",
+    "https://www.kiat.or.kr/",
+    "https://www.chungbuk.go.kr/",
+    "https://www.chungju.go.kr/",
+    "https://www.bizinfo.go.kr/",
+    "https://github.com/Nawii06/boot_news"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125613",
+      "reason": "일반 원문 열람 도구는 상세페이지를 열지 못했으나 검색 결과에서 제목·등록일을 확인한 뒤 공개 브라우저 상세화면에서 본문 전체를 직접 검증함"
+    },
+    {
+      "url": "https://lets.ut.ac.kr/lms/front/nonSubject/doViewProgram.dunet?course_id=202620CC7987008&team_yn=N&capstone_yn=",
+      "reason": "이번 회차 브라우저에서는 상세 본문 접근이 지연돼 현재 신청자 수를 재확인하지 못함. 신청기간·대상·정원은 전회 공식 상세 검증값을 유지하고 동적 신청자 수는 이번 리포트에서 사용하지 않음"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://hkit.kr/p/?edu_code=Vmtaa2QyRnJNVUpRVkRBOStN&j=52",
+      "reason": "민간 훈련기관의 동명 AI 부트캠프로 정부 첨단산업 인재양성 부트캠프와 무관"
+    },
+    {
+      "url": "https://www.smu.ac.kr/kor/life/notice.do?articleNo=769409",
+      "reason": "청년취업사관학교 자료로 본 정부사업과 별도이며 이번 회차 직접 적용 근거가 부족"
+    },
+    {
+      "url": "https://www.facebook.com/groups/ASKSRMDC/posts/4486996961563222/",
+      "reason": "SK AIGEN 관련 비공식 재게시이며 기업 공식 원문과 게시시점을 검증하지 못해 제외"
+    },
+    {
+      "url": "https://aibootcamp.bufs.ac.kr/internship/overview",
+      "reason": "검색 노출은 최신이나 게시일·실질 변경 여부가 확인되지 않아 신규 이슈에서 제외"
+    }
+  ],
+  "previous_success_run_id": "20261026T075515+0900",
+  "coverage_gaps": [
+    "교육부·KIAT·충북도·충주시 공식 게시판은 검색엔진 노출과 확인 가능한 상세페이지 범위에서 점검했으며 전체 게시판을 완전 수집하지는 못함",
+    "국립한국교통대학교 학생역량통합관리시스템의 현재 신청자 수는 이번 회차에 재확인하지 못함",
+    "산학협력전담교수 면접의 실제 실시 여부와 최종합격·임용 결과는 공개자료에서 확인되지 않음",
+    "충주시 제조 AI 지원사업의 추가 연장·선정기업은 확인되지 않음"
+  ],
+  "issue_ids": {
+    "NEWS-20261025-001": "updated",
+    "NEWS-20261019-001": "unchanged",
+    "NEWS-20261019-006": "unchanged"
+  },
+  "counts": {
+    "new": 0,
+    "updated": 1,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-27.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-27.md",
+    "records/2026/NEWS-20261025-001.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261027T080448+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

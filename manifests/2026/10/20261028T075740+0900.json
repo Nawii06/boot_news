@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261028T075740+0900",
+  "scheduled_at": "2026-10-28T08:00:00+09:00",
+  "cutoff_at": "2026-10-28T08:00:00+09:00",
+  "started_at": "2026-10-28T07:57:40+09:00",
+  "collection_completed_at": "2026-10-28T08:00:06+09:00",
+  "search_window": {
+    "start": "2026-10-27T08:00:00+09:00",
+    "end": "2026-10-28T08:00:00+09:00"
+  },
+  "supplement_windows": [],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "2026년 10월 27일 국립한국교통대학교 부트캠프 AI site:ut.ac.kr OR site:aicc.ut.ac.kr",
+    "2026-10-27 첨단산업 인재양성 부트캠프 AI 교육부 KIAT",
+    "2026-10-27 충북 충주 AI 인재양성 제조 AI 산학협력",
+    "2026-10-27 대학 기업 AI 현장실습 인턴십 취업 미래모빌리티",
+    "site:aicc.ut.ac.kr/cop/bbs 2026-10-27 부트캠프 AI 한국교통대학교",
+    "site:aicc.ut.ac.kr/cop/bbs 제2026-4회 최종합격",
+    "site:ut.ac.kr 제미나이와 노트북LM 무료 강좌 모집 안내",
+    "2026-10-27 AI 인재양성 대학 기업 산학협력",
+    "2026. 10. 27 제조AX OR 제조 AI 대학 기업"
+  ],
+  "checked_official_sites": [
+    "https://www.ut.ac.kr/",
+    "https://aicc.ut.ac.kr/",
+    "https://lets.ut.ac.kr/",
+    "https://www.moe.go.kr/",
+    "https://www.kiat.or.kr/",
+    "https://www.chungbuk.go.kr/",
+    "https://www.chungju.go.kr/",
+    "https://github.com/Nawii06/boot_news"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardList.do",
+      "reason": "검색 가능한 공식 상세·목록 범위에서 제2026-4회 최종합격 공고를 확인하지 못했으며 전체 인사게시판 완전수집은 보장하지 못함"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125658",
+      "reason": "충청북도 지역청년 일반 직무박람회로 AI·첨단산업 직접 근거가 부족해 제외"
+    },
+    {
+      "url": "https://www.campuspick.com/education/view?id=35343",
+      "reason": "7월 게시 민간 훈련과정으로 기본 검색기간 밖이며 정부 첨단산업 인재양성 부트캠프와 별도"
+    },
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125659",
+      "reason": "기존 NEWS-20261025-001과 동일 행사·동일 조건의 재공지이므로 새 이슈를 만들지 않고 변동 없음으로 처리"
+    }
+  ],
+  "previous_success_run_id": "20261027T080448+0900",
+  "coverage_gaps": [
+    "교육부·KIAT·충북도·충주시 공식 게시판은 검색엔진 노출과 접근 가능한 상세페이지 범위에서 확인했으며 전체 게시판 완전수집은 보장하지 못함",
+    "학생모집 설명회의 기준시각 정확한 신청자 수는 동적 값이며 기준시각 이후 열람값과 구분할 수 없어 확정값으로 사용하지 않음",
+    "산학협력전담교수 면접의 실제 실시 여부와 최종합격·임용 결과는 공개자료에서 확인되지 않음",
+    "생성형 AI 강좌의 세부 강의계획서·강사·수료기준·학습성과는 공개 본문에서 확인되지 않음"
+  ],
+  "issue_ids": {
+    "NEWS-20261028-001": "new",
+    "NEWS-20261025-001": "unchanged",
+    "NEWS-20261019-001": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-28.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-28.md",
+    "records/2026/NEWS-20261028-001.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261028T075740+0900.json"
+  ],
+  "archive_intent": "prepared"
+}
+

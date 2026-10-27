@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261028-001",
+  "title": "국립한국교통대 생성형 AI Gemini·NotebookLM 무료강좌",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "국립한국교통대학교 재학생 대상 생성형 AI 도구 이론·실습 비교과로 부트캠프 학생의 기초·보충역량 설계에 참고 가능하나 본 사업과는 별도 프로그램",
+  "first_seen_at": "2026-10-28T07:57:40+09:00",
+  "last_verified_at": "2026-10-28T08:00:06+09:00",
+  "published_date": "2026-10-27",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": "2026-11-02",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 전산정보원"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시"
+  ],
+  "sectors": [
+    "인공지능",
+    "교육기술"
+  ],
+  "keywords": [
+    "생성형AI",
+    "Gemini",
+    "NotebookLM",
+    "프롬프트",
+    "비교과",
+    "실습교육"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261028-001-F1",
+      "text": "국립한국교통대학교 전산정보원은 2026-10-27 재학생 대상 Gemini·NotebookLM 무료강좌 모집 공지를 게시했으며 교육은 2026-11-02부터 2026-11-06까지 매일 18:00~21:00 운영될 예정이다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125648"
+      ],
+      "evidence_locator": "대학 일반소식 본문 프로그램 안내·등록일",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261028-001-F2",
+      "text": "신청대상은 국립한국교통대학교 재학생이며 선착순 40명, 신청기한은 2026-11-01, 신청경로는 UTRO+ 학생역량통합관리시스템이고 교육장소는 대학원동(W4) 305호 멀티미디어실이다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125648"
+      ],
+      "evidence_locator": "대학 일반소식 본문 프로그램 안내",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261028-001-F3",
+      "text": "주요 교육내용은 생성형 AI Gemini와 NotebookLM의 이해·학습 현장 활용, 효과적 프롬프트 작성, 이론과 실습을 결합한 교육이다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125648"
+      ],
+      "evidence_locator": "대학 일반소식 본문 주요 교육 내용",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261028-001-F4",
+      "text": "참여혜택은 마일리지 50M과 인증시간 10시간으로 안내됐다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125648"
+      ],
+      "evidence_locator": "대학 일반소식 본문 참여혜택",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "제미나이와 노트북LM 무료 강좌 모집 안내",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125648",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125648",
+      "published_date": "2026-10-27",
+      "accessed_at": "2026-10-28T08:00:06+09:00",
+      "verification_scope": "등록일, 운영부서, 대상·정원·신청기한·장소·교육일정, 교육내용, 참여혜택 확인",
+      "evidence_locator": "대학 일반소식 본문과 첨부파일명"
+    }
+  ],
+  "notice": {
+    "eligibility": "국립한국교통대학교 재학생",
+    "support": "무료강좌, 마일리지 50M, 인증시간 10시간",
+    "deadline": "2026-11-01",
+    "application_url": "https://lets.ut.ac.kr/",
+    "current_status": "모집 중·선착순 40명",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "재학생 대상 생성형 AI 도구 활용 이론·실습 비교과로 부트캠프 학생의 기초·보충역량 설계 참고 가능",
+    "interpretations": [
+      "대학 공통 비교과를 부트캠프의 생성형 AI 기초·보충학습 후보로 안내할 수 있는지 검토할 수 있다.",
+      "교육내용이 도구 이해·프롬프트·실습으로 구성돼 있으나 부트캠프 교육과정과의 중복 여부는 별도 비교가 필요하다."
+    ],
+    "proposed_action": "11월 1일 마감 전 부트캠프 학생 안내 필요성과 기존 교육 중복 여부를 확인하고, 실적 산입을 검토할 경우 사업지침과 중복집계·증빙기준 확인",
+    "prerequisites": [
+      "부트캠프 기존 교육내용과 중복 여부",
+      "사업지침상 비교과·외부부서 프로그램 실적 인정범위",
+      "참여자 중복집계 기준",
+      "교육시간·출석·수료 증빙"
+    ],
+    "limitations": [
+      "첨단산업 인재양성 부트캠프 사업단 프로그램이 아니라 전산정보원 주관 대학 공통 비교과이다.",
+      "신청자·수료자·학습성과는 공개자료에서 확인되지 않았다.",
+      "재학생 외 세부 자격과 선발 우선순위는 확인되지 않았다."
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "비교과",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "대학 공통 생성형 AI 도구 실습을 전공·사업별 교육의 선행 또는 보충 비교과로 연결하고 출석·인증시간을 관리하는 구조",
+    "evidence_fact_ids": [
+      "NEWS-20261028-001-F1",
+      "NEWS-20261028-001-F2",
+      "NEWS-20261028-001-F3",
+      "NEWS-20261028-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "실습용 컴퓨터실",
+      "생성형 AI 도구 접근환경",
+      "강사·실습지원",
+      "출석·수료 관리"
+    ],
+    "eligibility_checks": [
+      "재학생 신분",
+      "선착순 정원",
+      "부트캠프 실적 인정범위",
+      "중복집계 가능 여부"
+    ],
+    "evidence_gaps": [
+      "세부 강의계획서",
+      "강사 정보",
+      "도구별 계정·비용 조건",
+      "수료기준과 학습성과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-28.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-10-28T08:00:06+09:00",
+      "run_id": "20261028T075740+0900",
+      "field": "record",
+      "before": null,
+      "after": "신규 이슈 등록",
+      "reason": "기본 검색기간 내 대학 공식 생성형 AI 비교과 모집 공지를 원문 검증",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125648"
+      ]
+    }
+  ]
+}
+

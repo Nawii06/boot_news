@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261029-002",
+  "title": "국립한국교통대 2026 사회기여형 AI 해커톤",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "충주 지역의 돌봄·공공서비스 문제를 AI 다학제 집중 프로젝트와 연결한 교내 비교과 사례로 교육과정·지역연계 설계에 참고 가능",
+  "first_seen_at": "2026-10-29T08:04:29+09:00",
+  "last_verified_at": "2026-10-29T08:06:57+09:00",
+  "published_date": "2026-10-28",
+  "modified_date": null,
+  "event_date": "2026-11-23",
+  "effective_date": "2026-10-29",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 공학교육혁신센터"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시",
+    "경상북도",
+    "문경시"
+  ],
+  "sectors": [
+    "인공지능",
+    "공학교육",
+    "공공서비스",
+    "지역사회 돌봄"
+  ],
+  "keywords": [
+    "사회기여형 해커톤",
+    "AI",
+    "충주",
+    "돌봄",
+    "소외 없는 지역사회",
+    "다학제 팀",
+    "비교과"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261029-002-F1",
+      "text": "국립한국교통대학교 공학교육혁신센터는 2026년 11월 23일부터 25일까지 문경 STX리조트에서 'AI로 보듬는 충주의 돌봄, 소외 없는 지역사회'를 주제로 사회기여형 해커톤을 운영한다고 공지했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
+      ],
+      "evidence_locator": "공식 공지 본문 행사명·주제·기간·장소",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261029-002-F2",
+      "text": "대상은 국립한국교통대학교 공학계열 재학생 약 30명이며 학년·전공을 고려해 팀을 구성하고 사회적 약자 보호와 공공서비스 사각지대 해소 프로젝트를 수행한다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
+      ],
+      "evidence_locator": "공식 공지 본문 목적·모집대상·팀 구성",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261029-002-F3",
+      "text": "신청기간은 2026년 10월 29일부터 11월 12일까지이며 UTRO+ 신청과 동의서 제출이 필요하고 선착순 조기마감될 수 있다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
+      ],
+      "evidence_locator": "공식 공지 본문 신청기간·신청방법",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261029-002-F4",
+      "text": "공지에는 2박 3일 숙식, 공결 협조, 비교과 마일리지 80점, 인증시간 16시간과 대상 1팀 50만원·최우수 1팀 40만원·우수 1팀 30만원·장려 2팀 각 20만원의 시상이 안내돼 있다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
+      ],
+      "evidence_locator": "공식 공지 본문 지원·혜택·시상",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 사회기여형 해커톤 프로그램 개최 안내",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668",
+      "published_date": "2026-10-28",
+      "accessed_at": "2026-10-29T08:06:57+09:00",
+      "verification_scope": "목적·주제, 운영기간·장소, 대상·인원, 신청기간·방법, 숙식·공결·마일리지·인증시간·시상 확인",
+      "evidence_locator": "대학 공식 공지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "국립한국교통대학교 공학계열 재학생",
+    "support": "2박 3일 숙식, 공결 협조, 비교과 마일리지 80점, 인증시간 16시간, 5개 팀 총 190만원 시상",
+    "deadline": "2026-11-12",
+    "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668",
+    "current_status": "2026-10-29 접수 시작·선착순 조기마감 가능",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "충주 지역의 사회문제를 AI와 다학제 집중 프로젝트로 해결하도록 설계한 국립한국교통대학교 비교과 프로그램",
+    "interpretations": [
+      "지역문제-다학제 팀-집중 프로젝트-발표·시상-비교과 인증을 한 흐름으로 묶은 사례로 해석할 수 있다."
+    ],
+    "proposed_action": "부트캠프 학생 안내와 향후 지역기업·공공기관 문제 기반 AI 프로젝트 연계 가능성 검토",
+    "prerequisites": [
+      "공학계열 참여자격과 선발기준",
+      "기존 교과·비교과 일정 및 공결",
+      "안전·숙박·인솔체계",
+      "산출물 권리와 공개범위",
+      "사업비·성과 중복계상 기준"
+    ],
+    "limitations": [
+      "부트캠프 사업 프로그램이 아닌 공학교육혁신센터 별도 비교과",
+      "지역기관·기업의 과제출제나 멘토 참여는 공지 본문에서 확인되지 않음",
+      "행사 전 공지로 실제 참여·완성도·후속 활용성과는 확인되지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "비교과",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "지역 돌봄·공공서비스 문제를 AI 주제로 전환하고 학년·전공 혼합팀이 2박 3일 집중 프로젝트를 수행한 뒤 발표·시상과 비교과 인증으로 연결",
+    "evidence_fact_ids": [
+      "NEWS-20261029-002-F1",
+      "NEWS-20261029-002-F2",
+      "NEWS-20261029-002-F3",
+      "NEWS-20261029-002-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "숙박·식비·이동·인솔 예산",
+      "AI 프로젝트 멘토·심사 인력",
+      "프로토타입 제작환경",
+      "공결·안전·동의서 관리",
+      "산출물·참여·평가 증빙체계"
+    ],
+    "eligibility_checks": [
+      "국립한국교통대학교 공학계열 재학생 여부",
+      "부트캠프 사업지침상 외부 비교과 연계·성과인정 요건",
+      "중복참여·중복실적 기준"
+    ],
+    "evidence_gaps": [
+      "팀당 인원과 세부 심사기준",
+      "멘토·지역기관·기업 참여구조",
+      "최종 산출물과 지역사회 후속적용"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/10/2026-10-29.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-10-29T08:06:57+09:00",
+      "run_id": "20261029T080429+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 검색기간 내 대학 공식 공지를 원문 검증해 신규 등록",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
+      ]
+    }
+  ]
+}

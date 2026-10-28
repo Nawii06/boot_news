@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261029T080429+0900",
+  "scheduled_at": "2026-10-29T08:00:00+09:00",
+  "cutoff_at": "2026-10-29T08:00:00+09:00",
+  "started_at": "2026-10-29T08:04:29+09:00",
+  "collection_completed_at": "2026-10-29T08:06:57+09:00",
+  "search_window": {
+    "start": "2026-10-28T08:00:00+09:00",
+    "end": "2026-10-29T08:00:00+09:00"
+  },
+  "supplement_windows": [],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "2026-10-28 국립한국교통대학교 부트캠프 AI 설명회 결과",
+    "site:aicc.ut.ac.kr 2026-10-28 부트캠프 AI 한국교통대학교",
+    "2026-10-28 첨단산업 인재양성 부트캠프 교육부 KIAT",
+    "2026-10-28 충북 충주 AI 인재양성 제조AX 산학협력",
+    "2026-10-28 대학 기업 AI 현장실습 취업",
+    "2026-10-28 AI로봇 미래모빌리티 SDV 온디바이스AI 인재양성",
+    "site:aicc.ut.ac.kr 2026 사회기여형 해커톤",
+    "site:moe.go.kr 바이오 부트캠프 Round Up 2026"
+  ],
+  "checked_official_sites": [
+    "https://www.ut.ac.kr/",
+    "https://aicc.ut.ac.kr/",
+    "https://lets.ut.ac.kr/",
+    "https://www.moe.go.kr/",
+    "https://www.kiat.or.kr/",
+    "https://www.chungbuk.go.kr/",
+    "https://www.chungju.go.kr/",
+    "https://github.com/Nawii06/boot_news"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125659",
+      "reason": "설명회 공지는 확인했으나 기준시각까지 행사 실시·참석·후속 전환 결과를 확인할 별도 공개자료를 찾지 못함"
+    },
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125589",
+      "reason": "면접 일정은 확인했으나 기준시각까지 최종합격·임용 결과를 확인할 새 공식자료를 찾지 못함"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.campuspick.com/education/view",
+      "reason": "민간 교육과정과 동명 부트캠프 결과는 정부 첨단산업 인재양성 부트캠프와 구분하고 직접 관련 근거가 없는 후보는 제외"
+    },
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardList.do",
+      "reason": "일반 취업·행사 공지 중 AI·첨단산업·산학협력 직접 근거가 부족한 후보는 제외"
+    }
+  ],
+  "previous_success_run_id": "20261028T075740+0900",
+  "coverage_gaps": [
+    "교육부·KIAT·충북도·충주시 공식 게시판은 검색엔진 노출 및 접근 가능한 상세페이지 범위에서 확인했으며 전체 게시판 완전수집은 보장하지 못함",
+    "부트캠프(AI) 학생모집 설명회의 실제 개최·참석·기념품 지급·후속 전환 결과는 공개자료에서 확인되지 않음",
+    "산학협력전담교수 면접의 실제 실시·최종합격·임용 결과는 공개자료에서 확인되지 않음",
+    "Round Up의 실제 참가학생 수·참여대학·행사 결과와 사회기여형 해커톤의 세부 심사·멘토·후속적용은 행사 전 공지에서 확인되지 않음"
+  ],
+  "issue_ids": {
+    "NEWS-20261029-001": "new",
+    "NEWS-20261029-002": "new",
+    "NEWS-20261025-001": "unchanged",
+    "NEWS-20261019-001": "unchanged"
+  },
+  "counts": {
+    "new": 2,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-29.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-29.md",
+    "records/2026/NEWS-20261029-001.json",
+    "records/2026/NEWS-20261029-002.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261029T080429+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

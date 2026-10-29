@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261030-001",
+  "title": "국립한국교통대 AI 활용 PPT 시각화·엑셀 데이터 분석 무료강좌",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "재학생이 AI 도구를 문서 시각화와 데이터 분석에 적용하는 교내 비교과로 부트캠프 학생의 기초 실무도구 역량 보완 가능성을 검토할 수 있음",
+  "first_seen_at": "2026-10-30T08:04:27+09:00",
+  "last_verified_at": "2026-10-30T08:05:41+09:00",
+  "published_date": "2026-10-29",
+  "modified_date": null,
+  "event_date": "2026-11-09",
+  "effective_date": "2026-10-29",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 전산정보원"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시"
+  ],
+  "sectors": [
+    "인공지능",
+    "데이터 분석",
+    "프레젠테이션",
+    "디지털 역량"
+  ],
+  "keywords": [
+    "AI 도구",
+    "PPT 시각화",
+    "엑셀 데이터 분석",
+    "수식 작성",
+    "오류 해결",
+    "비교과",
+    "취업역량"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261030-001-F1",
+      "text": "국립한국교통대학교 전산정보원은 재학생 대상 'AI를 활용한 PPT 시각화&엑셀 데이터 분석' 무료강좌를 2026년 11월 9일부터 11일까지 매일 18시부터 21시까지 운영한다고 공지했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702"
+      ],
+      "evidence_locator": "대학 공식 공지 프로그램 안내",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261030-001-F2",
+      "text": "교육인원은 선착순 40명이며 장소는 대학원동(W4) 305호 멀티미디어실이고 교육비는 전액 무료다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702"
+      ],
+      "evidence_locator": "대학 공식 공지 교육인원·장소·비용",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261030-001-F3",
+      "text": "주요 내용은 AI 도구를 활용한 엑셀 수식 작성·오류 해결·데이터 분석과 프레젠테이션 제작 효율 향상이며, 참여혜택은 마일리지 50점과 인증시간 10시간이다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702"
+      ],
+      "evidence_locator": "대학 공식 공지 주요 교육내용·참여혜택",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261030-001-F4",
+      "text": "신청은 2026년 11월 8일까지 UTRO+ 학생역량 통합관리시스템에서 받는다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702"
+      ],
+      "evidence_locator": "대학 공식 공지 신청대상·방법·일정",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "취업 필수! AI를 활용한 PPT 시각화&엑셀 데이터 분석 수강생 모집",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702",
+      "published_date": "2026-10-29",
+      "accessed_at": "2026-10-30T08:05:41+09:00",
+      "verification_scope": "교육일정·인원·장소·비용·대상·신청방법·마감·교육내용·혜택 확인",
+      "evidence_locator": "대학 공식 공지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "국립한국교통대학교 재학생",
+    "support": "교육비 전액 무료, 마일리지 50점, 인증시간 10시간",
+    "deadline": "2026-11-08",
+    "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702",
+    "current_status": "모집 중·선착순 40명",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "AI 도구를 엑셀 데이터 분석과 프레젠테이션 제작에 적용하는 재학생 대상 기초 실무 비교과",
+    "interpretations": [
+      "생성형 AI를 질의응답이 아니라 문서·데이터 업무에 적용하도록 구성한 짧은 실습형 보완교육 사례로 해석할 수 있다."
+    ],
+    "proposed_action": "부트캠프 학생에게 보충 비교과로 안내할 필요와 기존 Gemini·NotebookLM 강좌 및 정규 교육과정과의 중복 여부를 검토",
+    "prerequisites": [
+      "부트캠프 사업지침상 교내 비교과 연계·실적 인정요건",
+      "참여자 중복집계 기준",
+      "교육시간·출석·수료 증빙",
+      "사용 AI 도구·계정·데이터 보안 기준"
+    ],
+    "limitations": [
+      "부트캠프 사업단이 운영하는 프로그램이 아닌 전산정보원 교내 비교과",
+      "사용 도구·강사·세부 실습과제·수료기준·학습성과는 공개 본문에서 확인되지 않음",
+      "교육성과와 취업효과는 공지 단계에서 확인되지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "비교과",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "짧은 야간 실습에서 AI 도구를 엑셀 수식·오류해결·데이터 분석과 PPT 시각화에 적용하고 마일리지·인증시간으로 참여를 지원",
+    "evidence_fact_ids": [
+      "NEWS-20261030-001-F1",
+      "NEWS-20261030-001-F2",
+      "NEWS-20261030-001-F3",
+      "NEWS-20261030-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "실습 PC와 AI 도구 계정",
+      "강사·실습조교",
+      "출석·과제·수료 증빙",
+      "교육용 데이터의 개인정보·보안 관리"
+    ],
+    "eligibility_checks": [
+      "국립한국교통대학교 재학생 여부",
+      "기존 교과·비교과 및 부트캠프 프로그램과의 중복",
+      "사업실적 인정·중복계상 기준"
+    ],
+    "evidence_gaps": [
+      "사용 AI 도구와 세부 실습과제",
+      "강사와 평가·수료기준",
+      "참여자·수료자·학습성과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [
+    "NEWS-20261028-001"
+  ],
+  "report_paths": [
+    "reports/2026/10/2026-10-30.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-10-30T08:05:41+09:00",
+      "run_id": "20261030T080427+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 검색기간 내 대학 공식 공지를 원문 검증해 신규 등록",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125702"
+      ]
+    }
+  ]
+}

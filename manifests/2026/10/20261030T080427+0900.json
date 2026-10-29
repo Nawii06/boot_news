@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261030T080427+0900",
+  "scheduled_at": "2026-10-30T08:00:00+09:00",
+  "cutoff_at": "2026-10-30T08:00:00+09:00",
+  "started_at": "2026-10-30T08:04:27+09:00",
+  "collection_completed_at": "2026-10-30T08:05:41+09:00",
+  "search_window": {
+    "start": "2026-10-29T08:00:00+09:00",
+    "end": "2026-10-30T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-27T08:00:00+09:00",
+      "end": "2026-10-30T08:00:00+09:00",
+      "reason": "전 회차 검색에 노출되지 않은 사업단 직접 채용 후속공고 누락보완"
+    }
+  ],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "2026-10-29 국립한국교통대학교 부트캠프 AI site:ut.ac.kr OR site:aicc.ut.ac.kr",
+    "2026-10-29 첨단산업 인재양성 부트캠프 교육부 KIAT AI",
+    "2026-10-29 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026-10-29 대학 기업 AI 현장실습 인턴십 취업 미래모빌리티",
+    "site:aicc.ut.ac.kr 2026-10-29 AI를 활용한 PPT 시각화",
+    "site:aicc.ut.ac.kr 제2026-4회 최종합격자 부트캠프",
+    "2026-10-29 AI 로봇 Physical AI 미래모빌리티 SDV 인재양성 대학",
+    "2026-10-29 충북 AI 교육 산학협력 대학 기업"
+  ],
+  "checked_official_sites": [
+    "https://www.ut.ac.kr/",
+    "https://aicc.ut.ac.kr/",
+    "https://lets.ut.ac.kr/",
+    "https://www.moe.go.kr/",
+    "https://www.kiat.or.kr/",
+    "https://www.chungbuk.go.kr/",
+    "https://www.chungju.go.kr/",
+    "https://github.com/Nawii06/boot_news"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125685",
+      "reason": "공식 게시물에서 최종합격자 공고 사실은 확인했으나 개인정보 보호를 위해 첨부 PDF의 개인식별정보를 수집하지 않았고 실제 임용일·근무개시는 확인하지 못함"
+    },
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125659",
+      "reason": "설명회 공지는 재확인했으나 실제 개최·참석·후속 전환 결과를 확인할 별도 공개자료를 찾지 못함"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardList.do",
+      "reason": "창업·일반 취업행사 등 AI·첨단산업·산학협력 직접 근거가 부족한 교내 공지는 제외"
+    },
+    {
+      "url": "https://bojo.covalue.kr/announcements",
+      "reason": "지원사업 재가공·집계 사이트는 원 공식자료가 확인되지 않은 후보의 확정 근거로 사용하지 않음"
+    },
+    {
+      "url": "https://www.saramin.co.kr/",
+      "reason": "다른 대학의 일반 부트캠프 직원채용은 국립한국교통대학교 사업운영 또는 이전 가능한 교육·산학협력 구조와 직접 연결되지 않아 제외"
+    }
+  ],
+  "previous_success_run_id": "20261029T080429+0900",
+  "coverage_gaps": [
+    "교육부·KIAT·충북도·충주시 공식 게시판은 검색엔진 노출 및 접근 가능한 상세페이지 범위에서 확인했으며 전체 게시판 완전수집은 보장하지 못함",
+    "산학협력전담교수 최종합격자의 실제 임용일·근무개시·업무분장은 공개 본문에서 확인되지 않음",
+    "학생모집 설명회의 실제 개최·참석·지원물품 지급·후속 전환 결과는 공개자료에서 확인되지 않음",
+    "AI 활용 PPT·엑셀 강좌의 사용 도구·강사·세부 실습과제·수료기준·학습성과는 공개 본문에서 확인되지 않음"
+  ],
+  "issue_ids": {
+    "NEWS-20261019-001": "updated",
+    "NEWS-20261030-001": "new",
+    "NEWS-20261025-001": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 1,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/10/2026-10-30.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-30.md",
+    "records/2026/NEWS-20261019-001.json",
+    "records/2026/NEWS-20261030-001.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261030T080427+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

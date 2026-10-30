@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261031-001",
+  "title": "국립한국교통대 2026 IDF 드림메이커 해커톤",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "국립한국교통대학교 재학생이 모빌리티 아이디어를 아두이노 기반 시제품으로 구현하는 교내 비교과로 AI·모빌리티 프로젝트 설계에 참고 가능하나 부트캠프 사업단 프로그램은 아님",
+  "first_seen_at": "2026-10-31T08:03:46+09:00",
+  "last_verified_at": "2026-10-31T08:05:29+09:00",
+  "published_date": "2026-10-30",
+  "modified_date": null,
+  "event_date": "2026-11-27",
+  "effective_date": "2026-11-02",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["국립한국교통대학교", "국립한국교통대학교 창업지원교육센터"],
+  "regions": ["충청북도", "충주시"],
+  "sectors": ["미래모빌리티", "메이커교육"],
+  "keywords": ["모빌리티", "아두이노", "메이커", "해커톤", "시제품", "비교과"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261031-001-F1",
+      "text": "국립한국교통대학교 창업지원교육센터는 2026-10-30 '2026 IDF 드림메이커 해커톤' 참가자 모집 공지를 게시했으며 행사는 2026-11-27 09:00~18:00 학생회관 205호 IDF에서 열릴 예정이다.",
+      "source_urls": ["https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763"],
+      "evidence_locator": "대학 일반소식 본문 프로그램명·일시·장소·등록일",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261031-001-F2",
+      "text": "모집기간은 2026-11-02부터 2026-11-20까지이며 대상은 국립한국교통대학교 재학생 6팀으로, 팀은 3~6명 내외이고 개인 신청자는 행사 과정에서 팀 매칭을 받을 예정이다.",
+      "source_urls": ["https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763"],
+      "evidence_locator": "대학 일반소식 본문 모집기간·대상·팀 구성",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261031-001-F3",
+      "text": "참가자는 아두이노 재료와 메이커 역량을 활용해 모빌리티 아이디어를 구상·제작·발표하며, 신청 완료에는 UTRO+ 개인 신청과 IDF 홈페이지의 팀 대표 또는 개인 신청서 제출이 모두 필요하다.",
+      "source_urls": ["https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763"],
+      "evidence_locator": "대학 일반소식 본문 주요내용·신청방법",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 IDF 드림메이커 해커톤 참가자 모집 안내",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763",
+      "published_date": "2026-10-30",
+      "accessed_at": "2026-10-31T08:05:29+09:00",
+      "verification_scope": "프로그램명·일시·장소·대상·팀 구성·모집기간·내용·신청방법·혜택 확인",
+      "evidence_locator": "대학 일반소식 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "국립한국교통대학교 재학생; 팀 3~6명 내외 또는 개인 신청",
+    "support": "아두이노 재료 활용 제작·멘토링 구조, 평가 상위 3개 팀 부상·상장, 만족도 조사 완료 시 인증시간·마일리지",
+    "deadline": "2026-11-20",
+    "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763",
+    "current_status": "모집 예정·2026-11-02 접수 시작·6팀 선착순",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "모빌리티 문제를 아이디어 구상에서 하드웨어 시제품 제작·발표까지 하루에 연결하는 재학생 대상 교내 메이커 프로젝트",
+    "interpretations": ["AI 부트캠프 학생에게 필요한 센서·제어·시제품·협업 경험을 보완할 수 있는 비교과 구조이나 공개 공지에는 AI 모델 개발·데이터 활용이 명시되지 않았다."],
+    "proposed_action": "부트캠프의 자율주행·로보틱스 AI 프로젝트와 연계 안내할 경우 AI 과제 포함 여부와 성과 중복계상 기준을 먼저 확인",
+    "prerequisites": ["부트캠프 사업지침상 교내 비교과 연계 및 실적 인정요건", "IDF 운영진과의 과제·장비·안전 기준 확인", "UTRO+·IDF 이중 신청 완료 여부", "참여·산출물·평가 증빙 기준"],
+    "limitations": ["부트캠프 사업단 주관 프로그램이 아님", "AI 모델·데이터셋·센서 사양·평가기준은 공개 본문에서 확인되지 않음", "모집·운영·성과는 계획 단계임"]
+  },
+  "development": {
+    "use_cases": ["교육과정", "비교과", "산학프로젝트", "학생지원", "성과관리"],
+    "transferable_mechanism": "팀 또는 개인을 모집해 팀 매칭 후 모빌리티 아이디어를 아두이노 기반 시제품으로 제작·발표하고 결과물·평가·만족도를 남기는 1일 집중 프로젝트",
+    "evidence_fact_ids": ["NEWS-20261031-001-F1", "NEWS-20261031-001-F2", "NEWS-20261031-001-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["메이커 공간·아두이노 재료·안전관리", "모빌리티·제어 멘토", "팀 매칭·산출물·평가 기록체계"],
+    "eligibility_checks": ["국립한국교통대학교 재학생 여부", "6팀 선착순 잔여 여부", "UTRO+와 IDF 홈페이지 이중 신청 완료", "부트캠프 성과 인정·중복계상 가능 여부"],
+    "evidence_gaps": ["AI 기술 적용 여부", "상세 과제·평가기준", "실제 참가·완성·수상 결과"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": ["NEWS-20261029-002"],
+  "report_paths": ["reports/2026/10/2026-10-31.md"],
+  "changes": [
+    {
+      "changed_at": "2026-10-31T08:05:29+09:00",
+      "run_id": "20261031T080346+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 검색기간 내 대학 공식 공지를 원문 검증해 신규 등록",
+      "source_urls": ["https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763"]
+    }
+  ]
+}

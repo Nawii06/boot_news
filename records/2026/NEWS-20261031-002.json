@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261031-002",
+  "title": "중소제조 피지컬 AI 확산 전략",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "중소 제조기업의 데이터·AI·로봇 전환과 제조AI 전문인력 양성 방향을 제시해 충북 제조기업 수요조사·교육과정·산학프로젝트 설계에 참고 가능하나 부트캠프 운영지침 변경이나 현재 모집공고는 아님",
+  "first_seen_at": "2026-10-31T08:03:46+09:00",
+  "last_verified_at": "2026-10-31T08:05:29+09:00",
+  "published_date": "2026-10-29",
+  "modified_date": null,
+  "event_date": "2026-10-29",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": ["중소벤처기업부", "국무조정실"],
+  "regions": ["대한민국"],
+  "sectors": ["제조업", "인공지능", "로봇", "스마트제조"],
+  "keywords": ["피지컬AI", "제조AI", "DX", "AX", "RX", "스마트공장", "현장실습", "계약학과"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261031-002-F1",
+      "text": "중소벤처기업부는 2026-10-29 국가정책조정회의에서 2030년까지 스마트제조혁신에 국가재정 5조 원 이상을 투입하고 DX·AX·RX를 연계하는 '3X 전략'을 추진한다고 발표했다.",
+      "source_urls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974541", "https://m.korea.kr/briefing/policyBriefingView.do?newsId=156787073"],
+      "evidence_locator": "정책브리핑 정책뉴스 서두 및 부처 브리핑 주요 전략",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261031-002-F2",
+      "text": "정부 목표는 2030년까지 중소 제조업 디지털 전환율을 30%에서 50%로, AI 도입률을 1%에서 10%로 높이고 디지털 전환기업 3만 곳과 AI 도입기업 6천 곳을 달성하는 것이다.",
+      "source_urls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974541", "https://m.korea.kr/briefing/policyBriefingView.do?newsId=156787073"],
+      "evidence_locator": "정책브리핑 정책뉴스 목표 수치 및 부처 브리핑 주요 전략",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261031-002-F3",
+      "text": "발표에는 제조AI 데이터센터 등 지역 거점과 실증 인프라를 연계하고, 4대 과학기술원의 지역산업 연계 교육과 현장 인턴십을 통해 청년인재를 AX 실무·전문인력으로 육성하며 재직자 교육으로 현장 인력의 AI 운용역량을 높이는 계획이 포함됐다.",
+      "source_urls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974541"],
+      "evidence_locator": "정책브리핑 본문 지역 거점과 전문인력 확산기반 대목",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입",
+      "publisher": "대한민국 정책브리핑·중소벤처기업부",
+      "source_type": "government_official",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974541",
+      "normalized_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974541",
+      "published_date": "2026-10-29",
+      "accessed_at": "2026-10-31T08:05:29+09:00",
+      "verification_scope": "투자규모·전환목표·기업수·실증·인력양성 계획 확인",
+      "evidence_locator": "정책뉴스 본문"
+    },
+    {
+      "title": "국가정책조정회의 주요 안건 발표 - 중소제조 피지컬 AI 확산 전략",
+      "publisher": "대한민국 정책브리핑·중소벤처기업부",
+      "source_type": "government_official",
+      "url": "https://m.korea.kr/briefing/policyBriefingView.do?newsId=156787073",
+      "normalized_url": "https://m.korea.kr/briefing/policyBriefingView.do?newsId=156787073",
+      "published_date": "2026-10-29",
+      "accessed_at": "2026-10-31T08:05:29+09:00",
+      "verification_scope": "정책 배경·3X 전략·목표수치·4대 분야 추진방향 확인",
+      "evidence_locator": "부처 브리핑 전문 중 중소벤처기업부 발표"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "정부 전략 발표·세부 사업별 공고 및 대학 참여요건 확인 필요",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "중소 제조기업을 대상으로 데이터 기반 DX에서 제조AI·로봇 실증, 인력양성·현장실습까지 연결하는 국가 전략",
+    "interpretations": ["확인된 발표는 제조기업 현장문제와 교육·현장실습을 잇는 수요가 확대될 가능성을 보여주지만, 국립한국교통대학교 또는 부트캠프 사업단의 참여·예산·성과인정을 보장하지 않는다."],
+    "proposed_action": "충북·충주 제조기업의 공정 데이터·AI·로봇 수요를 기업수요조사 항목으로 세분화하고 과제화 가능성을 검토",
+    "prerequisites": ["후속 세부사업 공고와 대학·기업 자격 확인", "부트캠프 사업지침 및 중복재정지원 기준", "지역 제조기업의 실제 데이터·장비·보안·멘토 수요 확인", "현장실습 학점·보험·협약 기준 확인"],
+    "limitations": ["전략 발표 단계로 개별 지원사업의 예산·대상·일정은 미확정 또는 별도 공고 필요", "충북·충주 또는 국립한국교통대학교 참여는 확인되지 않음", "목표 수치는 2030년까지의 계획이며 현재 실적이 아님"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "재직자교육", "산학프로젝트", "현장실습인턴십", "기업수요조사"],
+    "transferable_mechanism": "기업 AI 역량진단→데이터 기반 구축→공정 AI·로봇 실증→지역산업 연계 교육→중소기업 현장실습으로 이어지는 단계형 구조",
+    "evidence_fact_ids": ["NEWS-20261031-002-F1", "NEWS-20261031-002-F2", "NEWS-20261031-002-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업 공정데이터와 보안·반출 기준", "AI·로봇 실습장비와 시뮬레이션 환경", "기업 멘토·현장실습 협약·보험", "후속사업 자격과 대응인력"],
+    "eligibility_checks": ["후속 공고의 대학·기업 참여자격", "부트캠프와 타 재정지원사업 간 중복지원·성과계상", "현장실습 학점·학생 신분·안전·보험 요건"],
+    "evidence_gaps": ["후속 세부사업 공고와 지역별 배분", "충북·충주 기업의 구체 수요", "국립한국교통대학교 참여 가능성", "교육·현장실습 성과지표"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": ["NEWS-20261019-006"],
+  "report_paths": ["reports/2026/10/2026-10-31.md"],
+  "changes": [
+    {
+      "changed_at": "2026-10-31T08:05:29+09:00",
+      "run_id": "20261031T080346+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "직전 회차 기본기간에 포함됐으나 미수집된 정부 공식자료를 72시간 누락보완으로 신규 등록",
+      "source_urls": ["https://www.korea.kr/news/policyNewsView.do?newsId=148974541", "https://m.korea.kr/briefing/policyBriefingView.do?newsId=156787073"]
+    }
+  ]
+}

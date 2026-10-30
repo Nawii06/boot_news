@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261031T080346+0900",
+  "scheduled_at": "2026-10-31T08:00:00+09:00",
+  "cutoff_at": "2026-10-31T08:00:00+09:00",
+  "started_at": "2026-10-31T08:03:46+09:00",
+  "collection_completed_at": "2026-10-31T08:05:29+09:00",
+  "search_window": {"start": "2026-10-30T08:00:00+09:00", "end": "2026-10-31T08:00:00+09:00"},
+  "supplement_windows": [
+    {"start": "2026-10-28T08:00:00+09:00", "end": "2026-10-31T08:00:00+09:00", "reason": "직접 관련 신규자료가 제한적이어서 72시간 누락보완; 직전 회차 기본기간의 중소제조 피지컬 AI 전략을 추가 확인"}
+  ],
+  "search_status": "completed_with_limits",
+  "queries": [
+    "2026-10-30 국립한국교통대학교 부트캠프 AI site:ut.ac.kr OR site:aicc.ut.ac.kr",
+    "2026-10-30 첨단산업 인재양성 부트캠프 교육부 KIAT AI",
+    "2026-10-30 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026-10-30 대학 기업 AI 현장실습 인턴십 취업 미래모빌리티",
+    "site:aicc.ut.ac.kr/cop/bbs 2026-10-30 AI 교육 모집",
+    "2026 IDF 드림 메이커 해커톤",
+    "2026-10-30 충북 AI 제조AX 인재양성",
+    "2026-10-30 피지컬AI 로봇 대학 인재양성 교육",
+    "중소제조 피지컬 AI 확산 전략 중소벤처기업부"
+  ],
+  "checked_official_sites": [
+    "https://www.ut.ac.kr/",
+    "https://aicc.ut.ac.kr/",
+    "https://www.moe.go.kr/",
+    "https://www.kiat.or.kr/",
+    "https://www.mss.go.kr/",
+    "https://www.korea.kr/",
+    "https://www.chungbuk.go.kr/",
+    "https://www.chungju.go.kr/",
+    "https://github.com/Nawii06/boot_news"
+  ],
+  "verification_failures": [
+    {"url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125685", "reason": "전담인력 최종합격자 공고 이후 실제 임용일·근무개시·업무분장을 확인할 후속 공개자료를 찾지 못함"},
+    {"url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763", "reason": "IDF 해커톤의 AI 모델·데이터셋·센서 사양·평가기준은 공개 본문에서 확인되지 않음"}
+  ],
+  "excluded_candidates": [
+    {"url": "https://www.hankyung.com/article/202610294718h", "reason": "대학 총장 인터뷰의 장래 구상으로 구체적 공고·운영구조·검증성과가 부족해 핵심 이슈에서 제외"},
+    {"url": "https://www.etnews.com/20261030000023", "reason": "광운대 AI·로봇 비전 선포 사례는 공식 원문과 세부 교육·기업협력 조건을 추가 확인하지 못해 제외"},
+    {"url": "https://www.onoffmix.com/event/352189", "reason": "제조AI 교육·인턴십은 민간 모집 플랫폼에 게시됐고 원 주관기관 공식자료 및 최신 마감 상태를 확인하지 못해 제외"}
+  ],
+  "previous_success_run_id": "20261030T080427+0900",
+  "coverage_gaps": [
+    "교육부·KIAT·충북도·충주시 공식 게시판은 검색엔진 노출 및 접근 가능한 상세페이지 범위에서 확인했으며 전체 게시판 완전수집은 보장하지 못함",
+    "2026-10-31 당일 게시물은 기준시각 08:00 이전 공개 여부를 확인할 수 없는 경우 신규 확정에서 제외함",
+    "중소제조 피지컬 AI 전략의 후속 세부사업·대학 참여자격·충북 배분·공고일정은 확인되지 않음",
+    "IDF 해커톤의 AI 과제성·세부 평가기준·실제 참가·성과는 확인되지 않음"
+  ],
+  "issue_ids": {
+    "NEWS-20261031-001": "new",
+    "NEWS-20261031-002": "new",
+    "NEWS-20261028-001": "unchanged"
+  },
+  "counts": {"new": 2, "updated": 0, "unchanged": 1, "correction": 0, "duplicate_review": 0, "unprocessed": 0},
+  "report_path": "reports/2026/10/2026-10-31.md",
+  "changed_paths": [
+    "reports/2026/10/2026-10-31.md",
+    "records/2026/NEWS-20261031-001.json",
+    "records/2026/NEWS-20261031-002.json",
+    "indexes/2026-10.md",
+    "manifests/2026/10/20261031T080346+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

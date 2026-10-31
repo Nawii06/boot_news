@@ -6,13 +6,13 @@
   "priority": "B",
   "priority_reason": "충주 지역의 돌봄·공공서비스 문제를 AI 다학제 집중 프로젝트와 연결한 교내 비교과 사례로 교육과정·지역연계 설계에 참고 가능",
   "first_seen_at": "2026-10-29T08:04:29+09:00",
-  "last_verified_at": "2026-10-29T08:06:57+09:00",
+  "last_verified_at": "2026-11-01T08:02:43+09:00",
   "published_date": "2026-10-28",
   "modified_date": null,
   "event_date": "2026-11-23",
   "effective_date": "2026-10-29",
   "freshness": "new_24h",
-  "change_status": "new",
+  "change_status": "correction",
   "organizations": [
     "국립한국교통대학교",
     "국립한국교통대학교 공학교육혁신센터"
@@ -71,7 +71,7 @@
     },
     {
       "fact_id": "NEWS-20261029-002-F4",
-      "text": "공지에는 2박 3일 숙식, 공결 협조, 비교과 마일리지 80점, 인증시간 16시간과 대상 1팀 50만원·최우수 1팀 40만원·우수 1팀 30만원·장려 2팀 각 20만원의 시상이 안내돼 있다.",
+      "text": "공지에는 2박 3일 숙식, 공결 협조, 비교과 마일리지 80점, 인증시간 16시간과 대상 1팀 50만원·최우수 1팀 40만원·우수 2팀 각 30만원·장려 2팀 각 20만원의 시상(총 6팀·190만원)이 안내돼 있다.",
       "source_urls": [
         "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
       ],
@@ -94,7 +94,7 @@
   ],
   "notice": {
     "eligibility": "국립한국교통대학교 공학계열 재학생",
-    "support": "2박 3일 숙식, 공결 협조, 비교과 마일리지 80점, 인증시간 16시간, 5개 팀 총 190만원 시상",
+    "support": "2박 3일 숙식, 공결 협조, 비교과 마일리지 80점, 인증시간 16시간, 6개 팀 총 190만원 시상",
     "deadline": "2026-11-12",
     "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668",
     "current_status": "2026-10-29 접수 시작·선착순 조기마감 가능",
@@ -168,6 +168,18 @@
       "source_urls": [
         "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
       ]
+    },
+    {
+      "changed_at": "2026-11-01T08:02:43+09:00",
+      "run_id": "20261101T080131+0900",
+      "field": "verified_facts[NEWS-20261029-002-F4].text, notice.support",
+      "before": "우수상 1팀, 총 시상 5개 팀",
+      "after": "우수상 2팀, 총 시상 6개 팀·190만원",
+      "reason": "대학 공식 공지 본문은 우수상 2팀을 명시하므로 기존 구조화 레코드의 팀 수 오기를 정정",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000001195/selectBoardArticle.do?bbsId=BBSMSTR_000000001195&nttId=1125668"
+      ]
     }
   ]
 }
+

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261101T080131+0900",
+  "scheduled_at": "2026-11-01T08:00:00+09:00",
+  "cutoff_at": "2026-11-01T08:00:00+09:00",
+  "started_at": "2026-11-01T08:01:31+09:00",
+  "collection_completed_at": "2026-11-01T08:02:43+09:00",
+  "search_window": {
+    "start": "2026-10-31T08:00:00+09:00",
+    "end": "2026-11-01T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-29T08:00:00+09:00",
+      "end": "2026-11-01T08:00:00+09:00",
+      "reason": "직접 관련 신규자료가 제한적이어서 72시간 누락 여부와 진행 공고 상태를 보완 확인"
+    }
+  ],
+  "search_status": "completed_no_new_issue",
+  "queries": [
+    "2026-10-31 국립한국교통대학교 부트캠프 AI site:ut.ac.kr OR site:aicc.ut.ac.kr",
+    "2026-10-31 첨단산업 인재양성 부트캠프 교육부 KIAT AI",
+    "2026-10-31 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026-10-31 대학 기업 AI 현장실습 인턴십 취업 미래모빌리티",
+    "site:moe.go.kr 2026-10-31 인공지능 인재양성 대학",
+    "site:kiat.or.kr 2026-10-31 첨단산업 인재양성 부트캠프",
+    "site:chungbuk.go.kr 2026-10-31 AI 인재양성 제조AI",
+    "site:chungju.go.kr 2026-10-31 AI 인재양성 제조AI"
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교 일반소식",
+    "국립한국교통대학교 공학교육혁신센터",
+    "교육부",
+    "한국산업기술진흥원",
+    "충청북도",
+    "충주시"
+  ],
+  "verification_failures": [],
+  "excluded_candidates": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125685",
+      "reason": "2026-10-28 전담인력 최종합격자 공고로 기존 NEWS-20261019-001에 반영됐고 새 사실 없음"
+    },
+    {
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?MenuId=b159c9dac684471b87256f1e25404f5e&board_id=90&contents_id=a91f83b67f1e437cb75e3599baccea80",
+      "reason": "기존 첨단분야 인턴십 공고로 기본 검색기간의 신규 사건이 아니며 이번 회차 실질 변경 미확인"
+    }
+  ],
+  "previous_success_run_id": "20261031T080346+0900",
+  "coverage_gaps": [
+    "검색엔진 색인 지연 가능성",
+    "공식 게시물에 잔여 모집정원·실제 신청인원 미공개",
+    "기준일 당일 게시물은 08:00 이전 공개시각을 확인할 수 없으면 신규 확정에서 제외"
+  ],
+  "issue_ids": {
+    "NEWS-20261028-001": "unchanged",
+    "NEWS-20261029-002": "correction",
+    "NEWS-20261031-001": "unchanged"
+  },
+  "counts": {
+    "new": 0,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 1,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-01.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-01.md",
+    "indexes/2026-11.md",
+    "records/2026/NEWS-20261029-002.json",
+    "manifests/2026/11/20261101T080131+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

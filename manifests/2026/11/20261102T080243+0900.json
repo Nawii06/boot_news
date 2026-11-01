@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261102T080243+0900",
+  "scheduled_at": "2026-11-02T08:00:00+09:00",
+  "cutoff_at": "2026-11-02T08:00:00+09:00",
+  "started_at": "2026-11-02T08:02:43+09:00",
+  "collection_completed_at": "2026-11-02T08:04:52+09:00",
+  "search_window": {
+    "start": "2026-11-01T08:00:00+09:00",
+    "end": "2026-11-02T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-10-30T08:00:00+09:00",
+      "end": "2026-11-02T08:00:00+09:00",
+      "reason": "직접 관련 신규자료 부족에 따른 72시간 보완 및 진행 공고 상태 확인"
+    }
+  ],
+  "search_status": "completed_no_new_issue",
+  "queries": [
+    "2026-11-01 국립한국교통대학교 부트캠프 AI",
+    "2026-11-01 첨단산업 인재양성 부트캠프 교육부 KIAT AI",
+    "2026-11-01 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026-11-01 대학 기업 AI 현장실습 인턴십 취업 미래모빌리티",
+    "site:moe.go.kr 첨단산업 인재양성 부트캠프 AI 2026-11-01",
+    "site:kiat.or.kr 첨단산업 인재양성 부트캠프 2026-11-01",
+    "site:chungbuk.go.kr AI 인재양성 제조AI 2026-11-01",
+    "site:chungju.go.kr AI 인재양성 제조AI 2026-11-01"
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교 일반소식",
+    "교육부 보도자료·공지",
+    "한국산업기술진흥원 사업공고·보도자료",
+    "충청북도 보도자료·공고",
+    "충주시 보도자료·공고"
+  ],
+  "verification_failures": [],
+  "excluded_candidates": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125688",
+      "reason": "기존 사회기여형 AI 해커톤 공고로 이번 회차 핵심 사실 변동 없음"
+    },
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125763",
+      "reason": "기존 IDF 드림메이커 해커톤의 예정 접수일 도래로 새 사건 아님"
+    }
+  ],
+  "previous_success_run_id": "20261101T080131+0900",
+  "coverage_gaps": [
+    "검색엔진 색인 지연으로 기준시각 직전 게시물이 누락될 수 있음",
+    "IDF 해커톤의 기준시각 현재 잔여 팀 수와 개인 신청자 팀 매칭 결과는 공개자료에서 확인하지 못함",
+    "교육 개시 강좌의 실제 참여자·출석·이수·산출물은 공개자료에서 확인하지 못함"
+  ],
+  "issue_ids": {
+    "NEWS-20261028-001": "unchanged",
+    "NEWS-20261030-001": "unchanged",
+    "NEWS-20261031-001": "unchanged"
+  },
+  "counts": {
+    "new": 0,
+    "updated": 0,
+    "unchanged": 3,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-02.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-02.md",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261102T080243+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

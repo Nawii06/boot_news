@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261103-002",
+  "title": "KNUT 생성형 AI 플랫폼 2단계 OTP 인증 시행",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "대학 생성형 AI 학습 플랫폼의 로그인 절차가 변경된 신규 운영사항으로 AI 수업·비교과의 사전 접속점검과 계정보안 안내에 참고 가능",
+  "first_seen_at": "2026-11-03T07:55:53+09:00",
+  "last_verified_at": "2026-11-03T07:57:57+09:00",
+  "published_date": "2026-11-02",
+  "modified_date": null,
+  "event_date": "2026-11-02",
+  "effective_date": "2026-11-02",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 대학교육혁신원"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시"
+  ],
+  "sectors": [
+    "인공지능",
+    "교육플랫폼",
+    "정보보안",
+    "디지털 교육"
+  ],
+  "keywords": [
+    "생성형 AI 플랫폼",
+    "OTP",
+    "Google Authenticator",
+    "SSO",
+    "2단계 인증",
+    "계정보안"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261103-002-F1",
+      "text": "국립한국교통대학교 대학교육혁신원은 2026-11-02 KNUT 생성형 AI 플랫폼 사용자 보안 강화를 위해 로그인 2단계 OTP 인증을 추가한다고 공지했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780"
+      ],
+      "evidence_locator": "대학 공식 공지 제목·건명·시행일",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261103-002-F2",
+      "text": "대학은 최근 교육기관·금융권 개인정보 유출사고와 해외 IP 의심 사례 등에 따른 침해 위험 증가를 인증 강화의 목적으로 제시했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780"
+      ],
+      "evidence_locator": "대학 공식 공지 목적",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261103-002-F3",
+      "text": "이용 절차는 포털 SSO 로그인 후 Google Authenticator 앱에 플랫폼 QR코드를 최초 1회 등록하고, 플랫폼 이용 시 6자리 인증코드를 입력하는 방식이다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780"
+      ],
+      "evidence_locator": "대학 공식 공지 인증 방법",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261103-002-F4",
+      "text": "2단계 OTP 인증은 2026-11-02부터 시행되며 대학은 별도 매뉴얼을 첨부했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780"
+      ],
+      "evidence_locator": "대학 공식 공지 시행일·첨부 매뉴얼",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "KNUT 생성형 AI 플랫폼 사용자 보안 강화를 위한 로그인 OTP 인증 추가 안내",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780",
+      "published_date": "2026-11-02",
+      "accessed_at": "2026-11-03T07:57:57+09:00",
+      "verification_scope": "시행 목적, 인증 절차, 사용 앱, 코드 자릿수, 시행일, 매뉴얼 첨부 확인",
+      "evidence_locator": "대학 공식 공지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "KNUT 생성형 AI 플랫폼 사용자",
+    "support": "대학 공식 2단계 OTP 인증 매뉴얼 제공",
+    "deadline": null,
+    "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780",
+    "current_status": "2026-11-02 시행",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "생성형 AI 수업·비교과에서 사용하는 대학 플랫폼의 계정 접근절차 변경으로 사전 접속점검과 사용자 지원에 참고 가능",
+    "interpretations": [
+      "수업 전에 기기·앱·OTP 등록을 완료하도록 안내하면 교육 시작 시 인증 지연을 줄일 수 있다.",
+      "OTP는 계정 접근보안을 강화하지만 교육 데이터의 입력·저장·공유 기준 전체를 대신하지 않는다."
+    ],
+    "proposed_action": "생성형 AI 플랫폼 활용 프로그램 전에 사전 로그인 점검과 기기 교체·분실·인증오류 지원경로, 데이터 입력 보안기준을 함께 안내할지 검토",
+    "prerequisites": [
+      "대학 플랫폼 공식 이용·보안 지침 확인",
+      "휴대전화 미보유·교체·분실 시 복구 절차 확인",
+      "수업 전 인증 테스트와 장애지원 담당 확인",
+      "개인정보·기업데이터 입력·저장·공유 기준 확인"
+    ],
+    "limitations": [
+      "공지에는 OTP 초기화·기기변경·분실 시 복구 절차와 지원창구가 본문에 제시되지 않음",
+      "부트캠프 수업별 플랫폼 사용계획과 참여학생 계정 상태는 확인되지 않음",
+      "OTP 적용만으로 데이터 보안·저작권·개인정보 보호 준수 여부를 판단할 수 없음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "비교과",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "수업 전 SSO·OTP 사전등록→인증 테스트→장애지원→안전한 플랫폼 실습으로 이어지는 교육접근 관리",
+    "evidence_fact_ids": [
+      "NEWS-20261103-002-F1",
+      "NEWS-20261103-002-F2",
+      "NEWS-20261103-002-F3",
+      "NEWS-20261103-002-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "학생별 포털 계정과 휴대전화",
+      "Google Authenticator 설치·등록 안내",
+      "인증오류·기기변경 지원절차",
+      "교육 데이터 보안 안내"
+    ],
+    "eligibility_checks": [
+      "플랫폼 이용대상 계정 보유 여부",
+      "SSO·OTP 사전등록 완료 여부",
+      "수업별 플랫폼 사용 승인과 데이터 취급기준"
+    ],
+    "evidence_gaps": [
+      "OTP 초기화·기기변경·분실 복구 절차",
+      "장애지원 연락경로",
+      "부트캠프 수업별 실제 플랫폼 사용현황"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-03.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-03T07:57:57+09:00",
+      "run_id": "20261103T075553+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 검색기간 내 대학 생성형 AI 플랫폼의 신규 인증절차 시행을 공식 원문으로 검증해 등록",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125780"
+      ]
+    }
+  ]
+}

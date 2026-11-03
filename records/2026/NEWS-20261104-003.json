@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261104-003",
+  "title": "국립한국교통대 2027학년도 1학기 진로탐색학점제 CONNECT 프로젝트 모집",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "학생 자기주도 팀 프로젝트를 전공·산학 3학점과 활동지원금에 연결한 유연학사 운영 사례로 AI 지역문제·기업과제 프로젝트 설계에 참고 가능",
+  "first_seen_at": "2026-11-04T07:55:55+09:00",
+  "last_verified_at": "2026-11-04T08:00:12+09:00",
+  "published_date": "2026-11-03",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": "2026-11-03",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 취업성공지원과"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시"
+  ],
+  "sectors": [
+    "유연학사",
+    "진로탐색",
+    "프로젝트수업",
+    "학생지원"
+  ],
+  "keywords": [
+    "CONNECT 프로젝트",
+    "진로탐색학점제",
+    "전공학점",
+    "산학학점",
+    "팀 프로젝트",
+    "활동지원금"
+  ],
+  "program_year": 2027,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261104-003-F1",
+      "text": "국립한국교통대학교 취업성공지원과는 2027학년도 1학기 진로탐색학점제 CONNECT 프로젝트 참여학생을 2026-11-03부터 11-30까지 모집한다고 공지했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804"
+      ],
+      "evidence_locator": "대학 공식 공지 프로그램명·운영기간·모집기간",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261104-003-F2",
+      "text": "자율연계 프로젝트Ⅰ은 정규학기 1학기 이상 수료 예정 재학생, 전공연계 프로젝트Ⅰ은 3학기 이상 수료 예정 재학생이 대상이며 4~5명으로 구성한 15팀, 약 75명을 모집한다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804"
+      ],
+      "evidence_locator": "대학 공식 공지 모집대상·인원·팀 구성",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261104-003-F3",
+      "text": "참가혜택은 팀당 활동지원금 최대 250만원, 전공 또는 산학 3학점, 우수과정 시상금 총 100만원이며 동일 교과목은 2회 이상 수강할 수 없고 참여는 최대 2회로 제한된다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804"
+      ],
+      "evidence_locator": "대학 공식 공지 참가혜택·신청제한",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261104-003-F4",
+      "text": "신청자는 참가신청 양식과 팀원 전원의 성적증명서를 취업성공지원과에 방문 또는 이메일로 제출해야 한다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804"
+      ],
+      "evidence_locator": "대학 공식 공지 신청방법",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2027학년도 1학기 진로탐색학점제(CONNECT 프로젝트) 운영 및 모집 안내",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804",
+      "published_date": "2026-11-03",
+      "accessed_at": "2026-11-04T08:00:12+09:00",
+      "verification_scope": "운영·모집기간, 학생자격, 팀·인원, 활동지원금·학점·시상, 신청제한·제출서류 확인",
+      "evidence_locator": "대학 공식 공지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "자율연계 프로젝트Ⅰ은 정규학기 1학기 이상 수료(예정) 재학생, 전공연계 프로젝트Ⅰ은 3학기 이상 수료(예정) 재학생; 4~5명 팀",
+    "support": "15팀 약 75명, 팀당 활동지원금 최대 250만원, 전공 또는 산학 3학점, 우수과정 시상금 총 100만원",
+    "deadline": "2026-11-30",
+    "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804",
+    "current_status": "모집 중",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "학생 자기주도 팀 프로젝트를 학점·활동비·시상에 연결한 유연학사 사례로 AI 지역문제·기업과제형 프로젝트 운영 검토에 참고 가능",
+    "interpretations": [
+      "팀 구성→계획서·성적증명 검토→학기 프로젝트→학점·활동비·시상으로 이어지는 운영구조는 프로젝트형 교육의 학사·행정 설계에 참고할 수 있다.",
+      "공고는 주제·기업참여를 AI로 한정하지 않으므로 사업단 적용 전 AI 과제 적합성과 성과 인정기준을 별도 확인해야 한다."
+    ],
+    "proposed_action": "사업단 학생의 AI·모빌리티·지역문제 프로젝트 연계 가능성을 검토하고 주제 승인, 지도교원·기업멘토, 학점·사업비·성과 중복 기준을 확인",
+    "prerequisites": [
+      "AI 관련 프로젝트 주제 승인 가능 여부",
+      "지도교원·기업멘토 참여 구조 확인",
+      "활동비와 부트캠프 사업비 중복지원 여부",
+      "학점·마일리지·성과지표 중복계상 기준",
+      "산출물·중간점검·최종평가·권리 기준"
+    ],
+    "limitations": [
+      "AI 과제, 기업참여, 현장실증이 필수라는 내용은 확인되지 않음",
+      "부트캠프 사업단 참여자 우선선발이나 별도 지원은 확인되지 않음",
+      "실제 선발·운영·성과는 모집 단계에서 확인되지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "산학프로젝트",
+      "학생지원",
+      "성과관리",
+      "사업비행정"
+    ],
+    "transferable_mechanism": "팀 구성·계획서 제출→주제·학생자격 심사→학기 프로젝트→활동비·학점→우수과정 시상·성과증빙",
+    "evidence_fact_ids": [
+      "NEWS-20261104-003-F1",
+      "NEWS-20261104-003-F2",
+      "NEWS-20261104-003-F3",
+      "NEWS-20261104-003-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "지도교원·프로젝트 심사인력",
+      "팀당 활동비 관리",
+      "학점·출결·평가 기준",
+      "산출물·성과·정산 증빙"
+    ],
+    "eligibility_checks": [
+      "수료학기 요건",
+      "4~5명 팀 구성",
+      "참여횟수·동일 교과목 제한",
+      "AI 주제와 사업단 성과 인정 가능 여부"
+    ],
+    "evidence_gaps": [
+      "AI 주제 승인 범위",
+      "기업멘토·기업과제 참여 여부",
+      "선발평가와 활동비 집행기준",
+      "부트캠프 사업성과 연계 가능성"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-04.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-04T08:00:12+09:00",
+      "run_id": "20261104T075555+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 검색기간 내 대학 공식 진로탐색학점제 모집을 원문으로 확인해 신규 등록",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125804"
+      ]
+    }
+  ]
+}

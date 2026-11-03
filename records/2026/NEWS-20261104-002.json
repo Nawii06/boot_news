@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261104-002",
+  "title": "펄어비스 2026학년도 동계 채용연계형 현장실습 모집",
+  "category": "industry",
+  "priority": "A",
+  "priority_reason": "기업 공식 채용공고와 대학 현장실습 공지가 함께 확인된 구체적인 채용연계형 실습 기회로 학생 자격·직무·기간·마감·이중신청을 즉시 안내할 필요가 있음",
+  "first_seen_at": "2026-11-04T07:55:55+09:00",
+  "last_verified_at": "2026-11-04T08:00:12+09:00",
+  "published_date": "2026-11-03",
+  "modified_date": null,
+  "event_date": "2026-12-23",
+  "effective_date": "2026-11-03",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 현장실습지원센터",
+    "펄어비스"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시",
+    "경기도",
+    "과천시",
+    "안양시"
+  ],
+  "sectors": [
+    "게임산업",
+    "현장실습",
+    "채용연계",
+    "3D 모델링",
+    "게임기획"
+  ],
+  "keywords": [
+    "펄어비스",
+    "게임디자인",
+    "게임모델링",
+    "채용연계형",
+    "동계 현장실습",
+    "자체 엔진",
+    "K-RISE"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261104-002-F1",
+      "text": "국립한국교통대학교 현장실습지원센터는 2026-11-03 펄어비스 게임디자인과 게임모델링 직무의 채용연계형 현장실습을 공지하고 대학 현장실습 시스템과 펄어비스 채용 홈페이지 양쪽 모두에 지원하도록 안내했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125811"
+      ],
+      "evidence_locator": "대학 공식 공지 모집분야·신청방법",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261104-002-F2",
+      "text": "펄어비스 공식 공고에서 게임디자인은 자체 엔진을 활용한 캐릭터·몬스터·아이템·퀘스트 등 게임플레이 제작, 게임모델링은 프로젝트 콘셉트에 맞는 3D 모델링 리소스 제작을 실습내용으로 제시했다.",
+      "source_urls": [
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=860",
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=861"
+      ],
+      "evidence_locator": "기업 공식 직무별 모집요강 실습내용",
+      "claim_type": "company_claim"
+    },
+    {
+      "fact_id": "NEWS-20261104-002-F3",
+      "text": "게임디자인은 2026-12-23부터 2027-02-26까지 2개월, 게임모델링은 2026-12-23부터 2027-06-25까지 총 6개월이며 계절학기 2개월 평가 합격자에 한해 다음 학기 4개월을 이어간다.",
+      "source_urls": [
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/NoticeDetail?_masterNo=58",
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=860",
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=861"
+      ],
+      "evidence_locator": "기업 공식 채용 공지와 직무별 모집요강 실습기간",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261104-002-F4",
+      "text": "직무별 필수요건은 대학 현장실습 프로그램 참여가 가능한 재학생, 전체 실습기간 참여, 수료 뒤 채용연계 시 계속 근무 가능, 졸업 필수요건 충족이며 서류 마감은 2026-11-12 14:00이다.",
+      "source_urls": [
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=860",
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=861"
+      ],
+      "evidence_locator": "기업 공식 직무별 모집요강 필수 지원자격·지원기간",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026학년도 동계 현장실습(채용연계형) 펄어비스 게임디자인·게임모델링",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125811",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125811",
+      "published_date": "2026-11-03",
+      "accessed_at": "2026-11-04T08:00:12+09:00",
+      "verification_scope": "대학 대상 현장실습 공지, 직무, 실습기간·근무시간·지원비·근무지, 이중신청 경로 확인",
+      "evidence_locator": "대학 공식 공지 본문"
+    },
+    {
+      "title": "2026 겨울 계절학기 채용연계형 현장실습 안내",
+      "publisher": "펄어비스",
+      "source_type": "company_official",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/NoticeDetail?_masterNo=58",
+      "normalized_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/NoticeDetail?_masterNo=58",
+      "published_date": "2026-10-13",
+      "accessed_at": "2026-11-04T08:00:12+09:00",
+      "verification_scope": "직무별 모집·면접·실습기간과 모델링 평가 후 연장 구조 확인",
+      "evidence_locator": "기업 공식 채용 공지 본문"
+    },
+    {
+      "title": "2026 겨울 계절학기 채용연계형 현장실습 - 게임디자인(기획)",
+      "publisher": "펄어비스",
+      "source_type": "company_official",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=860",
+      "normalized_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=860",
+      "published_date": "2026-10-19",
+      "accessed_at": "2026-11-04T08:00:12+09:00",
+      "verification_scope": "게임디자인 실습내용·필수자격·기간·근무지·선발절차·마감 확인",
+      "evidence_locator": "기업 공식 직무별 모집요강"
+    },
+    {
+      "title": "2027 상반기 펄어비스 PA아트센터 채용연계형 현장실습 - 게임 모델링",
+      "publisher": "펄어비스",
+      "source_type": "company_official",
+      "url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=861",
+      "normalized_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=861",
+      "published_date": "2026-10-19",
+      "accessed_at": "2026-11-04T08:00:12+09:00",
+      "verification_scope": "게임모델링 실습내용·필수자격·기간·평가·근무지·선발절차·마감 확인",
+      "evidence_locator": "기업 공식 직무별 모집요강"
+    }
+  ],
+  "notice": {
+    "eligibility": "대학교 재학생 중 현장실습 프로그램 참여 가능, 직무별 전체 실습기간 참여 가능, 수료 뒤 채용연계 시 계속 근무 가능, 졸업 필수요건 충족",
+    "support": "대학 공지 기준 실습지원비 총 2,300,000원 및 식사 제공; 학점·보험 등은 대학 현장실습 요건 별도 확인",
+    "deadline": "2026-11-12T14:00:00+09:00",
+    "application_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List",
+    "current_status": "모집 중·대학 시스템과 기업 채용페이지 이중신청 필요",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "직무·기업선발·현장실습·평가·채용연계를 한 흐름으로 확인할 수 있는 구체적 학생 취업연계 기회",
+    "interpretations": [
+      "기업 직무기술서와 선발절차가 공개돼 학생 포트폴리오·면접 준비를 직무 기준에 맞춰 지원할 수 있다.",
+      "게임기획·3D 모델링 중심 공고이며 AI 모델 개발은 명시되지 않아 AI 산학프로젝트 성과로 자동 분류할 수 없다."
+    ],
+    "proposed_action": "관심학생의 자격·기간·졸업요건을 확인하고 대학·기업 이중신청, 포트폴리오·필기·면접, 학점·보험·성과 증빙을 마감 전 점검",
+    "prerequisites": [
+      "직무별 학과·전공 적합성과 졸업요건 확인",
+      "대학 K-RISE와 기업 채용페이지 양쪽 신청 완료",
+      "게임모델링 6개월 참여와 2개월 평가구조 확인",
+      "학점·보험·실습비·사업단 성과·타 사업 중복 기준 확인"
+    ],
+    "limitations": [
+      "모집인원과 대학 내 추천·선발 방식은 공개 본문에서 확인되지 않음",
+      "채용연계는 기회이며 채용을 보장하는 성과가 아님",
+      "AI 기술 활용과 부트캠프 참여학생 우선선발은 확인되지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "현장실습인턴십",
+      "취업연계",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "기업 직무공고→대학·기업 이중신청→서류·필기·면접→현장실습→평가→채용연계 가능성으로 이어지는 직무기반 지원 구조",
+    "evidence_fact_ids": [
+      "NEWS-20261104-002-F1",
+      "NEWS-20261104-002-F2",
+      "NEWS-20261104-002-F3",
+      "NEWS-20261104-002-F4"
+    ],
+    "candidate_partners": [
+      "펄어비스(이번 공식 현장실습 운영기업으로 확인된 검토후보이며 추가 협력 가능성은 별도 협의 필요)"
+    ],
+    "resource_requirements": [
+      "직무별 포트폴리오·지원서 준비",
+      "서류·필기·면접 일정관리",
+      "대학·기업 이중신청 확인",
+      "학점·보험·안전·결과보고 증빙"
+    ],
+    "eligibility_checks": [
+      "재학생·현장실습 참여 가능 여부",
+      "직무별 전체 실습기간 참여 가능 여부",
+      "졸업 필수요건 충족 여부",
+      "수료 뒤 채용연계 시 근무 가능 여부",
+      "부트캠프 성과 인정 가능 여부"
+    ],
+    "evidence_gaps": [
+      "직무별 모집인원",
+      "대학 내 추천·선발 방식",
+      "AI 기술 활용 범위",
+      "실제 선발·수료·채용 결과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [
+    "NEWS-20261103-001"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-04.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-04T08:00:12+09:00",
+      "run_id": "20261104T075555+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 검색기간 내 대학 공식 채용연계형 현장실습 공고와 기업 직무별 모집요강을 교차 검증해 신규 등록",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125811",
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/NoticeDetail?_masterNo=58",
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=860",
+        "https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=861"
+      ]
+    }
+  ]
+}

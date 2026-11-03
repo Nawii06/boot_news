@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261104-001",
+  "title": "국립한국교통대 AICE Associate 자격취득 연계 AI 인증 교육",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "Python 기반 데이터 전처리·시각화·머신러닝·딥러닝 실습을 국가공인 AI 자격 응시와 연결한 대학 공식 비교과로 교육과정·학생지원 설계에 참고 가능",
+  "first_seen_at": "2026-11-04T07:55:55+09:00",
+  "last_verified_at": "2026-11-04T08:00:12+09:00",
+  "published_date": "2026-11-03",
+  "modified_date": null,
+  "event_date": "2026-11-23",
+  "effective_date": "2026-11-03",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 전산정보원",
+    "AICE"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시"
+  ],
+  "sectors": [
+    "인공지능",
+    "데이터분석",
+    "AI 자격",
+    "비교과교육"
+  ],
+  "keywords": [
+    "AICE Associate",
+    "Python",
+    "Pandas",
+    "데이터 전처리",
+    "머신러닝",
+    "딥러닝",
+    "VOD",
+    "자격시험"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261104-001-F1",
+      "text": "국립한국교통대학교 전산정보원은 컴퓨터공학과·소프트웨어공학과 재학생 중 Python 사용 가능자를 대상으로 AICE Associate 자격취득 연계 AI 인증 교육을 무료 운영한다고 2026-11-03 공지했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125817"
+      ],
+      "evidence_locator": "대학 공식 공지 프로그램 안내·신청대상·교육비",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261104-001-F2",
+      "text": "신청기간은 2026-10-30부터 2026-11-08까지이고 UTRO+에서 신청하며, VOD 사전학습과 2026-11-23부터 11-27까지 매일 18:00~21:00 오프라인 특강을 거쳐 자격시험 응시 기회를 제공한다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125817"
+      ],
+      "evidence_locator": "대학 공식 공지 교육방법·일정·신청일자·신청방법",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261104-001-F3",
+      "text": "교육내용은 AI 이해, Python 기초, Pandas, 데이터 전처리·시각화, 머신러닝·딥러닝, AI 모델링과 샘플문항 풀이이며 수료 혜택으로 인증시간 10시간과 마일리지 50M가 안내됐다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125817"
+      ],
+      "evidence_locator": "대학 공식 공지 주요 교육내용·수료혜택",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261104-001-F4",
+      "text": "AICE 공식 페이지는 AICE를 KT가 개발하고 한국경제신문과 함께 주관하는 인공지능 능력시험으로 설명한다.",
+      "source_urls": [
+        "https://aice.study/certi/examSchedule"
+      ],
+      "evidence_locator": "AICE 공식 시험일정 페이지 설명",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "VOD+현장 실습으로 AICE 자격증 한 번에 따기",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125817",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125817",
+      "published_date": "2026-11-03",
+      "accessed_at": "2026-11-04T08:00:12+09:00",
+      "verification_scope": "대상, 비용, 신청기간·경로, 교육방식·일정·내용, 수료혜택, 자격시험 연계 확인",
+      "evidence_locator": "대학 공식 공지 본문"
+    },
+    {
+      "title": "AICE 시험일정",
+      "publisher": "AICE",
+      "source_type": "company_official",
+      "url": "https://aice.study/certi/examSchedule",
+      "normalized_url": "https://aice.study/certi/examSchedule",
+      "published_date": null,
+      "accessed_at": "2026-11-04T08:00:12+09:00",
+      "verification_scope": "AICE 시험 주관 설명 확인",
+      "evidence_locator": "공식 시험일정 페이지"
+    }
+  ],
+  "notice": {
+    "eligibility": "국립한국교통대학교 컴퓨터공학과·소프트웨어공학과 재학생 중 Python 사용 가능자",
+    "support": "교육비 전액 무료, AICE Associate 자격시험 응시 기회, 인증시간 10시간, 마일리지 50M",
+    "deadline": "2026-11-08",
+    "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125817",
+    "current_status": "모집 중",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "AI 기초이론·데이터 처리·모델링을 사전 VOD, 현장 실습, 자격시험으로 연결한 단계형 교육 사례",
+    "interpretations": [
+      "사전학습→집중실습→외부 자격평가 구조는 부트캠프 학생의 선수역량 확인과 학습성과 증빙 방식에 참고할 수 있다.",
+      "참여대상이 두 학과 재학생으로 제한돼 있어 사업단 전체 학생에게 일반화할 수 없다."
+    ],
+    "proposed_action": "해당 학과의 사업단 참여학생에게 마감 전 안내할지 검토하고 수강·시험·마일리지의 사업단 성과 중복 인정 여부를 확인",
+    "prerequisites": [
+      "사업단 참여학생 중 공지상 학과·Python 요건 충족 여부",
+      "VOD·현장특강 출석과 수료기준 확인",
+      "자격시험 일정·응시료 지원범위 확인",
+      "기존 교과·비교과·마일리지 성과 중복 기준 확인"
+    ],
+    "limitations": [
+      "모집정원, 선발기준, 자격시험 날짜와 실제 응시료 지원액은 공지 본문에서 확인되지 않음",
+      "수료·자격취득 성과는 모집 단계에서 확인되지 않음",
+      "부트캠프 사업단 주관 프로그램이 아님"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "비교과",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "VOD 선수학습→전문강사 현장실습→외부 자격시험→인증시간·마일리지 증빙",
+    "evidence_fact_ids": [
+      "NEWS-20261104-001-F1",
+      "NEWS-20261104-001-F2",
+      "NEWS-20261104-001-F3",
+      "NEWS-20261104-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "VOD 학습환경",
+      "Python·Pandas 실습실",
+      "전문강사",
+      "시험응시·수료 증빙 관리"
+    ],
+    "eligibility_checks": [
+      "학과·재학·Python 가능 요건",
+      "부트캠프 성과 인정 가능 여부",
+      "자격시험 응시 지원범위"
+    ],
+    "evidence_gaps": [
+      "모집정원·선발기준",
+      "시험일·응시료 지원범위",
+      "실제 수료·자격취득 결과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-04.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-04T08:00:12+09:00",
+      "run_id": "20261104T075555+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 검색기간 내 대학 공식 AI 인증 교육 모집을 원문으로 확인해 신규 등록",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125817",
+        "https://aice.study/certi/examSchedule"
+      ]
+    }
+  ]
+}

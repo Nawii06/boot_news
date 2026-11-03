@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261104T075555+0900",
+  "scheduled_at": "2026-11-04T08:00:00+09:00",
+  "cutoff_at": "2026-11-04T08:00:00+09:00",
+  "started_at": "2026-11-04T07:55:55+09:00",
+  "collection_completed_at": "2026-11-04T08:06:58+09:00",
+  "search_window": {
+    "start": "2026-11-03T08:00:00+09:00",
+    "end": "2026-11-04T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-01T08:00:00+09:00",
+      "end": "2026-11-04T08:00:00+09:00",
+      "reason": "직접 사업 공고·정부지침 변화 누락 여부와 진행 공고 상태의 72시간 보완 확인"
+    }
+  ],
+  "search_status": "completed",
+  "queries": [
+    "2026-11-03 국립한국교통대학교 부트캠프 AI site:ut.ac.kr OR site:aicc.ut.ac.kr",
+    "2026-11-03 첨단산업 인재양성 부트캠프 교육부 KIAT AI",
+    "2026-11-03 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026-11-03 대학 기업 AI 현장실습 인턴십 취업 미래모빌리티",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr AICE Associate 2026.11.03",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr 펄어비스 2026학년도 동계 현장실습",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr 2027학년도 1학기 진로탐색학점제",
+    "site:moe.go.kr 2026-11-03 첨단산업 인재양성 부트캠프 AI 대학",
+    "site:kiat.or.kr 2026-11-03 첨단산업 인재양성 부트캠프 AI",
+    "site:chungbuk.go.kr 2026-11-03 AI 인재양성 제조AI 제조AX 모빌리티",
+    "site:chungju.go.kr 2026-11-03 AI 인재양성 산학협력 제조",
+    "site:pearlabyss.com 동계 현장실습 게임디자인 게임모델링 2026",
+    "site:ut.ac.kr 2026학년도 동계 표준현장실습 참여기업 소개(1차)",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr 2026-11-04 AI 부트캠프"
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교 일반소식",
+    "교육부 보도자료·공지",
+    "한국산업기술진흥원 사업공고·보도자료",
+    "충청북도 보도자료·공고",
+    "충주시 보도자료·공고",
+    "펄어비스 채용공고",
+    "AICE 공식 시험일정"
+  ],
+  "verification_failures": [
+    "국립한국교통대학교 일부 상세 원문은 세션이 포함된 검색 URL의 직접 열람이 차단되어 공식 검색결과의 전체 본문과 일반소식 목록을 교차 대조함"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.kbmaeil.com/article/20261102500190",
+      "reason": "경북 계약학과 사례로 충북·충주 우선성과 직접 적용성이 낮고 이번 회차 신규 사건이 아님"
+    },
+    {
+      "url": "https://bootcamp.cu.ac.kr/notices/9699d6f3-a4b9-47f1-b9cd-2aa6fc92536d",
+      "reason": "다른 대학의 기존 설명회로 신청이 종료됐고 국립한국교통대 사업 운영에 즉시 적용할 신규 변경이 아님"
+    }
+  ],
+  "previous_success_run_id": "20261103T075553+0900",
+  "coverage_gaps": [
+    "검색엔진 색인 지연으로 기준시각 직전 게시물이 누락될 수 있음",
+    "11월 4일 당일 게시물은 기준시각 이전 공개 여부를 입증할 시각정보가 없어 신규 확정 대상에서 제외함",
+    "AICE 교육의 모집정원·선발기준·시험일·응시료 지원범위와 실제 수료·자격취득 결과는 확인하지 못함",
+    "펄어비스 직무별 모집인원, 대학 내 추천·선발 방식, AI 기술 활용범위와 실제 채용 결과는 확인하지 못함",
+    "CONNECT 프로젝트의 AI 주제 승인범위·기업멘토 참여·활동비 집행 세부기준은 확인하지 못함"
+  ],
+  "issue_ids": {
+    "NEWS-20261103-001": "updated",
+    "NEWS-20261104-001": "new",
+    "NEWS-20261104-002": "new",
+    "NEWS-20261104-003": "new"
+  },
+  "counts": {
+    "new": 3,
+    "updated": 1,
+    "unchanged": 0,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-04.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-04.md",
+    "records/2026/NEWS-20261103-001.json",
+    "records/2026/NEWS-20261104-001.json",
+    "records/2026/NEWS-20261104-002.json",
+    "records/2026/NEWS-20261104-003.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261104T075555+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

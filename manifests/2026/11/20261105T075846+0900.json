@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261105T075846+0900",
+  "scheduled_at": "2026-11-05T08:00:00+09:00",
+  "cutoff_at": "2026-11-05T08:00:00+09:00",
+  "started_at": "2026-11-05T07:58:46+09:00",
+  "collection_completed_at": "2026-11-05T08:01:20+09:00",
+  "search_window": {
+    "start": "2026-11-04T08:00:00+09:00",
+    "end": "2026-11-05T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-02T08:00:00+09:00",
+      "end": "2026-11-05T08:00:00+09:00",
+      "reason": "직접 사업 공고·정부지침 변화 누락 여부의 72시간 보완 확인"
+    },
+    {
+      "start": "2026-10-25",
+      "end": "2026-11-09",
+      "reason": "11월 9일 마감인 사업단 직접 운영 LEAD 10차 진행 공고의 대응 필요성 확인"
+    }
+  ],
+  "search_status": "completed",
+  "queries": [
+    "2026-11-04 국립한국교통대학교 부트캠프 AI site:ut.ac.kr OR site:aicc.ut.ac.kr",
+    "2026-11-04 첨단산업 인재양성 부트캠프 교육부 KIAT AI",
+    "2026-11-04 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026-11-04 대학 기업 AI 현장실습 인턴십 취업 미래모빌리티",
+    "site:lets.ut.ac.kr 첨단산업 AI 프로젝트 리드 10차",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr 컴퓨터공학과 부트캠프 진로취업특강",
+    "site:aicc.ut.ac.kr 2026-11-04 AI 부트캠프",
+    "site:ut.ac.kr 2026-11-04 부트캠프(AI)",
+    "site:moe.go.kr 2026-11-04 인공지능 인재양성 대학",
+    "site:kiat.or.kr 2026-11-04 첨단산업 인재양성 부트캠프",
+    "site:chungbuk.go.kr 2026-11-04 AI 인재양성 제조AI",
+    "site:chungju.go.kr 2026-11-04 AI 제조 인재양성"
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교 일반소식",
+    "국립한국교통대학교 학생역량통합관리시스템(UTRO+)",
+    "교육부 보도자료·공지",
+    "한국산업기술진흥원 사업공고·보도자료",
+    "충청북도 보도자료·공고",
+    "충주시 보도자료·공고"
+  ],
+  "verification_failures": [
+    "LEAD 클래스 10차의 개별 상세 페이지 URL을 검색결과에서 확인하지 못해 공식 UTRO+ 프로그램 목록의 공개 필드만 검증함"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=105435&lev=0&m=020402&opType=N&page=1&s=moe",
+      "reason": "2026-02-26 선정 결과로 기존 정책 참고이며 이번 회차 신규·변경 자료가 아님"
+    },
+    {
+      "url": "https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127196",
+      "reason": "충주시 제조AI 지원 공고는 2026-10-26 접수 종료돼 진행 공고가 아니며 이번 회차 실질 변경도 확인되지 않음"
+    }
+  ],
+  "previous_success_run_id": "20261104T075555+0900",
+  "coverage_gaps": [
+    "검색엔진 색인 지연으로 기준시각 직전 게시물이 누락될 수 있음",
+    "11월 5일 당일 게시물은 기준시각 이전 공개 여부를 입증할 시각정보가 없으면 신규 확정 대상에서 제외함",
+    "LEAD 클래스 10차의 게시일·실제 특강 일시·장소·강사·세부내용·수료기준은 확인하지 못함",
+    "AICE 교육의 모집정원·시험일·응시료 지원범위와 실제 수료·자격취득 결과는 확인하지 못함"
+  ],
+  "issue_ids": {
+    "NEWS-20261105-001": "new",
+    "NEWS-20261104-001": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 0,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-05.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-05.md",
+    "records/2026/NEWS-20261105-001.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261105T075846+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

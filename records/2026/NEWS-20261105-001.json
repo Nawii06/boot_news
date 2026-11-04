@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261105-001",
+  "title": "국립한국교통대 LEAD 클래스 10차 컴퓨터공학과 부트캠프 진로·취업 특강",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "부트캠프(AI)사업단이 직접 운영하고 2026-11-09 모집 마감인 진로·취업 특강으로 학생지원과 참여·성과관리에 즉시 활용 가능",
+  "first_seen_at": "2026-11-05T07:58:46+09:00",
+  "last_verified_at": "2026-11-05T08:00:45+09:00",
+  "published_date": null,
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": "2026-10-25",
+  "freshness": "ongoing_notice",
+  "change_status": "new",
+  "organizations": [
+    "국립한국교통대학교",
+    "국립한국교통대학교 부트캠프(AI)사업단"
+  ],
+  "regions": [
+    "충청북도",
+    "충주시"
+  ],
+  "sectors": [
+    "인공지능",
+    "진로교육",
+    "취업지원",
+    "비교과교육"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "AI",
+    "LEAD 클래스",
+    "컴퓨터공학과",
+    "진로취업특강",
+    "UTRO+"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261105-001-F1",
+      "text": "국립한국교통대학교 UTRO+ 공식 목록에는 부트캠프(AI)사업단 운영 프로그램으로 첨단산업 AI 프로젝트 리드(LEAD) 클래스 10차-컴퓨터공학과 부트캠프 진로취업특강이 모집 중으로 게시돼 있다.",
+      "source_urls": [
+        "https://lets.ut.ac.kr/lms/front/nonSubject/doListProgram.dunet?mnid=201912183821"
+      ],
+      "evidence_locator": "UTRO+ 프로그램 조회 목록의 운영부서·프로그램명·상태",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261105-001-F2",
+      "text": "모집기간과 활동기간은 모두 2026-10-25부터 2026-11-09까지이며 학과·학년 제한 없이 선착순 120명을 모집한다.",
+      "source_urls": [
+        "https://lets.ut.ac.kr/lms/front/nonSubject/doListProgram.dunet?mnid=201912183821"
+      ],
+      "evidence_locator": "UTRO+ 프로그램 조회 목록의 모집기간·활동기간·대상·정원",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261105-001-F3",
+      "text": "2026-11-05 확인 시점의 신청현황은 89명/정원 120명이었고, 마일리지 20점과 JB-hexa 인증시간 0~4시간이 안내돼 있었다.",
+      "source_urls": [
+        "https://lets.ut.ac.kr/lms/front/nonSubject/doListProgram.dunet?mnid=201912183821"
+      ],
+      "evidence_locator": "UTRO+ 프로그램 조회 목록의 신청현황·마일리지·인증시간",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "첨단산업 AI 프로젝트 리드(LEAD) 클래스 10차-컴퓨터공학과 부트캠프 진로취업특강",
+      "publisher": "국립한국교통대학교 학생역량통합관리시스템",
+      "source_type": "university_official",
+      "url": "https://lets.ut.ac.kr/lms/front/nonSubject/doListProgram.dunet?mnid=201912183821",
+      "normalized_url": "https://lets.ut.ac.kr/lms/front/nonSubject/doListProgram.dunet?mnid=201912183821",
+      "published_date": null,
+      "accessed_at": "2026-11-05T08:00:45+09:00",
+      "verification_scope": "운영부서, 프로그램명, 모집·활동기간, 대상 제한, 정원, 신청현황, 마일리지, 인증시간, 모집상태 확인",
+      "evidence_locator": "UTRO+ 프로그램 조회 목록"
+    }
+  ],
+  "notice": {
+    "eligibility": "대상 학과·학년 제한 없음; 국립한국교통대학교 재학생 외 참여 가능 여부는 확인 필요",
+    "support": "선착순 정원 120명, 마일리지 20점, JB-hexa 인증시간 최대 4시간",
+    "deadline": "2026-11-09",
+    "application_url": "https://lets.ut.ac.kr/lms/front/nonSubject/doListProgram.dunet?mnid=201912183821",
+    "current_status": "모집 중·2026-11-09 마감",
+    "university_eligibility_verified": true
+  },
+  "analysis": {
+    "relevance": "사업단 직접 운영 진로·취업 특강으로 학생 참여와 취업지원 실적의 모집·운영·성과관리 근거로 활용 가능",
+    "interpretations": [
+      "학생 참여, 출석, 수료, 만족도와 진로취업 지원 결과를 연결하는 성과관리 구조를 점검할 수 있다.",
+      "공개 목록에는 실제 강의일시·장소·강사·세부내용이 없어 프로그램 성과나 취업연계 효과를 단정할 수 없다.",
+      "10월 25일부터 진행 중인 공고의 첫 아카이브 수집이며 11월 5일 새로 발생한 사건은 아니다."
+    ],
+    "proposed_action": "11월 9일 마감 전 대상 학생 안내 여부와 실제 특강 일정·출석·수료·만족도·진로취업 성과 증빙 항목 확인",
+    "prerequisites": [
+      "사업단 참여학생 자격과 중복참여 기준 확인",
+      "실제 특강 일시·장소·강사·세부내용 확인",
+      "출석·수료·마일리지·JB-hexa 인증 기준 확인",
+      "개인정보를 제외한 참여·만족도·진로취업 성과 집계 기준 확인"
+    ],
+    "limitations": [
+      "공식 목록에서 게시일을 확인하지 못했다.",
+      "개별 상세 페이지 URL과 실제 특강 일정·장소·강사·세부내용은 확인하지 못했다.",
+      "신청인원 89명은 확인 시점의 변동 가능한 수치다."
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "비교과",
+      "취업연계",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "사업단 직접 진로취업특강을 공개모집하고 참여·인증시간·마일리지를 관리하는 비교과 운영 구조",
+    "evidence_fact_ids": [
+      "NEWS-20261105-001-F1",
+      "NEWS-20261105-001-F2",
+      "NEWS-20261105-001-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "특강 강사와 교육공간",
+      "UTRO+ 모집·출석·수료 관리",
+      "만족도와 진로취업 성과 증빙 체계"
+    ],
+    "eligibility_checks": [
+      "사업단 참여학생 범위",
+      "학과·학년 외 추가 참여요건",
+      "인증시간·마일리지 중복 인정 여부"
+    ],
+    "evidence_gaps": [
+      "실제 특강 일시·장소·강사·세부내용",
+      "수료기준과 실제 참여·수료인원",
+      "만족도·진로취업 성과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-05.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-05T08:00:45+09:00",
+      "run_id": "20261105T075846+0900",
+      "field": "initial_record",
+      "before": null,
+      "after": "기존 진행 공고 첫 수집",
+      "reason": "11월 9일 마감 대응이 필요한 사업단 직접 운영 프로그램을 공식 UTRO+ 목록에서 검증",
+      "source_urls": [
+        "https://lets.ut.ac.kr/lms/front/nonSubject/doListProgram.dunet?mnid=201912183821"
+      ]
+    }
+  ]
+}

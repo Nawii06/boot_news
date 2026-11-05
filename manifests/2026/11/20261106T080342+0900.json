@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261106T080342+0900",
+  "scheduled_at": "2026-11-06T08:00:00+09:00",
+  "cutoff_at": "2026-11-06T08:00:00+09:00",
+  "started_at": "2026-11-06T08:03:42+09:00",
+  "collection_completed_at": "2026-11-06T08:07:38+09:00",
+  "search_window": {
+    "start": "2026-11-05T08:00:00+09:00",
+    "end": "2026-11-06T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-03T08:00:00+09:00",
+      "end": "2026-11-06T08:00:00+09:00",
+      "reason": "직접 관련 제도·공고 누락 여부의 72시간 보완 확인"
+    },
+    {
+      "start": "2026-10-30T08:00:00+09:00",
+      "end": "2026-11-06T08:00:00+09:00",
+      "reason": "접수 중인 AX·Physical AI·미래모빌리티 관련 공고의 7일 보완 확인"
+    }
+  ],
+  "search_status": "completed_with_verification_gaps",
+  "queries": [
+    "2026-11-05 첨단산업 인재양성 부트캠프 교육부 KIAT AI 대학 기업협력",
+    "2026-11-05 AI 인재양성 RISE 대학 기업 공동교육 신규사업",
+    "2026-11-05 충북 충주 제조AI 제조AX 모빌리티 기업지원",
+    "2026-11-05 제조AI Physical AI SDV 대학 기업 산학협력 인턴십",
+    "site:nipa.kr AX실증밸리조성 통합 재공고 2026",
+    "site:iris.go.kr AI 기반 차세대 SDV 플랫폼 2026",
+    "site:axr.kr/ai2026 2026 AI 부트캠프 경진대회 멘토링 11월 9일",
+    "2026-11-05 AI 제조기업 대학 공동교육 산학협력 현장실습",
+    "site:moe.go.kr 대학생 현장실습학기제 운영규정 일부개정고시안 2026",
+    "교육부공고 제2026-414호",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr 2026-11-05 부트캠프 AI 국립한국교통대학교",
+    "site:chungbuk.go.kr OR site:chungju.go.kr 2026-11-05 AI 제조 모빌리티 인재양성",
+    "site:motir.go.kr OR site:mss.go.kr 2026-11-05 제조 AI 로봇 모빌리티 지원",
+    "site:nipa.kr OR site:iitp.kr 2026-11-05 AI 인재양성 제조AX",
+    "site:moe.go.kr 2026-11-05 로보월드 첨단산업 인재양성 부트캠프 로봇 현직자 취업 상담",
+    "로봇 기업 인사 담당자가 직접 부트캠프 학생의 취업 상담에 나선다"
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교 일반소식·AI융합센터",
+    "교육부 보도자료·입법행정예고",
+    "한국산업기술진흥원 관련 보도",
+    "대한민국 정책브리핑",
+    "범부처통합연구지원시스템(IRIS)",
+    "산업통상부 공고",
+    "충청북도 보도자료·공고",
+    "충주시 관련 공고",
+    "AI Bootcamp Innovation Challenger 2026 공식 플랫폼"
+  ],
+  "verification_failures": [
+    "교육부 현장실습학기제 운영규정 개정안 첨부 HWPX가 웹 원문 도구에서 application/octet-stream으로 반환돼 개정 이유·조문별 주요내용을 열람하지 못함",
+    "교육부 로봇 부트캠프 보도자료 본문은 공식 페이지에서 첨부파일로 제공되어 정책브리핑의 교육부 보도자료 공식 전재본으로 세부내용을 교차검증함",
+    "AX실증밸리 과제별 RFP ZIP을 열람하지 못해 대학·컨소시엄 자격, 과제별 예산·기간을 확인하지 못함"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://aicc.ut.ac.kr/aicc.do",
+      "reason": "11월 5일 신규 공지 없이 기존 AI 컴퓨팅 팜·플랫폼 안내만 확인돼 신규 이슈에서 제외"
+    },
+    {
+      "url": "https://axr.kr/ai2026",
+      "reason": "기업특화교육·멘토링 일정의 기존 기록과 비교해 기준시각까지 실질 변경이 없어 변동 없음 처리"
+    },
+    {
+      "url": "https://www.chungbuk.go.kr/www/selectBbsNttView.do?bbsNo=61&key=423&nttNo=436856",
+      "reason": "2026년 6월 제조AI 지원 공고로 이번 회차 신규·변경 자료가 아님"
+    },
+    {
+      "url": "https://www.mesis.or.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1010&q_bbscttSn=20261102100012000",
+      "reason": "충주시 제조AI 연장 공고는 검색 단서로 확인했으나 공식 원공고의 마감·지원조건을 이번 회차에 원문 검증하지 못해 제외"
+    }
+  ],
+  "previous_success_run_id": "20261105T075846+0900",
+  "coverage_gaps": [
+    "검색엔진 색인 지연으로 기준시각 직전 게시물이 누락될 수 있음",
+    "11월 6일 당일 게시물은 기준시각 이전 공개 시각을 입증하지 못하면 신규 확정 대상에서 제외함",
+    "현장실습학기제 개정안의 조문별 주요내용·최종 시행 여부는 미확인",
+    "AX실증밸리 과제별 대학 자격·예산·기간·컨소시엄 요건은 미확인",
+    "로봇 부트캠프 학생 지원 행사의 실제 개최 결과·참가자 수·취업성과는 기준시각 이후 사건이므로 미확인"
+  ],
+  "coverage_summary": {
+    "bootcamp_direct": "completed: 신규 공식자료 1건 검증, 기존 공식 플랫폼 1건 변동 없음 확인",
+    "government_policy": "completed_with_gap: 행정예고 1건 검증, 첨부 개정내용 미확인",
+    "chungbuk_chungju": "completed: 신규 확정 이슈 0건, 공식 원문 미확인 후보 1건 제외",
+    "industry_technology": "completed_with_gap: 진행 중 R&D 재공고 1건 검증, 과제별 RFP 미확인"
+  },
+  "issue_ids": {
+    "NEWS-20261106-001": "new",
+    "NEWS-20261106-002": "new",
+    "NEWS-20261106-003": "new",
+    "NEWS-20261019-004": "unchanged"
+  },
+  "counts": {
+    "new": 3,
+    "updated": 0,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-06.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-06.md",
+    "records/2026/NEWS-20261106-001.json",
+    "records/2026/NEWS-20261106-002.json",
+    "records/2026/NEWS-20261106-003.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261106T080342+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

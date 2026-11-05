@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261106-001",
+  "title": "로보월드 연계 로봇 부트캠프 학생 취업지원 행사",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "첨단산업 인재양성 부트캠프 학생지원·기업 현직자 취업상담의 직접 운영사례",
+  "first_seen_at": "2026-11-06T08:03:42+09:00",
+  "last_verified_at": "2026-11-06T08:07:38+09:00",
+  "published_date": "2026-11-05",
+  "modified_date": null,
+  "event_date": "2026-11-06",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["교육부", "한국산업기술진흥원", "경북대학교", "대구가톨릭대학교", "한국인공지능·로봇산업협회", "한화로보틱스", "HL로보틱스"],
+  "regions": ["경기 고양", "대구·경북"],
+  "sectors": ["로봇", "피지컬 AI", "스마트제조"],
+  "keywords": ["로보월드", "현직자 간담회", "소그룹 취업상담", "산업현장 견학", "테스트베드"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261106-001-F1",
+      "text": "교육부와 한국산업기술진흥원은 2026년 11월 6일 일산 킨텍스에서 로봇 분야 첨단산업 인재양성 부트캠프 학생 지원 행사(라운드업)를 개최한다고 발표했다.",
+      "source_urls": ["https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107566&lev=0&m=020402&opType=N&page=1&s=moe&searchType=null&statusYN=W", "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788063"],
+      "evidence_locator": "교육부·정책브리핑 보도자료 제목·발표일·첨부 원문",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261106-001-F2",
+      "text": "참여 학생은 2026 로보월드와 연계한 로봇산업 특강, 한화로보틱스·HL로보틱스 현직자 간담회, 소그룹 취업상담과 기업관 견학에 참여할 예정이다.",
+      "source_urls": ["https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788063"],
+      "evidence_locator": "교육부 보도자료 첨부 원문 전재 내용",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261106-001-F3",
+      "text": "경북대는 제어·HW, AI·SW, SI·운용 3개 분야 수준별 교육과 지역 테스트베드 연계를, 대구가톨릭대는 로봇 설계·제어, 로봇 AI, 로봇 전자와 자동화 공정장비 실습을 운영한다고 교육부가 안내했다.",
+      "source_urls": ["https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788063"],
+      "evidence_locator": "교육부 보도자료 첨부 원문의 대학별 운영 내용",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "로봇 기업 인사 담당자가 직접 부트캠프 학생의 취업 상담에 나선다",
+      "publisher": "교육부",
+      "source_type": "official",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107566&lev=0&m=020402&opType=N&page=1&s=moe&searchType=null&statusYN=W",
+      "normalized_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107566&lev=0&m=020402&opType=N&page=1&s=moe&searchType=null&statusYN=W",
+      "published_date": "2026-11-05",
+      "accessed_at": "2026-11-06T08:06:00+09:00",
+      "verification_scope": "보도자료 제목·발표일·첨부파일 존재",
+      "evidence_locator": "교육부 게시물 본문·첨부파일 목록"
+    },
+    {
+      "title": "로봇 기업 인사 담당자가 직접 부트캠프 학생의 취업 상담에 나선다",
+      "publisher": "대한민국 정책브리핑",
+      "source_type": "official",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788063",
+      "normalized_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788063",
+      "published_date": "2026-11-05",
+      "accessed_at": "2026-11-06T08:07:00+09:00",
+      "verification_scope": "교육부 보도자료 공식 전재·행사일·프로그램·대학별 교육구조",
+      "evidence_locator": "정책브리핑 게시물 및 첨부 바로보기"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "2026-11-06 행사 예정",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "부트캠프 학생지원·취업연계·기업 현직자 상담·산업현장 견학의 직접 사례",
+    "interpretations": ["산업행사, 기업 현직자 직무정보, 소그룹 상담을 하나의 학생지원 프로그램으로 묶는 구조를 참고할 수 있음"],
+    "proposed_action": "AI·모빌리티 산업행사와 연계한 사전교육-현장견학-현직자상담-진로계획서 프로그램의 적용 가능성 검토",
+    "prerequisites": ["참여기업 섭외", "학생 수요 확인", "안전·출결·출장 기준 확인", "사업비·학사 규정 확인", "성과지표 설계"],
+    "limitations": ["로봇 분야 타 대학 사례이므로 국립한국교통대 AI 분야에 동일 적용할 수 없음", "발표 시점에는 행사 개최 전이므로 실제 참여·성과가 확인되지 않음"]
+  },
+  "development": {
+    "use_cases": ["비교과", "현장실습인턴십", "취업연계", "학생지원", "산학프로젝트"],
+    "transferable_mechanism": "산업행사 견학과 기업 현직자 소그룹 직무상담을 결합하고 학생별 진로계획 결과물을 남기는 구조",
+    "evidence_fact_ids": ["NEWS-20261106-001-F1", "NEWS-20261106-001-F2", "NEWS-20261106-001-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["산업행사 참가·이동 예산", "기업 멘토", "학생 안전·출결 관리", "성과 증빙 양식"],
+    "eligibility_checks": ["사업비 집행 가능 항목", "학교 밖 수업·출장·출석 인정 기준"],
+    "evidence_gaps": ["참가학생 수", "실제 행사 결과", "학생 진로·취업 성과"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/11/2026-11-06.md"],
+  "changes": []
+}

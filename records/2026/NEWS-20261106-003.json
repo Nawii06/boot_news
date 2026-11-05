@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261106-003",
+  "title": "2026년 AX실증밸리조성 R&D 신규과제 통합 재공고",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "Physical AI·자율주행 모빌리티·제조 SDF 산학과제 기획에 참고할 진행 중 국가 R&D 공고이나 대학 신청자격은 미확인",
+  "first_seen_at": "2026-11-06T08:03:42+09:00",
+  "last_verified_at": "2026-11-06T08:07:38+09:00",
+  "published_date": "2026-11-02",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "ongoing_notice",
+  "change_status": "new",
+  "organizations": ["과학기술정보통신부", "산업통상부", "기후에너지환경부", "정보통신산업진흥원", "인공지능산업융합사업단"],
+  "regions": ["전국"],
+  "sectors": ["AX", "Physical AI", "자율주행", "미래모빌리티", "제조 SDF", "에너지 AI"],
+  "keywords": ["AX실증밸리", "실증거점", "초지능 자율주행 모빌리티", "제조 SDF", "에너지 운영 최적화"],
+  "program_year": 2026,
+  "notice_number": "산업통상부 공고 제2026-683호·기후에너지환경부 공고 제2026-1000호",
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261106-003-F1",
+      "text": "IRIS는 2026년 「AX실증밸리조성(R&D)」 사업 신규지원대상 과제 통합 재공고를 2026년 11월 2일 게시했고, 전문기관은 정보통신산업진흥원이다.",
+      "source_urls": ["https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717"],
+      "evidence_locator": "IRIS 사업공고 소관부처·전문기관·공고명·공고일",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261106-003-F2",
+      "text": "사업목적의 미래 모빌리티 AX 혁신에는 Physical AI 기반 초지능 자율주행 모빌리티와 제조 SDF 기술 구현이 포함되고, 공모는 지정공모 1개·품목지정 3개로 안내됐다.",
+      "source_urls": ["https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717"],
+      "evidence_locator": "IRIS 공고문 사업목적·공모방식",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261106-003-F3",
+      "text": "전산접수 기간은 2026년 11월 3일부터 11월 16일 15:00까지이며 IRIS에서 신청한다.",
+      "source_urls": ["https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717"],
+      "evidence_locator": "IRIS 공고문 접수기간·접수방법",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026년 「AX실증밸리조성(R&D)」 사업 신규지원대상 과제 통합 재공고",
+      "publisher": "IRIS·정보통신산업진흥원",
+      "source_type": "official",
+      "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717",
+      "normalized_url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717",
+      "published_date": "2026-11-02",
+      "accessed_at": "2026-11-06T08:04:00+09:00",
+      "verification_scope": "공고명·공고번호·사업목적·공모방식·접수기간·접수방법",
+      "evidence_locator": "IRIS 공고 상세 본문"
+    },
+    {
+      "title": "2026년 AX실증밸리조성(R&D) 사업 신규지원 대상과제 재공고",
+      "publisher": "산업통상부",
+      "source_type": "official",
+      "url": "https://www.motir.go.kr/kor/article/ATCLc01b2801b/71407/view",
+      "normalized_url": "https://www.motir.go.kr/kor/article/ATCLc01b2801b/71407/view",
+      "published_date": "2026-11-03",
+      "accessed_at": "2026-11-06T08:04:00+09:00",
+      "verification_scope": "산업통상부 공고번호·등록일·재공고 사실",
+      "evidence_locator": "산업통상부 공고 상세 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "과제별 RFP 확인 필요",
+    "support": "지정공모 1개·품목지정 3개 과제; 과제별 예산·세부지원은 RFP 확인 필요",
+    "deadline": "2026-11-16T15:00:00+09:00",
+    "application_url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024717",
+    "current_status": "접수 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "Physical AI·미래모빌리티·제조 SDF 관련 기업수요와 산학과제·신규사업 기획 근거",
+    "interpretations": ["교육사업이 아닌 국가 R&D 공고이므로 교육과정 수요 근거와 산학협력 기획자료로 제한해 활용해야 함"],
+    "proposed_action": "과제별 RFP에서 대학·컨소시엄 자격, 기업 참여, 실증거점·데이터, 예산부담 조건을 확인한 뒤 연계 가능성 검토",
+    "prerequisites": ["주관·공동연구기관 자격 확인", "기업 참여·실증거점·데이터 요건 확인", "현금·현물 부담과 과제별 예산 확인", "대학 내 연구개발 수행역량 확인"],
+    "limitations": ["국립한국교통대학교 또는 대학의 신청자격을 확인하지 못함", "과제별 RFP의 예산·기간·컨소시엄 요건 미확인", "교육사업 공고가 아님"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "산학프로젝트", "기업수요조사"],
+    "transferable_mechanism": "국가 R&D 공고의 산업문제·기술요건을 기업수요조사와 프로젝트형 교육 주제로 변환하되 신청자격과 사업비 체계를 별도 검토",
+    "evidence_fact_ids": ["NEWS-20261106-003-F1", "NEWS-20261106-003-F2", "NEWS-20261106-003-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["RFP 분석", "기업 수요 확인", "실증 데이터·장비·테스트베드", "연구개발 인력과 예산"],
+    "eligibility_checks": ["대학의 주관·공동연구기관 자격", "컨소시엄 구성", "현금·현물 부담", "실증거점 요건"],
+    "evidence_gaps": ["과제별 예산", "과제기간", "대학 신청자격", "참여기업·컨소시엄 요건"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/11/2026-11-06.md"],
+  "changes": []
+}

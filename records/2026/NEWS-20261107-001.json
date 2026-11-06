@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261107-001",
+  "title": "2026 첨단분야 글로벌 교육과정 성과교류회",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "첨단산업 인재양성 부트캠프 학생 대상 해외대학 공동교육·기업특강·학점인정 구조의 직접 참고사례이나 국립한국교통대학교 참여 여부는 미확인",
+  "first_seen_at": "2026-11-07T07:58:57+09:00",
+  "last_verified_at": "2026-11-07T08:02:22+09:00",
+  "published_date": "2026-11-06",
+  "modified_date": null,
+  "event_date": "2026-11-06",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["교육부", "한국산업기술진흥원", "퍼듀대학교", "토론토대학교", "SK하이닉스"],
+  "regions": ["전국", "미국", "캐나다"],
+  "sectors": ["인공지능", "반도체", "첨단산업 인재양성"],
+  "keywords": ["첨단산업 인재양성 부트캠프", "글로벌 교육과정", "해외대학", "기업특강", "학점인정"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261107-001-F1",
+      "text": "교육부는 2026년 11월 6일 서울 드래곤시티에서 반도체·인공지능 분야 첨단산업 인재양성 부트캠프와 첨단산업 특성화대학 참여학생의 해외대학 공동교육 성과를 공유하는 2026 첨단분야 글로벌 교육과정 성과교류회를 개최했다.",
+      "source_urls": ["https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107573&lev=0&m=020402&opType=N&page=1&s=moe&searchType=null&statusYN=W", "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788164&pWise=sub&pWiseSub=C2"],
+      "evidence_locator": "교육부 보도자료 제목·게시일 및 정책브리핑 첨부 보도자료",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261107-001-F2",
+      "text": "교육부 보도자료를 인용한 보도에 따르면 퍼듀대학교 과정은 반도체 공정·설계와 AI 인턴십, SK하이닉스 특강을 포함했고 토론토대학교 과정은 머신러닝·빅데이터 분석을 다뤘으며, 해외대학 수료증 발급과 국내대학 학점인정 권고가 제시됐다.",
+      "source_urls": ["https://web3.newspim.com/news/view/20261106000015", "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788164&pWise=sub&pWiseSub=C2"],
+      "evidence_locator": "뉴스핌 본문 및 정책브리핑 첨부 보도자료",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261107-001-F3",
+      "text": "보도자료 기준 이 글로벌 교육과정은 연간 약 120명의 학생을 지원하며 2026년 사업예산은 7억 5,600만원이고, 성과교류회에서는 학생 4명이 결과를 발표하고 6명이 한국산업기술진흥원장상을 받았다.",
+      "source_urls": ["https://web3.newspim.com/news/view/20261106000015"],
+      "evidence_locator": "뉴스핌 본문 중 지원규모·예산·성과교류회 결과",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다",
+      "publisher": "교육부",
+      "source_type": "official",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107573&lev=0&m=020402&opType=N&page=1&s=moe&searchType=null&statusYN=W",
+      "normalized_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107573&lev=0&m=020402&opType=N&page=1&s=moe&searchType=null&statusYN=W",
+      "published_date": "2026-11-06",
+      "accessed_at": "2026-11-07T08:01:00+09:00",
+      "verification_scope": "보도자료 제목·게시일·첨부자료 존재",
+      "evidence_locator": "교육부 보도자료 상세 페이지"
+    },
+    {
+      "title": "강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다",
+      "publisher": "대한민국 정책브리핑·교육부",
+      "source_type": "official",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788164&pWise=sub&pWiseSub=C2",
+      "normalized_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788164&pWise=sub&pWiseSub=C2",
+      "published_date": "2026-11-06",
+      "accessed_at": "2026-11-07T08:01:00+09:00",
+      "verification_scope": "교육부 보도자료 공식 전재·첨부 원문",
+      "evidence_locator": "정책브리핑 보도자료 상세 및 첨부 바로보기"
+    },
+    {
+      "title": "교육부, 반도체·AI 인재 글로벌 교육과정 성과교류회 개최",
+      "publisher": "뉴스핌",
+      "source_type": "media",
+      "url": "https://web3.newspim.com/news/view/20261106000015",
+      "normalized_url": "https://web3.newspim.com/news/view/20261106000015",
+      "published_date": "2026-11-06",
+      "accessed_at": "2026-11-07T08:01:00+09:00",
+      "verification_scope": "해외대학 과정·기업특강·지원규모·예산·학점인정·성과교류회 결과",
+      "evidence_locator": "교육부 보도자료 인용 기사 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": "2026년 반도체·AI 해외대학 공동교육; 개별 학생 모집조건은 이번 자료에서 확인되지 않음",
+    "deadline": null,
+    "application_url": null,
+    "current_status": "2026년 과정 성과 공유 완료",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "부트캠프 학생 대상 해외대학 공동교육·기업특강·수료증·학점인정·성과공유를 결합한 직접 사례",
+    "interpretations": ["단기 해외교육을 단순 견학이 아니라 전공실습·기업특강·결과보고·학점인정으로 묶은 운영구조가 확인됨"],
+    "proposed_action": "차기 글로벌 교육 또는 국내 대체 집중과정 기획 시 해외대학 공동설계, 기업기술 세션, 산출물 평가, 수료증·학점 인정 가능성을 함께 검토",
+    "prerequisites": ["본 사업 참여대학·학생 자격 확인", "교육부·KIAT 운영지침과 사업비 집행기준 확인", "학점인정·국외수업 관련 학칙 확인", "협력대학·기업·안전관리·예산 확보"],
+    "limitations": ["국립한국교통대학교와 소속 학생의 2026년 참여 여부 미확인", "연간 약 120명과 7억 5,600만원은 전체 프로그램 범위로 대학별 배정이 아님", "개별 학생 선발조건·성과평가 기준 미확인"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "비교과", "학생지원", "성과관리"],
+    "transferable_mechanism": "해외대학 공동설계 단기 전공교육에 기업 기술세션, 결과보고, 수료증과 국내 학점인정 검토를 결합",
+    "evidence_fact_ids": ["NEWS-20261107-001-F1", "NEWS-20261107-001-F2", "NEWS-20261107-001-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["해외대학 또는 국내 대체기관 협약", "기업 강사", "학생 선발·안전관리", "항공·체재 또는 교육비", "학점인정 행정"],
+    "eligibility_checks": ["국립한국교통대학교 참여 가능 여부", "학생 선발자격", "사업비 집행 가능 항목", "학점인정 및 국외수업 절차"],
+    "evidence_gaps": ["2027년 계속 여부", "대학별 참여규모", "학생 선발기준", "정량 성과평가 기준"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/11/2026-11-07.md"],
+  "changes": []
+}

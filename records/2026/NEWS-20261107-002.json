@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261107-002",
+  "title": "산업통상부 제조AI 4단계 확산전략",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "청주를 포함한 지역특화 산단의 제조AX 수요와 청년·재직자 제조AI 인력양성 계획을 제시해 기업수요조사·교육과정·산학프로젝트 설계에 참고 가능",
+  "first_seen_at": "2026-11-07T07:58:57+09:00",
+  "last_verified_at": "2026-11-07T08:02:22+09:00",
+  "published_date": "2026-11-03",
+  "modified_date": null,
+  "event_date": "2026-11-03",
+  "effective_date": null,
+  "freshness": "supplement_7d",
+  "change_status": "new",
+  "organizations": ["산업통상부", "한국산업기술진흥원", "한국산업기술기획평가원"],
+  "regions": ["전국", "청주", "천안", "구미", "광주", "창원", "울산", "여수", "대불", "군산"],
+  "sectors": ["제조AI", "제조AX", "AI 팩토리", "반도체", "디스플레이", "자동차", "기계", "조선"],
+  "keywords": ["M.AX 핵심과업 히트맵", "ROI", "파인튜닝", "AI 팩토리", "M.AX Academy", "청년 인력양성"],
+  "program_year": 2027,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261107-002-F1",
+      "text": "산업통상부는 2026년 11월 3일 AI 팩토리 전략회의에서 전국 245개 기업의 AI 팩토리와 541개 AI 모델을 분석한 제조AI 4단계 확산전략을 발표했고, 38개 우수사례에서 생산성 30.1% 향상과 불량률 15.5% 감소를 확인했다고 밝혔다.",
+      "source_urls": ["https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172373/view?mno=&pageIndex=1"],
+      "evidence_locator": "산업통상부 보도자료 본문 첫째~둘째 문단",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261107-002-F2",
+      "text": "전략은 핵심과업 히트맵·M.AX 처방전·ROI 평가, 검증모델의 유사공정 파인튜닝·재사용, 앵커기업·지역산단 공통난제 실증, 풀스택 AI 팩토리의 모듈화·표준화로 확산하는 구조이며 반도체·디스플레이 지역에 천안·청주·구미가 포함됐다.",
+      "source_urls": ["https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172373/view?mno=&pageIndex=1"],
+      "evidence_locator": "산업통상부 보도자료 4단계 확산체계 문단",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261107-002-F3",
+      "text": "산업통상부는 KIAT 주관의 지역기반 제조AX 현장 인력양성(2027~2030년, 2027년 정부안 130억원)과 지역산단 기반 M.AX Academy 구축(2027~2030년, 2027년 정부안 47억 2,000만원)을 계획으로 제시했다.",
+      "source_urls": ["https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172373/view?mno=&pageIndex=1"],
+      "evidence_locator": "산업통상부 보도자료 인재양성 각주",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "대한민국 제조업 판 바꾼다... 산업부, 제조AI 4단계 확산전략 가동",
+      "publisher": "산업통상부",
+      "source_type": "official",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172373/view?mno=&pageIndex=1",
+      "normalized_url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172373/view?mno=&pageIndex=1",
+      "published_date": "2026-11-03",
+      "accessed_at": "2026-11-07T08:01:00+09:00",
+      "verification_scope": "AI 팩토리 지원규모·성과범위·4단계 확산구조·지역산단·인력양성 계획·2027년 정부안",
+      "evidence_locator": "산업통상부 보도자료 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": "정책·사업 계획 발표; 개별 모집공고 아님",
+    "deadline": null,
+    "application_url": null,
+    "current_status": "발표된 계획·2027년 정부안",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "충북 청주 반도체·디스플레이 산단 수요와 제조AI 인력양성·현장실증의 정책 방향을 확인할 수 있는 기업수요 및 신규사업 기획 근거",
+    "interpretations": ["기업 현장문제와 보유데이터를 진단하고 검증모델의 재사용 가능성 및 ROI를 함께 평가하는 방식은 산학프로젝트의 과제선정·성과관리 구조로 검토 가능"],
+    "proposed_action": "기업수요조사에 공정 난제, 데이터 가용성, 기존모델 전이·파인튜닝 가능성, PoC·ROI 지표, 보안·데이터권한 항목을 추가하는 방안을 검토",
+    "prerequisites": ["참여기업 공정데이터와 보안조건 확인", "교원·전문가·GPU·실증장비와 예산 확인", "2027년 최종 예산 및 개별 공고 확인", "산학협력 계약·데이터 권리 검토"],
+    "limitations": ["38개 사례의 업종별·기업별 산출방식과 분포 미공개", "2027년 금액은 확정예산이 아니라 정부안", "대학 참여자격과 개별 사업 공고 미확인"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "재직자교육", "산학프로젝트", "기업수요조사", "성과관리"],
+    "transferable_mechanism": "공정 난제·데이터 진단에서 시작해 검증모델 전이·파인튜닝, 현장 PoC, ROI 검증, 확산까지 연결",
+    "evidence_fact_ids": ["NEWS-20261107-002-F1", "NEWS-20261107-002-F2", "NEWS-20261107-002-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업 공정데이터", "제조도메인 전문가", "AI 모델 개발·파인튜닝 인프라", "현장 PoC", "성과측정 체계"],
+    "eligibility_checks": ["향후 KIAT 사업의 대학·컨소시엄 자격", "2027년 최종예산", "기업 현금·현물 부담", "데이터 보안·권리"],
+    "evidence_gaps": ["개별 인력양성사업 공고", "대학 참여방식", "38개 사례별 원자료", "충북·충주 기업의 실제 수요"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/11/2026-11-07.md"],
+  "changes": []
+}

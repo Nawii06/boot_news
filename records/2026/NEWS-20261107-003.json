@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261107-003",
+  "title": "경남·인천·강원 제조AX·AI로봇 초광역 인재양성 모델 본격 추진",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "지역별 산업특화 기반을 공동교육·기업프로젝트·현장실습·취업·정주로 연결한 타지역 공식 사례로 신규사업·산학협력 설계에 참고 가능",
+  "first_seen_at": "2026-11-07T07:58:57+09:00",
+  "last_verified_at": "2026-11-07T08:02:22+09:00",
+  "published_date": "2026-11-06",
+  "modified_date": "2026-11-06",
+  "event_date": "2026-11-04",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["교육부", "한국연구재단", "경남대학교", "메가존"],
+  "regions": ["경남", "인천", "강원"],
+  "sectors": ["제조AX", "AI로봇", "Physical AI", "스마트제조", "미래모빌리티"],
+  "keywords": ["초광역 성장엔진 인재육성사업", "공동교육과정", "기업 프로젝트", "현장실습", "취업·정주"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261107-003-F1",
+      "text": "경남대학교는 2026년 11월 6일 공식 보도에서 11월 4일 한국연구재단 대전청사에서 열린 초광역 성장엔진 인재육성사업 출범식에 참석해 경남·인천·강원 제조AX·AI로봇 인재양성 모델을 본격 추진한다고 밝혔다.",
+      "source_urls": ["https://www.kyungnam.ac.kr/ko/4206/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa28lMkYxMzY0JTJGMjAxMTgyJTJGYXJ0Y2xWaWV3LmRvJTNG"],
+      "evidence_locator": "경남대학교 공식 보도 본문 첫째~셋째 문단",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261107-003-F2",
+      "text": "이 모델은 2026년 9월 최종 선정된 사업으로 세 지역의 대학·기업 기반을 제조AX·AI로봇 공동교육과정, 기업 연계 프로젝트, 현장실습, 취·창업 지원으로 연결하며 약 4년간 전문인재 1,500명 양성을 목표로 한다.",
+      "source_urls": ["https://www.kyungnam.ac.kr/ko/4206/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa28lMkYxMzY0JTJGMjAxMTgyJTJGYXJ0Y2xWaWV3LmRvJTNG", "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=340&boardSeq=107269&lev=0&m=031101&opType=N&page=2&s=moe"],
+      "evidence_locator": "경남대학교 공식 보도 선정시점·운영구조·목표 및 교육부 선정자료",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261107-003-F3",
+      "text": "경남은 조선·기계·방산·항공, 인천은 AI로봇·스마트제조, 강원은 미래모빌리티 기반을 연계하고, 경남대학교는 메가존과 개소한 경남피지컬AX연구협력센터를 공동연구·현장실증·전문인력 양성의 기반으로 활용할 계획이다.",
+      "source_urls": ["https://www.kyungnam.ac.kr/ko/4206/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa28lMkYxMzY0JTJGMjAxMTgyJTJGYXJ0Y2xWaWV3LmRvJTNG"],
+      "evidence_locator": "경남대학교 공식 보도 지역산업 연계·연구협력센터 문단",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "우리 대학, ‘초광역 성장엔진 인재육성사업’ 본격 추진",
+      "publisher": "경남대학교",
+      "source_type": "official",
+      "url": "https://www.kyungnam.ac.kr/ko/4206/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa28lMkYxMzY0JTJGMjAxMTgyJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "normalized_url": "https://www.kyungnam.ac.kr/ko/4206/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa28lMkYxMzY0JTJGMjAxMTgyJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "published_date": "2026-11-06",
+      "accessed_at": "2026-11-07T08:01:00+09:00",
+      "verification_scope": "출범식·선정시점·지역별 산업기반·공동교육·기업프로젝트·현장실습·취업·양성목표·연구협력센터",
+      "evidence_locator": "경남대학교 공식 보도 본문"
+    },
+    {
+      "title": "초광역 성장엔진 인재육성사업 최종 선정 결과",
+      "publisher": "교육부",
+      "source_type": "official",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=340&boardSeq=107269&lev=0&m=031101&opType=N&page=2&s=moe",
+      "normalized_url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=340&boardSeq=107269&lev=0&m=031101&opType=N&page=2&s=moe",
+      "published_date": "2026-09-21",
+      "accessed_at": "2026-11-07T08:01:00+09:00",
+      "verification_scope": "2026년 사업 선정 및 6개 모델의 공식 확인",
+      "evidence_locator": "교육부 선정결과 자료"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": "선정된 초광역 협의체 사업의 운영계획; 신규 모집공고 아님",
+    "deadline": null,
+    "application_url": null,
+    "current_status": "선정 후 사업 추진",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "지역산업 특화-공동교육-기업과제-현장실습-취업·정주를 잇는 타지역 초광역 모델로 신규사업·교육과정·산학협력 구조의 비교 근거",
+    "interpretations": ["세 지역의 상이한 산업기반을 단일 전공명으로 묶기보다 공통 제조AX 역량과 지역별 프로젝트·실증을 결합한 구조로 해석 가능"],
+    "proposed_action": "충북·충주 적용 검토 시 대학·기업별 보유자원, 공동교과 상호인정, 실제 기업데이터·PoC, 현장실습·채용 연계책임을 포함한 협력구조 비교표 작성",
+    "prerequisites": ["본 사업과 다른 재정지원사업의 지침·자격 분리", "충북·충주 기업수요 확인", "대학 간 학점교류·교원 공동활용 규정 확인", "기업데이터·실증·현장실습 협약과 예산 확인"],
+    "limitations": ["경남·인천·강원 타지역 사례로 충북에 자동 적용되지 않음", "1,500명은 약 4년 목표치이며 실적이 아님", "참여대학·기업별 역할·예산·성과지표의 세부 근거 미확인", "11월 6일 보도는 9월 선정과 11월 4일 출범식의 사후 보도로 신규 선정 사건이 아님"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "재직자교육", "산학프로젝트", "현장실습인턴십", "취업연계", "기업수요조사", "성과관리"],
+    "transferable_mechanism": "지역별 산업특화를 공통 제조AX 교과와 기업 프로젝트·현장실증·현장실습·취업·정주로 연속 연결",
+    "evidence_fact_ids": ["NEWS-20261107-003-F1", "NEWS-20261107-003-F2", "NEWS-20261107-003-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["대학 간 공동교과·학점교류", "산업체 교원·전문가", "기업데이터와 실증장비", "현장실습·취업 협약", "초광역 운영조직"],
+    "eligibility_checks": ["향후 유사사업의 대학·지역·컨소시엄 자격", "기존 재정지원사업과의 중복성", "학점교류·교원활용·사업비 기준", "기업 참여·정주 성과 기준"],
+    "evidence_gaps": ["참여대학·기업 전체 명단과 역할", "대학별 예산", "교과목·학점인정 세부", "기업프로젝트·현장실습·취업의 정량지표"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/11/2026-11-07.md"],
+  "changes": []
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261107T075857+0900",
+  "scheduled_at": "2026-11-07T08:00:00+09:00",
+  "cutoff_at": "2026-11-07T08:00:00+09:00",
+  "started_at": "2026-11-07T07:58:57+09:00",
+  "collection_completed_at": "2026-11-07T08:02:22+09:00",
+  "search_window": {
+    "start": "2026-11-06T08:00:00+09:00",
+    "end": "2026-11-07T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-04T08:00:00+09:00",
+      "end": "2026-11-07T08:00:00+09:00",
+      "reason": "사업 직접 관련 및 지역 인재양성 자료의 72시간 보완 확인"
+    },
+    {
+      "start": "2026-10-31T08:00:00+09:00",
+      "end": "2026-11-07T08:00:00+09:00",
+      "reason": "제조AI·제조AX·AI로봇·미래모빌리티 정책의 7일 보완 확인"
+    }
+  ],
+  "search_status": "completed_with_verification_gaps",
+  "queries": [
+    "2026-11-06 첨단산업 인재양성 부트캠프 AI 교육부 KIAT 대학 기업",
+    "2026-11-06 AI 인재양성 RISE 대학 기업 공동교육 충북 충주",
+    "2026-11-06 제조AI 제조AX Physical AI 미래모빌리티 SDV 대학 산학협력",
+    "2026-11-06 AI 현장실습 인턴십 취업 기업 공동프로젝트 대학",
+    "site:moe.go.kr 2026-11-06 첨단산업 인재양성 부트캠프",
+    "site:kiat.or.kr 2026-11-06 부트캠프 인재양성",
+    "site:ut.ac.kr OR site:aicc.ut.ac.kr 2026-11-06 부트캠프 AI 인공지능",
+    "강의실을 넘어 세계로 반도체 인공지능 AI 인재 한자리에 2026 11월 6일",
+    "site:chungbuk.go.kr 2026-11-06 AI 인재양성 제조AI 모빌리티",
+    "site:chungju.go.kr 2026-11-06 AI 제조 모빌리티 기업지원",
+    "site:motir.go.kr 2026-11-06 제조AI Physical AI 자율주행 인재",
+    "2026-11-06 기업 대학 AI 공동과제 현장실습 산학협력",
+    "2026-11-06 Physical AI 로봇 인재양성 대학 기업",
+    "초광역 성장엔진 인재육성사업 제조AX AI로봇 1500명"
+  ],
+  "checked_official_sites": [
+    "교육부 보도자료·선정자료",
+    "대한민국 정책브리핑",
+    "한국산업기술진흥원 관련 자료",
+    "국립한국교통대학교 일반소식·AI융합센터",
+    "충청북도 보도자료·공고",
+    "충주시 보도자료·공고",
+    "산업통상부 보도자료",
+    "경남대학교 공식 보도",
+    "AI Bootcamp Innovation Challenger 2026 공식 플랫폼"
+  ],
+  "verification_failures": [
+    "교육부 글로벌 교육과정 보도자료 본문이 공식 페이지에서 HWPX 첨부로 제공돼 세부 수치·과정내용은 정책브리핑 첨부 존재와 교육부 보도자료 인용 언론보도로 교차확인함",
+    "글로벌 교육과정의 국립한국교통대학교·소속 학생 참여 여부와 학생 선발조건을 확인하지 못함",
+    "제조AI 38개 우수사례의 업종별·기업별 원자료와 대학 참여자격을 확인하지 못함",
+    "초광역 모델의 참여대학·기업 전체 명단, 기관별 예산·성과지표를 확인하지 못함"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.khu.ac.kr/kor/user/bbs/BMSR00040/view.do?menuNo=200266&boardId=848474",
+      "reason": "11월 6일 게시됐지만 2026년 2월 선정 사실의 지연 보도로 확인돼 신규 사건에서 제외"
+    },
+    {
+      "url": "https://axr.kr/ai2026",
+      "reason": "기존 NEWS-20261019-004와 비교해 기업특화교육·멘토링 일정의 실질 변경이 없어 변동 없음 처리"
+    },
+    {
+      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=notice&wr_id=1347584",
+      "reason": "과거 마감 공고가 검색결과에서 모집 중으로 노출돼 현재 상태를 원문으로 확정할 수 없어 제외"
+    },
+    {
+      "url": "https://www.kopo.ac.kr/busan/board.do?menu=1304&mode=view&post=755871&pageIndex=1",
+      "reason": "11월 3일 타지역 로봇 현장실습 사례로 7일 범위에 있으나 직접성·이전가능성 근거가 이번 핵심자료보다 낮아 제외"
+    }
+  ],
+  "previous_success_run_id": "20261106T080342+0900",
+  "coverage_gaps": [
+    "검색엔진 색인 지연으로 기준시각 직전 게시물이 누락될 수 있음",
+    "11월 7일 당일 게시물은 08:00 이전 공개시각을 입증하지 못하면 신규 확정 대상에서 제외함",
+    "국립한국교통대학교의 글로벌 교육과정 참여 여부와 학생 선발조건 미확인",
+    "2027년 제조AX 인력양성 사업은 정부안·계획 단계로 최종예산·개별 공고 미확인",
+    "초광역 제조AX·AI로봇 모델의 기관별 역할·예산·정량 성과지표 미확인"
+  ],
+  "coverage_summary": {
+    "bootcamp_direct": "completed_with_gap: 신규 공식자료 1건 검증, 국립한국교통대학교 참여 여부 미확인",
+    "government_policy": "completed: 타지역 초광역 모델 공식자료 1건 검증, 신규 선정 사건이 아닌 사후 운영자료로 분류",
+    "chungbuk_chungju": "completed: 기준시각까지 신규 확정 이슈 0건, 제조AI 전략에서 청주 지역산단 연계 근거 확인",
+    "industry_technology": "completed_with_gap: 7일 보완 제조AI 전략 1건 검증, 개별 사업공고·대학 자격 미확인"
+  },
+  "issue_ids": {
+    "NEWS-20261107-001": "new",
+    "NEWS-20261107-002": "new",
+    "NEWS-20261107-003": "new",
+    "NEWS-20261019-004": "unchanged"
+  },
+  "counts": {
+    "new": 3,
+    "updated": 0,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-07.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-07.md",
+    "records/2026/NEWS-20261107-001.json",
+    "records/2026/NEWS-20261107-002.json",
+    "records/2026/NEWS-20261107-003.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261107T075857+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

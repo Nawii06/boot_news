@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261108-003",
+  "title": "동남권 제조 AX 우수사례와 공동실증·사업화 협력 논의",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "제조 공정문제·데이터·AI 기능·현장실증·정량성과를 연결한 사례와 지역 공동실증 구조가 산학프로젝트·교육과정 설계에 참고 가능",
+  "first_seen_at": "2026-11-08T08:01:56+09:00",
+  "last_verified_at": "2026-11-08T08:05:34+09:00",
+  "published_date": "2026-11-04",
+  "modified_date": null,
+  "event_date": "2026-11-04",
+  "effective_date": null,
+  "freshness": "supplement_7d",
+  "change_status": "new",
+  "organizations": ["부산지방중소벤처기업청", "울산지방중소벤처기업청", "경남지방중소벤처기업청", "부산테크노파크", "울산테크노파크", "경남테크노파크", "지에스티", "엠아이엠", "빅아이"],
+  "regions": ["부산", "울산", "경남"],
+  "sectors": ["제조AI", "제조AX", "자동차부품", "비전AI", "AI로봇", "피지컬AI", "산업안전"],
+  "keywords": ["정밀가공", "진동데이터", "AI 에이전트", "비전검사", "자율이동로봇", "영상AI", "공동실증", "사업화"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261108-003-F1",
+      "text": "부산·울산·경남 지방중소벤처기업청과 각 지역 테크노파크는 2026년 11월 4일 부산에서 제조기업·스마트제조 공급기업 관계자 등 약 60명이 참여한 동남권 스마트제조 AX 우수사례 공유 및 라운드테이블을 개최했다.",
+      "source_urls": ["https://mss.go.kr/site/busan/ex/bbs/List.do?cbIdx=222", "https://mss.go.kr/site/ulsan/ex/bbs/List.do?cbIdx=211", "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071615"],
+      "evidence_locator": "부산·울산중기청 보도자료 목록 및 경상일보 본문 77~82행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261108-003-F2",
+      "text": "엠아이엠은 자동차부품 정밀가공에 진동데이터 기반 공구 교체와 생산계획 자동화를 적용해 생산성이 16.6% 향상되고 불량률이 3.72%에서 0.27%로 낮아졌다고 행사에서 발표했다.",
+      "source_urls": ["https://www.ksilbo.co.kr/news/articleView.html?idxno=1071615"],
+      "evidence_locator": "경상일보 본문 84~86행",
+      "claim_type": "company_claim"
+    },
+    {
+      "fact_id": "NEWS-20261108-003-F3",
+      "text": "지에스티는 AI 에이전트·비전검사·자율이동로봇을 생산·품질·물류에 연계했고 빅아이는 영상AI로 충돌·작업자 쓰러짐·화재를 감지하는 안전관리 사례를 소개했다.",
+      "source_urls": ["https://www.ulsanpress.net/news/articleView.html?idxno=586139"],
+      "evidence_locator": "울산신문 기사 본문 중 부산·경남 우수사례",
+      "claim_type": "company_claim"
+    },
+    {
+      "fact_id": "NEWS-20261108-003-F4",
+      "text": "라운드테이블에서는 제조현장 수요 기반 AI 개발과 공동실증, 공급기업의 기술개발·실증·사업화 지원, 지역별 실증인프라 공동활용이 논의됐다.",
+      "source_urls": ["https://www.ksilbo.co.kr/news/articleView.html?idxno=1071615"],
+      "evidence_locator": "경상일보 본문 88~91행",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {"title":"부산중기청, 동남권 제조 AX 확산을 위한 협력의 장 마련","publisher":"부산지방중소벤처기업청","source_type":"official","url":"https://mss.go.kr/site/busan/ex/bbs/List.do?cbIdx=222","normalized_url":"https://mss.go.kr/site/busan/ex/bbs/List.do?cbIdx=222","published_date":"2026-11-04","accessed_at":"2026-11-08T08:04:00+09:00","verification_scope":"공식 보도자료 제목·등록일·담당부서","evidence_locator":"보도자료 목록 게시물 3454"},
+    {"title":"울산중기청, 동남권 제조 AX 확산을 위한 협력의 장 마련","publisher":"울산지방중소벤처기업청","source_type":"official","url":"https://mss.go.kr/site/ulsan/ex/bbs/List.do?cbIdx=211","normalized_url":"https://mss.go.kr/site/ulsan/ex/bbs/List.do?cbIdx=211","published_date":"2026-11-05","accessed_at":"2026-11-08T08:04:00+09:00","verification_scope":"공식 보도자료 제목·등록일·담당부서","evidence_locator":"보도자료 목록 게시물 1931"},
+    {"title":"동남권 제조업, AX 활성화·피지컬 AI 협력 모색","publisher":"경상일보","source_type":"media","url":"https://www.ksilbo.co.kr/news/articleView.html?idxno=1071615","normalized_url":"https://www.ksilbo.co.kr/news/articleView.html?idxno=1071615","published_date":"2026-11-05","accessed_at":"2026-11-08T08:04:00+09:00","verification_scope":"행사구성·엠아이엠 적용방식·정량성과·공동실증 논의","evidence_locator":"기사 본문 64~93행"},
+    {"title":"AI 도입 울산지역 차 부품사 생산성 16% 쑥","publisher":"울산신문","source_type":"media","url":"https://www.ulsanpress.net/news/articleView.html?idxno=586139","normalized_url":"https://www.ulsanpress.net/news/articleView.html?idxno=586139","published_date":"2026-11-05","accessed_at":"2026-11-08T08:04:00+09:00","verification_scope":"부산·울산·경남 기업별 AI 적용방식과 발표 성과","evidence_locator":"기사 본문"}
+  ],
+  "notice": {"eligibility": null, "support": null, "deadline": null, "application_url": null, "current_status": "행사 완료", "university_eligibility_verified": false},
+  "analysis": {
+    "relevance": "공정문제·데이터·AI 기능·현장실증·생산성·불량·안전 지표를 연결하는 산학프로젝트 설계 근거",
+    "interpretations": ["기업 과제의 교육 전환 시 기술명보다 기준선·데이터·실증환경·검증책임을 먼저 명확히 해야 함"],
+    "proposed_action": "산학프로젝트 후보과제 심사표에 문제·데이터·AI기능·실증환경·기준선·목표지표·기업 검증책임 포함 검토",
+    "prerequisites": ["충북 제조기업 수요", "데이터·장비 접근", "보안·안전 기준", "교원·산업체 전문가", "사업지침·예산"],
+    "limitations": ["타지역 사례", "정량성과는 기업 발표로 독립검증 미확인", "대학·학생 역할 미확인", "2027년 지원사업은 안내 단계로 최종공고 미확인"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "재직자교육", "산학프로젝트", "기업수요조사", "성과관리"],
+    "transferable_mechanism": "공정문제 정의→센서·영상 데이터 확보→AI 기능 적용→현장실증→생산성·불량·안전 지표 검증→공동실증·사업화",
+    "evidence_fact_ids": ["NEWS-20261108-003-F1", "NEWS-20261108-003-F2", "NEWS-20261108-003-F3", "NEWS-20261108-003-F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업데이터", "실증장비·현장", "AI·로봇·비전 전문가", "보안·안전관리", "PoC 예산"],
+    "eligibility_checks": ["기업데이터 사용·성과귀속", "학생 현장활동 안전·보험", "사업비의 장비·멘토·실증 집행 가능 여부"],
+    "evidence_gaps": ["원시 성과데이터와 측정기간", "대학·학생 역할", "후속 공동실증·사업화 결과"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": ["NEWS-20261108-001", "NEWS-20261107-002"],
+  "report_paths": ["reports/2026/11/2026-11-08.md"],
+  "changes": []
+}

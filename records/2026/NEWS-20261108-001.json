@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261108-001",
+  "title": "부산 AX 수요·공급기업 비즈니스 매칭데이",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "제조기업 공정수요를 AI 공급기술 발표와 1:1 상담으로 연결한 구조가 기업수요조사·산학프로젝트 과제 발굴에 참고 가능",
+  "first_seen_at": "2026-11-08T08:01:56+09:00",
+  "last_verified_at": "2026-11-08T08:05:34+09:00",
+  "published_date": "2026-11-06",
+  "modified_date": null,
+  "event_date": "2026-11-06",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": ["부산지방중소벤처기업청", "부산 엣지 AIDC", "제조 중소기업", "제조 AI 공급기업"],
+  "regions": ["부산"],
+  "sectors": ["제조AI", "제조AX", "스마트제조", "엣지 AIDC"],
+  "keywords": ["수요·공급기업", "비즈니스 매칭", "1:1 기술상담", "현장 애로", "스마트제조 AX 확산 주간"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261108-001-F1",
+      "text": "부산지방중소벤처기업청은 2026년 11월 6일 부산 롯데호텔에서 AI 도입 희망 제조 중소기업, 제조 AI 공급기업, 유관기관 등 약 60명이 참여한 부산 AX 수요·공급기업 비즈니스 매칭데이를 개최했다.",
+      "source_urls": ["https://mss.go.kr/site/busan/ex/bbs/List.do?cbIdx=222", "https://www.news1.kr/local/busan-gyeongnam/6346020"],
+      "evidence_locator": "부산중기청 보도자료 목록 3460 및 뉴스1 본문·사진설명",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261108-001-F2",
+      "text": "행사에서는 부산 엣지 AIDC 구축사업 소개와 제조 AI 공급기업 8개사의 기술·솔루션 발표가 진행됐고, 수요기업의 현장 애로와 기술수요를 공급기업 솔루션과 연결하는 1:1 상담이 이어졌다.",
+      "source_urls": ["https://www.news1.kr/local/busan-gyeongnam/6346020"],
+      "evidence_locator": "뉴스1 기사 제목·3줄 요약 및 본문",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261108-001-F3",
+      "text": "부산중기청은 2026년 11월 2일부터 6일까지 스마트제조 AX 확산 주간을 운영했으며, 매칭데이는 정책·기술정보와 우수사례를 실제 기술상담과 협력 논의로 연결하는 일정이었다.",
+      "source_urls": ["https://www.fnnews.com/news/202611061705189170"],
+      "evidence_locator": "파이낸셜뉴스 기사 본문 중 확산 주간 8개 프로그램과 매칭데이 설명",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "부산중기청, 제조 중소기업 AX 지원 비즈니스 매칭데이 개최",
+      "publisher": "부산지방중소벤처기업청",
+      "source_type": "official",
+      "url": "https://mss.go.kr/site/busan/ex/bbs/List.do?cbIdx=222",
+      "normalized_url": "https://mss.go.kr/site/busan/ex/bbs/List.do?cbIdx=222",
+      "published_date": "2026-11-06",
+      "accessed_at": "2026-11-08T08:04:00+09:00",
+      "verification_scope": "공식 보도자료 제목·담당부서·등록일",
+      "evidence_locator": "보도자료 목록 게시물 3460"
+    },
+    {
+      "title": "부산중기청, 제조 중소기업 인공지능 전환 비즈니스 매칭데이 개최",
+      "publisher": "뉴스1",
+      "source_type": "media",
+      "url": "https://www.news1.kr/local/busan-gyeongnam/6346020",
+      "normalized_url": "https://www.news1.kr/local/busan-gyeongnam/6346020",
+      "published_date": "2026-11-06",
+      "accessed_at": "2026-11-08T08:04:00+09:00",
+      "verification_scope": "행사일·장소·참석범위·공급기업 수·1:1 상담 구조",
+      "evidence_locator": "기사 본문 및 3줄 요약"
+    },
+    {
+      "title": "부산중기청, 제조 중소기업 인공지능 전환 비즈니스 매칭데이 개최",
+      "publisher": "파이낸셜뉴스·뉴스1",
+      "source_type": "media",
+      "url": "https://www.fnnews.com/news/202611061705189170",
+      "normalized_url": "https://www.fnnews.com/news/202611061705189170",
+      "published_date": "2026-11-06",
+      "accessed_at": "2026-11-08T08:04:00+09:00",
+      "verification_scope": "스마트제조 AX 확산 주간의 기간·프로그램 구성",
+      "evidence_locator": "기사 본문"
+    }
+  ],
+  "notice": {"eligibility": null, "support": null, "deadline": null, "application_url": null, "current_status": "행사 완료", "university_eligibility_verified": false},
+  "analysis": {
+    "relevance": "기업수요조사를 공급기술 설명과 1:1 문제정의 상담으로 확장한 산학프로젝트 과제 발굴 참고사례",
+    "interpretations": ["설문형 수요조사보다 사전 수요서와 상담을 결합하면 기업문제와 공급기술의 적합성을 조기에 확인할 수 있음"],
+    "proposed_action": "충북·충주 제조기업 수요서와 교원·기업 멘토가 참여하는 소규모 매칭 세션 적용 검토",
+    "prerequisites": ["지역기업 수요 확인", "기업보안·데이터권한 기준", "교원·산업체 멘토 확보", "사업지침·예산 확인"],
+    "limitations": ["타지역 사례", "대학·학생 참여 미확인", "상담 이후 계약·PoC·고용 성과 미확인"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "산학프로젝트", "기업수요조사", "재직자교육", "성과관리"],
+    "transferable_mechanism": "기업 공정애로 사전수집→AI 공급기술 발표→수요·공급 1:1 상담→과제 적합성 판정",
+    "evidence_fact_ids": ["NEWS-20261108-001-F1", "NEWS-20261108-001-F2", "NEWS-20261108-001-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["수요서", "AI 공급기업·교원 풀", "상담 운영인력", "데이터·보안 검토", "후속 PoC 예산"],
+    "eligibility_checks": ["본 사업 산학프로젝트·멘토비 집행 가능 여부", "기업데이터 사용·성과귀속", "학생 참여조건"],
+    "evidence_gaps": ["후속 협약·PoC 건수", "대학·학생 역할", "참여기업 목록과 기술수요 세부내용"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": ["NEWS-20261108-003"],
+  "report_paths": ["reports/2026/11/2026-11-08.md"],
+  "changes": []
+}

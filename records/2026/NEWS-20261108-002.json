@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261108-002",
+  "title": "경복대학교 AI·DX Center와 X-R FLEX 유연학사 모델",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "학생·재직자 공동활용 AI·DX 실습공간과 유연학사·기업협의체를 결합한 타대학 운영계획으로 교육과정·재직자교육 설계에 참고 가능",
+  "first_seen_at": "2026-11-08T08:01:56+09:00",
+  "last_verified_at": "2026-11-08T08:05:34+09:00",
+  "published_date": "2026-11-02",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "supplement_7d",
+  "change_status": "new",
+  "organizations": ["경복대학교", "경복대학교 앵커사업단"],
+  "regions": ["경기", "남양주"],
+  "sectors": ["AI·DX", "지산학협력", "재직자교육"],
+  "keywords": ["AI·DX Center", "X-R FLEX", "유연학사", "일·학습 병행", "운영협의체"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261108-002-F1",
+      "text": "경복대학교 앵커사업단은 경기도 지역성장 인재양성체계 사업의 일환으로 남양주캠퍼스 선덕관 창조인홀 5114호에 AI·DX Center를 구축했다고 밝혔다.",
+      "source_urls": ["https://newrnd.kbu.ac.kr/kor/CMS/Board/Board.do?board_seq=231896&mCode=MN078&mgr_seq=240&mode=view"],
+      "evidence_locator": "경복대학교 공식보도 본문 320행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261108-002-F2",
+      "text": "기존 일방향 강의공간을 실습·협업·토론이 가능한 양방향 환경으로 개선하고, 재직자의 일·학습 병행을 지원하는 X-R FLEX 수업모델과 유연학사 운영을 도입할 계획이다.",
+      "source_urls": ["https://newrnd.kbu.ac.kr/kor/CMS/Board/Board.do?board_seq=231896&mCode=MN078&mgr_seq=240&mode=view"],
+      "evidence_locator": "경복대학교 공식보도 본문 324행",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261108-002-F3",
+      "text": "대학은 이 공간을 학생 디지털 실무역량 교육, 지역기업 재직자 대상 산업수요 직무교육, 운영협의체 등 지산학 협력 프로그램에 활용할 계획이라고 밝혔다.",
+      "source_urls": ["https://newrnd.kbu.ac.kr/kor/CMS/Board/Board.do?board_seq=231896&mCode=MN078&mgr_seq=240&mode=view"],
+      "evidence_locator": "경복대학교 공식보도 본문 328~329행",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [{
+    "title": "경복대학교, AI·DX Center 구축을 통한 첨단 교육환경 조성",
+    "publisher": "경복대학교",
+    "source_type": "official",
+    "url": "https://newrnd.kbu.ac.kr/kor/CMS/Board/Board.do?board_seq=231896&mCode=MN078&mgr_seq=240&mode=view",
+    "normalized_url": "https://newrnd.kbu.ac.kr/kor/CMS/Board/Board.do?board_seq=231896&mCode=MN078&mgr_seq=240&mode=view",
+    "published_date": "2026-11-02",
+    "accessed_at": "2026-11-08T08:04:00+09:00",
+    "verification_scope": "공간 구축, X-R FLEX, 학생·재직자 활용계획, 운영협의체",
+    "evidence_locator": "공식보도 본문 299~329행"
+  }],
+  "notice": {"eligibility": null, "support": null, "deadline": null, "application_url": null, "current_status": "공간 구축 발표·프로그램 운영계획", "university_eligibility_verified": false},
+  "analysis": {
+    "relevance": "학생·재직자 교육과 기업협의체를 동일 공간·운영체계로 연결한 교육·지산학 협력 계획",
+    "interpretations": ["시설 자체보다 가변형 실습환경, 재직자 접근시간, 산업수요 직무교육, 운영협의체의 결합이 이전 가능한 핵심"],
+    "proposed_action": "기존 공간의 가변형 실습·야간집중 운영과 학생·재직자 공동 프로젝트 수요 점검",
+    "prerequisites": ["학칙·수업시간·재직자 참여자격", "시설운영·안전", "교원부담", "사업지침·예산"],
+    "limitations": ["타지역 전문대학 사례", "계획 단계로 교육성과 미확인", "예산·학생수·기업수·운영시간 미확인"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "비교과", "재직자교육", "산학프로젝트", "기업수요조사"],
+    "transferable_mechanism": "가변형 AI·DX 실습공간에 재직자 유연학사, 산업수요 직무교육, 기업협의체와 학생 공동프로젝트를 연결",
+    "evidence_fact_ids": ["NEWS-20261108-002-F1", "NEWS-20261108-002-F2", "NEWS-20261108-002-F3"],
+    "candidate_partners": [],
+    "resource_requirements": ["가변형 실습공간", "야간·집중수업 운영", "기업협의체", "교원·산업체 전문가", "시설·안전관리"],
+    "eligibility_checks": ["재직자 수강·학점 인정 가능 여부", "본 사업비 시설·장비 집행 가능 여부", "외부인 시설 이용 규정"],
+    "evidence_gaps": ["교육과정 세부안", "참여기업·학습자 규모", "예산", "교육·취업·기업성과"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/11/2026-11-08.md"],
+  "changes": []
+}

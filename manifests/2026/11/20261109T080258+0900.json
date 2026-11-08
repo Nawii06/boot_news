@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261109T080258+0900",
+  "scheduled_at": "2026-11-09T08:00:00+09:00",
+  "cutoff_at": "2026-11-09T08:00:00+09:00",
+  "started_at": "2026-11-09T08:02:58+09:00",
+  "collection_completed_at": "2026-11-09T08:06:26+09:00",
+  "search_window": {
+    "start": "2026-11-08T08:00:00+09:00",
+    "end": "2026-11-09T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-06T08:00:00+09:00",
+      "end": "2026-11-09T08:00:00+09:00",
+      "reason": "사업 직접 신규자료 부족으로 72시간 내 부트캠프·정책·기업·교육과정 자료 보완"
+    },
+    {
+      "start": "2026-11-02T08:00:00+09:00",
+      "end": "2026-11-09T08:00:00+09:00",
+      "reason": "기업 풀·학생 선발·학점·산학프로젝트를 결합한 이전 가능한 인턴십 구조 확인"
+    }
+  ],
+  "search_status": "completed_with_verification_gaps",
+  "queries": [
+    "2026년 11월 8일 첨단산업 인재양성 부트캠프 AI 교육부 KIAT 대학 기업",
+    "2026년 11월 8일 AI 인재양성 RISE 대학 기업 공동교육 인턴십 취업",
+    "2026년 11월 8일 충북 충주 AI 제조AX 모빌리티 산학협력",
+    "2026년 11월 8일 제조AI 제조AX Physical AI AI로봇 대학 산학협력",
+    "site:kmu.ac.kr 글로벌 AI 프론티어 Change the Ground",
+    "site:g2b.go.kr R26BK01815896",
+    "site:kiat.or.kr 첨단분야 인턴십 및 글로벌 교육과정 2026 신청 기간",
+    "site:moe.go.kr OR site:kiat.or.kr 2026-11-08 부트캠프 AI",
+    "site:mss.go.kr OR site:motir.go.kr OR site:nipa.kr OR site:iitp.kr 2026-11-08 제조 AI AX 로봇 모빌리티 인재",
+    "site:ac.kr 2026-11-08 AI 산학협력 현장실습 인턴십 기업 대학",
+    "site:kr 2026-11-08 AI 인재양성 대학 기업",
+    "2026-11-08 온디바이스 AI 엣지 AI 비전 AI 교육 인재양성 대학 기업",
+    "2026학년도 겨울계절학기 온디바이스 AI PBL",
+    "site:pusan.ac.kr 생성형 AI PBL 온디바이스 AI PBL",
+    "site:pusan.ac.kr 기업체험형 단기 인턴십 AI 부트캠프 마일스톤",
+    "글로벌 AI 프론티어 프로그램 Change the Ground 계명대학교"
+  ],
+  "checked_official_sites": [
+    "교육부 보도자료·행정예고",
+    "한국산업기술진흥원 사업공고",
+    "국립한국교통대학교 일반소식·UTRO+",
+    "충청북도·충주시 관련 자료 검색",
+    "산업통상부·중소벤처기업부·정보통신산업진흥원·정보통신기획평가원 관련 자료 검색",
+    "부산대학교·부산대학교 AI융합교육원 공식 공지",
+    "펄어비스 공식 채용 공지",
+    "조달청 나라장터 검색결과"
+  ],
+  "verification_failures": [
+    "계명대학교 글로벌 AI 프론티어 프로그램 조달청 첨부 원문은 직접 열람이 차단돼 세부 일정·학생대상·교육내용을 검증하지 못함",
+    "UTRO+는 공개 목록에서 모집상태와 신청현황을 확인했으나 로그인 후 실제 접수 가능 상태와 종료시각은 확인하지 못함",
+    "부산대 단기 인턴십의 11월 9일 정확한 접수 종료시각과 Google Forms 활성 상태를 확인하지 못함",
+    "교육부 현장실습 규정 개정안의 첨부 HWPX 본문을 열람하지 못해 조문별 변경사항을 검증하지 못함"
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.g2b.go.kr/pn/pnp/pnpe/UntyAtchFile/downloadFile.do?bidPbancNo=R26BK01804987&bidPbancOrd=000&fileSeq=1&fileType=&prcmBsneSeCd=03",
+      "reason": "공식 조달 첨부 원문 직접 열람이 차단돼 학생대상·일정·교육내용 검증 불가"
+    },
+    {
+      "url": "https://cse.pusan.ac.kr/bbs/cse/2055/1468352/artclView.do",
+      "reason": "10월 27일 게시·11월 8일 마감으로 7일 보완기간 밖 자료이며 이번 회차 신규 뉴스로 분류하지 않음"
+    },
+    {
+      "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=02402&page=1&prntBoardID=0&prntBoardSeq=0&prntLev=0&renew=D&s=moe&searchType=S&type=default",
+      "reason": "11월 8일 교육부 신규자료는 폐교 활용 내용으로 부트캠프·AI 인재양성과 직접 관련성이 없어 제외"
+    },
+    {
+      "url": "https://www.work24.go.kr/hr/a/a/1100/trnnCrsInf2.do",
+      "reason": "민간 직업훈련과정으로 첨단산업 인재양성 부트캠프 정부사업·대학 산학협력과 구분해 제외"
+    },
+    {
+      "url": "https://www.kiat.or.kr/front/board/boardContentsView.do?MenuId=b159c9dac684471b87256f1e25404f5e&board_id=90&contents_id=a91f83b67f1e437cb75e3599baccea80",
+      "reason": "2026년 첨단분야 인턴십 지원사업 4차 공고는 10월 12일 마감된 기존 공고로 이번 회차 신규·진행 공고가 아님"
+    }
+  ],
+  "previous_success_run_id": "20261108T080156+0900",
+  "coverage_gaps": [
+    "검색엔진 색인 지연으로 기준시각 직전 게시물이 누락될 수 있음",
+    "기준일 당일 게시물은 08:00 이전 공개시각을 입증하지 못하면 신규 확정에서 제외함",
+    "충북·충주시 공식 검색 범위에서 신규 핵심자료를 확인하지 못했으나 실제 자료 부재로 단정하지 않음",
+    "부산대 단기 인턴십의 실제 기업매칭·수료·프로젝트·취업성과는 모집 단계에서 확인 불가",
+    "타대학 사례를 국립한국교통대학교에 적용하려면 학칙·협약·보험·안전·사업지침·예산 확인 필요"
+  ],
+  "coverage_summary": {
+    "bootcamp_direct": "completed_with_gap: 신규 제도·공고 0건, 기존 LEAD 진행 공고 1건 재확인; 조달 후보 1건은 원문 세부 검증 실패",
+    "government_policy": "completed_with_gap: 충북·충주 신규 핵심자료 0건, 현장실습 규정 행정예고 1건 변동 없음",
+    "industry": "completed: 신규 핵심자료 0건, 펄어비스 진행 공고 1건 변동 없음",
+    "technology_curriculum": "completed_with_gap: 7일 보완 타대학 공식사례 1건 첫 수집, 교통대 동계 현장실습 1건 변동 없음",
+    "source_diversity": "교통대 2건, 중앙정부·전문기관 2개 그룹, 타대학 1건, 기업 1건, 지역·산업기관 2개 그룹을 독립 확인"
+  },
+  "issue_ids": {
+    "NEWS-20261109-001": "new",
+    "NEWS-20261105-001": "unchanged",
+    "NEWS-20261106-002": "unchanged",
+    "NEWS-20261103-001": "unchanged",
+    "NEWS-20261104-002": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 0,
+    "unchanged": 4,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-09.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-09.md",
+    "records/2026/NEWS-20261109-001.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261109T080258+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

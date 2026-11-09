@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261110-002",
+  "title": "순천향대 AI중심대학사업단 2026학년도 동계 현장실습 모집",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "타 대학 사례이나 AI 관련 7개 학과, 대학 공통 현장실습 교과·기업매칭 시스템, 학점과 이중지원 관리 구조를 확인할 수 있음",
+  "first_seen_at": "2026-11-10T08:03:31+09:00",
+  "last_verified_at": "2026-11-10T08:05:14+09:00",
+  "published_date": "2026-11-09",
+  "modified_date": null,
+  "event_date": "2026-12-23",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["순천향대학교 AI중심대학사업단", "순천향대학교 AI산학협력센터", "순천향대학교 SCH앵커사업단"],
+  "regions": ["충청남도 아산시"],
+  "sectors": ["인공지능", "소프트웨어", "현장실습"],
+  "keywords": ["AI중심대학", "동계 현장실습", "인턴십", "기업매칭", "학점", "학생지원"],
+  "program_year": "2026",
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261110-002-F1",
+      "text": "AI산학협력센터는 2026년 11월 9일 AI 관련 7개 학과의 4학기 이상 이수 재학생을 대상으로 동계 현장실습 모집을 게시했다.",
+      "source_urls": ["https://home.sch.ac.kr/sw/07/010000.jsp?article_no=20261109185916735053&board_no=20211209192056245082&board_wrapper=%2Fsw%2F07%2F010000.jsp&mode=view"],
+      "evidence_locator": "공지 제목·등록일·모집학과·모집대상",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261110-002-F2",
+      "text": "대학 공식 신청시스템은 접수기간을 2026년 11월 2일 00:00부터 11월 20일 23:00까지, 진행기간을 2026년 12월 23일부터 2027년 2월 26일까지로 명시한다.",
+      "source_urls": ["https://anchor.sch.ac.kr/main/sch?do=vow&gc=766RHDK&program_id=VXFivnVVdG0f"],
+      "evidence_locator": "현장실습 접수기간·진행기간",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261110-002-F3",
+      "text": "대학 공통 안내는 4주 이상 3학점, 8주 이상 6학점, 실습기관 지원 전 전공 관련성 검토와 교과목 개설 확인을 요구한다.",
+      "source_urls": ["https://home.sch.ac.kr/sc/03/0101.jsp?article_no=20261027111238201082&mode=view"],
+      "evidence_locator": "참여방법·지원 시 주의사항",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261110-002-F4",
+      "text": "타기관 국외현장실습을 병행하는 경우 해당기관의 학생지원금 지급 여부를 확인하고 이중지원을 금지한다.",
+      "source_urls": ["https://home.sch.ac.kr/sc/03/0101.jsp?article_no=20261027111238201082&mode=view"],
+      "evidence_locator": "지원 신청 일자 하단 유의사항",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026학년도 동계학기 국내·외 현장실습(인턴십) 학생 모집 안내",
+      "publisher": "순천향대학교 AI중심대학사업단",
+      "source_type": "official_university",
+      "url": "https://home.sch.ac.kr/sw/07/010000.jsp?article_no=20261109185916735053&board_no=20211209192056245082&board_wrapper=%2Fsw%2F07%2F010000.jsp&mode=view",
+      "normalized_url": "https://home.sch.ac.kr/sw/07/010000.jsp?article_no=20261109185916735053&board_no=20211209192056245082&board_wrapper=%2Fsw%2F07/010000.jsp&mode=view",
+      "published_date": "2026-11-09",
+      "accessed_at": "2026-11-10T08:05:14+09:00",
+      "verification_scope": "게시일·참여학과·대상·실습지원비 기준은 공식 페이지 색인 본문으로 확인; 원문 직접 열람은 접근 제한",
+      "evidence_locator": "공지 본문"
+    },
+    {
+      "title": "2026학년도 동계학기 현장실습학기제 운영",
+      "publisher": "순천향대학교 SCH앵커사업단",
+      "source_type": "official_university",
+      "url": "https://anchor.sch.ac.kr/main/sch?do=vow&gc=766RHDK&program_id=VXFivnVVdG0f",
+      "normalized_url": "https://anchor.sch.ac.kr/main/sch?do=vow&gc=766RHDK&program_id=VXFivnVVdG0f",
+      "published_date": null,
+      "accessed_at": "2026-11-10T08:05:14+09:00",
+      "verification_scope": "접수기간·운영기간·신청시스템 상태",
+      "evidence_locator": "현장실습 상세"
+    },
+    {
+      "title": "2026학년도 동계학기 IC-Internship 현장실습 안내",
+      "publisher": "순천향대학교 산학협력교육팀",
+      "source_type": "official_university",
+      "url": "https://home.sch.ac.kr/sc/03/0101.jsp?article_no=20261027111238201082&mode=view",
+      "normalized_url": "https://home.sch.ac.kr/sc/03/0101.jsp?article_no=20261027111238201082&mode=view",
+      "published_date": "2026-10-27",
+      "accessed_at": "2026-11-10T08:05:14+09:00",
+      "verification_scope": "학점·참여자격·전공관련성·이중지원 유의사항",
+      "evidence_locator": "본문 1~5항"
+    }
+  ],
+  "notice": {
+    "eligibility": "순천향대학교 지정 AI 관련 7개 학과의 4학기 이상 이수 재학생; 대학 공통 안내상 3~5학년 재학생",
+    "support": "4주 또는 8주 현장실습; 대학 공통 기준 3학점 또는 6학점; 기업 실습지원비 조건은 개별 공지 확인",
+    "deadline": "2026-11-20T23:00:00+09:00",
+    "application_url": "https://anchor.sch.ac.kr/main/sch?do=vow&gc=766RHDK&program_id=VXFivnVVdG0f",
+    "current_status": "접수 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "AI 관련 참여학과를 지정하고 대학 공통 현장실습 교과·신청시스템·기업매칭을 연계한 운영사례",
+    "interpretations": [
+      "AI사업단은 참여학과·직무기업·학생 준비를 지원하고 대학 현장실습 조직은 학점·협약·보험·운영을 담당하는 역할분담 사례로 볼 수 있다.",
+      "타 대학 학생 대상이므로 국립한국교통대학교 학생은 지원할 수 없으며 본교 적용에는 별도 규정 검토가 필요하다.",
+      "실제 참여기업·선발·수료·취업성과는 확인되지 않았다."
+    ],
+    "proposed_action": "본교 현장실습센터 공통 절차와 연계해 사업단이 AI 직무기업 발굴·포트폴리오·학생기업 매칭·성과추적을 보완하는 역할분담 검토",
+    "prerequisites": ["본교 현장실습학기제 규정", "부트캠프 성과 인정기준", "기업협약·보험·안전", "사업비·타사업 이중지원 기준"],
+    "limitations": ["타 대학 사례", "AI중심대학 공지 원문 직접 열람 제한", "참여기업·선발결과·취업성과 미확인"]
+  },
+  "development": {
+    "use_cases": ["교육과정", "산학프로젝트", "현장실습인턴십", "취업연계", "기업수요조사", "학생지원", "성과관리"],
+    "transferable_mechanism": "AI사업단이 참여학과 학생과 직무기업을 발굴하고 대학 공통 현장실습 조직·시스템이 학점·기업매칭·협약·이중지원 관리를 수행",
+    "evidence_fact_ids": ["NEWS-20261110-002-F1", "NEWS-20261110-002-F2", "NEWS-20261110-002-F3", "NEWS-20261110-002-F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["AI 직무기업 풀", "현장실습센터 협업", "학생 포트폴리오·상담", "기업매칭·학점·보험·안전관리", "결과보고·기업평가"],
+    "eligibility_checks": ["본교 학생 자격·학점 기준", "부트캠프 성과 인정", "실습지원비·타사업 중복", "기업 직무와 전공 관련성"],
+    "evidence_gaps": ["참여기업과 직무", "학생·기업 매칭결과", "수료·기업평가·취업성과", "본교 적용 시 역할분담과 예산"] ,
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": ["NEWS-20261103-001", "NEWS-20261106-002"],
+  "report_paths": ["reports/2026/11/2026-11-10.md"],
+  "changes": [
+    {
+      "changed_at": "2026-11-10T08:05:14+09:00",
+      "run_id": "20261110T080331+0900",
+      "field": "initial_record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 범위에서 AI중심대학사업단 신규 공지와 대학 공식 현장실습 시스템·공통 운영안내를 교차 검증해 첫 수집",
+      "source_urls": [
+        "https://home.sch.ac.kr/sw/07/010000.jsp?article_no=20261109185916735053&board_no=20211209192056245082&board_wrapper=%2Fsw%2F07/010000.jsp&mode=view",
+        "https://anchor.sch.ac.kr/main/sch?do=vow&gc=766RHDK&program_id=VXFivnVVdG0f",
+        "https://home.sch.ac.kr/sc/03/0101.jsp?article_no=20261027111238201082&mode=view"
+      ]
+    }
+  ]
+}

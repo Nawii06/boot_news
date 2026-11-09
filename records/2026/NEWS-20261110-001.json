@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261110-001",
+  "title": "AI Bootcamp Innovation Challenger 2026 멘토링 단계",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "교육부 주최 첨단산업 인재양성 AI 부트캠프 직접 프로그램으로 기업문제·교육·멘토링·프로젝트 발표 구조가 사업운영과 성과증빙에 직접 관련됨",
+  "first_seen_at": "2026-11-10T08:03:31+09:00",
+  "last_verified_at": "2026-11-10T08:05:14+09:00",
+  "published_date": null,
+  "modified_date": null,
+  "event_date": "2026-11-09",
+  "effective_date": null,
+  "freshness": "ongoing_notice",
+  "change_status": "new",
+  "organizations": ["교육부", "한국산업기술진흥원", "한국인공지능·소프트웨어산업협회"],
+  "regions": ["전국"],
+  "sectors": ["인공지능", "소프트웨어", "산학협력"],
+  "keywords": ["첨단산업 인재양성 부트캠프", "AI 부트캠프", "기업문제", "멘토링", "프로토타입", "경진대회"],
+  "program_year": "2026",
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261110-001-F1",
+      "text": "공식 사이트는 40개 대학·40개 팀·5개 참여기업 규모이며 교육부 주최, 한국산업기술진흥원과 한국인공지능·소프트웨어산업협회 주관으로 안내한다.",
+      "source_urls": ["https://axr.kr/ai2026"],
+      "evidence_locator": "대회소개 및 주최·주관, 참가규모 영역",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261110-001-F2",
+      "text": "공통교육·기업특화교육 후 멘토링은 2026년 11월 9일부터 20일까지이며 프로젝트 발표는 11월 25일이다.",
+      "source_urls": ["https://axr.kr/ai2026", "https://axr.kr/ai2026/education"],
+      "evidence_locator": "메인 페이지 일정 및 교육안내 기간",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261110-001-F3",
+      "text": "교육내용은 문제정의, AI 활용 프로토타이핑, 프로젝트 기획·피칭과 18시간 기업특화교육으로 구성된다.",
+      "source_urls": ["https://axr.kr/ai2026/education"],
+      "evidence_locator": "교육안내 과정 1~4",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261110-001-F4",
+      "text": "참가자는 AI 기업이 출제한 문제 중 하나를 선택해 협업 프로젝트를 수행하고 11월 25일 현장 발표·심사에 참여하는 구조다.",
+      "source_urls": ["https://aibootcamp.bufs.ac.kr/notice/11?cat=%EB%AA%A8%EC%A7%91"],
+      "evidence_locator": "행사 주요내용과 추진방향",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AI Bootcamp Innovation Challenger 2026",
+      "publisher": "한국인공지능·소프트웨어산업협회",
+      "source_type": "official_program",
+      "url": "https://axr.kr/ai2026",
+      "normalized_url": "https://axr.kr/ai2026",
+      "published_date": null,
+      "accessed_at": "2026-11-10T08:05:14+09:00",
+      "verification_scope": "참가규모·주최주관·교육·멘토링·발표 일정",
+      "evidence_locator": "본문 대회소개·일정·주최주관"
+    },
+    {
+      "title": "AI Bootcamp Innovation Challenger 2026 교육안내",
+      "publisher": "한국인공지능·소프트웨어산업협회",
+      "source_type": "official_program",
+      "url": "https://axr.kr/ai2026/education",
+      "normalized_url": "https://axr.kr/ai2026/education",
+      "published_date": null,
+      "accessed_at": "2026-11-10T08:05:14+09:00",
+      "verification_scope": "교육기간·과정 구성·기업특화교육 시간",
+      "evidence_locator": "교육안내 과정 1~4"
+    },
+    {
+      "title": "AI Bootcamp Innovation Challenger·2026 인공지능 분야 부트캠프 라운드업 참여 안내",
+      "publisher": "부산외국어대학교 AI부트캠프사업단",
+      "source_type": "official_university",
+      "url": "https://aibootcamp.bufs.ac.kr/notice/11?cat=%EB%AA%A8%EC%A7%91",
+      "normalized_url": "https://aibootcamp.bufs.ac.kr/notice/11?cat=%EB%AA%A8%EC%A7%91",
+      "published_date": "2026-09-16",
+      "accessed_at": "2026-11-10T08:05:14+09:00",
+      "verification_scope": "기업 출제문제·사전교육·멘토링·프로젝트 발표 구조",
+      "evidence_locator": "행사 주요내용·추진방향"
+    }
+  ],
+  "notice": {
+    "eligibility": "최종 선발된 AI 부트캠프 참가팀",
+    "support": "6주 사전교육, 2주 멘토링, 기업특화교육, 프로젝트 발표·시상",
+    "deadline": "2026-11-20",
+    "application_url": "https://axr.kr/ai2026",
+    "current_status": "멘토링 진행 중; 신규 모집 종료",
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "기업문제 기반 부트캠프 교육과 멘토링·프로젝트 발표를 직접 연결한 전국 단위 프로그램",
+    "interpretations": [
+      "기업문제에서 발표까지의 단계별 산출물을 사업성과 증빙으로 설계하는 참고구조다.",
+      "참가 규모와 운영계획은 확인됐으나 프로젝트 품질·수료·취업성과는 아직 확인되지 않았다."
+    ],
+    "proposed_action": "사업단 참가팀 여부를 확인하고 참가팀이 있다면 멘토링 기록·기업 피드백·버전별 산출물·학생 역할을 성과증빙과 연결하는 방안 검토",
+    "prerequisites": ["사업단 참가팀 확인", "대회 산출물 활용 동의·저작권 확인", "성과지표 및 증빙 인정기준 확인"],
+    "limitations": ["공식 사이트 게시일 미확인", "국립한국교통대학교 참가 여부 공개 확인 필요", "운영 중 단계로 최종 성과 미확인"]
+  },
+  "development": {
+    "use_cases": ["교육과정", "비교과", "산학프로젝트", "취업연계", "기업수요조사", "학생지원", "성과관리"],
+    "transferable_mechanism": "기업 출제문제→공통교육→기업특화교육→멘토링→프로토타입·피칭→기업평가로 단계별 산출물과 피드백을 관리",
+    "evidence_fact_ids": ["NEWS-20261110-001-F1", "NEWS-20261110-001-F2", "NEWS-20261110-001-F3", "NEWS-20261110-001-F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["기업문제와 데이터", "학생팀과 지도교원", "기업멘토", "프로토타입 개발환경", "발표·평가·증빙체계"],
+    "eligibility_checks": ["본 사업 성과 인정기준", "기업과제·데이터 보안", "산출물 저작권·공개범위", "학생 참여시간과 학사 일정"],
+    "evidence_gaps": ["참가대학·팀별 과제", "국립한국교통대학교 참가 여부", "최종 프로젝트·수상·취업성과"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": ["reports/2026/11/2026-11-10.md"],
+  "changes": [
+    {
+      "changed_at": "2026-11-10T08:05:14+09:00",
+      "run_id": "20261110T080331+0900",
+      "field": "initial_record",
+      "before": null,
+      "after": "created",
+      "reason": "아카이브 미등록 직접 사업 프로그램의 11월 9일 멘토링 단계 진입을 공식 행사자료로 확인해 첫 수집",
+      "source_urls": ["https://axr.kr/ai2026", "https://axr.kr/ai2026/education"]
+    }
+  ]
+}

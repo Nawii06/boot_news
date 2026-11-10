@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261111T080133+0900",
+  "scheduled_at": "2026-11-11T08:00:00+09:00",
+  "cutoff_at": "2026-11-11T08:00:00+09:00",
+  "started_at": "2026-11-11T08:01:33+09:00",
+  "collection_completed_at": "2026-11-11T08:06:08+09:00",
+  "search_window": {"start": "2026-11-10T08:00:00+09:00", "end": "2026-11-11T08:00:00+09:00"},
+  "supplement_windows": [],
+  "search_status": "complete",
+  "queries": [
+    {"query": "2026년 11월 10일 첨단산업 인재양성 부트캠프 AI 교육부 KIAT 공고", "status": "completed"},
+    {"query": "2026년 11월 10일 AI 인재양성 대학 기업 현장실습 인턴십 산학협력", "status": "completed"},
+    {"query": "2026년 11월 10일 충북 충주 AI 제조AI 제조AX RISE 인재양성", "status": "completed"},
+    {"query": "2026년 11월 10일 AI 로봇 미래모빌리티 SDV 온디바이스AI 인재양성 교육", "status": "completed"},
+    {"query": "site:ac.kr 2026-11-10 AI중심대학사업단·AI융합·산학", "status": "completed"},
+    {"query": "site:chungbuk.go.kr·chungju.go.kr·cbist.or.kr 2026-11-10 AI", "status": "completed"},
+    {"query": "2026-11-10 현장실습 AI 대학·제조 AI 교육·AI 프로젝트 대학 기업", "status": "completed"}
+  ],
+  "checked_official_sites": ["교육부", "한국산업기술진흥원", "충청북도", "충주시", "충북과학기술혁신원", "경북대학교", "국립금오공과대학교", "경남대학교", "국립한국교통대학교", "펄어비스", "AI Bootcamp Innovation Challenger"],
+  "verification_failures": ["광운대학교 AI 티키타카 프로젝트 상세 원문은 웹 검색 도구에서 직접 열리지 않아 검색색인 이상의 검증을 하지 못했으며 핵심 이슈에서 제외함"],
+  "excluded_candidates": [
+    {"url": "https://www-1.kw.ac.kr/ko/life/notice.jsp?BoardMode=view&DUID=53662", "reason": "전시회 개최 안내로 교육운영·성과 사실이 제한적이고 원문 직접 검증이 불완전함"},
+    {"url": "https://home.sch.ac.kr/sw/07/010000.jsp?article_no=20261110161921633079&board_no=20211209192056245082&mode=view", "reason": "AI·SW 행사 참관단 모집으로 사업운영·교육과정 이전 근거가 제한적임"},
+    {"url": "https://china.mokpo.ac.kr/www/308/subview.do", "reason": "전남·광주 지역 경진대회 후보이나 상세 자격·운영구조 원문 검증이 불완전함"},
+    {"url": "https://cbist.or.kr/home/main.do", "reason": "11월 10일 신규 입찰·심사결과 후보는 교육·인재양성 직접 연계가 확인되지 않음"}
+  ],
+  "previous_success_run_id": "20261110T080331+0900",
+  "coverage_gaps": ["기본 24시간 내 충북·충주의 신규 AI 인재양성·RISE·제조AI 정책은 확인하지 못함", "경북대·금오공대·경남대 사례의 국립한국교통대학교 학생 지원자격은 없음 또는 확인되지 않음"],
+  "issue_ids": {"NEWS-20261111-001": "new", "NEWS-20261111-002": "new", "NEWS-20261111-003": "new", "NEWS-20261104-002": "unchanged", "NEWS-20261103-001": "unchanged"},
+  "counts": {"new": 3, "updated": 0, "unchanged": 2, "correction": 0, "duplicate_review": 0, "unprocessed": 0, "excluded_candidates": 4},
+  "report_path": "reports/2026/11/2026-11-11.md",
+  "changed_paths": ["reports/2026/11/2026-11-11.md", "records/2026/NEWS-20261111-001.json", "records/2026/NEWS-20261111-002.json", "records/2026/NEWS-20261111-003.json", "indexes/2026-11.md", "manifests/2026/11/20261111T080133+0900.json"],
+  "archive_intent": "prepared"
+}

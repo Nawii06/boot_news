@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261112-001",
+  "title": "대구가톨릭대 2026 AX로보틱스 JOB Festa",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "첨단산업 인재양성 로봇 부트캠프가 기업 채용·상담, 취업 컨설팅, 기술 챌린지를 결합한 직접 취업지원 행사",
+  "first_seen_at": "2026-11-12T08:05:54+09:00",
+  "last_verified_at": "2026-11-12T08:05:54+09:00",
+  "published_date": "2026-10-27",
+  "modified_date": null,
+  "event_date": "2026-11-11",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "대구가톨릭대학교",
+    "대구가톨릭대학교 AX로보틱스부트캠프사업단"
+  ],
+  "regions": [
+    "대구·경북",
+    "경산"
+  ],
+  "sectors": [
+    "AI로봇",
+    "첨단산업",
+    "취업지원"
+  ],
+  "keywords": [
+    "AX로보틱스",
+    "JOB Festa",
+    "기업 채용상담",
+    "취업 컨설팅",
+    "ROBOT 챌린지"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261112-001-F1",
+      "text": "대구가톨릭대 AX로보틱스부트캠프사업단은 2026-11-11 10:00~17:00 교내 대강당 로비에서 로봇·첨단산업 분야 재학생 등을 대상으로 JOB Festa를 운영한다고 공지했다.",
+      "source_urls": [
+        "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4NzYwNCZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPewuwg%3D%3D%7C%7C"
+      ],
+      "evidence_locator": "공식 공지 참여대상·행사일시·장소",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261112-001-F2",
+      "text": "공식 공지의 주요 프로그램은 기업 채용·상담, 취업 컨설팅, ROBOT 챌린지이며 현장 방문 참여 방식이다.",
+      "source_urls": [
+        "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4NzYwNCZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPewuwg%3D%3D%7C%7C"
+      ],
+      "evidence_locator": "공식 공지 주요내용·참가방법",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 DCU AX로보틱스 JOB Festa 개최 안내",
+      "publisher": "대구가톨릭대학교",
+      "source_type": "university_official",
+      "url": "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4NzYwNCZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPewuwg%3D%3D%7C%7C",
+      "normalized_url": "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4NzYwNCZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPewuwg%3D%3D%7C%7C",
+      "published_date": "2026-10-27",
+      "accessed_at": "2026-11-12T08:05:54+09:00",
+      "verification_scope": "행사 목적·대상·일시·장소·프로그램·참여방식",
+      "evidence_locator": "공지 본문"
+    },
+    {
+      "title": "2026 DCU AX로보틱스 JOB Festa",
+      "publisher": "대구가톨릭대학교 진로·취업공지",
+      "source_type": "university_official",
+      "url": "https://www.cu.ac.kr/plaza/notice/program?mode=view&mv_data=aWR4PTE4NzgyMyZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPXByb2dyYW0wMSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C",
+      "normalized_url": "https://www.cu.ac.kr/plaza/notice/program?mode=view&mv_data=aWR4PTE4NzgyMyZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPXByb2dyYW0wMSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C",
+      "published_date": "2026-11-11",
+      "accessed_at": "2026-11-12T08:05:54+09:00",
+      "verification_scope": "행사일 당일 운영 공지 존재 확인",
+      "evidence_locator": "검색결과 원문 식별정보"
+    }
+  ],
+  "notice": {
+    "eligibility": "로봇·첨단산업 분야에 관심 있는 재학생 등",
+    "support": "기업 채용·상담, 취업 컨설팅, ROBOT 챌린지",
+    "deadline": null,
+    "application_url": "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4NzYwNCZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPewuwg%3D%3D%7C%7C",
+    "current_status": "event_completed",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "부트캠프 학생의 기업 직무접점과 프로젝트 경험을 취업행사로 연결한 직접 운영사례",
+    "interpretations": [
+      "기업상담과 기술 챌린지를 같은 행사에 배치해 학생 역량표현과 직무탐색을 함께 지원한다.",
+      "실제 참여기업·면접·인턴십·채용 성과는 후속 공식자료가 없어 확인되지 않았다."
+    ],
+    "proposed_action": "AI 기업 직무상담·학생 프로젝트 데모·현장면접을 결합한 행사 구조 적용 검토",
+    "prerequisites": [
+      "참여기업 직무수요",
+      "학생 프로젝트·포트폴리오 기준",
+      "행사 후 면접·인턴십·채용 추적지표",
+      "예산·장소·운영인력"
+    ],
+    "limitations": [
+      "타 대학 로봇 분야 사례",
+      "실제 참여기업·참여학생·채용 성과 미확인"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "비교과",
+      "산학프로젝트",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "기업 채용상담과 취업 컨설팅, 학생 기술 챌린지를 한 행사에서 연결하고 후속 면접·인턴십·채용을 추적",
+    "evidence_fact_ids": [
+      "NEWS-20261112-001-F1",
+      "NEWS-20261112-001-F2"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업 섭외",
+      "직무상담 부스",
+      "학생 프로젝트 데모·챌린지",
+      "후속 성과추적"
+    ],
+    "eligibility_checks": [
+      "본 사업 비교과·취업지원 집행 가능 범위",
+      "기업·학생 개인정보 처리",
+      "행사 성과 인정 기준"
+    ],
+    "evidence_gaps": [
+      "참여기업 목록",
+      "참여학생 수",
+      "실제 면접·인턴십·채용 결과"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [
+    "NEWS-20261106-001"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-12.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-12T08:05:54+09:00",
+      "run_id": "20261112T075959+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 내 행사일이 도래한 첨단산업 인재양성 로봇 부트캠프 직접 취업지원 사례를 공식자료로 확인",
+      "source_urls": [
+        "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4NzYwNCZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPewuwg%3D%3D%7C%7C",
+        "https://www.cu.ac.kr/plaza/notice/program?mode=view&mv_data=aWR4PTE4NzgyMyZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPXByb2dyYW0wMSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C"
+      ]
+    }
+  ]
+}

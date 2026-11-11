@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261112-002",
+  "title": "전북대 방위산업 맞춤형 인재양성 기업 사전면접",
+  "category": "industry",
+  "priority": "A",
+  "priority_reason": "교육과정·방산AI부트캠프 이수자를 기업 희망순위와 사전면접으로 연결하는 구체적 채용연계 절차이며 11월 12일 마감 대응이 필요한 사례",
+  "first_seen_at": "2026-11-12T08:05:54+09:00",
+  "last_verified_at": "2026-11-12T08:05:54+09:00",
+  "published_date": "2026-11-11",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "전북대학교",
+    "전북대학교 방산AI부트캠프사업단"
+  ],
+  "regions": [
+    "전북"
+  ],
+  "sectors": [
+    "방위산업",
+    "AI",
+    "채용연계"
+  ],
+  "keywords": [
+    "방산AI",
+    "기업 사전면접",
+    "채용연계",
+    "희망기업 순위",
+    "글로컬대학"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261112-002-F1",
+      "text": "전북대학교 방산AI부트캠프사업단은 글로컬대학사업의 방위산업 맞춤형 인재양성 및 채용연계 협력 프로그램 기업 사전면접 신청을 2026-11-12 17:00까지 받는다고 공지했다.",
+      "source_urls": [
+        "https://www.jbnu.ac.kr/web/Board/219690/detailView.do"
+      ],
+      "evidence_locator": "공식 공지 제목·신청기간",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261112-002-F2",
+      "text": "대상에는 방위융합전공 3학년 이상, 참여학과 학부·대학원생, 첨단AI방위산업융합학과 대학원생, 방산AI부트캠프 이수자 등이 포함된다.",
+      "source_urls": [
+        "https://www.jbnu.ac.kr/web/Board/219690/detailView.do"
+      ],
+      "evidence_locator": "공식 공지 신청대상",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261112-002-F3",
+      "text": "지원자는 희망기업 1~5순위와 신청서·이력서·자기소개서·학위·성적·어학 관련 서류를 제출하며, 개별 기업의 채용확약 여부는 공지에서 확인되지 않는다.",
+      "source_urls": [
+        "https://www.jbnu.ac.kr/web/Board/219690/detailView.do"
+      ],
+      "evidence_locator": "공식 공지 신청서류·희망기업 우선순위·유의사항",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "[글로컬대학사업] 전북대학교 방위산업 맞춤형 인재양성 및 채용연계 협력 프로그램 기업 사전 면접 안내",
+      "publisher": "전북대학교 방산AI부트캠프사업단",
+      "source_type": "university_official",
+      "url": "https://www.jbnu.ac.kr/web/Board/219690/detailView.do",
+      "normalized_url": "https://www.jbnu.ac.kr/web/Board/219690/detailView.do",
+      "published_date": "2026-11-11",
+      "accessed_at": "2026-11-12T08:05:54+09:00",
+      "verification_scope": "사업 구분·신청대상·마감·제출서류·희망기업 순위·채용확약 미확인 범위",
+      "evidence_locator": "공식 공지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "전북대 방위융합전공 3학년 이상, 참여학과 학부·대학원생, 첨단AI방위산업융합학과 대학원생, 방산AI부트캠프 이수자 등 공지 대상",
+    "support": "기업 사전면접 기회; 채용확약·지원금은 확인 필요",
+    "deadline": "2026-11-12 17:00 KST",
+    "application_url": "https://www.jbnu.ac.kr/web/Board/219690/detailView.do",
+    "current_status": "ongoing",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "별도 사업이지만 교육이수자를 기업별 희망순위와 사전면접에 연결하는 취업연계 설계의 구체적 근거",
+    "interpretations": [
+      "학생 선호도와 기업 직무수요를 면접 배정 전에 구조화하는 방식이다.",
+      "사전면접은 채용연계 가능성을 높이는 절차일 뿐 채용 성과나 확약으로 볼 수 없다."
+    ],
+    "proposed_action": "기업별 직무·채용계획과 학생 선호도·자격·포트폴리오를 기준으로 사전면접 매칭 구조 적용 검토",
+    "prerequisites": [
+      "참여기업 채용계획",
+      "직무·자격 기준",
+      "학생 개인정보·서류 처리",
+      "면접 후 인턴십·채용 성과추적"
+    ],
+    "limitations": [
+      "첨단산업 인재양성 부트캠프와 별도인 글로컬대학·방산AI 프로그램",
+      "국립한국교통대 학생 지원자격 없음",
+      "기업별 채용확약·선발인원·면접일 미확인"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "산학프로젝트",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "교육이수자 풀→희망기업 우선순위·자격서류 수집→기업 사전면접→후속 인턴십·채용 결과 추적",
+    "evidence_fact_ids": [
+      "NEWS-20261112-002-F1",
+      "NEWS-20261112-002-F2",
+      "NEWS-20261112-002-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업 직무·채용정보",
+      "학생 이력서·포트폴리오",
+      "면접 일정·배정 관리",
+      "개인정보 보호·성과추적"
+    ],
+    "eligibility_checks": [
+      "본 사업 취업지원·기업협력 범위",
+      "학생·기업 참여자격",
+      "개인정보 제3자 제공 동의",
+      "성과 인정 기준"
+    ],
+    "evidence_gaps": [
+      "참여기업별 직무·채용인원",
+      "면접 일정·선발기준",
+      "실제 인턴십·채용 결과"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-12.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-12T08:05:54+09:00",
+      "run_id": "20261112T075959+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "72시간 보완 검색에서 기업 사전면접 기반 채용연계 공식 공고를 확인",
+      "source_urls": [
+        "https://www.jbnu.ac.kr/web/Board/219690/detailView.do"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261113-002",
+  "title": "POSTECH 피지컬 AI Orchestrator 취업준비형 교육생 모집",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "기초이론에서 역량평가를 거쳐 피지컬 AI·로보틱스 PBL 심화과정으로 이어지는 타 대학 단계형 단기집중교육의 구체 구조를 확인할 수 있음",
+  "first_seen_at": "2026-11-13T07:56:34+09:00",
+  "last_verified_at": "2026-11-13T08:00:02+09:00",
+  "published_date": "2026-11-11",
+  "modified_date": null,
+  "event_date": "2026-12-07",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": ["포항공과대학교", "POSTECH 환동해 글로컬 연합 아카데미"],
+  "regions": ["경상북도", "포항시"],
+  "sectors": ["피지컬 AI", "로보틱스", "AI 취업교육", "프로젝트 기반 학습"],
+  "keywords": ["Physical AI", "Orchestrator", "PBL", "AI 활용능력 평가", "포트폴리오", "취업준비형 교육"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261113-002-F1",
+      "text": "지원대상은 지원 시점 기준 만 34세 이하 미취업 청년이면서 전문학사 이상 재학생 또는 졸업자로, 휴학생·졸업예정자를 포함하고 전공은 제한하지 않는다.",
+      "source_urls": ["https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38"],
+      "evidence_locator": "공식 모집페이지 신청자격",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261113-002-F2",
+      "text": "기초이론교육 정원은 60명, 심화실습교육 정원은 30명이며 접수기간 내 온라인 AI 활용능력 평가 응시가 필수다.",
+      "source_urls": ["https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38"],
+      "evidence_locator": "공식 모집페이지 모집인원·선발방법",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261113-002-F3",
+      "text": "심화실습은 팀 프로젝트, 디자인씽킹 기반 PBL, 피지컬 AI·로보틱스 현직자 간담회, 포트폴리오 대면 첨삭, 산업솔루션 PBL 경진대회를 포함한다.",
+      "source_urls": ["https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38"],
+      "evidence_locator": "공식 모집페이지 교육커리큘럼",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261113-002-F4",
+      "text": "모집기간은 2026-11-11부터 11월 27일 15:00까지이고 교육기간은 2026-12-07부터 2027-01-29까지이며, 교육비는 전액 무료이고 심화실습 기간 숙소·교육지원금과 일부 식사 등이 제공된다.",
+      "source_urls": ["https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38"],
+      "evidence_locator": "공식 모집페이지 모집·교육기간과 교육혜택",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026년 AI 취업준비형 교육과정 1기 교육생 모집",
+      "publisher": "POSTECH 환동해 글로컬 연합 아카데미",
+      "source_type": "university_official",
+      "url": "https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38",
+      "normalized_url": "https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38",
+      "published_date": "2026-11-11",
+      "accessed_at": "2026-11-13",
+      "verification_scope": "과정명·목표·지원자격·정원·선발평가·커리큘럼·혜택·모집마감·교육기간 확인",
+      "evidence_locator": "POSTECH 공식 모집페이지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "만 34세 이하 미취업 청년이면서 전문학사 이상 재학생·졸업자; 휴학생·졸업예정자 포함, 전공무관",
+    "support": "교육비 전액 무료; 심화실습 기간 숙소·교육지원금 제공, 일부 식사·다과 제공; 숙소 유틸리티비 별도",
+    "deadline": "2026-11-27T15:00:00+09:00",
+    "application_url": "https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38",
+    "current_status": "모집 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "기초교육의 넓은 진입집단에서 평가를 거쳐 기업문제 PBL·현직자·포트폴리오를 결합한 심화과정으로 전환하는 단계형 피지컬 AI 교육사례",
+    "interpretations": [
+      "기초 공통교육→역량평가→심화 PBL→성과물·포트폴리오의 구조는 비교과 또는 단기집중교육 설계의 참고점이 될 수 있다.",
+      "단일 타 대학 사례만으로 국립한국교통대 교과 신설이나 충북 기업수요를 확정할 수 없다."
+    ],
+    "proposed_action": "충북 제조·모빌리티 기업의 실제 과제수요와 교원·장비·데이터·예산·학사조건을 확인한 뒤 소규모 단계형 비교과 시범모델 검토",
+    "prerequisites": ["지역기업의 피지컬 AI 과제수요", "지도교원과 산업체 전문가", "로봇·센서·연산장비와 데이터", "비교과 인정·안전·예산 기준"],
+    "limitations": ["타 대학 취업준비형 프로그램임", "모집게시 시각이 표시되지 않아 72시간 보완자료로 분류함", "수료·취업·기업적용 성과는 모집 단계에서 확인되지 않음"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "교육과정", "비교과", "산학프로젝트", "취업연계", "기업수요조사", "학생지원", "성과관리"],
+    "transferable_mechanism": "기초 AI 직무이론의 넓은 모집→온라인 역량평가→소수 심화실습→기업문제 PBL·현직자 교류→경진대회·포트폴리오로 이어지는 단계형 교육",
+    "evidence_fact_ids": ["NEWS-20261113-002-F1", "NEWS-20261113-002-F2", "NEWS-20261113-002-F3", "NEWS-20261113-002-F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["기초이론 콘텐츠", "역량평가 도구", "산업과제와 멘토", "피지컬 AI 실습장비·데이터", "프로젝트·포트폴리오 평가체계"],
+    "eligibility_checks": ["본 사업 지침상 비교과·프로젝트 인정범위", "학칙과 교육기간", "참여학생 자격", "장비·안전·개인정보 요건"],
+    "evidence_gaps": ["충북·충주 기업수요", "세부 시간표와 과제목록", "수료·취업·기업적용 성과", "교육지원금 금액"],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": ["NEWS-20261107-003", "NEWS-20261111-003"],
+  "report_paths": ["reports/2026/11/2026-11-13.md"],
+  "changes": [
+    {
+      "changed_at": "2026-11-13T08:00:02+09:00",
+      "run_id": "20261113T075634+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "72시간 보완검색에서 진행 중인 타 대학 피지컬 AI 교육과정을 아카이브에 처음 수집했으며 사건 신규가 아님을 구분",
+      "source_urls": ["https://popens.postech.ac.kr/contents/03_apply/sub01-view.html?no=38"]
+    }
+  ]
+}

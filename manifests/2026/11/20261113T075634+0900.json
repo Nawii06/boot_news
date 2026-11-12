@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261113T075634+0900",
+  "scheduled_at": "2026-11-13T08:00:00+09:00",
+  "cutoff_at": "2026-11-13T08:00:00+09:00",
+  "started_at": "2026-11-13T07:56:34+09:00",
+  "collection_completed_at": "2026-11-13T08:00:02+09:00",
+  "search_window": {
+    "start": "2026-11-12T08:00:00+09:00",
+    "end": "2026-11-13T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "type": "72h",
+      "start": "2026-11-10T08:00:00+09:00",
+      "end": "2026-11-13T08:00:00+09:00",
+      "reason": "기본 24시간에 직접 사업 정책자료와 교육과정 사례가 제한되어 타 대학 피지컬 AI 교육구조를 보완 확인"
+    },
+    {
+      "type": "ongoing_notice",
+      "start": null,
+      "end": "2026-11-13T08:00:00+09:00",
+      "reason": "국립한국교통대학교 동계 표준현장실습의 마감일·조건 변동 여부 재검증"
+    }
+  ],
+  "search_status": "completed_with_exclusions",
+  "queries": [
+    "첨단산업 인재양성 부트캠프 교육부 2026-11-12 2026-11-13",
+    "AI 부트캠프 공고 운영 선정 2026-11-12",
+    "국립한국교통대학교 부트캠프 AI 2026-11-12",
+    "한국교통대 인공지능 부트캠프 2026-11-12",
+    "AI 인재양성 대학 기업 산학협력 2026-11-12",
+    "첨단분야 인턴십 대학 기업 2026-11-12",
+    "충북 충주 AI 인재양성 산학협력 2026-11-12",
+    "충북 충주 제조AI 제조AX 소부장 2026-11-12",
+    "대학 기업 AI 현장실습 취업 2026-11-12",
+    "AI로봇 Physical AI 미래모빌리티 SDV 온디바이스AI 인재양성 2026-11-12",
+    "site:moe.go.kr 첨단산업 인재양성 부트캠프",
+    "site:kiat.or.kr 첨단산업 인재양성 부트캠프",
+    "site:chungbuk.go.kr AI 인재양성 제조AX",
+    "site:chungju.go.kr AI 제조 인재양성",
+    "site:work24.go.kr 피지컬 AI 부트캠프"
+  ],
+  "checked_official_sites": [
+    "교육부",
+    "한국산업기술진흥원",
+    "국립한국교통대학교",
+    "대구가톨릭대학교",
+    "POSTECH 환동해 글로컬 연합 아카데미",
+    "경북대학교 글로벌 AI부트캠프사업단",
+    "충청북도",
+    "충주시",
+    "고용24"
+  ],
+  "verification_failures": [],
+  "excluded_candidates": [
+    {
+      "url": "https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?crseTracseSe=C0061&tracseId=AIG20260000581128&tracseTme=1&trainstCstmrId=500020025371",
+      "reason": "성균관대 피지컬 AI 데이터 실무 부트캠프는 별도 AI캠퍼스·직업훈련 과정이며 기본 24시간 신규 사건으로 보기 어려워 본문에서 제외"
+    },
+    {
+      "url": "https://aibootcamp.knu.ac.kr/notices/2026-10-21-global-bootcamp-recruitment/",
+      "reason": "기존 NEWS-20261111-001과 동일한 진행 공고이며 11월 16일 13시 마감 등 핵심 조건 변동 없음"
+    }
+  ],
+  "previous_success_run_id": "20261112T075959+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 교육부·한국산업기술진흥원의 신규 부트캠프 공고·지침·선정자료를 확인하지 못함",
+    "충북·충주의 신규 AI 인재양성·제조AX 핵심 정책을 원문으로 확인하지 못함",
+    "POSTECH 모집페이지에 게시 시각이 표시되지 않아 11월 11일 모집개시일 기준 72시간 보완자료로 분류",
+    "기업·산업 영역에서 교육·프로젝트·인턴십으로 직접 연결되는 기본 24시간 신규 핵심사례를 확인하지 못함"
+  ],
+  "issue_ids": {
+    "NEWS-20261113-001": "new",
+    "NEWS-20261113-002": "new",
+    "NEWS-20261103-001": "unchanged"
+  },
+  "counts": {
+    "collected_new": 2,
+    "incident_new_24h": 1,
+    "supplement_first_collection": 1,
+    "updated": 0,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-13.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-13.md",
+    "records/2026/NEWS-20261113-001.json",
+    "records/2026/NEWS-20261113-002.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261113T075634+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

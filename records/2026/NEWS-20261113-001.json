@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261113-001",
+  "title": "대구가톨릭대 AI부트캠프사업단 행정·사업운영 지원 인력 모집",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "타 대학 AI부트캠프사업단의 구체적인 행정·사업운영 지원 인력 구성과 계약 구조를 확인할 수 있는 공식 사례이나 국립한국교통대에 직접 적용되는 채용은 아님",
+  "first_seen_at": "2026-11-13T07:56:34+09:00",
+  "last_verified_at": "2026-11-13T08:00:02+09:00",
+  "published_date": "2026-11-12",
+  "modified_date": null,
+  "event_date": "2026-12-01",
+  "effective_date": "2026-12-01",
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": ["대구가톨릭대학교", "대구가톨릭대학교 산학협력단", "대구가톨릭대학교 AI부트캠프사업단"],
+  "regions": ["대구광역시", "경상북도"],
+  "sectors": ["AI 인재양성", "대학 산학협력", "사업운영"],
+  "keywords": ["AI부트캠프", "특정사업계약직", "행정지원", "사업운영", "정부재정지원사업"],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261113-001-F1",
+      "text": "대구가톨릭대학교 산학협력단은 AI부트캠프사업단 특정사업계약직 2명을 모집하며 담당업무를 행정 및 사업운영 지원으로 명시했다.",
+      "source_urls": ["https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C"],
+      "evidence_locator": "대학 공식 채용공고 모집분야·인원·담당업무",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261113-001-F2",
+      "text": "지원자격은 4년제 대학 졸업자이며 공무원 임용 결격사유가 없어야 하고 정부재정지원사업 유경험자를 우대한다.",
+      "source_urls": ["https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C"],
+      "evidence_locator": "대학 공식 채용공고 지원자격·우대사항",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261113-001-F3",
+      "text": "임용예정일은 2026-12-01이고 1차년도 계약기간은 2026-12-01부터 2027-02-28까지이며, 공고에 표시된 전체 사업기간은 2026-03-01부터 2031-02-28까지 60개월이다.",
+      "source_urls": ["https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C"],
+      "evidence_locator": "대학 공식 채용공고 임용일·계약기간·사업기간",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261113-001-F4",
+      "text": "접수마감은 2026-11-23 17:00이며 서류전형 11월 24일, 면접 11월 25일, 최종합격 발표 11월 27일의 일정이 안내됐고 급여 금액은 공개되지 않은 채 산학협력단 내규 기준으로 표시됐다.",
+      "source_urls": ["https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C"],
+      "evidence_locator": "대학 공식 채용공고 접수·전형 일정과 급여 기준",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "대구가톨릭대학교 산학협력단 특정사업계약직 채용공고(AI부트캠프사업단)",
+      "publisher": "대구가톨릭대학교",
+      "source_type": "university_official",
+      "url": "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C",
+      "normalized_url": "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C",
+      "published_date": "2026-11-12",
+      "accessed_at": "2026-11-13",
+      "verification_scope": "모집분야·인원·업무·자격·우대·계약기간·사업기간·전형일정·급여 공개범위 확인",
+      "evidence_locator": "대학 공식 채용공고 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "4년제 대학 졸업자, 공무원 임용 결격사유가 없는 자; 정부재정지원사업 경험 우대",
+    "support": "채용 후 주 40시간 근무; 급여 금액은 미공개이며 산학협력단 내규 기준",
+    "deadline": "2026-11-23T17:00:00+09:00",
+    "application_url": "https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C",
+    "current_status": "접수 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "AI부트캠프사업단의 행정·사업운영 지원 직무, 연차 계약, 정부재정지원사업 경험 우대를 확인할 수 있는 타 대학 공식 운영사례",
+    "interpretations": [
+      "장기사업의 연차 계약과 행정·사업운영 통합 직무는 업무분장·인력요건의 비교근거가 될 수 있다.",
+      "타 대학 채용이므로 국립한국교통대의 현재 인력 부족이나 채용 필요를 의미하지 않는다."
+    ],
+    "proposed_action": "현행 협약·인사규정·예산·업무량을 전제로 사업운영, 성과관리, 학생지원, 산학협력 업무의 담당·백업 체계 점검에 참고",
+    "prerequisites": ["국립한국교통대학교 인사·산학협력단 규정", "사업비 편성·집행 가능 범위", "사업단 실제 업무량과 기존 담당체계"],
+    "limitations": ["타 대학의 특정사업계약직 채용사례임", "급여 금액과 세부 성과책임은 공개되지 않음", "국립한국교통대 내부 인력현황은 확인하지 않음"]
+  },
+  "development": {
+    "use_cases": ["신규사업기획", "성과관리", "사업비행정"],
+    "transferable_mechanism": "장기사업 기간 안에서 연차 계약을 두고 행정·사업운영 지원 직무와 정부재정지원사업 경험요건을 명시하는 인력설계",
+    "evidence_fact_ids": ["NEWS-20261113-001-F1", "NEWS-20261113-001-F2", "NEWS-20261113-001-F3", "NEWS-20261113-001-F4"],
+    "candidate_partners": [],
+    "resource_requirements": ["업무량 분석", "인사·예산 규정 검토", "업무분장표와 백업체계"],
+    "eligibility_checks": ["본 사업 지침상 인건비 집행 가능 범위", "대학·산학협력단 채용규정"],
+    "evidence_gaps": ["세부 직무별 업무량", "급여 산정기준", "해당 대학의 실제 운영성과"],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": ["NEWS-20261112-001"],
+  "report_paths": ["reports/2026/11/2026-11-13.md"],
+  "changes": [
+    {
+      "changed_at": "2026-11-13T08:00:02+09:00",
+      "run_id": "20261113T075634+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 범위의 타 대학 AI부트캠프사업단 운영인력 공식 공고를 신규 이슈로 등록",
+      "source_urls": ["https://www.cu.ac.kr/plaza/notice/notice?mode=view&mv_data=aWR4PTE4Nzg0NiZzdGFydFBhZ2U9MSZsaXN0Tm89MSZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW5vdGljZSZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPSZvcmRlcl9saXN0PSZsaXN0X3NjYWxlPQ%3D%3D%7C%7C"]
+    }
+  ]
+}

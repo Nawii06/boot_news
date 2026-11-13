@@ -6,7 +6,7 @@
   "priority": "A",
   "priority_reason": "사업단 학생모집 설명회에서 안내한 동계 현장실습의 학생 자격·기간·학점·실습비·마감을 확인할 수 있는 대학 공식 진행 공고로 학생지원과 현장연계에 직접 활용 가능",
   "first_seen_at": "2026-11-03T07:55:53+09:00",
-  "last_verified_at": "2026-11-04T08:00:12+09:00",
+  "last_verified_at": "2026-11-14T08:02:15+09:00",
   "published_date": "2026-09-21",
   "modified_date": null,
   "event_date": "2026-12-22",
@@ -87,6 +87,15 @@
       ],
       "evidence_locator": "대학 공식 참여기업 소개 본문",
       "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261103-001-F6",
+      "text": "국립한국교통대학교 현장실습지원센터는 2026-11-13 모집기간 연장 공지에서 당초 2026-11-13이던 동계 표준현장실습 신청 마감을 2026-11-20 11:00로 변경했다.",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1126021"
+      ],
+      "evidence_locator": "대학 공식 공지 본문 중 모집기간 변경 안내",
+      "claim_type": "confirmed_fact"
     }
   ],
   "sources": [
@@ -122,22 +131,34 @@
       "accessed_at": "2026-11-04T08:00:12+09:00",
       "verification_scope": "참여기업 1차 명단과 기업별 세부정보 확인경로 검증",
       "evidence_locator": "대학 공식 공지 본문"
+    },
+    {
+      "title": "2026학년도 동계 표준현장실습 모집 기간 연장",
+      "publisher": "국립한국교통대학교",
+      "source_type": "university_official",
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1126021",
+      "normalized_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1126021",
+      "published_date": "2026-11-13",
+      "accessed_at": "2026-11-14T08:02:15+09:00",
+      "verification_scope": "기존 마감일과 연장된 마감일·시간, K-RISE 신청경로 확인",
+      "evidence_locator": "대학 공식 공지 본문"
     }
   ],
   "notice": {
     "eligibility": "2학기 이상 수료한 국립한국교통대학교 재학생; 휴학생 제외; 2027년 2월 졸업예정자는 1개월 과정만 신청 가능",
     "support": "전공 또는 산학 3~6학점; 대학 공지 기준 월 2,156,880원 실습비(2026년 기준·학점 이수 조건)",
-    "deadline": "2026-11-13",
+    "deadline": "2026-11-20T11:00:00+09:00",
     "application_url": "https://krise.ut.ac.kr",
-    "current_status": "모집 중·2026-11-03 참여기업 1차 공개",
+    "current_status": "모집기간 연장·2026-11-20 11:00 마감",
     "university_eligibility_verified": true
   },
   "analysis": {
     "relevance": "사업단 학생모집 설명회에서 안내한 동계 현장실습의 구체 자격·기간·학점·실습비·마감 확인과 학생지원에 직접 활용 가능한 대학 공식 공고",
     "interpretations": [
       "학생 모집에서 기업·직무 매칭, 학점 이수, 결과보고까지 이어지는 현장실습 관리 흐름을 구체화할 근거로 활용할 수 있다.",
-      "11월 2일 게시물은 9월 21일 최초 공지와 같은 사건의 마감 임박 재공지이며 새로운 현장실습 사업이나 조건 변경은 아니다."
-      ,"11월 3일 참여기업 1차 공개는 기존 모집의 기업 선택 정보를 보강한 실질 갱신이며 기업별 직무·인원·선발기준은 K-RISE에서 별도 확인해야 한다."
+      "11월 2일 게시물은 9월 21일 최초 공지와 같은 사건의 마감 임박 재공지이며 새로운 현장실습 사업이나 조건 변경은 아니다.",
+      "11월 3일 참여기업 1차 공개는 기존 모집의 기업 선택 정보를 보강한 실질 갱신이며 기업별 직무·인원·선발기준은 K-RISE에서 별도 확인해야 한다.",
+      "11월 13일 공식 연장 공지는 기존 11월 13일 마감을 11월 20일 11:00로 바꾼 실질 변경이며, 대상·학점·실습비의 추가 변경은 이번 공지 본문에서 확인되지 않았다."
     ],
     "proposed_action": "사업단 관심학생의 자격 확인부터 기업·직무 매칭, 지원서, 기업 선발, 학점신청, 보험·안전교육, 결과보고까지 단계별 관리 여부를 검토",
     "prerequisites": [
@@ -149,7 +170,8 @@
     "limitations": [
       "대학 전체 대상 공고이며 부트캠프 참여학생의 우선선발은 확인되지 않음",
       "기업별 모집직무·인원·근무지·선발기준은 본문에서 확인되지 않음",
-      "실습 참여·이수·취업 성과는 모집 단계에서 확인되지 않음"
+      "실습 참여·이수·취업 성과는 모집 단계에서 확인되지 않음",
+      "연장 공지는 마감 변경을 중심으로 안내하며 기업별 현재 모집상태는 K-RISE에서 다시 확인해야 함"
     ]
   },
   "development": {
@@ -164,8 +186,9 @@
       "NEWS-20261103-001-F1",
       "NEWS-20261103-001-F2",
       "NEWS-20261103-001-F3",
-      "NEWS-20261103-001-F4"
-      ,"NEWS-20261103-001-F5"
+      "NEWS-20261103-001-F4",
+      "NEWS-20261103-001-F5",
+      "NEWS-20261103-001-F6"
     ],
     "candidate_partners": [],
     "resource_requirements": [
@@ -183,7 +206,8 @@
     "evidence_gaps": [
       "기업별 모집직무·인원·근무지·선발기준",
       "부트캠프 학생 실제 지원·선발·이수 결과",
-      "부트캠프 사업비·성과 인정범위"
+      "부트캠프 사업비·성과 인정범위",
+      "연장 기간 중 기업별 남은 모집인원과 직무별 마감상태"
     ],
     "maturity": "evidence_only"
   },
@@ -193,7 +217,8 @@
   ],
   "report_paths": [
     "reports/2026/11/2026-11-03.md",
-    "reports/2026/11/2026-11-04.md"
+    "reports/2026/11/2026-11-04.md",
+    "reports/2026/11/2026-11-14.md"
   ],
   "changes": [
     {
@@ -218,6 +243,17 @@
       "source_urls": [
         "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125803",
         "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1125811"
+      ]
+    },
+    {
+      "changed_at": "2026-11-14T08:02:15+09:00",
+      "run_id": "20261114T075537+0900",
+      "field": "notice.deadline,notice.current_status,verified_facts,sources,report_paths",
+      "before": "신청 마감 2026-11-13",
+      "after": "신청 마감 2026-11-20 11:00",
+      "reason": "11월 13일 대학 공식 모집기간 연장 공지에서 마감 변경을 확인",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1126021"
       ]
     }
   ]

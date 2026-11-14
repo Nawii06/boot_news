@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261115T075832+0900",
+  "scheduled_at": "2026-11-15T08:00:00+09:00",
+  "cutoff_at": "2026-11-15T08:00:00+09:00",
+  "started_at": "2026-11-15T07:58:32+09:00",
+  "collection_completed_at": "2026-11-15T08:00:00+09:00",
+  "search_window": {
+    "start": "2026-11-14T08:00:00+09:00",
+    "end": "2026-11-15T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "type": "72h",
+      "start": "2026-11-12T08:00:00+09:00",
+      "end": "2026-11-15T08:00:00+09:00",
+      "reason": "기본 24시간에 직접 사업 신규자료가 없어 공식 공지와 진행 중 공고의 변경 여부를 보완 확인"
+    }
+  ],
+  "search_status": "completed_no_new_issue_with_source_access_limitations",
+  "queries": [
+    "site:aicc.ut.ac.kr 2026-11-14 부트캠프 AI 국립한국교통대학교",
+    "\"첨단산업 인재양성 부트캠프\" 2026-11-14 교육부 OR 한국산업기술진흥원",
+    "충북 충주 AI 인재양성 제조AI 제조AX 2026-11-14",
+    "대학 기업 AI 현장실습 인턴십 취업 2026-11-14",
+    "\"2026-11-14\" \"AI 부트캠프\" 대학",
+    "\"2026.11.14\" \"AI 인재양성\" 대학 기업",
+    "\"2026-11-14\" 제조AX OR 제조AI OR 피지컬 AI 인재양성",
+    "site:ac.kr \"2026-11-14\" 현장실습 AI 기업 대학",
+    "site:moe.go.kr 2026.11.14 인공지능 인재양성 대학 기업",
+    "site:kiat.or.kr 2026.11.14 첨단산업 인재양성 부트캠프",
+    "site:chungbuk.go.kr 2026.11.14 AI 인재양성 제조AX",
+    "site:chungju.go.kr 2026.11.14 AI 제조 인재양성 산학협력",
+    "site:aicc.ut.ac.kr \"2026학년도 동계 표준현장실습 모집 기간 연장\"",
+    "site:aicc.ut.ac.kr \"제2026-5회 국립한국교통대학교 부트캠프(AI)사업 전담인력 신규채용 공고\""
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교·부트캠프(AI)사업단",
+    "국립한국교통대학교 현장실습지원센터",
+    "교육부",
+    "한국산업기술진흥원",
+    "충청북도",
+    "충주시",
+    "타 대학 AI·피지컬 AI 부트캠프 공식 페이지"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1126013",
+      "reason": "원문 직접 열기는 502를 반환했으나 동일 대학 공식 URL의 전체 검색 색인 본문과 공식 인사게시 목록으로 마감·모집분야·전형절차를 재확인"
+    },
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1126021",
+      "reason": "원문 직접 열기는 502를 반환했으나 동일 대학 공식 URL의 전체 검색 색인 본문과 공식 일반소식 목록으로 연장 마감·신청경로를 재확인"
+    },
+    {
+      "url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000059/selectBoardArticle.do?nttId=1126032",
+      "reason": "한국생산기술연구원 현장실습 원문 재열기가 시간초과되어 이번 회차 본문 재참조에서 제외"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://sujubut.com/bid/domestic/3566898/",
+      "reason": "11월 9일 게시된 연세대 용역 사전규격으로 기본 24시간 사건 신규가 아니며 공식 원문 미검증"
+    },
+    {
+      "url": "https://bidpro.co.kr/n0_ipchal/konggo/item/konggo_view.asp?num=5526290",
+      "reason": "11월 11일 게시된 한양대 ERICA 장비 입찰의 민간 입찰정보 재게시로 공식 원문 미검증"
+    },
+    {
+      "url": "https://thinkyou.co.kr/mobile/contest/67695/",
+      "reason": "청년도약 부트캠프의 민간 재게시이며 본 첨단산업 인재양성 부트캠프와 구분"
+    },
+    {
+      "url": "https://hyds.hanyang.ac.kr/front/notice/unN/view?BoardArticleSearch%5Bcategory%5D=7&id=1910",
+      "reason": "진행 중인 타 대학 교육과정으로 게시시점이 기본 24시간 밖이며 이번 회차 신규 사건이 아님"
+    }
+  ],
+  "previous_success_run_id": "20261114T075537+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 교육부·한국산업기술진흥원의 신규 부트캠프 공고·지침·선정자료를 확인하지 못함",
+    "충북·충주의 신규 AI 인재양성·제조AX 핵심 정책을 원문으로 확인하지 못함",
+    "국립한국교통대학교 원문 직접 열기에서 502·시간초과가 발생해 공식 검색 색인 본문과 공식 목록으로 보완 검증",
+    "KITECH 현장실습의 직무별 인원·근무지·마감은 이번 회차에 재검증하지 못함"
+  ],
+  "issue_ids": {
+    "NEWS-20261114-001": "unchanged",
+    "NEWS-20261103-001": "unchanged"
+  },
+  "counts": {
+    "new": 0,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-15.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-15.md",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261115T075832+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

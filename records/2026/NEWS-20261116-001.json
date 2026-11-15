@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261116-001",
+  "title": "한양대 반도체 AX 부트캠프의 기업연계 AI 융합교육 운영",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "타 대학의 산업별 AI 융합 교과·기업연계 프로젝트·단기 비교과 운영 사례로 교육과정과 산학협력 설계에 참고 가능하나 교통대 사업단에 직접 적용되는 제도·공고는 아님",
+  "first_seen_at": "2026-11-16T08:02:55+09:00",
+  "last_verified_at": "2026-11-16T08:02:55+09:00",
+  "published_date": "2026-11-15",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "한양대학교",
+    "한양대학교 AX부트캠프사업단",
+    "전자신문",
+    "교육부"
+  ],
+  "regions": [
+    "서울특별시"
+  ],
+  "sectors": [
+    "반도체",
+    "AI 전환",
+    "산학협력",
+    "실무교육"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "반도체 AX",
+    "AI 반도체",
+    "마이크로전공",
+    "IC-PBL",
+    "기업연계 프로젝트"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261116-001-F1",
+      "text": "전자신문 원문에 따르면 한양대는 2026학년도 2학기부터 중급 ‘AI 반도체 기술’을 신설하고 고급과정을 ‘AI 고급반도체’로 개편했으며, 초급 1개·중급 4개·고급 1개 등 6개 과정과 7개 학과·학부 참여 구조를 운영한다. 마이크로전공 이수학점은 12학점에서 9학점으로 조정됐다.",
+      "source_urls": [
+        "https://www.etnews.com/20261115000009",
+        "https://happyedu.moe.go.kr/happy/bbs/selectHappyArticle.do?bbsId=BBSMSTR_000000005080&nttId=44117"
+      ],
+      "evidence_locator": "전자신문 본문 교육과정 개편·구성 단락; 교육부 행복한교육 대학실험실 기사",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261116-001-F2",
+      "text": "삼성전자·SK하이닉스·DB하이텍·ASML·원익IPS·세메스 등 23개 기업이 교육과정 개발, 현장실습, 산업체 연계 프로젝트에 참여하며 신규 교과목은 이론 2시간과 실습 2시간, IC-PBL 방식으로 운영된다고 보도됐다.",
+      "source_urls": [
+        "https://www.etnews.com/20261115000009"
+      ],
+      "evidence_locator": "전자신문 본문 기업참여·신규교과목 운영 단락",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261116-001-F3",
+      "text": "2026년 여름방학 ‘AI 필드업’에는 24명이 참여해 23명이 수료해 수료율 95.8%를 기록했고, 학생들은 노광·식각 직무와 생성형 AI 기반 업무지원·보고서 자동화 프로젝트를 수행했다고 한양대가 밝혔다.",
+      "source_urls": [
+        "https://www.etnews.com/20261115000009"
+      ],
+      "evidence_locator": "전자신문 본문 AI 필드업 단락",
+      "claim_type": "company_claim"
+    },
+    {
+      "fact_id": "NEWS-20261116-001-F4",
+      "text": "보도 기준으로 2024년부터 2026년 1학기까지 이수자는 396명이며, 2026년 11월 6일 기준 마이크로전공 신청자는 257명, 신설 AI 반도체 기술 과정 신청자는 52명이다. 이 가운데 26명은 연말 이수 예상치로 실적이 아닌 계획값이다.",
+      "source_urls": [
+        "https://www.etnews.com/20261115000009",
+        "https://happyedu.moe.go.kr/happy/bbs/selectHappyArticle.do?bbsId=BBSMSTR_000000005080&nttId=44117"
+      ],
+      "evidence_locator": "전자신문 본문 누적 이수·신청·예상 인원 단락; 교육부 행복한교육 기사 제목과 본문",
+      "claim_type": "company_claim"
+    }
+  ],
+  "sources": [
+    {
+      "title": "[AX 인재 키우는 대학]〈1〉 한양대, 반도체에 AI 접목…23개 기업과 현장형 융합인재 양성",
+      "publisher": "전자신문",
+      "source_type": "media",
+      "url": "https://www.etnews.com/20261115000009",
+      "normalized_url": "https://www.etnews.com/20261115000009",
+      "published_date": "2026-11-15",
+      "accessed_at": "2026-11-16T08:02:55+09:00",
+      "verification_scope": "교육과정 구조, 기업참여, IC-PBL, 비교과 프로젝트, 참여·수료·신청·예상 인원 확인",
+      "evidence_locator": "기사 본문 교육과정·기업연계·프로젝트·성과 단락"
+    },
+    {
+      "title": "한양대 반도체 마이크로전공, 3년간 396명 배출 ‘AI 반도체 기술’ 신설로 융합인재 양성 박차",
+      "publisher": "교육부 행복한교육",
+      "source_type": "government_official",
+      "url": "https://happyedu.moe.go.kr/happy/bbs/selectHappyArticle.do?bbsId=BBSMSTR_000000005080&nttId=44117",
+      "normalized_url": "https://happyedu.moe.go.kr/happy/bbs/selectHappyArticle.do?bbsId=BBSMSTR_000000005080&nttId=44117",
+      "published_date": "2026-가을호",
+      "accessed_at": "2026-11-16T08:02:55+09:00",
+      "verification_scope": "한양대가 2024년부터 반도체 부트캠프에 참여하고 9학점 마이크로전공을 운영한다는 제도 배경과 누적 396명·AI 반도체 기술 신설을 보완 확인",
+      "evidence_locator": "행복한교육 2026년 가을호 대학실험실 기사"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "기업 수요를 교과·현장실습·프로젝트·단기 비교과와 연결하고 참여·수료·신청을 단계별 지표로 관리한 타 대학 사례",
+    "interpretations": [
+      "확인된 사례는 산업직무를 AI 활용문제로 변환해 교과(IC-PBL)와 방학 비교과 프로젝트를 연결하는 구조를 보여준다.",
+      "24명 참여·23명 수료는 단일 프로그램의 운영지표이며 취업성과나 전체 사업효과로 확대 해석할 수 없다."
+    ],
+    "proposed_action": "충북·충주 기업의 제조·모빌리티 AI 과제 수요를 먼저 조사한 뒤 ‘직무문제 정의→이론·실습 교과→단기 프로젝트→현장실습·취업연계’ 구조의 파일럿 적용을 검토",
+    "prerequisites": [
+      "지역기업 직무·데이터·장비 수요 조사",
+      "담당교원·산업체 전문가 확보",
+      "GPU·실습장비·데이터 접근·보안 조건",
+      "학점·학사·사업비 지침 검토",
+      "참여·수료·프로젝트·현장실습·취업 지표 정의"
+    ],
+    "limitations": [
+      "타 대학 반도체 분야 사례로 교통대 AI·모빌리티 분야 수요를 직접 입증하지 않음",
+      "세부 수치 일부는 한양대 발표를 인용한 언론보도 기준",
+      "연말 이수 26명은 예상치이며 실적이 아님",
+      "23개 기업의 개별 역할과 프로젝트 성과는 공개 기사만으로 모두 확인할 수 없음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "교육과정",
+      "비교과",
+      "산학프로젝트",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "산업직무·기업수요를 AI 융합 교과와 IC-PBL로 반영하고 방학 단기 프로젝트, 현장실습, 성과지표로 이어지는 단계형 운영구조",
+    "evidence_fact_ids": [
+      "NEWS-20261116-001-F1",
+      "NEWS-20261116-001-F2",
+      "NEWS-20261116-001-F3",
+      "NEWS-20261116-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업 직무과제와 데이터",
+      "산업체 전문가·담당교원",
+      "GPU·실습장비·보안환경",
+      "학사·사업비 운영근거",
+      "단계별 성과관리 체계"
+    ],
+    "eligibility_checks": [
+      "본 사업 AI 분야 교육·학사·사업비 지침 적용 가능성",
+      "참여학생 대상과 학점인정 기준",
+      "기업 데이터·장비 활용 협약",
+      "현장실습 연계 시 운영규정"
+    ],
+    "evidence_gaps": [
+      "참여기업별 실제 역할과 제공 과제",
+      "프로젝트 평가기준과 산출물",
+      "현장실습·취업 전환 실적",
+      "지역기업 수요와 교통대 내부 자원 적합성"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-16.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-16T08:02:55+09:00",
+      "run_id": "20261116T080053+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 내 공개된 타 대학 AX 부트캠프 교육·산학협력 사례를 신규 이슈로 등록",
+      "source_urls": [
+        "https://www.etnews.com/20261115000009",
+        "https://happyedu.moe.go.kr/happy/bbs/selectHappyArticle.do?bbsId=BBSMSTR_000000005080&nttId=44117"
+      ]
+    }
+  ]
+}

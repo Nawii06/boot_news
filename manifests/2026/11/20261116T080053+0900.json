@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261116T080053+0900",
+  "scheduled_at": "2026-11-16T08:00:00+09:00",
+  "cutoff_at": "2026-11-16T08:00:00+09:00",
+  "started_at": "2026-11-16T08:00:53+09:00",
+  "collection_completed_at": "2026-11-16T08:02:55+09:00",
+  "search_window": {
+    "start": "2026-11-15T08:00:00+09:00",
+    "end": "2026-11-16T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "type": "72h",
+      "start": "2026-11-13T08:00:00+09:00",
+      "end": "2026-11-16T08:00:00+09:00",
+      "reason": "기본 24시간에 사업 직접 관련 신규 공고·제도변경이 없어 기존 진행 공고의 공식 근거·변경 여부와 관련 기관 공지를 보완 확인"
+    }
+  ],
+  "search_status": "completed_with_source_consistency_limitation",
+  "queries": [
+    "국립한국교통대학교 부트캠프 AI 2026-11-15",
+    "한국교통대 인공지능 부트캠프 2026-11-15",
+    "첨단산업 인재양성 부트캠프 교육부 2026-11-15",
+    "AI 부트캠프 공고 운영 선정 2026-11-15",
+    "첨단분야 인턴십 대학 기업 AI 인재양성 RISE 초광역 2026-11-15",
+    "충북 충주 AI 인재양성 산학협력 제조AI 제조AX 소부장 2026-11-15",
+    "대학 기업 AI 현장실습 취업 2026-11-15",
+    "AI로봇 미래모빌리티 SDV 온디바이스AI 인재양성 2026-11-15",
+    "site:moe.go.kr 첨단산업 인재양성 부트캠프 2026-11-15",
+    "site:kiat.or.kr AI 부트캠프 2026-11-15",
+    "site:chungbuk.go.kr AI 인재양성 제조AX 2026-11-15",
+    "site:chungju.go.kr AI 제조 인재양성 산학협력 2026-11-15"
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교 부트캠프(AI)사업단",
+    "인사혁신처 나라일터",
+    "교육부·행복한교육",
+    "한국산업기술진흥원",
+    "충청북도",
+    "충주시",
+    "한양대학교·한양대 부트캠프 관련 공식 페이지"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308437",
+      "reason": "상단 메타데이터는 현 회차 2026-11-13~11-19를 표시하지만 상세 본문 채용절차에 이전 회차로 보이는 2026-10-13~10-19가 남아 있어 현 일정은 대학 공식 공고와 상단 메타데이터를 기준으로 판단"
+    },
+    {
+      "url": "https://happyedu.moe.go.kr/happy/bbs/selectHappyArticle.do?bbsId=BBSMSTR_000000005080&nttId=44117",
+      "reason": "교육부 행복한교육 상세 페이지 본문이 웹 추출에서 제한적으로 노출돼, 누적 396명·AI 반도체 기술 신설·9학점 마이크로전공 등 공개된 기사 제목·목록 본문 범위만 보완 확인"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.postech.ac.kr",
+      "reason": "피지컬 AI 교육생 모집은 기존 NEWS-20261113-002로 등록된 동일 사건이어서 중복 생성하지 않음"
+    },
+    {
+      "url": "https://hyds.hanyang.ac.kr/front/notice/unN/view?BoardArticleSearch%5Bcategory%5D=7&id=1910",
+      "reason": "기존 진행 중인 타 대학 교육과정으로 기본 24시간 신규 사건이 아니며 이번 신규 보도와 별도 확정 이슈로 만들지 않음"
+    }
+  ],
+  "previous_success_run_id": "20261115T075832+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 교육부·한국산업기술진흥원의 신규 부트캠프 운영지침·선정·평가 공고를 확인하지 못함",
+    "충북·충주의 신규 AI 인재양성·제조AX 핵심정책을 원문으로 확인하지 못함",
+    "한양대 사례의 참여기업별 역할·프로젝트 산출물·현장실습·취업 전환 실적은 공개 원문에서 확인하지 못함",
+    "나라일터 상세 본문의 이전 회차 일정 잔존 여부는 대학 현행 첨부 공고문과 추가 대조 필요"
+  ],
+  "issue_ids": {
+    "NEWS-20261114-001": "updated",
+    "NEWS-20261116-001": "new"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 1,
+    "unchanged": 0,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-16.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-16.md",
+    "records/2026/NEWS-20261114-001.json",
+    "records/2026/NEWS-20261116-001.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261116T080053+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

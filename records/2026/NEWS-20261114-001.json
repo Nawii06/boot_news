@@ -6,13 +6,13 @@
   "priority": "A",
   "priority_reason": "부트캠프(AI)사업단의 산학협력전담교수 채용으로 사업운영 인력구성과 산학연계 업무에 직접 관련",
   "first_seen_at": "2026-11-14T08:02:15+09:00",
-  "last_verified_at": "2026-11-14T08:02:15+09:00",
+  "last_verified_at": "2026-11-16T08:02:55+09:00",
   "published_date": "2026-11-13",
   "modified_date": null,
   "event_date": null,
   "effective_date": null,
   "freshness": "supplement_72h",
-  "change_status": "new",
+  "change_status": "updated",
   "organizations": [
     "국립한국교통대학교",
     "국립한국교통대학교 산학협력단",
@@ -63,6 +63,33 @@
       ],
       "evidence_locator": "대학 공식 공고 접수기간·접수방법",
       "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261114-001-F4",
+      "text": "인사혁신처 나라일터의 현행 공고 메타데이터는 산학협력전담교수 1명, 근무지역 충청북도 충주시, 접수 2026-11-13부터 2026-11-19까지로 표시한다.",
+      "source_urls": [
+        "https://www.gojobs.go.kr/apmView.do?empmnsn=308437"
+      ],
+      "evidence_locator": "나라일터 모집공고 표의 등록일·접수시작일·접수마감일·채용직급·근무지역",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261114-001-F5",
+      "text": "주요업무는 AI·모빌리티 참여기업 발굴과 수요분석, 기업수요 기반 교육과정·교과목·산학프로젝트 지원, 현장실습·인턴십·취업·창업 연계와 기업–학생 매칭, H200 GPU 기반 AI 컴퓨팅 인프라 운영 지원, 산학공동·정부·지자체·산업체 과제 발굴 및 관련 교육프로그램 강의를 포함한다.",
+      "source_urls": [
+        "https://www.gojobs.go.kr/apmView.do?empmnsn=308437"
+      ],
+      "evidence_locator": "나라일터 본문 ‘모집분야·주요업무’",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261114-001-F6",
+      "text": "공개된 자격요건은 공고일 기준 만 18세 이상 만 60세 이하, 석사학위 이상과 채용분야 실무경력, 담당예정업무 관련 산업체 경력 10년 이상이다. 고용형태는 기간제 계약직이며 급여는 각종 수당을 포함해 연 최대 72,000,000원으로, 내부 기준과 경력에 따라 협의 결정된다.",
+      "source_urls": [
+        "https://www.gojobs.go.kr/apmView.do?empmnsn=308437"
+      ],
+      "evidence_locator": "나라일터 본문 ‘자격요건·근무조건’",
+      "claim_type": "confirmed_fact"
     }
   ],
   "sources": [
@@ -76,30 +103,43 @@
       "accessed_at": "2026-11-14T08:02:15+09:00",
       "verification_scope": "공고번호, 모집분야, 근무캠퍼스, 전형방법, 접수기간·방법 확인",
       "evidence_locator": "대학 공식 채용 공고 본문"
+    },
+    {
+      "title": "제2026-5회 국립한국교통대학교 부트캠프(AI)사업 전담인력 신규채용 공고",
+      "publisher": "인사혁신처 나라일터·국립한국교통대학교 산학협력단",
+      "source_type": "government_official",
+      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308437",
+      "normalized_url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308437",
+      "published_date": "2026-11-13",
+      "accessed_at": "2026-11-16T08:02:55+09:00",
+      "verification_scope": "채용인원, 근무지역, 담당업무, 자격요건, 고용형태, 보수와 현행 접수 메타데이터 확인",
+      "evidence_locator": "나라일터 모집공고 표와 상세 본문"
     }
   ],
   "notice": {
-    "eligibility": "첨부 공고문 확인 필요",
-    "support": "채용인원·보수·계약조건은 첨부 공고문 확인 필요",
+    "eligibility": "공고일 기준 만 18세 이상 만 60세 이하, 석사학위 이상 및 채용분야 실무경력, 담당예정업무 관련 산업체 경력 10년 이상. 우대조건과 제출서류 세부사항은 공고문 확인 필요",
+    "support": "산학협력전담교수 1명, 기간제 계약직, 각종 수당 포함 연 최대 72,000,000원(내부 기준·경력에 따라 협의)",
     "deadline": "2026-11-19T18:00:00+09:00",
     "application_url": "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1126013",
     "current_status": "접수 중",
-    "university_eligibility_verified": null
+    "university_eligibility_verified": true
   },
   "analysis": {
     "relevance": "사업단 운영 인력과 산학협력 기능에 직접 관련된 공식 채용 공고",
     "interpretations": [
-      "산학협력전담교수 채용은 기업수요 발굴·산학프로젝트·현장실습·취업연계 운영역량과 연결될 수 있으나 구체 직무는 첨부 공고문 확인이 필요하다."
+      "공개된 직무는 기업수요 조사→교육과정·교과목·산학프로젝트→현장실습·인턴십·취업·창업→인프라·과제 발굴을 한 역할에 연결하는 운영구조다.",
+      "H200 GPU 인프라 운영 지원과 기업수요 연계가 동시에 명시돼 교육·산학 프로젝트의 장비 활용 절차와 성과증빙을 함께 설계할 필요가 있다."
     ],
-    "proposed_action": "공개 첨부 공고문에서 담당직무·필수자격·채용인원·계약기간을 확인한 뒤 현재 사업계획과의 역할 연결 여부를 검토",
+    "proposed_action": "현행 공고문을 기준으로 담당업무별 산출물·성과지표·내부 협업부서를 매핑하되, 나라일터 본문에 남은 이전 회차 접수일 표기는 대학 공식 공고와 첨부 공고문으로 재확인",
     "prerequisites": [
-      "첨부 공고문의 담당업무·필수자격 확인",
-      "채용인원·계약기간·보수·재원 확인",
-      "사업계획 및 인사규정상 역할·절차 확인"
+      "대학 공식 첨부 공고문과 나라일터 상단 메타데이터의 현행 일정 대조",
+      "채용·계약·사업비 집행 규정 확인",
+      "기업수요·교육·프로젝트·현장실습·취업연계·GPU 인프라별 담당부서와 성과지표 확인"
     ],
     "limitations": [
-      "공식 게시물 본문만으로 세부 자격·인원·보수·계약기간을 확인하지 못함",
-      "채용 공고는 인력 확보 절차이며 채용 완료나 사업성과를 의미하지 않음"
+      "나라일터 상단 메타데이터는 2026-11-13~11-19를 표시하지만 상세 본문 ‘채용절차’에는 이전 제4회로 보이는 2026-10-13~10-19 일정이 남아 있어, 현 회차 일정은 대학 공식 공고와 상단 메타데이터를 기준으로 판단했다.",
+      "연 최대 72,000,000원은 각종 수당 포함 상한이며 실제 보수는 내부 기준·경력에 따라 협의 결정된다.",
+      "채용 공고는 인력 확보 절차이며 채용 완료나 사업성과를 의미하지 않는다."
     ]
   },
   "development": {
@@ -111,32 +151,39 @@
       "성과관리",
       "사업비행정"
     ],
-    "transferable_mechanism": "산학협력 전담역할을 기업수요 조사→프로젝트·현장실습 운영→취업연계→성과증빙으로 연결하는 운영구조 검토",
+    "transferable_mechanism": "기업수요 조사→수요 기반 교육·산학프로젝트→현장실습·인턴십·취업·창업 매칭→H200 GPU 인프라 활용→공동과제 발굴과 성과증빙을 전담역할로 연결",
     "evidence_fact_ids": [
       "NEWS-20261114-001-F1",
       "NEWS-20261114-001-F2",
-      "NEWS-20261114-001-F3"
+      "NEWS-20261114-001-F3",
+      "NEWS-20261114-001-F4",
+      "NEWS-20261114-001-F5",
+      "NEWS-20261114-001-F6"
     ],
     "candidate_partners": [],
     "resource_requirements": [
-      "담당직무·성과지표 정의",
+      "담당업무별 산출물·성과지표",
       "채용·계약·사업비 집행 절차",
-      "기업·학생·교원 협업체계"
+      "기업·학생·교원·유관부서 협업체계",
+      "H200 GPU 이용·보안·사용자지원 절차"
     ],
     "eligibility_checks": [
-      "지원자격·경력요건",
-      "채용인원·계약기간",
-      "사업비 집행 가능 항목"
+      "연령·학위·실무경력·산업체 경력 요건",
+      "계약기간·보수 확정 조건",
+      "사업비 집행 가능 항목",
+      "현행 첨부 공고문 일정"
     ],
     "evidence_gaps": [
-      "첨부 공고문의 상세 직무·자격·인원·보수",
+      "계약기간과 우대조건의 세부사항",
+      "나라일터 상세 본문의 이전 회차 접수일 정정 여부",
       "채용 이후 배치·성과계획"
     ],
     "maturity": "concept_review"
   },
   "related_issue_ids": [],
   "report_paths": [
-    "reports/2026/11/2026-11-14.md"
+    "reports/2026/11/2026-11-14.md",
+    "reports/2026/11/2026-11-16.md"
   ],
   "changes": [
     {
@@ -148,6 +195,18 @@
       "reason": "11월 13일 대학 공식 제5회 신규채용 공고를 확인해 별도 모집회차 이슈로 등록",
       "source_urls": [
         "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1126013"
+      ]
+    },
+    {
+      "changed_at": "2026-11-16T08:02:55+09:00",
+      "run_id": "20261116T080053+0900",
+      "field": "sources, verified_facts, notice, analysis, development",
+      "before": "대학 공식 게시물 본문 기준으로 세부 직무·자격·인원·보수를 미확인",
+      "after": "나라일터 공식 공고에서 1명, 상세 직무, 자격요건, 기간제 고용과 연 최대 72,000,000원 보수 근거를 추가하고 일정 불일치를 한계로 기록",
+      "reason": "새 공식 근거가 확인되어 실질 갱신(updated)으로 분류",
+      "source_urls": [
+        "https://aicc.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1126013",
+        "https://www.gojobs.go.kr/apmView.do?empmnsn=308437"
       ]
     }
   ]

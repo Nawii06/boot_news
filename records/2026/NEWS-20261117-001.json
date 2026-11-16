@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261117-001",
+  "title": "동서대 첨단산업 인재양성 부트캠프 2026학년도 동계 인턴십 모집",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "부트캠프 참여학생을 대상으로 5개 기업의 직무체험형·채용연계형 인턴십과 학점·급여·취업연계를 구체화한 직접적인 현장실습·취업 사례",
+  "first_seen_at": "2026-11-17T08:03:01+09:00",
+  "last_verified_at": "2026-11-17T08:03:01+09:00",
+  "published_date": "2026-11-16",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "동서대학교",
+    "동서대학교 첨단산업 인재양성 부트캠프사업단",
+    "동서대학교 소프트웨어융합대학",
+    "PSBX동산",
+    "에스지솔루션",
+    "디티앤씨",
+    "한국엘엔피",
+    "코벳"
+  ],
+  "regions": [
+    "부산광역시"
+  ],
+  "sectors": [
+    "AI·첨단산업",
+    "현장실습",
+    "인턴십",
+    "취업연계"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "동계 인턴십",
+    "직무체험형",
+    "채용연계형",
+    "학점인정",
+    "기업매칭"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261117-001-F1",
+      "text": "동서대학교 첨단산업 인재양성 부트캠프사업단은 2026-11-16 부트캠프 참여학생을 대상으로 2026-12-22부터 2027-02-22까지 운영하는 동계 인턴십 모집을 공지했다.",
+      "source_urls": [
+        "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+        "https://uni.dongseo.ac.kr/computereng/?idx=1544&mode=view&pCode=MN4000017"
+      ],
+      "evidence_locator": "공식 공지 제목·게시일·인턴십 운영 안내",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261117-001-F2",
+      "text": "3학년은 중기 현장실습 8주·6학점, 4학년 졸업예정자는 단기 현장실습 4주·3학점과 사업단 단기현장실습 4주를 합한 총 8주 경로로 안내됐다.",
+      "source_urls": [
+        "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+        "https://uni.dongseo.ac.kr/computereng/?idx=1544&mode=view&pCode=MN4000017"
+      ],
+      "evidence_locator": "공식 공지 ‘학년별 신청 안내’",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261117-001-F3",
+      "text": "참여기업은 PSBX동산·에스지솔루션·디티앤씨·한국엘엔피·코벳 등 5개사이며 목표 인원은 총 14명이다. 디티앤씨와 코벳은 채용연계형, 나머지 3개사는 직무체험형으로 표시됐다.",
+      "source_urls": [
+        "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+        "https://uni.dongseo.ac.kr/computereng/?idx=1544&mode=view&pCode=MN4000017"
+      ],
+      "evidence_locator": "공식 공지 ‘참여기업 및 모집인원’ 표",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261117-001-F4",
+      "text": "월 급여는 210만 원으로 안내됐고 신청 마감은 2026-11-27 10:00이다. 초급 MD 미이수자는 동계 계절학기 초급 MD 추가 이수가 필요하며, 사업단 세부 운영기준에 따라 추가 장학금 50만 원과 등록비 지원이 가능하다고 안내됐다.",
+      "source_urls": [
+        "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+        "https://uni.dongseo.ac.kr/computereng/?idx=1544&mode=view&pCode=MN4000017"
+      ],
+      "evidence_locator": "공식 공지 ‘운영 안내·추가 교육 혜택·신청 및 상담 안내’",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "26학년도 동계 인턴십 지원사업 참여학생 모집",
+      "publisher": "동서대학교 소프트웨어융합대학",
+      "source_type": "university_official",
+      "url": "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+      "normalized_url": "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+      "published_date": "2026-11-16",
+      "accessed_at": "2026-11-17T08:03:01+09:00",
+      "verification_scope": "운영기간, 대상, 유형, 학점, 참여기업·목표인원, 월 급여, 추가 교육지원, 마감 확인",
+      "evidence_locator": "공식 공지 본문 전체"
+    },
+    {
+      "title": "2026학년도 동계 인턴십 지원사업 참여학생 모집",
+      "publisher": "동서대학교 컴퓨터공학전공",
+      "source_type": "university_official",
+      "url": "https://uni.dongseo.ac.kr/computereng/?idx=1544&mode=view&pCode=MN4000017",
+      "normalized_url": "https://uni.dongseo.ac.kr/computereng/?idx=1544&mode=view&pCode=MN4000017",
+      "published_date": "2026-11-16",
+      "accessed_at": "2026-11-17T08:03:01+09:00",
+      "verification_scope": "소프트웨어융합대학 공지와 동일한 모집조건을 공식 학과 공지에서 교차 확인",
+      "evidence_locator": "공식 학과공지 본문 전체"
+    }
+  ],
+  "notice": {
+    "eligibility": "첨단산업 분야 취업을 희망하는 동서대학교 부트캠프 참여학생. 3학년과 4학년 졸업예정자의 학점·운영 경로가 다르며 국립한국교통대학교 학생 지원 가능성은 확인되지 않음",
+    "support": "2026-12-22~2027-02-22 총 8주, 5개 기업 목표 14명, 월 급여 210만 원. 초급 MD 미이수자는 추가 이수 필요; 세부 기준에 따라 추가 장학금 50만 원 및 등록비 지원 가능",
+    "deadline": "2026-11-27T10:00:00+09:00",
+    "application_url": "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+    "current_status": "모집 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "기업별 직무체험형·채용연계형을 구분하고 학년별 학점경로와 사업단 추가 지원을 결합한 부트캠프 현장실습·취업연계 사례",
+    "interpretations": [
+      "기업별 모집목표와 인턴십 유형을 사전에 구분해 학생상담·기업매칭·취업전환 지표를 연결할 수 있는 운영구조다.",
+      "3학년 8주·6학점과 4학년 4주+4주·3학점 구조는 학사단계에 따라 현장실습과 사업단 프로그램을 조합한 사례다."
+    ],
+    "proposed_action": "교통대 동계 현장실습 운영과 비교해 기업별 직무·모집인원·체험형/채용연계형·학점·급여·후속채용 여부를 한 표에서 관리하는 방식의 적용을 검토",
+    "prerequisites": [
+      "국립한국교통대학교 현장실습학기제·학점인정 규정 확인",
+      "사업비로 지원 가능한 학생지원 항목과 중복지원 기준 확인",
+      "기업별 직무기술서·선발절차·급여 부담주체 확인",
+      "채용연계형의 후속 취업성과 집계기준 확인"
+    ],
+    "limitations": [
+      "동서대학교 학생 대상 공고이므로 교통대 학생이 신청할 수 없음",
+      "월 급여·장학금·등록비 지원방식을 교통대 사업에 그대로 적용할 수 없음",
+      "모집목표 14명은 계획값이며 실제 선발·수료·취업 실적이 아님",
+      "공식 페이지 직접 렌더링은 실패해 검색 색인에 노출된 공식 본문과 동일 대학 공식 학과 공지로 교차 확인"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "산학프로젝트",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "학생지원",
+      "성과관리",
+      "사업비행정"
+    ],
+    "transferable_mechanism": "기업별 직무체험형·채용연계형 구분→학년별 학점경로 설계→급여·교육지원 결합→기업별 목표인원·선발·수료·취업성과 추적",
+    "evidence_fact_ids": [
+      "NEWS-20261117-001-F1",
+      "NEWS-20261117-001-F2",
+      "NEWS-20261117-001-F3",
+      "NEWS-20261117-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업별 직무기술서와 목표인원",
+      "현장실습·학점 담당부서 협의",
+      "학생상담·기업매칭 담당인력",
+      "실습비·장학금·등록비 예산근거",
+      "선발·수료·취업 성과관리 체계"
+    ],
+    "eligibility_checks": [
+      "교통대 현장실습학기제 학점·기간 기준",
+      "부트캠프 참여학생 자격",
+      "기업·사업단 실습비 분담과 중복지원",
+      "채용연계 성과 인정기준"
+    ],
+    "evidence_gaps": [
+      "기업별 세부 직무와 근무지",
+      "선발절차와 급여 부담주체",
+      "실제 선발·수료·취업전환 결과",
+      "추가 장학금·등록비 지원의 세부 기준"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [
+    "NEWS-20261103-001"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-17.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-17T08:03:01+09:00",
+      "run_id": "20261117T080049+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 내 대학 공식 부트캠프 인턴십 모집 공지를 신규 사건으로 확인",
+      "source_urls": [
+        "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+        "https://uni.dongseo.ac.kr/computereng/?idx=1544&mode=view&pCode=MN4000017"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261117T080049+0900",
+  "scheduled_at": "2026-11-17T08:00:00+09:00",
+  "cutoff_at": "2026-11-17T08:00:00+09:00",
+  "started_at": "2026-11-17T08:00:49+09:00",
+  "collection_completed_at": "2026-11-17T08:03:01+09:00",
+  "search_window": {
+    "start": "2026-11-16T08:00:00+09:00",
+    "end": "2026-11-17T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "type": "72h",
+      "start": "2026-11-14T08:00:00+09:00",
+      "end": "2026-11-17T08:00:00+09:00",
+      "reason": "기본 24시간에 직접 정책·제도변경 자료가 제한적이어서 관련 기관 공식공지와 진행 중 공고 변경 여부를 보완 확인"
+    }
+  ],
+  "search_status": "completed_with_official_page_render_limit",
+  "queries": [
+    "2026-11-16 첨단산업 인재양성 부트캠프 AI 교육부 한국산업기술진흥원",
+    "2026-11-16 국립한국교통대학교 부트캠프 AI 공고",
+    "2026-11-16 충북 충주 AI 인재양성 제조AX 산학협력",
+    "2026-11-16 대학 기업 AI 현장실습 인턴십 취업 AI 부트캠프",
+    "site:ac.kr 2026-11-16 AI 부트캠프",
+    "site:ac.kr 2026-11-16 첨단산업 인재양성 부트캠프",
+    "site:go.kr 2026-11-16 제조AI 제조AX 인재양성",
+    "26학년도 동계 인턴십 지원사업 참여학생 모집 동서대학교",
+    "site:uni.dongseo.ac.kr/software/?idx=79 참여기업 월 급여"
+  ],
+  "checked_official_sites": [
+    "국립한국교통대학교 부트캠프(AI)사업단",
+    "인사혁신처 나라일터",
+    "교육부",
+    "한국산업기술진흥원",
+    "충청북도·충주시 관련 공식자료",
+    "동서대학교 소프트웨어융합대학·컴퓨터공학전공",
+    "국립군산대학교 AI부트캠프 관련 공식자료"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://uni.dongseo.ac.kr/software/?idx=79&mode=view&pCode=notice_01",
+      "reason": "공식 페이지 직접 열기는 HTTP/2 오류·시간초과로 실패했으나 검색 색인에 공개된 전체 공식 본문과 동일 대학 컴퓨터공학전공 공식 공지에서 조건을 교차 확인"
+    },
+    {
+      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308437",
+      "reason": "현행 메타데이터는 2026-11-13~11-19를 표시하지만 상세 본문에는 이전 회차 10월 일정이 남아 있어 대학 공식 공고의 현 회차 일정을 우선 적용"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.dongseo.ac.kr/kr/?idx=103803&mode=view&pCode=MN2000192",
+      "reason": "2026-11-16 게시됐으나 사건일은 11월 5일인 Job Matching Day 사후 보도로 신규 사건에서 제외"
+    },
+    {
+      "url": "https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000021&dataSid=1389699&menuCd=DOM_000000105001008000",
+      "reason": "2026-11-16 게시됐으나 사건일은 11월 11일인 산학협력 워크숍 사후 보도로 신규 사건에서 제외"
+    },
+    {
+      "url": "https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000010&dataSid=1389707&menuCd=DOM_000000105001003000",
+      "reason": "청년도약 인재양성 AI부트캠프로 본 첨단산업 인재양성 부트캠프와 구분"
+    },
+    {
+      "url": "https://www.bizinfo.go.kr/sie/siea/selectSIEA430Detail.do?eventInfoId=EVEN_000000000069841",
+      "reason": "대구 제조공정 AX 세미나로 충북·충주 우선순위와 교육·학생 진로 직접성이 낮아 제외"
+    }
+  ],
+  "previous_success_run_id": "20261116T080053+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 교육부·한국산업기술진흥원의 신규 부트캠프 운영지침·선정·평가 공고를 확인하지 못함",
+    "충북·충주의 신규 AI 인재양성·제조AX 핵심정책을 원문으로 확인하지 못함",
+    "동서대 인턴십 참여기업별 세부 직무·근무지·선발절차·급여 부담주체는 공개 공지에서 확인하지 못함",
+    "동서대 공식 공지의 신청 페이지 실제 목적지는 직접 열기 실패로 확인하지 못함"
+  ],
+  "issue_ids": {
+    "NEWS-20261117-001": "new",
+    "NEWS-20261114-001": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "updated": 0,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-17.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-17.md",
+    "records/2026/NEWS-20261117-001.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261117T080049+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

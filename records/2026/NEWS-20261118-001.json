@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261118-001",
+  "title": "부산대 AI 부트캠프 마일스톤 장학생 선발",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "부트캠프 이수·AI역량·취창업 준비활동을 증빙 기반 마일리지와 장학금으로 연결한 학생지원·성과관리 비교사례",
+  "first_seen_at": "2026-11-18T08:00:41+09:00",
+  "last_verified_at": "2026-11-18T08:02:53+09:00",
+  "published_date": "2026-11-17",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "부산대학교",
+    "부산대학교 AI융합교육원",
+    "부산대학교 컴퓨터공학전공"
+  ],
+  "regions": [
+    "부산광역시"
+  ],
+  "sectors": [
+    "AI 인재양성",
+    "학생지원",
+    "성과관리",
+    "취업지원"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "AI 부트캠프",
+    "마일스톤",
+    "장학금",
+    "성과증빙",
+    "취업준비"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261118-001-F1",
+      "text": "부산대학교 AI융합교육원은 2026-11-17 인공지능 분야 첨단산업 인재양성 부트캠프 이수자 및 이수 예정자 중 4학년 재학생을 대상으로 총 30명 내외의 마일스톤 장학생을 선발한다고 공지했다.",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1473813/artclView.do"
+      ],
+      "evidence_locator": "공식 공지 ‘선발 개요’",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261118-001-F2",
+      "text": "AI 역량, 취·창업 준비 활동, 교육모델 이수 실적을 마일리지로 환산해 평가하고 개인별 누적점수·지원자 수·장학금 예산을 고려하여 차등 지급할 계획이다.",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1473813/artclView.do"
+      ],
+      "evidence_locator": "공식 공지 ‘선발 개요’ 평가방법·지급기준",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261118-001-F3",
+      "text": "공식 역량평가표는 실전 AI 역량 35%, 취·창업 준비역량 45%, 교과형 모델 이수 20%로 구성하고 공모전·자격증·기업현장실습·구직활동·기업탐방·포트폴리오·지정 프로그램·고급형 이수 등을 증빙항목으로 제시한다.",
+      "source_urls": [
+        "https://swedu.pusan.ac.kr/swedu/16182/subview.do"
+      ],
+      "evidence_locator": "공식 역량평가표와 평가요건",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261118-001-F4",
+      "text": "신청·접수는 2026-12-31까지, 심사·검증은 2027-01-04부터 2027-01-22까지, 장학금 지급은 2027년 1월 말부터 2월 초까지로 안내됐다.",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1473813/artclView.do"
+      ],
+      "evidence_locator": "공식 공지 ‘신청 및 선발 일정’",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026학년도 첨단산업 인재양성 부트캠프 마일스톤 장학생 선발 안내",
+      "publisher": "부산대학교 AI융합교육원·컴퓨터공학전공",
+      "source_type": "university_official",
+      "url": "https://cse.pusan.ac.kr/bbs/cse/2055/1473813/artclView.do",
+      "normalized_url": "https://cse.pusan.ac.kr/bbs/cse/2055/1473813/artclView.do",
+      "published_date": "2026-11-17",
+      "accessed_at": "2026-11-18T08:02:53+09:00",
+      "verification_scope": "대상, 선발규모, 평가방법, 지급기준, 접수·심사·지급 일정 확인",
+      "evidence_locator": "공식 공지 본문"
+    },
+    {
+      "title": "부산대학교 AI분야 첨단산업 인재양성 부트캠프 역량평가 (Milestone)",
+      "publisher": "부산대학교 AI융합교육원",
+      "source_type": "university_official",
+      "url": "https://swedu.pusan.ac.kr/swedu/16182/subview.do",
+      "normalized_url": "https://swedu.pusan.ac.kr/swedu/16182/subview.do",
+      "published_date": null,
+      "accessed_at": "2026-11-18T08:02:53+09:00",
+      "verification_scope": "평가영역별 비중, 활동·증빙항목, 장학금 지급 구조 확인",
+      "evidence_locator": "공식 역량평가표·평가요건"
+    }
+  ],
+  "notice": {
+    "eligibility": "부산대학교 인공지능 분야 첨단산업 인재양성 부트캠프 이수자 또는 이수 예정자 중 4학년 재학생",
+    "support": "총 30명 내외, 개인별 누적 마일리지·지원자 수·장학금 예산을 고려한 차등 장학금",
+    "deadline": "2026-12-31",
+    "application_url": "https://swcss.pusan.ac.kr/milestone#bootcamp-milestone",
+    "current_status": "모집 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "부트캠프 교육성과·취업준비 활동을 증빙 기반 점수와 학생지원으로 연결한 타 대학 운영사례",
+    "interpretations": [
+      "교육 이수와 취업준비를 분리해 정량화하고 증빙·검증기간·예산범위를 함께 명시한 구조다.",
+      "마일리지 점수는 활동증빙을 관리하는 수단이며 실제 역량·취업성과와 동일한 지표는 아니다."
+    ],
+    "proposed_action": "현행 사업 성과·학생지원 체계와 비교해 이수·프로젝트·현장실습·자격·구직·취업 항목별 인정기준과 증빙책임자 정의를 검토",
+    "prerequisites": [
+      "교육부·KIAT 사업지침과 장학금 지급기준 확인",
+      "학칙·사업비·중복지원 기준 확인",
+      "개인정보·취업증빙 수집과 보관기준 확인",
+      "성과지표와 장학금 평가항목의 중복·왜곡 검토"
+    ],
+    "limitations": [
+      "부산대학교 학생 대상 제도로 국립한국교통대학교 학생은 신청할 수 없음",
+      "선발규모는 약 30명의 계획값이며 실제 선발·지급 실적이 아님",
+      "장학금 액수는 개인별 점수·지원자 수·예산에 따라 달라질 수 있음",
+      "게시시각이 표시되지 않아 11월 17일 자료를 72시간 보완범위로 분류"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "학생지원",
+      "성과관리",
+      "현장실습인턴십",
+      "취업연계",
+      "사업비행정"
+    ],
+    "transferable_mechanism": "교육 이수·AI활동·현장실습·취업준비를 증빙항목으로 정의→마일리지 누적→검증기간 운영→예산범위 내 학생지원→취업성과와 별도 추적",
+    "evidence_fact_ids": [
+      "NEWS-20261118-001-F1",
+      "NEWS-20261118-001-F2",
+      "NEWS-20261118-001-F3",
+      "NEWS-20261118-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "활동·증빙 인정기준",
+      "증빙 검증 담당자",
+      "장학금 예산·지급 절차",
+      "학생정보·취업증빙 관리체계"
+    ],
+    "eligibility_checks": [
+      "사업지침상 학생지원·장학금 허용범위",
+      "학년·이수상태·중복수혜 기준",
+      "개인정보 수집·보관·파기 기준",
+      "성과지표와 평가항목 정합성"
+    ],
+    "evidence_gaps": [
+      "실제 지원자·선발자·지급액 분포",
+      "마일리지와 수료·취업성과의 관계",
+      "이의신청·정정 절차"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-18.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-18T08:00:41+09:00",
+      "run_id": "20261118T080041+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 17일 대학 공식 학생지원·성과관리 공고를 72시간 보완범위에서 신규 아카이브 이슈로 확인",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1473813/artclView.do",
+        "https://swedu.pusan.ac.kr/swedu/16182/subview.do"
+      ]
+    }
+  ]
+}

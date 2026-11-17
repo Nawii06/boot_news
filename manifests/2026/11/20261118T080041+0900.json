@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261118T080041+0900",
+  "scheduled_at": "2026-11-18T08:00:00+09:00",
+  "cutoff_at": "2026-11-18T08:00:00+09:00",
+  "started_at": "2026-11-18T08:00:41+09:00",
+  "collection_completed_at": "2026-11-18T08:02:53+09:00",
+  "search_window": {
+    "start": "2026-11-17T08:00:00+09:00",
+    "end": "2026-11-18T08:00:00+09:00"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-15T08:00:00+09:00",
+      "end": "2026-11-18T08:00:00+09:00",
+      "reason": "게시시각 미표시 11월 17일 공식자료와 진행 중 공고의 안전한 최신성 판정"
+    }
+  ],
+  "search_status": "completed",
+  "queries": [
+    "2026-11-17 첨단산업 인재양성 부트캠프 AI 교육부 KIAT",
+    "2026-11-17 국립한국교통대학교 부트캠프 AI",
+    "2026-11-17 충북 충주 AI 제조AX 인재양성 산학협력",
+    "2026-11-17 대학 기업 AI 현장실습 인턴십 취업 부트캠프",
+    "site:ac.kr 2026-11-17 AI 부트캠프 인턴십",
+    "site:ac.kr 2026-11-17 첨단산업 인재양성 부트캠프",
+    "site:ut.ac.kr 2026-11-17 부트캠프 AI 공지",
+    "site:go.kr 2026-11-17 제조AI 제조AX 인재양성",
+    "의료·클라우드 AI 부트캠프 데모데이 강원대학교",
+    "2026학년도 첨단산업 인재양성 부트캠프 마일스톤 장학생 선발 안내",
+    "site:ut.ac.kr 첨단산업 인재양성 부트캠프 사업단 채용 2026 11 19"
+  ],
+  "checked_official_sites": [
+    "교육부",
+    "한국산업기술진흥원",
+    "국립한국교통대학교 부트캠프(AI)사업단",
+    "인사혁신처 나라일터",
+    "충청북도·충주시 관련 공식자료",
+    "부산대학교 AI융합교육원·컴퓨터공학전공",
+    "강원대학교 AI부트캠프사업단·AI융합학과",
+    "전남대학교 인턴십 시스템",
+    "연세대학교 미래캠퍼스 AI부트캠프사업단"
+  ],
+  "verification_failures": [],
+  "excluded_candidates": [
+    {
+      "url": "https://swintern.jnu.ac.kr/main/",
+      "reason": "11월 2일부터 진행 중인 전남대 AI 부트캠프 인턴십으로 게시시각·실질 변경을 확인하지 못해 이번 회차 신규 이슈에서 제외"
+    },
+    {
+      "url": "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78729&mode=view",
+      "reason": "11월 16일 게시 후 11월 17일 수정됐으나 타 대학 수강신청 안내이며 이번 회차 핵심 재사용 사례보다 우선도가 낮아 제외"
+    },
+    {
+      "url": "https://www.ptu.ac.kr/www/413/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGMzE2JTJGMzM1MTUlMkZhcnRjbFZpZXcuZG8lM0Y%3D",
+      "reason": "11월 17일 보도이나 10월 26일 수료식 사후 보도로 신규 사건에서 제외"
+    },
+    {
+      "url": "https://aiboot.kangwon.ac.kr/Home/H50000/H50500/boardView?board_key=2580&page=1",
+      "reason": "일반 공모전 대외소식으로 본 사업 운영·교육과정과 직접 연결되지 않아 제외"
+    }
+  ],
+  "previous_success_run_id": "20261117T080049+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 교육부·한국산업기술진흥원의 신규 부트캠프 운영지침·선정·평가 공고를 확인하지 못함",
+    "충북·충주의 신규 AI 인재양성·제조AX 핵심정책을 원문으로 확인하지 못함",
+    "강원대 데모데이 공식 뉴스에서 실제 행사일시·참여학생 수·평가결과·기업 피드백을 확인하지 못함",
+    "부산대 장학생 공고에서 개인별 장학금 액수와 실제 선발·지급 결과를 확인하지 못함",
+    "11월 17일 신규자료의 정확한 게시시각이 표시되지 않아 72시간 보완자료로 분류"
+  ],
+  "issue_ids": {
+    "NEWS-20261114-001": "unchanged",
+    "NEWS-20261118-001": "new",
+    "NEWS-20261118-002": "new"
+  },
+  "counts": {
+    "new": 2,
+    "updated": 0,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-18.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-18.md",
+    "records/2026/NEWS-20261118-001.json",
+    "records/2026/NEWS-20261118-002.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261118T080041+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

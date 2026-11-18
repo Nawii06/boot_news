@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261119-002",
+  "title": "청주 포함 피지컬 AI 테스트베드 4곳 구축·지역 개방",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "청주 AI·반도체 분야 실습거점을 지역 기업·대학·훈련기관에 개방해 재학생·재직자·운영유지보수 인력을 양성하는 공식 정책·인프라 사례",
+  "first_seen_at": "2026-11-19T08:00:25+09:00",
+  "last_verified_at": "2026-11-19T08:03:18+09:00",
+  "published_date": "2026-11-18",
+  "modified_date": null,
+  "event_date": "2026-11-18",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "고용노동부",
+    "학교법인 한국폴리텍",
+    "한국폴리텍대학 청주캠퍼스"
+  ],
+  "regions": [
+    "충청북도",
+    "청주시",
+    "전주시",
+    "성남시",
+    "창원시"
+  ],
+  "sectors": [
+    "피지컬 AI",
+    "AI·반도체",
+    "스마트팜",
+    "제조·물류",
+    "바이오",
+    "직업훈련"
+  ],
+  "keywords": [
+    "피지컬 AI",
+    "테스트베드",
+    "공장형 교육시설",
+    "청주",
+    "AI·반도체",
+    "재직자교육",
+    "Sim-to-Real"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261119-002-F1",
+      "text": "고용노동부와 한국폴리텍은 2026-11-18 전주 신기술교육원에서 피지컬 AI 테스트베드 개소식을 개최했다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789765&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 개소식 개요",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261119-002-F2",
+      "text": "정부는 2026년 총 100억 원을 투입해 전주·청주·성남·창원 4개 거점을 구축하고 있으며 지역 연계 분야는 전주 스마트팜, 청주 AI·반도체, 성남 바이오, 창원 제조·물류다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789765&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 ‘피지컬 AI 테스트베드란?’",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261119-002-F3",
+      "text": "시설은 실제 제조공정을 축소한 공장형 교육시설로 지역 중소기업·대학·훈련기관에 개방하고 재학생·재직자 역량강화와 공정 운용·유지보수 전문인력 교육에 활용한다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789765&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 시설 정의·활용대상",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261119-002-F4",
+      "text": "정부는 2027년 총 240억 원을 투입해 피지컬 AI 테스트베드 8곳을 추가 구축할 계획이라고 밝혔다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789765&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 향후 확대 계획",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "피지컬 인공지능(AI) 테스트베드 4곳 개소, 지역 기업에 개방하여 실무인력 양성에 활용",
+      "publisher": "고용노동부·한국폴리텍",
+      "source_type": "government_official",
+      "url": "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789765&pageIndex=1&repCode=",
+      "normalized_url": "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789765&pageIndex=1&repCode=",
+      "published_date": "2026-11-18",
+      "accessed_at": "2026-11-19T08:03:18+09:00",
+      "verification_scope": "거점·투자규모·지역연계 분야·개방대상·교육용도·추가구축 계획 확인",
+      "evidence_locator": "정책브리핑 보도자료 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": "피지컬 AI 공장형 교육시설의 지역 중소기업·대학·훈련기관 개방 및 교육 활용",
+    "deadline": null,
+    "application_url": null,
+    "current_status": "전주 개소; 청주·성남·창원 연내 가동 계획",
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "충북 청주의 AI·반도체 실습거점과 지역 기업·대학 개방 구조를 확인한 인프라·인재양성 정책",
+    "interpretations": [
+      "별도 장비구축 전에 외부 거점의 공동교육·PoC 가능성을 확인할 수 있는 후보 인프라다.",
+      "보도자료는 개방 방향을 확인하지만 대학별 이용권한·비용·가동일·성과를 확정하지 않는다."
+    ],
+    "proposed_action": "한국폴리텍 청주캠퍼스의 개방조건과 공동교육·PoC 가능성 확인",
+    "prerequisites": [
+      "청주 거점 실제 가동일",
+      "대학·학생·기업 이용자격",
+      "장비·데이터·안전교육·사용료",
+      "공동과제·성과물·지식재산 기준"
+    ],
+    "limitations": [
+      "청주 거점의 세부 장비·교육과정·신청절차 미확인",
+      "2027년 추가 8곳·240억 원은 계획값",
+      "정확한 게시시각 미표시로 72시간 보완자료로 분류"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "교육과정",
+      "비교과",
+      "재직자교육",
+      "산학프로젝트",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "지역산업 분야 선정→공장형 테스트베드 구축→대학·기업·훈련기관 개방→재학생·재직자 실습→공정 운용·유지보수 인력양성→지역기업 AX 지원",
+    "evidence_fact_ids": [
+      "NEWS-20261119-002-F1",
+      "NEWS-20261119-002-F2",
+      "NEWS-20261119-002-F3",
+      "NEWS-20261119-002-F4"
+    ],
+    "candidate_partners": [
+      "한국폴리텍대학 청주캠퍼스(검토후보: 공식자료가 대학·기업·훈련기관에 개방되는 청주 AI·반도체 거점으로 명시)"
+    ],
+    "resource_requirements": [
+      "실습장비·공정환경",
+      "안전교육",
+      "산업체 과제·데이터",
+      "교원·강사·기술지원",
+      "시설이용·보험·성과관리"
+    ],
+    "eligibility_checks": [
+      "대학·학생·기업 이용자격",
+      "시설 가동일·신청절차·사용료",
+      "데이터·보안·안전·지식재산",
+      "사업비·학점·성과인정"
+    ],
+    "evidence_gaps": [
+      "청주 거점 세부장비와 교육편성",
+      "실제 개방일·신청경로·이용비용",
+      "대학 협력실적·교육성과"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-19.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-19T08:00:25+09:00",
+      "run_id": "20261119T080025+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 18일 공식 개소·정책 발표를 72시간 보완범위 신규 사건으로 확인",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789765&pageIndex=1&repCode="
+      ]
+    }
+  ]
+}

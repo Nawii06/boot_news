@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261119-004",
+  "title": "한국기술교육대 과업·스킬 중심 AX 직업훈련과 전 주기 PBL 모델",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "기업수요를 과업·스킬·업무흐름으로 분해하고 PBL·현장적용·PoC·성과환류 및 Sim-to-Real 실습으로 연결한 공식 교육설계 사례",
+  "first_seen_at": "2026-11-19T08:00:25+09:00",
+  "last_verified_at": "2026-11-19T08:03:18+09:00",
+  "published_date": "2026-11-18",
+  "modified_date": null,
+  "event_date": "2026-11-18",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "고용노동부",
+    "한국기술교육대학교"
+  ],
+  "regions": [
+    "충청남도",
+    "천안시",
+    "충청권"
+  ],
+  "sectors": [
+    "AI 직업훈련",
+    "제조AX",
+    "피지컬 AI",
+    "PBL",
+    "Sim-to-Real"
+  ],
+  "keywords": [
+    "과업·스킬·업무흐름",
+    "에이전트 리터러시",
+    "기업수요",
+    "PBL",
+    "PoC",
+    "성과환류",
+    "Sim-to-Real"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261119-004-F1",
+      "text": "한국기술교육대학교는 2026-11-18 고용·평생직업능력개발 발전 전략 포럼을 개최했으며 전문가·유관기관·교직원 등 120여 명이 참석했다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789759&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 포럼 개요",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261119-004-F2",
+      "text": "발표에서는 AI 시대 훈련단위를 직업명이 아닌 과업·스킬·업무흐름 중심으로 재편하고 업무설계·결과검증을 포함한 에이전트 리터러시를 강조했다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789759&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 기조발제",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261119-004-F3",
+      "text": "산학협력단은 기업수요 발굴→맞춤형 PBL→현장적용→PoC 실증→지역확산 전 주기 모델과 AGV 비전AI·폐쇄망 로컬 LLM, 화재예측 모델, 반도체 공정데이터·특화 챗봇 사례를 제시했다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789759&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 산학협력단 발표",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261119-004-F4",
+      "text": "미래교육혁신처는 기초실습(L1)→가상환경(L2)→실물통합(L3)→신규 실습교육 개발(L4)의 4단계와 디지털트윈·협동로봇·자율주행을 연계한 Sim-to-Real 교육체계를 제안했다.",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789759&pageIndex=1&repCode="
+      ],
+      "evidence_locator": "본문 미래교육혁신처 발표",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AI 시대 직업훈련의 미래는? 한국기술교육대 고용·평생직업능력개발 발전 전략 포럼 개최",
+      "publisher": "고용노동부·한국기술교육대학교",
+      "source_type": "government_university_official",
+      "url": "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789759&pageIndex=1&repCode=",
+      "normalized_url": "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789759&pageIndex=1&repCode=",
+      "published_date": "2026-11-18",
+      "accessed_at": "2026-11-19T08:03:18+09:00",
+      "verification_scope": "훈련단위·에이전트 리터러시·전 주기 PBL·기업사례·Sim-to-Real 교육체계 확인",
+      "evidence_locator": "정책브리핑 보도자료 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "포럼 개최·교육모델 및 고도화 전략 발표",
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "기업수요와 교육·실증·성과환류를 과업단위로 연결한 충청권 대학의 산학협력·교육과정 사례",
+    "interpretations": [
+      "특정 도구 목록보다 기업 업무흐름을 문제정의·데이터·모델·현장통합·검증·운영 과업으로 분해하는 것이 핵심이다.",
+      "포럼 발표와 기관 사례만으로 산업 전반 추세나 국립한국교통대 교과 신설 필요성을 확정할 수 없다."
+    ],
+    "proposed_action": "기업수요조사와 프로젝트 평가표를 과업단위로 대조해 누락역량 확인",
+    "prerequisites": [
+      "기업 문제·데이터·현장검증 가능성",
+      "담당 교원·산업체 멘토",
+      "장비·시뮬레이션·실물환경",
+      "보안·지식재산·성과인정"
+    ],
+    "limitations": [
+      "타 대학 발표사례로 사업단 성과가 아님",
+      "기업사례의 외부 독립평가·정량효과 미확인",
+      "교육체계 일부는 향후 고도화 계획",
+      "정확한 게시시각 미표시로 72시간 보완자료로 분류"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "교육과정",
+      "비교과",
+      "재직자교육",
+      "산학프로젝트",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "기업 업무흐름·수요 발굴→과업·스킬 정의→맞춤형 PBL→현장적용→PoC 실증→검증결과와 현장데이터의 교과·성과 환류→지역확산",
+    "evidence_fact_ids": [
+      "NEWS-20261119-004-F1",
+      "NEWS-20261119-004-F2",
+      "NEWS-20261119-004-F3",
+      "NEWS-20261119-004-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업과제·현장데이터",
+      "PBL 교원·멘토",
+      "가상·실물 실습환경",
+      "PoC 평가·성과관리",
+      "보안·지식재산 체계"
+    ],
+    "eligibility_checks": [
+      "본 사업 교과·비교과·성과지표 인정",
+      "기업데이터·보안·지식재산",
+      "장비·소프트웨어·멘토비 집행",
+      "현장검증 책임과 안전"
+    ],
+    "evidence_gaps": [
+      "기업별 교육생·과정·성과지표",
+      "PoC 정량검증 결과",
+      "취업·재직자 생산성 성과",
+      "국립한국교통대 적용가능 기업수요"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-19.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-19T08:00:25+09:00",
+      "run_id": "20261119T080025+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 18일 공식 포럼·교육모델 자료를 72시간 보완범위의 신규 교육과정 사례로 확인",
+      "source_urls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789759&pageIndex=1&repCode="
+      ]
+    }
+  ]
+}

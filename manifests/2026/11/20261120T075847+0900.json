@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261120T075847+0900",
+  "scheduled_at": "2026-11-20T08:00:00+09:00",
+  "cutoff_at": "2026-11-20T08:00:00+09:00",
+  "started_at": "2026-11-20T07:58:47+09:00",
+  "collection_completed_at": "2026-11-20T08:01:30+09:00",
+  "search_window": {
+    "start": "2026-11-19T08:00:00+09:00",
+    "end": "2026-11-20T08:00:00+09:00",
+    "timezone": "Asia/Seoul"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-13T08:00:00+09:00",
+      "end": "2026-11-20T08:00:00+09:00",
+      "reason": "직접 관련 자료 부족 보완 및 11월 19일 중앙 공지 재게시의 최초 원문 확인"
+    },
+    {
+      "type": "ongoing_notice",
+      "reason": "당일 마감·단계 종료 공고 상태 재검증"
+    }
+  ],
+  "search_status": "completed_with_supplement",
+  "queries": [
+    "국립한국교통대학교 부트캠프 AI 2026-11-19",
+    "한국교통대 인공지능 부트캠프 2026-11-19",
+    "첨단산업 인재양성 부트캠프 교육부 AI 공고 운영 선정 2026-11-19",
+    "첨단분야 인턴십 대학 기업 AI 인재양성 RISE 초광역 2026-11-19",
+    "충북 충주 AI 인재양성 산학협력 제조AI 제조AX 소부장 2026-11-19",
+    "대학 기업 AI 현장실습 취업 AI로봇 미래모빌리티 SDV 온디바이스AI 인재양성 2026-11-19",
+    "site:ac.kr 2026.11.19 AI부트캠프사업단",
+    "2026학년도 겨울 계절제 AI부트캠프",
+    "2026학년도 동계 표준현장실습 모집 기간 연장",
+    "site:kumoh.ac.kr 582807 Vision AI",
+    "site:moe.go.kr 2026.11.19 AI 인재양성 대학 기업",
+    "site:kiat.or.kr 2026.11.19 AI 부트캠프 인재양성",
+    "site:chungbuk.go.kr 2026.11.19 AI 제조 산학협력",
+    "site:chungju.go.kr 2026.11.19 AI 제조 인재"
+  ],
+  "checked_official_sites": [
+    "교육부: 부트캠프 운영계획·AI 인재양성 보도자료 (https://www.moe.go.kr)",
+    "한국산업기술진흥원: 부트캠프 사업공고·운영 자료 (https://www.kiat.or.kr)",
+    "국립한국교통대학교: 사업단·학생지원·현장실습 공지 (https://www.ut.ac.kr)",
+    "연세대학교 미래캠퍼스 AI부트캠프사업단: 겨울 계절제 수강 공고 (https://aibootcamp.yonsei.ac.kr)",
+    "충청북도: AI·제조AX·인재양성 정책 (https://www.chungbuk.go.kr)",
+    "충주시: AI·제조·기업지원 정책 (https://www.chungju.go.kr)",
+    "국립금오공과대학교: K-AI 얼라이언스·Vision AI 교육 공식자료 (https://www.kumoh.ac.kr)",
+    "AI Bootcamp Innovation Challenger: 멘토링·발표·시상 일정 (https://axr.kr/ai2026)"
+  ],
+  "verification_failures": [],
+  "excluded_candidates": [
+    {
+      "url": "https://web2022.ptu.ac.kr/www/413/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGd3d3JTJGMzE2JTJGMzM1MzUlMkZhcnRjbFZpZXcuZG8lM0Y%3D",
+      "reason": "11월 12~13일 종료된 청년도약 인재양성 부트캠프 취업캠프의 11월 19일 사후 보도이며 본 정부사업과 구분 필요"
+    },
+    {
+      "url": "https://www.cst.ac.kr/main",
+      "reason": "청년도약 인재양성 부트캠프 제조AI 교육 용역으로 첨단산업 인재양성 부트캠프와 다른 사업"
+    },
+    {
+      "url": "https://knnews.kyungnam.ac.kr/news/articleView.html?idxno=4059",
+      "reason": "11월 10일 협약의 11월 19일 대학신문 사후 보도이며 이번 회차에는 공식 원문과 정량 성과를 추가 확인하지 못해 제외"
+    }
+  ],
+  "previous_success_run_id": "20261119T080025+0900",
+  "coverage_gaps": [
+    "공식 게시물 다수는 게시일만 제공해 시각을 생성하지 않았으며, 금오공대 자료는 같은 날 14:28 공개된 보완 보도로 24시간 창 내 공개를 확인했다.",
+    "국립한국교통대 현장실습의 기업별 11월 20일 잔여 모집직무·인원은 K-RISE 로그인이 필요한 영역으로 확인하지 못했다.",
+    "충북·충주시 공식 검색에서 이번 회차에 확정할 신규 인재양성 자료는 확인되지 않았으나 이는 관련 소식의 절대적 부재를 뜻하지 않는다."
+  ],
+  "issue_ids": {
+    "NEWS-20261120-001": "new",
+    "NEWS-20261120-002": "new",
+    "NEWS-20261110-001": "unchanged",
+    "NEWS-20261103-001": "unchanged"
+  },
+  "counts": {
+    "new": 2,
+    "collected_new": 2,
+    "event_new": 0,
+    "published_new_24h": 1,
+    "supplement_first_collection": 1,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-20.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-20.md",
+    "records/2026/NEWS-20261120-001.json",
+    "records/2026/NEWS-20261120-002.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261120T075847+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

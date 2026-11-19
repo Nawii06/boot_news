@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261120-002",
+  "title": "국립금오공대 K-AI 풀스택 얼라이언스 참여와 Vision AI 교육",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "기업 공식 커리큘럼 기반 재학생 교육을 산단 재직자교육과 지역 제조AX 수요형 과제 발굴로 확장한 타지역 산학협력 구조",
+  "first_seen_at": "2026-11-20T08:01:30+09:00",
+  "last_verified_at": "2026-11-20T08:01:30+09:00",
+  "published_date": "2026-11-19",
+  "modified_date": null,
+  "event_date": "2026-11-12",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "국립금오공과대학교",
+    "국립금오공과대학교 슈퍼컴퓨팅센터",
+    "인텔코리아",
+    "K-AI 풀스택 얼라이언스"
+  ],
+  "regions": [
+    "경상북도",
+    "구미시"
+  ],
+  "sectors": [
+    "제조AX",
+    "Vision AI",
+    "AI 인프라",
+    "재직자교육",
+    "산학협력"
+  ],
+  "keywords": [
+    "K-AI 풀스택 얼라이언스",
+    "Vision AI",
+    "컴퓨터 비전",
+    "산업 수요",
+    "구미국가산단",
+    "AX 실증산단"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261120-002-F1",
+      "text": "국립금오공대는 2026-11-12 K-AI 풀스택 얼라이언스 발대식에 참석했으며, 참여 기업·기관은 산업 수요를 반영한 AI 인재양성과 지역 제조업 AX 지원 방향을 공유했다.",
+      "source_urls": [
+        "https://ai.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=582807&mode=view",
+        "https://www.mt.co.kr/policy/2026/11/19/2026111914282877933"
+      ],
+      "evidence_locator": "대학 공식자료와 11월 19일 언론보도 중 발대식·협력 방향",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261120-002-F2",
+      "text": "대학은 기업·기관 교류를 통해 산업 수요를 반영한 교육·연구 협력 과제를 발굴하고 학생의 현장 문제 해결 역량을 지역 제조산업 AX 지원과 연결할 계획이라고 밝혔다.",
+      "source_urls": [
+        "https://ai.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=582807&mode=view"
+      ],
+      "evidence_locator": "대학 공식자료 향후 협력 계획",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261120-002-F3",
+      "text": "국립금오공대 슈퍼컴퓨팅센터는 2026년 4~6월 인텔 컴퓨터 비전 공식 커리큘럼 기반 재학생 Vision AI 엔지니어 양성 과정을 운영했다.",
+      "source_urls": [
+        "https://ai.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=582807&mode=view"
+      ],
+      "evidence_locator": "대학 공식자료 재학생 교육 운영 문단",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261120-002-F4",
+      "text": "센터는 2026-11-16~17 AX 실증산단 구축사업과 연계해 구미국가산단 입주기업 재직자 대상 Vision AI 실습교육을 실시했으나 정량 성과와 현장 적용 결과는 이번 자료에서 확인되지 않았다.",
+      "source_urls": [
+        "https://ai.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=582807&mode=view",
+        "https://www.mt.co.kr/policy/2026/11/19/2026111914282877933"
+      ],
+      "evidence_locator": "대학 공식자료·언론보도 재직자교육 문단",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "인텔·국내 AI 기업과 산학협력 확대",
+      "publisher": "국립금오공과대학교",
+      "source_type": "university_official",
+      "url": "https://ai.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=582807&mode=view",
+      "normalized_url": "https://ai.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=582807&mode=view",
+      "published_date": "2026-11-19",
+      "accessed_at": "2026-11-20T08:01:30+09:00",
+      "verification_scope": "얼라이언스 참여, 협력 계획, 재학생·재직자 Vision AI 교육의 대상·기간·연계사업 확인",
+      "evidence_locator": "대학 공식 KIT NEWS 본문"
+    },
+    {
+      "title": "금오공대, 구미 제조업 AX 지원 확대…인텔·국내 AI 기업과 맞손",
+      "publisher": "머니투데이",
+      "source_type": "media",
+      "url": "https://www.mt.co.kr/policy/2026/11/19/2026111914282877933",
+      "normalized_url": "https://www.mt.co.kr/policy/2026/11/19/2026111914282877933",
+      "published_date": "2026-11-19",
+      "accessed_at": "2026-11-20T08:01:30+09:00",
+      "verification_scope": "11월 19일 오후 공개시각과 발대식·교육 사실 보완 확인",
+      "evidence_locator": "기사 본문·게시시각"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "기업 커리큘럼·대학 인프라·학생교육·재직자교육·지역 제조AX를 연결한 산학협력 프로그램 비교 사례",
+    "interpretations": [
+      "기업 공식 커리큘럼을 학생교육에 적용한 뒤 같은 기술 기반을 산단 재직자교육과 현장 수요형 과제 발굴로 확장한 구조다.",
+      "얼라이언스 참여는 협력 기반이며 기업 프로젝트·채용·현장 적용 성과가 확정됐다는 뜻은 아니다."
+    ],
+    "proposed_action": "충북·충주 기업의 Vision AI 수요와 데이터·장비·멘토 제공 가능성을 조사한 뒤 학생 프로젝트와 재직자 단기교육의 공동 모듈 설계 가능성을 검토",
+    "prerequisites": [
+      "지역기업의 실제 Vision AI 수요",
+      "산업데이터 제공·보안 조건",
+      "GPU·엣지장비·실습환경",
+      "담당 교원·기업 멘토",
+      "사업비 집행과 성과 인정 기준"
+    ],
+    "limitations": [
+      "타지역 대학·산단 사례",
+      "정량적 교육성과·현장 적용성과·취업성과 미확인",
+      "얼라이언스 기업별 역할과 개별 협약 범위 미확인"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "교육과정",
+      "재직자교육",
+      "산학프로젝트",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "기업 공식 커리큘럼→재학생 실무교육→산단 재직자교육→현장 수요형 교육·연구 과제 발굴",
+    "evidence_fact_ids": [
+      "NEWS-20261120-002-F1",
+      "NEWS-20261120-002-F2",
+      "NEWS-20261120-002-F3",
+      "NEWS-20261120-002-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "컴퓨터 비전 실습환경",
+      "기업·산단 수요조사",
+      "산업데이터·보안협약",
+      "기업 멘토와 담당교원",
+      "프로젝트 성과측정 체계"
+    ],
+    "eligibility_checks": [
+      "부트캠프 사업비로 재직자교육 연계 가능 여부",
+      "기업 데이터·장비 사용 조건",
+      "학생 프로젝트 학점·성과 인정 여부"
+    ],
+    "evidence_gaps": [
+      "교육 참여인원·이수율",
+      "프로젝트 수와 기업 문제 정의",
+      "현장 적용·생산성 개선 지표",
+      "인턴십·취업 연계 결과"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [
+    "NEWS-20261119-003",
+    "NEWS-20261107-002"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-20.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-20T08:01:30+09:00",
+      "run_id": "20261120T075847+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 19일 대학 공식자료와 같은 날 보완 보도로 산학협력 구조와 교육 이력을 확인해 신규 수집",
+      "source_urls": [
+        "https://ai.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=582807&mode=view",
+        "https://www.mt.co.kr/policy/2026/11/19/2026111914282877933"
+      ]
+    }
+  ]
+}

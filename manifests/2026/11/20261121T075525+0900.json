@@ -75,13 +75,14 @@
   "coverage_gaps": [
     "11월 20일 게시일만 제공한 강원대·산업통상부 자료는 공개시각을 생성하지 않고 72시간 보완자료로 분류했다.",
     "충북·충주시 공식 검색에서 이번 회차에 확정할 신규 인재양성 정책은 확인되지 않았으나 관련 소식의 절대적 부재를 뜻하지 않는다.",
-    "강원대 성과발표회는 사전 공지로 실제 참여인원·평가결과·기업 피드백을 확인할 수 없었다."
+    "강원대 성과발표회는 사전 공지로 실제 참여인원·평가결과·기업 피드백을 확인할 수 없었다.",
+    "기존 경진대회 레코드는 멘토링 종료일을 deadline으로 두고 있었으나 현재 공식 페이지에서 프로젝트 제출 마감이 별도 확인되어 실질 갱신했다."
   ],
   "issue_ids": {
     "NEWS-20261121-001": "new",
     "NEWS-20261121-002": "new",
     "NEWS-20261121-003": "new",
-    "NEWS-20261110-001": "unchanged"
+    "NEWS-20261110-001": "updated"
   },
   "counts": {
     "new": 3,
@@ -89,8 +90,8 @@
     "event_new": 0,
     "published_new_24h": 1,
     "supplement_first_collection": 2,
-    "updated": 0,
-    "unchanged": 1,
+    "updated": 1,
+    "unchanged": 0,
     "correction": 0,
     "duplicate_review": 0,
     "unprocessed": 0
@@ -101,6 +102,7 @@
     "records/2026/NEWS-20261121-001.json",
     "records/2026/NEWS-20261121-002.json",
     "records/2026/NEWS-20261121-003.json",
+    "records/2026/NEWS-20261110-001.json",
     "indexes/2026-11.md",
     "manifests/2026/11/20261121T075525+0900.json"
   ],

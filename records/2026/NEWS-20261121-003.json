@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261121-003",
+  "title": "강원대 반도체 부트캠프 교과·현장실습·프로젝트 성과발표회 계획",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "같은 첨단산업 인재양성 부트캠프에서 교과·비교과·현장실습·프로젝트 증빙을 한 행사로 묶는 성과관리 비교 사례",
+  "first_seen_at": "2026-11-21T08:00:31+09:00",
+  "last_verified_at": "2026-11-21T08:00:31+09:00",
+  "published_date": "2026-11-20",
+  "modified_date": null,
+  "event_date": "2026-12-03",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "강원대학교 반도체 첨단산업 인재양성 부트캠프 사업단"
+  ],
+  "regions": [
+    "강원특별자치도",
+    "강릉시"
+  ],
+  "sectors": [
+    "첨단산업 인재양성 부트캠프",
+    "반도체",
+    "성과관리",
+    "현장실습"
+  ],
+  "keywords": [
+    "교육성과발표회",
+    "교과",
+    "비교과",
+    "현장실습",
+    "프로젝트",
+    "우수사례"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261121-003-F1",
+      "text": "강원대 반도체 첨단산업 인재양성 부트캠프 사업단은 2026-12-03부터 12-04까지 공학1호관 128호와 로비에서 교육성과발표회를 개최할 계획이라고 공지했다.",
+      "source_urls": [
+        "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG"
+      ],
+      "evidence_locator": "공식 공지 행사 안내",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261121-003-F2",
+      "text": "발표 예정 범위는 교과·비교과 교육 프로그램 운영성과, 현장실습·프로젝트 성과, 반도체 인재양성 교육 활동과 우수사례다.",
+      "source_urls": [
+        "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG"
+      ],
+      "evidence_locator": "공식 공지 주요 내용",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261121-003-F3",
+      "text": "참석 대상은 사업 교육프로그램 참여 학생 중 신청자, 사업 참여 학생, 교내외 관계자로 안내됐으며, 세부 일정은 첨부 포스터 확인이 필요하다.",
+      "source_urls": [
+        "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG"
+      ],
+      "evidence_locator": "공식 공지 참석 대상·주석",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261121-003-F4",
+      "text": "이번 자료는 행사 사전 공지로 실제 발표 성과·참여인원·평가결과는 아직 확인되지 않았다.",
+      "source_urls": [
+        "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG"
+      ],
+      "evidence_locator": "공지 성격과 행사 예정일 대조",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026년 교육성과발표회 개최 안내",
+      "publisher": "강원대학교 반도체 첨단산업 인재양성 부트캠프 사업단",
+      "source_type": "university_official",
+      "url": "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "normalized_url": "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "published_date": "2026-11-20",
+      "accessed_at": "2026-11-21T08:00:31+09:00",
+      "verification_scope": "행사일·장소·대상·발표 예정 범위 확인",
+      "evidence_locator": "공식 공지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "사업 교육프로그램 참여 학생 중 신청자, 사업 참여 학생, 교내외 관계자",
+    "support": null,
+    "deadline": null,
+    "application_url": "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG",
+    "current_status": "2026-12-03~12-04 개최 예정; 신청 마감·세부 일정은 공개 본문에서 확인 필요",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "교과·비교과·현장실습·프로젝트 성과를 공동 포맷으로 공개·점검하는 성과관리 구조 참고",
+    "interpretations": [
+      "성과 영역을 한 행사에 묶으면 학생 산출물과 사업 운영 증빙을 교차 확인할 수 있으나, 평가지표·증빙양식·외부 심사 구조는 별도 확인이 필요하다."
+    ],
+    "proposed_action": "사업단 성과공유회 적용 전 교과·비교과·현장실습·산학프로젝트별 필수 증빙, 기업 피드백, 학생 역할, 후속 취업연계 항목을 공통 템플릿으로 설계할지 검토",
+    "prerequisites": [
+      "사업 성과지표와 증빙기준",
+      "학생 개인정보·기업 기밀 공개범위",
+      "행사 예산·공간·심사인력",
+      "학사·현장실습 결과물 활용 동의"
+    ],
+    "limitations": [
+      "반도체 분야 타 대학 사례",
+      "행사 전 사전 공지로 실제 성과·평가결과가 확인되지 않음",
+      "신청 마감·세부 세션·평가방식 미확인"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "비교과",
+      "산학프로젝트",
+      "현장실습인턴십",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "교과·비교과·현장실습·프로젝트 증빙 수집→학생 발표·전시→교내외 관계자 피드백→우수사례 축적",
+    "evidence_fact_ids": [
+      "NEWS-20261121-003-F1",
+      "NEWS-20261121-003-F2",
+      "NEWS-20261121-003-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "성과 증빙 템플릿",
+      "발표·전시 공간",
+      "심사·피드백 인력",
+      "기업정보 비식별화 기준"
+    ],
+    "eligibility_checks": [
+      "학생·기업 결과물 공개 동의",
+      "사업비 행사 집행 가능 범위",
+      "교과·현장실습 성과의 평가·학사 연계 기준"
+    ],
+    "evidence_gaps": [
+      "성과 평가지표",
+      "참여 규모",
+      "기업 피드백 방식",
+      "행사 후 정량 성과"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-21.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-21T08:00:31+09:00",
+      "run_id": "20261121T075525+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 20일 게시일만 확인되어 기본 24시간 신규 확정에서 제외하고 72시간 보완자료 첫 수집으로 기록; 행사는 향후 계획으로 구분",
+      "source_urls": [
+        "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG"
+      ]
+    }
+  ]
+}

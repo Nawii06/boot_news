@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261121-002",
+  "title": "제조설비 AAS 데이터 활용가이드 KS안과 제조AX 데이터 거버넌스",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "제조AI 프로젝트의 선행 역량인 데이터 의미·단위·버전·추적성·재현성을 국가표준안의 구체 항목으로 확인할 수 있는 근거",
+  "first_seen_at": "2026-11-21T08:00:31+09:00",
+  "last_verified_at": "2026-11-21T08:00:31+09:00",
+  "published_date": "2026-11-20",
+  "modified_date": null,
+  "event_date": "2026-11-20",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "산업통상부",
+    "국가기술표준원",
+    "한국전자기술연구원"
+  ],
+  "regions": [
+    "전국"
+  ],
+  "sectors": [
+    "제조AX",
+    "제조AI",
+    "스마트제조",
+    "산업데이터 표준"
+  ],
+  "keywords": [
+    "AAS",
+    "IEC 63278-1",
+    "데이터 의미",
+    "단위",
+    "제약조건",
+    "버전관리",
+    "추적성",
+    "재현성"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261121-002-F1",
+      "text": "국가기술표준원은 산업용 로봇·절삭기 등 제조설비의 디지털 데이터를 AI가 학습할 수 있도록 자산관리셸(AAS) 활용 방법에 관한 국가표준(KS)안을 제정 예고하고 2026-11-20 공청회를 개최했다.",
+      "source_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1"
+      ],
+      "evidence_locator": "보도자료 본문 1문단",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261121-002-F2",
+      "text": "국제표준 AAS 구조 표준 IEC 63278-1을 기반으로 설비의 사용 목적에 맞는 양식 선택과 기술·운영데이터 정보구조 구성·확장 방법을 설명한다.",
+      "source_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1"
+      ],
+      "evidence_locator": "보도자료 본문 2~3문단",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261121-002-F3",
+      "text": "표준안은 추적성과 재현성을 위해 AAS 식별자, 데이터 의미·단위·제약조건, 양식 버전 관리, 파일 형식과 적합성 확인 기준을 제시한다.",
+      "source_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1"
+      ],
+      "evidence_locator": "보도자료 본문 표준안 세부항목",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261121-002-F4",
+      "text": "국표원은 공청회 의견과 KS 기술심의회 절차를 거쳐 2027년 상반기 제정을 완료할 계획이라고 밝혔으며, 현재는 확정·시행된 표준이 아니다.",
+      "source_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1"
+      ],
+      "evidence_locator": "보도자료 향후 계획 문단",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "제조설비 데이터 수집 활용가이드, 국가표준화(KS)로 제조AX 지원",
+      "publisher": "산업통상부 국가기술표준원",
+      "source_type": "government_official",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1",
+      "normalized_url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1",
+      "published_date": "2026-11-20",
+      "accessed_at": "2026-11-21T08:00:31+09:00",
+      "verification_scope": "제정예고·공청회, 국제표준 근거, 데이터 거버넌스 항목, 향후 절차 확인",
+      "evidence_locator": "공식 보도자료 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1",
+    "current_status": "KS안 제정예고·2026-11-20 공청회 완료, 2027년 상반기 제정 계획",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "제조AI 산학프로젝트에서 모델 개발 이전에 필요한 설비데이터 표준화·품질관리 역량의 교육 근거",
+    "interpretations": [
+      "제조AX 과제는 센서 수집 실습만으로 충분하지 않고 데이터 식별·의미·단위·제약·버전·적합성까지 증빙해야 재현 가능한 프로젝트가 된다."
+    ],
+    "proposed_action": "제조AI 프로젝트 제안서·결과보고서에 AAS 기반 데이터 사전, 단위·제약조건, 버전, 적합성 확인, 재현 절차를 필수 산출물로 둘지 검토",
+    "prerequisites": [
+      "최종 KS 제정 내용 재확인",
+      "협력기업 설비·데이터 형식 수요 조사",
+      "AAS·IEC 표준 교육이 가능한 교원·전문가",
+      "실습데이터 보안·반출 기준"
+    ],
+    "limitations": [
+      "제정예고안으로 최종 KS 내용과 시행시점은 변경될 수 있음",
+      "대학 교육지원·사업비·참여자격 공고가 아님",
+      "교육효과나 기업 성과는 제시되지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "산학프로젝트",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "현장 설비데이터 수집→AAS 기반 의미·단위·제약 정규화→버전·적합성 관리→재현 가능한 AI 학습·검증",
+    "evidence_fact_ids": [
+      "NEWS-20261121-002-F2",
+      "NEWS-20261121-002-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "AAS 실습 템플릿",
+      "설비·센서 데이터",
+      "표준·데이터 거버넌스 전문가",
+      "적합성 점검 체크리스트"
+    ],
+    "eligibility_checks": [
+      "최종 KS 확정 여부",
+      "기업 데이터 제공·보안 조건",
+      "사업비로 표준 교육·실습을 지원할 수 있는지 확인"
+    ],
+    "evidence_gaps": [
+      "최종 KS 문서·제정일",
+      "산업별 적용 사례의 정량 성과",
+      "부트캠프 적용 운영안"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-21.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-21T08:00:31+09:00",
+      "run_id": "20261121T075525+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 20일 등록자료이나 공식 페이지에 공개시각이 없어 기본 24시간 신규 확정에서 제외하고 72시간 보완자료 첫 수집으로 기록",
+      "source_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172429/view?mno=&pageIndex=1"
+      ]
+    }
+  ]
+}

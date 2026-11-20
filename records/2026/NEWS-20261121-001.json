@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261121-001",
+  "title": "서울시립대–한국피지컬AI협회 도시·교통 피지컬 AI 산학협력",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "도시·교통 분야 대학 전문성과 협회 산학연 네트워크를 전문인력 양성·공동연구·실증사업 발굴로 연결한 타지역 산학협력 구조",
+  "first_seen_at": "2026-11-21T08:00:31+09:00",
+  "last_verified_at": "2026-11-21T08:00:31+09:00",
+  "published_date": "2026-11-20",
+  "modified_date": null,
+  "event_date": "2026-11-18",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "서울시립대학교",
+    "한국피지컬AI협회"
+  ],
+  "regions": [
+    "서울특별시"
+  ],
+  "sectors": [
+    "피지컬 AI",
+    "미래모빌리티",
+    "스마트시티",
+    "산학협력"
+  ],
+  "keywords": [
+    "피지컬 AI",
+    "자율주행",
+    "도시안전",
+    "공동연구",
+    "실증사업",
+    "전문인력 양성"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261121-001-F1",
+      "text": "서울시립대학교와 한국피지컬AI협회는 2026-11-18 서울시립대에서 인공지능 산업 활성화를 위한 업무협약을 체결했다.",
+      "source_urls": [
+        "https://www.uos.ac.kr/main.do?identified=anonymous",
+        "https://www.kyosu.net/news/articleView.html?idxno=212688",
+        "https://www.seoul.co.kr/news/society/2026/11/20/20261120500068"
+      ],
+      "evidence_locator": "대학 공식 홈페이지 노출 보도자료 및 11월 20일 보도 본문",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261121-001-F2",
+      "text": "협력 범위는 AI·피지컬 AI 분야 인재 양성, 공동연구·기술 교류, 산업 동향 교류, 신규 협력사업 및 실증사업 발굴이다.",
+      "source_urls": [
+        "https://www.uos.ac.kr/main.do?identified=anonymous",
+        "https://www.kyosu.net/news/articleView.html?idxno=212688",
+        "https://www.seoul.co.kr/news/society/2026/11/20/20261120500068"
+      ],
+      "evidence_locator": "협약 협력사항 문단",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261121-001-F3",
+      "text": "서울시립대는 도시과학·교통·환경·공간정보 역량을 피지컬 AI와 접목하고, 협회는 산학연 네트워크를 활용해 공동연구와 실증사업 발굴에 협력할 계획이다.",
+      "source_urls": [
+        "https://www.kyosu.net/news/articleView.html?idxno=212688",
+        "https://www.seoul.co.kr/news/society/2026/11/20/20261120500068"
+      ],
+      "evidence_locator": "기관별 역할 설명 문단",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261121-001-F4",
+      "text": "스마트시티·자율주행·도시안전은 향후 연구·산학협력 가능 분야로 제시됐으며, 이번 자료에서 교육과정 개설·예산·참여인원·실증성과는 확인되지 않았다.",
+      "source_urls": [
+        "https://www.kyosu.net/news/articleView.html?idxno=212688",
+        "https://www.seoul.co.kr/news/society/2026/11/20/20261120500068"
+      ],
+      "evidence_locator": "총장 발언 및 계획 설명",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "서울시립대·한국피지컬AI협회 AI·피지컬 AI 인재양성 및 공동연구 추진",
+      "publisher": "서울시립대학교",
+      "source_type": "university_official",
+      "url": "https://www.uos.ac.kr/main.do?identified=anonymous",
+      "normalized_url": "https://www.uos.ac.kr/main.do?identified=anonymous",
+      "published_date": null,
+      "accessed_at": "2026-11-21T08:00:31+09:00",
+      "verification_scope": "협약일·참석기관·협력범위·기관별 역할 확인",
+      "evidence_locator": "대학 공식 홈페이지 메인 보도자료 노출 본문"
+    },
+    {
+      "title": "서울시립대·한국피지컬AI협회, AI 인재 양성 협약 체결",
+      "publisher": "교수신문",
+      "source_type": "media",
+      "url": "https://www.kyosu.net/news/articleView.html?idxno=212688",
+      "normalized_url": "https://www.kyosu.net/news/articleView.html?idxno=212688",
+      "published_date": "2026-11-20",
+      "accessed_at": "2026-11-21T08:00:31+09:00",
+      "verification_scope": "2026-11-20 09:45 공개시각과 협약 세부내용 확인",
+      "evidence_locator": "기사 본문"
+    },
+    {
+      "title": "서울시립대, 한국피지컬AI협회와 인공지능 산업 활성화 위한 업무협약 체결",
+      "publisher": "서울신문",
+      "source_type": "media",
+      "url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500068",
+      "normalized_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500068",
+      "published_date": "2026-11-20",
+      "accessed_at": "2026-11-21T08:00:31+09:00",
+      "verification_scope": "2026-11-20 10:20 공개시각과 협력계획 교차검증",
+      "evidence_locator": "기사 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "미래모빌리티·도시 문제를 피지컬 AI 교육과 산학프로젝트로 연결하는 협력 구조 참고",
+    "interpretations": [
+      "대학의 도메인 전문성과 외부 협회의 기업·연구기관 네트워크를 역할 분담해 교육→공동연구→실증과제 발굴로 잇는 구조로 해석할 수 있다."
+    ],
+    "proposed_action": "충북·충주 모빌리티·제조 분야 기업수요가 확인될 경우, 교통·도시 데이터 기반 피지컬 AI 과제은행과 산업체 멘토 풀을 연계할지 적용 검토",
+    "prerequisites": [
+      "참여기업의 실제 문제·데이터 수요 조사",
+      "교원·산업체 전문가 확보",
+      "데이터·안전·실증장비·예산 기준",
+      "사업 지침상 산학프로젝트 인정 범위"
+    ],
+    "limitations": [
+      "업무협약 단계로 교육과정·예산·인원·일정이 확정되지 않음",
+      "스마트시티·자율주행·도시안전은 계획 분야이며 검증 성과가 아님",
+      "충북·충주 지역 협력사례가 아님"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "교육과정",
+      "산학프로젝트",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "대학 도메인 전문성+협회 산학연 네트워크→전문인력 교육·공동연구→현장 실증과제 발굴",
+    "evidence_fact_ids": [
+      "NEWS-20261121-001-F2",
+      "NEWS-20261121-001-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "도시·교통 데이터",
+      "피지컬 AI 실증장비",
+      "산업체 멘토",
+      "안전·데이터 관리체계"
+    ],
+    "eligibility_checks": [
+      "부트캠프 사업비로 산학프로젝트·실증을 지원할 수 있는지 확인",
+      "교과·비교과 인정 및 학사 기준 확인"
+    ],
+    "evidence_gaps": [
+      "세부 교육과정",
+      "참여기업·학생 규모",
+      "예산·일정",
+      "실증성과"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-21.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-21T08:00:31+09:00",
+      "run_id": "20261121T075525+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 창 내 11월 20일 09:45·10:20 공개자료로 협약을 처음 수집; 협약 사건일은 11월 18일로 구분",
+      "source_urls": [
+        "https://www.uos.ac.kr/main.do?identified=anonymous",
+        "https://www.kyosu.net/news/articleView.html?idxno=212688",
+        "https://www.seoul.co.kr/news/society/2026/11/20/20261120500068"
+      ]
+    }
+  ]
+}

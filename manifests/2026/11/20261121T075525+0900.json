@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261121T075525+0900",
+  "scheduled_at": "2026-11-21T08:00:00+09:00",
+  "cutoff_at": "2026-11-21T08:00:00+09:00",
+  "started_at": "2026-11-21T07:55:25+09:00",
+  "collection_completed_at": "2026-11-21T08:00:31+09:00",
+  "search_window": {
+    "start": "2026-11-20T08:00:00+09:00",
+    "end": "2026-11-21T08:00:00+09:00",
+    "timezone": "Asia/Seoul"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-18T08:00:00+09:00",
+      "end": "2026-11-21T08:00:00+09:00",
+      "reason": "직접 관련 신규 자료 부족 및 11월 20일 게시시각 미표시 공식자료 보완 검증"
+    },
+    {
+      "type": "ongoing_notice",
+      "reason": "AI Bootcamp Innovation Challenger 제출·발표 일정 재검증"
+    }
+  ],
+  "search_status": "completed_with_supplement",
+  "queries": [
+    "국립한국교통대학교 부트캠프 AI 2026-11-20",
+    "한국교통대 인공지능 부트캠프 2026-11-20",
+    "첨단산업 인재양성 부트캠프 교육부 AI 공고 운영 선정 2026-11-20",
+    "첨단분야 인턴십 대학 기업 AI 인재양성 RISE 초광역 2026-11-20",
+    "충북 충주 AI 인재양성 산학협력 제조AI 제조AX 소부장 2026-11-20",
+    "대학 기업 AI 현장실습 취업 AI로봇 미래모빌리티 SDV 온디바이스AI 인재양성 2026-11-20",
+    "site:ut.ac.kr 2026.11.20 AI 부트캠프 인재양성 공고",
+    "site:chungbuk.go.kr OR site:chungju.go.kr 2026.11.20 AI 제조AX 인재양성 산학협력",
+    "site:gwnu.ac.kr/bootcamp 2026.11.20 교육성과 발표회 부트캠프",
+    "제조설비 데이터 수집 활용가이드 국가표준화 KS 제조AX",
+    "서울시립대 한국피지컬AI협회 2026.11.20",
+    "AI Bootcamp Innovation Challenger 2026 일정"
+  ],
+  "checked_official_sites": [
+    "교육부: 부트캠프 운영계획·AI 인재양성 공고 (https://www.moe.go.kr)",
+    "한국산업기술진흥원: 부트캠프 사업공고·운영자료 (https://www.kiat.or.kr)",
+    "국립한국교통대학교: 사업단·학생지원 공지 (https://www.ut.ac.kr)",
+    "충청북도: AI·제조AX·인재양성 정책 (https://www.chungbuk.go.kr)",
+    "충주시: AI·제조·기업지원 정책 (https://www.chungju.go.kr)",
+    "강원대학교 반도체 첨단산업 인재양성 부트캠프 사업단: 성과발표회 공지 (https://www.gwnu.ac.kr/bootcamp)",
+    "서울시립대학교: 한국피지컬AI협회 협약 보도자료 (https://www.uos.ac.kr)",
+    "산업통상부 국가기술표준원: 제조설비 AAS KS안 보도자료 (https://www.motir.go.kr)",
+    "AI Bootcamp Innovation Challenger: 제출·발표·시상 일정 (https://axr.kr/ai2026)"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://www.gwnu.ac.kr/bootcamp/8537/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYm9vdGNhbXAlMkYxNzI2JTJGMzM5NDIzJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "reason": "직접 원문 열람 도구가 페이지를 반환하지 못했으나 검색엔진의 동일 공식 URL 본문과 사업단 공식 목록에서 행사일·대상·내용을 교차 확인"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.cepa.or.kr/board/boardDetail.do?ms=78&pm=6&seq=12459",
+      "reason": "11월 20일 청주 제조AX 행사는 사전 공지만 확인되고 개최·발표내용 사후 원문은 확인되지 않아 계획을 실적으로 처리하지 않음"
+    },
+    {
+      "url": "https://www.ptu.ac.kr",
+      "reason": "11월 12~13일 종료된 청년도약 인재양성 부트캠프의 사후 보도로 본 정부사업과 구분 필요"
+    },
+    {
+      "url": "https://www.hanyang.ac.kr",
+      "reason": "11월 18일 피지컬 AI 심포지엄 사후 보도이며 충북·충주 연계와 구체 교육운영 근거가 부족해 우선순위에서 제외"
+    },
+    {
+      "url": "https://www.korea.kr/archive/recruitInfoView.do?dataId=399443",
+      "reason": "국립한국교통대 부트캠프(AI) 채용 공고는 11월 19일 마감된 기존 기록 NEWS-20261114-001과 동일 사건"
+    }
+  ],
+  "previous_success_run_id": "20261120T075847+0900",
+  "coverage_gaps": [
+    "11월 20일 게시일만 제공한 강원대·산업통상부 자료는 공개시각을 생성하지 않고 72시간 보완자료로 분류했다.",
+    "충북·충주시 공식 검색에서 이번 회차에 확정할 신규 인재양성 정책은 확인되지 않았으나 관련 소식의 절대적 부재를 뜻하지 않는다.",
+    "강원대 성과발표회는 사전 공지로 실제 참여인원·평가결과·기업 피드백을 확인할 수 없었다."
+  ],
+  "issue_ids": {
+    "NEWS-20261121-001": "new",
+    "NEWS-20261121-002": "new",
+    "NEWS-20261121-003": "new",
+    "NEWS-20261110-001": "unchanged"
+  },
+  "counts": {
+    "new": 3,
+    "collected_new": 3,
+    "event_new": 0,
+    "published_new_24h": 1,
+    "supplement_first_collection": 2,
+    "updated": 0,
+    "unchanged": 1,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-21.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-21.md",
+    "records/2026/NEWS-20261121-001.json",
+    "records/2026/NEWS-20261121-002.json",
+    "records/2026/NEWS-20261121-003.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261121T075525+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261122T075548+0900",
+  "scheduled_at": "2026-11-22T08:00:00+09:00",
+  "cutoff_at": "2026-11-22T08:00:00+09:00",
+  "started_at": "2026-11-22T07:55:48+09:00",
+  "collection_completed_at": "2026-11-22T08:01:03+09:00",
+  "search_window": {
+    "start": "2026-11-21T08:00:00+09:00",
+    "end": "2026-11-22T08:00:00+09:00",
+    "timezone": "Asia/Seoul"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-19T08:00:00+09:00",
+      "end": "2026-11-22T08:00:00+09:00",
+      "reason": "직접 관련 신규 자료 부족으로 지역 산학협력·기업수요 기반 교육사례를 72시간 범위에서 보완 검증"
+    },
+    {
+      "type": "ongoing_notice",
+      "reason": "AI Bootcamp Innovation Challenger와 연세대 미래캠퍼스 겨울 계절제 AI부트캠프 마감·자격·신청상태 재검증"
+    }
+  ],
+  "search_status": "completed_with_supplement",
+  "queries": [
+    "국립한국교통대학교 부트캠프 AI 2026-11-21",
+    "한국교통대 인공지능 부트캠프 2026-11-21",
+    "첨단산업 인재양성 부트캠프 교육부 AI 공고 운영 선정 2026-11-21",
+    "첨단분야 인턴십 대학 기업 AI 인재양성 RISE 초광역 2026-11-21",
+    "충북 충주 AI 인재양성 산학협력 제조AI 제조AX 소부장 2026-11-21",
+    "대학 기업 AI 현장실습 취업 AI로봇 미래모빌리티 SDV 온디바이스AI 인재양성 2026-11-21",
+    "건국대 글로컬 충북 유니콘 클럽 AI 평생교육 산학협력",
+    "인천 13개 대학 AI AX 협의체 산학혁신 협력분과",
+    "AI Bootcamp Innovation Challenger 2026 일정",
+    "연세대 미래캠퍼스 겨울 계절제 AI부트캠프 수강신청"
+  ],
+  "checked_official_sites": [
+    "교육부: 부트캠프 운영계획·사업공고 검색 (https://www.moe.go.kr)",
+    "한국산업기술진흥원: 부트캠프 사업·담당부서 검색 (https://www.kiat.or.kr)",
+    "국립한국교통대학교: 부트캠프·학생지원 공지 검색 (https://www.ut.ac.kr)",
+    "충청북도·충주시: AI·제조AX·인재양성 정책 검색 (https://www.chungbuk.go.kr, https://www.chungju.go.kr)",
+    "인천광역시: AI·AX 협의체 공식 보도자료 원문 (https://www.incheon.go.kr)",
+    "AI Bootcamp Innovation Challenger: 제출·발표·시상 일정 원문 (https://axr.kr/ai2026)",
+    "연세대학교 미래캠퍼스 AI부트캠프사업단: 겨울 계절제 수강신청 원문 (https://ycms.yonsei.ac.kr)"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://www.inews24.com/view/2028878",
+      "reason": "검색결과에서 2026-11-21 14:22 게시와 동일 사건 제목을 확인했으나 본문 직접 열람 도구가 반환하지 못해 핵심사실은 인천시 공식자료로 검증"
+    },
+    {
+      "url": "https://www.kku.ac.kr",
+      "reason": "건국대 글로컬–충북 유니콘 클럽 협약의 대학 공식 원문을 찾지 못해 대학저널 원문 기준으로만 기록"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.sknetworks.com/business/sk-intellix",
+      "reason": "숭실대 피지컬 AI 현장방문 관련 기업 공식 페이지는 제품소개만 제공하고 산학프로젝트·인턴십·검증성과가 확인되지 않아 제외"
+    },
+    {
+      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308437",
+      "reason": "국립한국교통대 부트캠프(AI) 산학협력전담교수 채용은 기존 NEWS-20261114-001과 동일 사건이고 11월 19일 마감"
+    },
+    {
+      "url": "https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127196",
+      "reason": "충주시 제조 AI 현장 적용 지원은 10월 26일 종료된 기존 공고로 이번 회차 신규가 아님"
+    },
+    {
+      "url": "https://www.codepresso.kr",
+      "reason": "대학–민간기업 AI 역량평가 협약 검색결과는 확인됐으나 공식 원문·세부 운영성과를 검증하지 못해 제외"
+    }
+  ],
+  "previous_success_run_id": "20261121T075525+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 직접 사업 신규 공고·운영지침 변경을 확정하지 못했으나 관련 소식의 절대적 부재를 뜻하지 않는다.",
+    "인천 자료는 공식 제공일과 사건일이 11월 20일이고 11월 21일 언론 재보도는 동일 사건이므로 72시간 보완 첫 수집으로 분류했다.",
+    "건국대 글로컬–충북 유니콘 클럽 협약은 대학 공식 원문을 찾지 못해 언론보도 기준이며 교육과정·예산·모집자격·성과가 미확인이다.",
+    "두 신규 레코드는 협약·사전회의 단계이므로 계획을 실현 성과로 계산하지 않았다."
+  ],
+  "issue_ids": {
+    "NEWS-20261122-001": "new",
+    "NEWS-20261122-002": "new",
+    "NEWS-20261110-001": "unchanged",
+    "NEWS-20261120-001": "unchanged"
+  },
+  "counts": {
+    "new": 2,
+    "collected_new": 2,
+    "event_new": 0,
+    "published_new_24h": 1,
+    "supplement_first_collection": 2,
+    "updated": 0,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-22.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-22.md",
+    "records/2026/NEWS-20261122-001.json",
+    "records/2026/NEWS-20261122-002.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261122T075548+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

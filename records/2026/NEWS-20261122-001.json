@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261122-001",
+  "title": "인천 13개 대학 AI·AX 협의체의 기업수요–인재–실증 분과모델",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "타지역 사례이나 지자체·테크노파크·13개 대학이 기업 AX 수요, 인재양성, 실증, 취·창업, 신규사업 공동대응을 하나의 협의체 분과로 연결한 구조가 지역 산학협력 설계에 참고됨",
+  "first_seen_at": "2026-11-22T08:01:03+09:00",
+  "last_verified_at": "2026-11-22T08:01:03+09:00",
+  "published_date": "2026-11-20",
+  "modified_date": null,
+  "event_date": "2026-11-20",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "인천광역시",
+    "인천테크노파크",
+    "인천 지역 13개 대학"
+  ],
+  "regions": [
+    "인천광역시"
+  ],
+  "sectors": [
+    "인공지능",
+    "산학협력",
+    "지역산업 AX"
+  ],
+  "keywords": [
+    "AI·AX 협의체",
+    "산학혁신 협력분과",
+    "기업수요",
+    "전문인력 양성",
+    "취·창업",
+    "대학 AI 솔루션 실증",
+    "신규사업 공동대응"
+  ],
+  "program_year": 2027,
+  "notice_number": null,
+  "verification_level": "mixed",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261122-001-F1",
+      "text": "인천광역시와 인천테크노파크는 2026년 11월 20일 인천스타트업파크에서 지역 13개 대학과 인천 AI·AX 협의체 산학혁신 협력분과 사전회의를 열고 2027년 운영 방향을 논의했다.",
+      "source_urls": [
+        "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=1&repSeq=DOM_0000000016054113"
+      ],
+      "evidence_locator": "공식 보도자료 본문 1문단",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261122-001-F2",
+      "text": "협의체는 산학혁신 협력, AI 기술산업, 공공실증, 기술확산의 4개 분과로 구성되며 산학분과는 대학 기술·인재를 지역 산업의 AX 수요와 연결하는 역할로 제시됐다.",
+      "source_urls": [
+        "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=1&repSeq=DOM_0000000016054113"
+      ],
+      "evidence_locator": "공식 보도자료 협의체 구성·산학분과 역할 문단",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261122-001-F3",
+      "text": "참여 대학들은 기업 공동 기술개발·교류, 수요 맞춤 전문인력 양성, 학생 취·창업 연계, 대학 AI 솔루션 실증, 정부 AI·AX 공모와 신규사업 공동대응을 추진할 계획이다.",
+      "source_urls": [
+        "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=1&repSeq=DOM_0000000016054113"
+      ],
+      "evidence_locator": "공식 보도자료 향후 추진계획 문단",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261122-001-F4",
+      "text": "11월 21일 언론 재보도가 확인됐으나 협의체 공식 출범 전 사전회의 단계이며, 확정 예산·참여기업·교육인원·실증성과는 공개자료에서 확인되지 않았다.",
+      "source_urls": [
+        "https://www.inews24.com/view/2028878",
+        "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=1&repSeq=DOM_0000000016054113"
+      ],
+      "evidence_locator": "언론 검색결과 게시시각과 공식 보도자료의 사전회의·계획 표현",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "인천시, 지역 13개 대학과 ‘글로벌 인공지능(AI) 허브’ 유치 전략 모색",
+      "publisher": "인천광역시",
+      "source_type": "local_government_official",
+      "url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=1&repSeq=DOM_0000000016054113",
+      "normalized_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=1&repSeq=DOM_0000000016054113",
+      "published_date": "2026-11-20",
+      "accessed_at": "2026-11-22T08:01:03+09:00",
+      "verification_scope": "행사일·13개 대학·4개 분과·산학분과 역할·추진계획 확인",
+      "evidence_locator": "공식 보도자료 본문"
+    },
+    {
+      "title": "인천시, 지역 13개 대학과 AI·AX 산학협력 전략 논의",
+      "publisher": "아이뉴스24",
+      "source_type": "media",
+      "url": "https://www.inews24.com/view/2028878",
+      "normalized_url": "https://www.inews24.com/view/2028878",
+      "published_date": "2026-11-21",
+      "accessed_at": "2026-11-22T08:01:03+09:00",
+      "verification_scope": "11월 21일 14:22 언론 재보도 존재·제목 확인; 본문 직접 열람 실패로 핵심사실은 공식자료로 검증",
+      "evidence_locator": "검색결과 게시시각·제목"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": "협의체 공식 출범 전 사전분과회의·2027년 운영방향 논의 단계",
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "지역정부·테크노파크·대학이 기업 AX 수요부터 교육·실증·취업·신규사업 대응까지 역할을 분과화한 산학협력 거버넌스 참고 사례",
+    "interpretations": [
+      "대학 교육과 기업과제를 단발성 협약이 아니라 수요발굴–인재양성–실증–취·창업–공모대응의 분과업무로 관리하려는 구조다.",
+      "충북·충주에 적용하려면 기존 RISE·TP·지자체 협의체와의 중복, 참여대학·기업의 권한, 성과지표와 운영예산을 먼저 확인해야 한다."
+    ],
+    "proposed_action": "충북·충주의 기존 산학협력 거버넌스를 확인한 뒤 기업수요, 교육, 실증, 취업, 신규사업 대응의 책임기관·산출물·지표를 한 장의 역할표로 설계할지 개념검토",
+    "prerequisites": [
+      "충북 RISE·테크노파크·지자체 기존 협의체 확인",
+      "참여기업 수요와 데이터·실증환경 확인",
+      "사업지침·예산·학사·성과지표 확인"
+    ],
+    "limitations": [
+      "인천 지역의 사전회의 사례로 충북에 직접 적용할 수 없음",
+      "협의체 공식 출범·확정 예산·참여기업·교육인원·성과 미확인",
+      "언론 원문 본문 직접 열람 실패로 게시시각 외 핵심사실은 공식자료에 의존"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "교육과정",
+      "산학프로젝트",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "지자체·TP 총괄→대학·기업 AX 수요 연결→공동기술·수요맞춤 교육→대학 솔루션 실증→취·창업→정부 공모 공동대응",
+    "evidence_fact_ids": [
+      "NEWS-20261122-001-F1",
+      "NEWS-20261122-001-F2",
+      "NEWS-20261122-001-F3"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "협의체 운영조직",
+      "기업수요 조사체계",
+      "대학별 기술·인재 자원목록",
+      "실증환경",
+      "성과·공모 대응 담당자"
+    ],
+    "eligibility_checks": [
+      "기존 지역협의체와 중복 여부",
+      "사업비 집행 가능 범위",
+      "참여대학·기업 역할과 데이터 권리",
+      "학생 취·창업 연계의 학사·개인정보 기준"
+    ],
+    "evidence_gaps": [
+      "13개 참여대학 명단",
+      "참여기업과 구체 수요",
+      "2027년 예산·교육인원·실증과제",
+      "공식 출범 후 성과지표"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [
+    "NEWS-20261107-003"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-22.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-22T08:01:03+09:00",
+      "run_id": "20261122T075548+0900",
+      "field": "initial_record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 20일 공식자료와 11월 21일 언론 재보도를 확인해 72시간 보완 범위의 첫 수집으로 등록; 사건 신규로 계산하지 않음",
+      "source_urls": [
+        "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=1&repSeq=DOM_0000000016054113",
+        "https://www.inews24.com/view/2028878"
+      ]
+    }
+  ]
+}

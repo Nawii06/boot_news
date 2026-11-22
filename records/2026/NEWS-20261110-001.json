@@ -6,7 +6,7 @@
   "priority": "A",
   "priority_reason": "교육부 주최 첨단산업 인재양성 AI 부트캠프 직접 프로그램으로 기업문제·교육·멘토링·프로젝트 발표 구조가 사업운영과 성과증빙에 직접 관련됨",
   "first_seen_at": "2026-11-10T08:03:31+09:00",
-  "last_verified_at": "2026-11-21T08:04:53+09:00",
+  "last_verified_at": "2026-11-23T08:01:36+09:00",
   "published_date": null,
   "modified_date": null,
   "event_date": "2026-11-09",
@@ -83,6 +83,15 @@
       ],
       "evidence_locator": "공식 페이지 대회 일정 6~9단계",
       "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261110-001-F6",
+      "text": "기준시각 현재 공식 페이지는 2026-11-22 23:59 프로젝트 제출을 '마감 완료'로 표시하며, 다음 일정으로 11월 25일 프로젝트 발표·라운드업과 11월 27일 시상을 안내한다.",
+      "source_urls": [
+        "https://axr.kr/ai2026"
+      ],
+      "evidence_locator": "공식 페이지 대회 일정 7~9단계의 마감 완료·발표·시상 표시",
+      "claim_type": "confirmed_fact"
     }
   ],
   "sources": [
@@ -93,8 +102,8 @@
       "url": "https://axr.kr/ai2026",
       "normalized_url": "https://axr.kr/ai2026",
       "published_date": null,
-      "accessed_at": "2026-11-10T08:05:14+09:00",
-      "verification_scope": "참가규모·주최주관·교육·멘토링·발표 일정",
+      "accessed_at": "2026-11-23T08:01:36+09:00",
+      "verification_scope": "프로젝트 제출 마감 완료 표시와 11월 25일 발표·라운드업, 11월 27일 시상 일정 재검증",
       "evidence_locator": "본문 대회소개·일정·주최주관"
     },
     {
@@ -125,7 +134,7 @@
     "support": "6주 사전교육, 2주 멘토링, 기업특화교육, 프로젝트 발표·시상",
     "deadline": "2026-11-22T23:59:00+09:00",
     "application_url": "https://axr.kr/ai2026",
-    "current_status": "멘토링 종료·프로젝트 제출 진행; 2026-11-22 23:59 제출 마감, 11월 25일 발표",
+    "current_status": "프로젝트 제출 마감 완료; 2026-11-25 프로젝트 발표·라운드업 예정, 2026-11-27 시상 예정",
     "university_eligibility_verified": null
   },
   "analysis": {
@@ -188,7 +197,8 @@
   "related_issue_ids": [],
   "report_paths": [
     "reports/2026/11/2026-11-10.md",
-    "reports/2026/11/2026-11-21.md"
+    "reports/2026/11/2026-11-21.md",
+    "reports/2026/11/2026-11-23.md"
   ],
   "changes": [
     {
@@ -210,6 +220,17 @@
       "before": "멘토링 종료일 2026-11-20을 deadline으로 기록; 프로젝트 제출 마감 미기록",
       "after": "프로젝트 제출 마감 2026-11-22 23:59, 발표·라운드업 11월 25일, 시상 11월 27일 18:00",
       "reason": "현재 공식 일정이 멘토링 종료와 프로젝트 제출·발표·시상 단계를 구분하므로 제출기한과 상태를 실질 갱신",
+      "source_urls": [
+        "https://axr.kr/ai2026"
+      ]
+    },
+    {
+      "changed_at": "2026-11-23T08:01:36+09:00",
+      "run_id": "20261123T075815+0900",
+      "field": "notice.current_status,verified_facts",
+      "before": "멘토링 종료·프로젝트 제출 진행; 2026-11-22 23:59 제출 마감, 11월 25일 발표",
+      "after": "프로젝트 제출 마감 완료; 2026-11-25 프로젝트 발표·라운드업 예정, 2026-11-27 시상 예정",
+      "reason": "제출기한 경과 후 공식 페이지가 프로젝트 제출을 '마감 완료'로 표시해 운영 상태를 실질 갱신",
       "source_urls": [
         "https://axr.kr/ai2026"
       ]

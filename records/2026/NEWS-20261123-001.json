@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261123-001",
+  "title": "부산외대 AI부트캠프 2026 첨단분야 인턴십 학생 모집",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "AI부트캠프 이수·예정 학생을 기업 직무수요와 매칭하고 8주 현장실습·학점·공동평가·디지털배지·취업지원으로 연결한 직접 인턴십 운영사례",
+  "first_seen_at": "2026-11-23T08:01:36+09:00",
+  "last_verified_at": "2026-11-23T08:01:36+09:00",
+  "published_date": "2026-11-18",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "supplement_7d",
+  "change_status": "new",
+  "organizations": [
+    "부산외국어대학교",
+    "부산외국어대학교 AI부트캠프사업단"
+  ],
+  "regions": [
+    "부산광역시"
+  ],
+  "sectors": [
+    "AI 인재양성",
+    "현장실습",
+    "인턴십",
+    "AI Agent",
+    "데이터 구축",
+    "교육콘텐츠"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "첨단분야 인턴십",
+    "기업–학생 매칭",
+    "8주 현장실습",
+    "6학점",
+    "디지털배지",
+    "취업지원"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261123-001-F1",
+      "text": "부산외국어대학교 AI부트캠프사업단은 한국인 재학생 중 AI부트캠프 교과목 이수자 또는 이수 예정자를 대상으로 약 20명을 모집하며, 분야는 AI 기반 교육콘텐츠 기획, 데이터셋 기반 데이터 구축, AI Agent 개발·검증이다.",
+      "source_urls": [
+        "https://aibootcamp.bufs.ac.kr/notice/12"
+      ],
+      "evidence_locator": "공식 공고 모집대상·모집규모·모집분야",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261123-001-F2",
+      "text": "인턴십은 겨울방학 중 8주 현장실습과 6학점 인정 구조이며, 4학년 졸업예정자는 2026-12-21부터 2027-01-17까지의 기간에만 참여할 수 있다고 안내됐다.",
+      "source_urls": [
+        "https://aibootcamp.bufs.ac.kr/notice/12"
+      ],
+      "evidence_locator": "공식 공고 운영기간·학점·졸업예정자 유의사항",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261123-001-F3",
+      "text": "참여기업은 딥로딩, 엠브이픽, 크라우드웍스, 모두의연구소, 디엔아이솔루션, 삼원기업, 지니에듀테크, 와플 등 8곳이며, 학생 희망직무·교과 이수상태·기업 수요를 고려해 서류와 기업별 면접으로 매칭한다.",
+      "source_urls": [
+        "https://aibootcamp.bufs.ac.kr/notice/12"
+      ],
+      "evidence_locator": "공식 공고 참여기업·선발 및 매칭방법",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261123-001-F4",
+      "text": "신청기간은 2026-09-11부터 2026-12-03까지이며 H511호 방문 제출 방식이다. 대학–기업 공동평가와 디지털배지, 취업지원이 안내됐지만 실제 선발·수료·취업 성과는 아직 확인되지 않았다.",
+      "source_urls": [
+        "https://aibootcamp.bufs.ac.kr/notice/12"
+      ],
+      "evidence_locator": "공식 공고 신청기간·제출방법·참여혜택",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 첨단분야 인턴십 지원사업 학생 모집 안내",
+      "publisher": "부산외국어대학교 AI부트캠프사업단",
+      "source_type": "university_official",
+      "url": "https://aibootcamp.bufs.ac.kr/notice/12",
+      "normalized_url": "https://aibootcamp.bufs.ac.kr/notice/12",
+      "published_date": "2026-11-18",
+      "accessed_at": "2026-11-23T08:01:36+09:00",
+      "verification_scope": "대상·규모·분야·기업·기간·학점·선발·신청·평가·취업지원 확인",
+      "evidence_locator": "공식 공고 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "부산외국어대학교 한국인 재학생 중 AI부트캠프 교과목 이수자 또는 이수 예정자; 4학년 졸업예정자는 지정 단기기간만 참여 가능",
+    "support": "8주 현장실습·6학점, 대학–기업 공동평가·디지털배지, 취업지원",
+    "deadline": "2026-12-03",
+    "application_url": "https://aibootcamp.bufs.ac.kr/notice/12",
+    "current_status": "모집 진행 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "교육 이력과 기업 직무수요를 매칭해 학점·평가·취업지원으로 연결한 직접 AI부트캠프 인턴십 사례",
+    "interpretations": [
+      "교과 이수상태를 선발·매칭 요소로 사용해 교육과 현장실습의 연속성을 확보하려는 구조로 해석할 수 있다.",
+      "대학–기업 공동평가와 디지털배지는 실습 결과를 성과증빙과 학생 포트폴리오에 동시에 연결하는 참고 장치다."
+    ],
+    "proposed_action": "국립한국교통대학교 적용 검토 시 기업 직무기술서, 학생 선수학습, 기업 수요, 학점·현장실습 규정, 공동평가·디지털배지 인정기준을 하나의 매칭표로 설계할지 검토",
+    "prerequisites": [
+      "국립한국교통대학교 현장실습·학점인정 규정",
+      "사업비 집행·보험·실습지원비 기준",
+      "기업별 직무·선발·평가 협약",
+      "디지털배지 발급·성과인정 기준"
+    ],
+    "limitations": [
+      "부산외국어대학교 학생 대상 공고로 국립한국교통대학교 학생은 신청할 수 없음",
+      "기업별 보수·세부근무조건은 공고 본문만으로 모두 확인되지 않음",
+      "모집 단계로 선발·수료·취업 성과 미확인",
+      "11월 18일 게시물을 7일 보완범위에서 처음 수집했으며 사건 신규로 보지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "AI부트캠프 이수·예정 확인→학생 희망직무·기업수요 매칭→서류·기업면접→8주 현장실습·6학점→대학–기업 공동평가·디지털배지→취업지원",
+    "evidence_fact_ids": [
+      "NEWS-20261123-001-F1",
+      "NEWS-20261123-001-F2",
+      "NEWS-20261123-001-F3",
+      "NEWS-20261123-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업별 직무기술서와 수요인원",
+      "학생 선수학습·희망직무 데이터",
+      "현장실습 학사·보험·지원비 체계",
+      "대학–기업 공동평가 기준",
+      "디지털배지·취업지원 운영체계"
+    ],
+    "eligibility_checks": [
+      "학생 학적·이수요건",
+      "현장실습 기간·학점 인정",
+      "기업 협약·보험·지원비",
+      "기업평가·배지의 성과지표 인정"
+    ],
+    "evidence_gaps": [
+      "기업별 모집인원·보수·세부근무조건",
+      "최종 매칭·수료율",
+      "디지털배지 발급·취업연계 실적"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [
+    "NEWS-20261119-001",
+    "NEWS-20261117-001"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-23.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-23T08:01:36+09:00",
+      "run_id": "20261123T075815+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 18일 대학 공식 AI부트캠프 인턴십 모집을 7일 보완범위에서 처음 수집; 사건 신규가 아닌 진행 중 공고로 분류",
+      "source_urls": [
+        "https://aibootcamp.bufs.ac.kr/notice/12"
+      ]
+    }
+  ]
+}

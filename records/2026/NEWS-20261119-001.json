@@ -6,13 +6,13 @@
   "priority": "A",
   "priority_reason": "기업 직무공고·학생 수요조사·산학협력중점교수 상담·수기 수강신청·학점처리를 연결한 직접 부트캠프 인턴십 운영사례",
   "first_seen_at": "2026-11-19T08:00:25+09:00",
-  "last_verified_at": "2026-11-19T08:03:18+09:00",
+  "last_verified_at": "2026-11-23T08:01:36+09:00",
   "published_date": "2026-11-18",
   "modified_date": null,
   "event_date": null,
   "effective_date": null,
-  "freshness": "supplement_72h",
-  "change_status": "new",
+  "freshness": "ongoing_notice",
+  "change_status": "unchanged",
   "organizations": [
     "연세대학교 미래캠퍼스",
     "연세대학교 미래캠퍼스 첨단산업 인재양성 부트캠프 사업단"
@@ -85,7 +85,7 @@
       "url": "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78805&mode=view",
       "normalized_url": "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78805&mode=view",
       "published_date": "2026-11-18",
-      "accessed_at": "2026-11-19T08:03:18+09:00",
+      "accessed_at": "2026-11-23T08:01:36+09:00",
       "verification_scope": "대상·신청절차·수요조사 마감·수강료·직무 첨부 확인",
       "evidence_locator": "공식 공고 본문과 첨부파일 목록"
     }
@@ -95,7 +95,7 @@
     "support": "기업 AI인턴십 교과목, 상담·수기 수강신청·학점 연계",
     "deadline": "2026-11-23T23:59:00+09:00",
     "application_url": "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78805&mode=view",
-    "current_status": "수요조사 접수 중",
+    "current_status": "진행 중·2026-11-23 23:59 수요조사 마감",
     "university_eligibility_verified": false
   },
   "analysis": {
@@ -158,7 +158,8 @@
   },
   "related_issue_ids": [],
   "report_paths": [
-    "reports/2026/11/2026-11-19.md"
+    "reports/2026/11/2026-11-19.md",
+    "reports/2026/11/2026-11-23.md"
   ],
   "changes": [
     {

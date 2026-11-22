@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261123T075815+0900",
+  "scheduled_at": "2026-11-23T08:00:00+09:00",
+  "cutoff_at": "2026-11-23T08:00:00+09:00",
+  "started_at": "2026-11-23T07:58:15+09:00",
+  "collection_completed_at": "2026-11-23T08:01:36+09:00",
+  "search_window": {
+    "start": "2026-11-22T08:00:00+09:00",
+    "end": "2026-11-23T08:00:00+09:00",
+    "timezone": "Asia/Seoul"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-16T08:00:00+09:00",
+      "end": "2026-11-23T08:00:00+09:00",
+      "reason": "기본 24시간과 72시간 범위에서 직접 사업 신규자료가 부족해 타 대학 AI부트캠프 인턴십 운영사례를 7일 범위에서 보완 검증"
+    },
+    {
+      "type": "ongoing_notice",
+      "reason": "Innovation Challenger 단계 전환과 연세대 AI인턴십·겨울 계절제 AI부트캠프 마감·신청상태 재검증"
+    }
+  ],
+  "search_status": "completed_with_supplement",
+  "queries": [
+    "국립한국교통대학교 부트캠프 AI 2026-11-22 2026-11-23",
+    "한국교통대 인공지능 부트캠프 2026-11-22",
+    "첨단산업 인재양성 부트캠프 교육부 AI 공고 운영 선정 2026-11-22",
+    "첨단분야 인턴십 대학 기업 AI 인재양성 RISE 초광역 2026-11-22",
+    "충북 충주 AI 인재양성 산학협력 제조AI 제조AX 소부장 2026-11-22",
+    "대학 기업 AI 현장실습 취업 AI로봇 미래모빌리티 SDV 온디바이스AI 인재양성 2026-11-22",
+    "AI Bootcamp Innovation Challenger 2026 일정 프로젝트 제출",
+    "연세대 미래캠퍼스 겨울 계절제 AI인턴십 2026",
+    "연세대 미래캠퍼스 겨울 계절제 AI부트캠프 2026",
+    "부산외대 AI부트캠프 첨단분야 인턴십 2026"
+  ],
+  "checked_official_sites": [
+    "교육부: 부트캠프 운영계획·사업공고 검색 (https://www.moe.go.kr)",
+    "한국산업기술진흥원: 부트캠프 사업·운영 공지 검색 (https://www.kiat.or.kr)",
+    "국립한국교통대학교: 사업단·학생지원 공지 검색 (https://www.ut.ac.kr)",
+    "충청북도·충주시: AI·제조AX·인재양성 정책 검색 (https://www.chungbuk.go.kr, https://www.chungju.go.kr)",
+    "AI Bootcamp Innovation Challenger: 제출 마감·발표·시상 일정 원문 (https://axr.kr/ai2026)",
+    "연세대학교 미래캠퍼스 AI부트캠프사업단: 인턴십·계절제 수강신청 원문 (https://aibootcamp.yonsei.ac.kr)",
+    "부산외국어대학교 AI부트캠프사업단: 첨단분야 인턴십 모집 원문 (https://aibootcamp.bufs.ac.kr/notice/12)"
+  ],
+  "verification_failures": [],
+  "excluded_candidates": [
+    {
+      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308437",
+      "reason": "국립한국교통대 부트캠프(AI) 산학협력전담교수 채용은 기존 NEWS-20261114-001과 동일 사건이고 11월 19일 마감"
+    },
+    {
+      "url": "https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127196",
+      "reason": "충주시 제조 AI 현장 적용 지원은 10월 26일 종료된 기존 공고로 이번 회차 신규가 아님"
+    }
+  ],
+  "previous_success_run_id": "20261122T075548+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 직접 사업 신규 공고·운영지침 변경을 확정하지 못했으나 관련 소식의 절대적 부재를 뜻하지 않는다.",
+    "부산외대 공고는 11월 18일 게시물을 7일 보완범위에서 처음 수집했으며 사건 신규로 계산하지 않았다.",
+    "부산외대 기업별 보수·세부근무조건과 실제 선발·수료·취업성과는 공고 본문만으로 확인되지 않았다.",
+    "당일 게시물은 기준시각 이전 공개 여부를 확인할 수 있는 경우만 신규 확정 대상으로 삼았다."
+  ],
+  "issue_ids": {
+    "NEWS-20261123-001": "new",
+    "NEWS-20261110-001": "updated",
+    "NEWS-20261119-001": "unchanged",
+    "NEWS-20261120-001": "unchanged"
+  },
+  "counts": {
+    "new": 1,
+    "collected_new": 1,
+    "event_new": 0,
+    "published_new_24h": 0,
+    "supplement_first_collection": 1,
+    "updated": 1,
+    "unchanged": 2,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-23.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-23.md",
+    "records/2026/NEWS-20261123-001.json",
+    "records/2026/NEWS-20261110-001.json",
+    "records/2026/NEWS-20261119-001.json",
+    "records/2026/NEWS-20261120-001.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261123T075815+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

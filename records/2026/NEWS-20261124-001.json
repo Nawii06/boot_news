@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261124-001",
+  "title": "경북대 AI부트캠프 2026 동계 첨단분야 인턴십 모집",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "교육부·KIAT 첨단분야 인턴십 지원사업을 통해 AI부트캠프 참여, 기업매칭, 8주 현장실습, 학점·지원비, 보험·평가를 직접 연결한 운영 공고",
+  "first_seen_at": "2026-11-24T08:05:43+09:00",
+  "last_verified_at": "2026-11-24T08:05:43+09:00",
+  "published_date": "2026-11-23",
+  "modified_date": null,
+  "event_date": null,
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "경북대학교",
+    "경북대학교 AI부트캠프사업단",
+    "교육부",
+    "한국산업기술진흥원"
+  ],
+  "regions": [
+    "대구광역시",
+    "서울특별시",
+    "경기도"
+  ],
+  "sectors": [
+    "AI 인재양성",
+    "현장실습",
+    "인턴십",
+    "소프트웨어",
+    "취업연계"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "첨단분야 인턴십 지원사업",
+    "기업–학생 매칭",
+    "8주 현장실습",
+    "6학점",
+    "실습지원비",
+    "보험",
+    "3자 협약"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261124-001-F1",
+      "text": "경북대학교 AI부트캠프사업단은 교육부·KIAT 첨단분야 인턴십 지원사업으로 서울·경기 4곳과 대구 6곳의 AI·소프트웨어 기업 10개사에서 2027-01-01부터 02-28까지 8주 연속 현장실습을 운영한다고 공지했다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/",
+        "https://see.knu.kr/eng/content/board/notice.html?f_opt_1=&fidx=105888&gtid=notice&opt=&page=1&pg=vv&sword="
+      ],
+      "evidence_locator": "공식 사업단 공고·전자공학부 재게시의 사업명, 참여기업 권역·수, 실습기간",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261124-001-F2",
+      "text": "실습은 주 5일·일 8시간, 계절제 현장실습 6학점이며 실습지원비는 월 210만 원으로 2개월 계획금액은 420만 원이다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/",
+        "https://see.knu.kr/eng/content/board/notice.html?f_opt_1=&fidx=105888&gtid=notice&opt=&page=1&pg=vv&sword="
+      ],
+      "evidence_locator": "공식 공고 인턴십 개요",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261124-001-F3",
+      "text": "대상은 참여학과 학부 2학년 이상 재학생 중 AI부트캠프 참여 학생이며, 미참여자는 인턴십 지원서에서 부트캠프 참여 신청을 함께 할 수 있다. 재직 학생은 부트캠프에 참여할 수 없다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/"
+      ],
+      "evidence_locator": "공식 공고 지원자격",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261124-001-F4",
+      "text": "사업단이 지망·전공·역량을 바탕으로 기업을 배정하고 기업이 서류·면접으로 최종 선발한다. 선발 후 KNUCUBE 신청, 사전교육, 기업·학생·대학 3자 협약, 기업 산재보험·대학 상해보험, 현장방문, 기업평가·성적인정 절차를 거친다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/"
+      ],
+      "evidence_locator": "공식 공고 일정·선발방법·유의사항",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 동계 첨단분야 인턴십(현장실습) 참여학생 모집",
+      "publisher": "경북대학교 AI부트캠프사업단",
+      "source_type": "university_official",
+      "url": "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/",
+      "normalized_url": "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/",
+      "published_date": "2026-11-23",
+      "accessed_at": "2026-11-24T08:05:43+09:00",
+      "verification_scope": "사업명·기업·기간·지원비·학점·자격·선발·협약·보험·평가 확인",
+      "evidence_locator": "공식 공고 본문"
+    },
+    {
+      "title": "AI부트캠프사업단 동계 현장실습 안내 및 참여학생 모집",
+      "publisher": "경북대학교 전자공학부",
+      "source_type": "university_official",
+      "url": "https://see.knu.kr/eng/content/board/notice.html?f_opt_1=&fidx=105888&gtid=notice&opt=&page=1&pg=vv&sword=",
+      "normalized_url": "https://see.knu.kr/eng/content/board/notice.html?f_opt_1=&fidx=105888&gtid=notice&opt=&page=1&pg=vv&sword=",
+      "published_date": "2026-11-23",
+      "accessed_at": "2026-11-24T08:05:43+09:00",
+      "verification_scope": "핵심 모집조건 교차검증",
+      "evidence_locator": "학부 공식 공지 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": "경북대학교 참여학과 학부 2학년 이상 재학생·AI부트캠프 참여 학생; 미참여자는 동시 참여신청 가능; 재직 학생 제외",
+    "support": "8주 현장실습, 계절제 6학점, 월 210만 원 실습지원비 계획, 산재보험·상해보험, 사전교육·현장지도",
+    "deadline": "2026-12-02",
+    "application_url": "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/",
+    "current_status": "모집 진행 중; 공식 사업단 페이지는 24:00, 학부 재게시물은 23:59로 표기해 최종 제출시각 확인 필요",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "부트캠프 참여 확인부터 기업배정·면접·학사신청·협약·보험·현장지도·평가까지 연결한 직접 인턴십 운영사례",
+    "interpretations": [
+      "부트캠프 미참여자에게 인턴십 신청과 참여등록을 동시에 허용해 학생모집과 취업연계 프로그램을 접점으로 활용한다.",
+      "지원비·학점뿐 아니라 보험과 3자 협약, 현장방문, 기업평가를 일정표에 포함해 행정·성과증빙을 사전 통제한다."
+    ],
+    "proposed_action": "국립한국교통대학교 동계 현장실습 운영표와 비교해 학생 자격, 기업배정 권한, 지원비, 학점, 3자 협약, 보험, 현장지도, 기업평가의 책임부서를 점검",
+    "prerequisites": [
+      "대학 현장실습·계절제 학점 규정",
+      "기업·학생·대학 협약",
+      "산재·상해보험 처리기준",
+      "실습지원비·사업비 기준",
+      "기업 직무·선발·평가 기준"
+    ],
+    "limitations": [
+      "경북대학교 학생 대상 공고로 국립한국교통대학교 학생은 신청할 수 없음",
+      "기업별 직무·인원은 첨부 모집요강 확인이 필요함",
+      "공고 게시시각이 없어 기본 24시간 포함 여부를 확정하지 않고 72시간 보완자료로 분류",
+      "공식 페이지 간 마감시각이 24:00과 23:59로 달라 최종 확인 필요",
+      "모집 단계로 실제 매칭·수료·취업성과 미확인"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "학생지원",
+      "성과관리",
+      "사업비행정"
+    ],
+    "transferable_mechanism": "부트캠프 참여·동시신청→학생 지망·전공·역량 기반 기업배정→기업 서류·면접→학사신청→3자 협약·보험·사전교육→8주 실습·현장지도→기업평가·성적인정",
+    "evidence_fact_ids": [
+      "NEWS-20261124-001-F1",
+      "NEWS-20261124-001-F2",
+      "NEWS-20261124-001-F3",
+      "NEWS-20261124-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업별 직무기술서·수요인원",
+      "학생 매칭 담당교원·직원",
+      "학사·협약·보험 행정",
+      "지원비 예산",
+      "현장지도·기업평가 체계"
+    ],
+    "eligibility_checks": [
+      "학생 학적·학년·재직 여부",
+      "부트캠프 참여 등록",
+      "기업 직무별 자격",
+      "학점·실습기간 인정",
+      "보험·지원비·성과지표"
+    ],
+    "evidence_gaps": [
+      "기업별 최종 모집인원·직무",
+      "최종 매칭률·수료율·취업성과",
+      "마감 최종시각"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [
+    "NEWS-20261123-001",
+    "NEWS-20261119-001"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-24.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-24T08:05:43+09:00",
+      "run_id": "20261124T080341+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 23일 대학 공식 AI부트캠프 동계 첨단분야 인턴십 공고를 72시간 보완범위에서 첫 수집",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/",
+        "https://see.knu.kr/eng/content/board/notice.html?f_opt_1=&fidx=105888&gtid=notice&opt=&page=1&pg=vv&sword="
+      ]
+    }
+  ]
+}

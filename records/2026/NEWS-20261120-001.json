@@ -6,13 +6,13 @@
   "priority": "B",
   "priority_reason": "타 대학 AI부트캠프의 계절제 몰입형 교과 신청·학사등록·기숙사 지원·인턴십 분리 운영을 확인할 수 있는 비교 사례",
   "first_seen_at": "2026-11-20T08:01:30+09:00",
-  "last_verified_at": "2026-11-23T08:01:36+09:00",
+  "last_verified_at": "2026-11-24T08:05:43+09:00",
   "published_date": "2026-11-16",
   "modified_date": "2026-11-17",
   "event_date": null,
   "effective_date": null,
-  "freshness": "ongoing_notice",
-  "change_status": "unchanged",
+  "freshness": "reference",
+  "change_status": "updated",
   "organizations": [
     "연세대학교 미래캠퍼스",
     "연세대학교 미래캠퍼스 AI부트캠프사업단"
@@ -85,7 +85,7 @@
       "url": "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78729&mode=view",
       "normalized_url": "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78729&mode=view",
       "published_date": "2026-11-16",
-      "accessed_at": "2026-11-23T08:01:36+09:00",
+      "accessed_at": "2026-11-24T08:05:43+09:00",
       "verification_scope": "최초 게시일·수정일, 대상, 병행수강 제한, 수강료·학점, 신청절차·마감, 기숙사 지원범위 확인",
       "evidence_locator": "공식 공지 본문"
     },
@@ -106,7 +106,7 @@
     "support": "장기 기숙사 신청 시에도 사업단 비용 지원은 AI부트캠프 계절제 교과목 수강기간에 한정",
     "deadline": "2026-11-23T23:59:00+09:00",
     "application_url": "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78729&mode=view",
-    "current_status": "진행 중·2026-11-23 23:59 마감",
+    "current_status": "수강신청 마감(2026-11-23 23:59 경과)",
     "university_eligibility_verified": false
   },
   "analysis": {
@@ -168,7 +168,8 @@
   ],
   "report_paths": [
     "reports/2026/11/2026-11-20.md",
-    "reports/2026/11/2026-11-23.md"
+    "reports/2026/11/2026-11-23.md",
+    "reports/2026/11/2026-11-24.md"
   ],
   "changes": [
     {
@@ -181,6 +182,17 @@
       "source_urls": [
         "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78729&mode=view",
         "https://mirae.yonsei.ac.kr/bbs/wj/104/944691/artclView.do"
+      ]
+    },
+    {
+      "changed_at": "2026-11-24T08:05:43+09:00",
+      "run_id": "20261124T080341+0900",
+      "field": "notice.current_status",
+      "before": "진행 중·2026-11-23 23:59 마감",
+      "after": "수강신청 마감(2026-11-23 23:59 경과)",
+      "reason": "공식 공지에 기재된 제출기한이 경과해 상태를 갱신",
+      "source_urls": [
+        "https://aibootcamp.yonsei.ac.kr/aibootcamp/board/d_notice.do?articleNo=78729&mode=view"
       ]
     }
   ]

@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261124-003",
+  "title": "국립금오공대 AI중심대학사업단–IGE AI·AX 해외인턴십 협력",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "학생 발굴·추천부터 현지기업 매칭, 비자·장학·행정, 현지 안착·사후관리, 해외취업까지 잇는 지역대학 글로벌 인턴십 구조",
+  "first_seen_at": "2026-11-24T08:05:43+09:00",
+  "last_verified_at": "2026-11-24T08:05:43+09:00",
+  "published_date": "2026-11-23",
+  "modified_date": null,
+  "event_date": "2026-11-23",
+  "effective_date": null,
+  "freshness": "supplement_72h",
+  "change_status": "new",
+  "organizations": [
+    "국립금오공과대학교 취업지원본부",
+    "국립금오공과대학교 AI중심대학사업단",
+    "IGE KOREA"
+  ],
+  "regions": [
+    "경상북도",
+    "구미시",
+    "미국"
+  ],
+  "sectors": [
+    "AI 인재양성",
+    "AX",
+    "해외인턴십",
+    "해외취업"
+  ],
+  "keywords": [
+    "AI중심대학",
+    "글로벌 인재",
+    "해외인턴십",
+    "현지기업 매칭",
+    "J-1 비자",
+    "사후관리",
+    "취업연계"
+  ],
+  "program_year": 2026,
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261124-003-F1",
+      "text": "국립금오공과대학교 취업지원본부·AI중심대학사업단과 IGE KOREA는 2026-11-23 AI·AX 분야 글로벌 인재양성과 해외취업 활성화를 위한 업무협약을 체결했다.",
+      "source_urls": [
+        "https://kitcoop.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=583060&mode=view"
+      ],
+      "evidence_locator": "대학 공식 KIT News 제목·협약일·참여기관",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261124-003-F2",
+      "text": "협력내용은 해외인턴십 우수학생 발굴·추천, 장학과 행·재정 지원, 해외인턴십·취업 현지기업 매칭, 참여자 현지 안착·사후관리, 미국 J-1 비자 발급 지원 확대 계획이다.",
+      "source_urls": [
+        "https://kitcoop.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=583060&mode=view"
+      ],
+      "evidence_locator": "대학 공식 기사 협력항목·지원계획",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AI·AX 분야의 해외 취업 역량 강화한다",
+      "publisher": "국립금오공과대학교",
+      "source_type": "university_official",
+      "url": "https://kitcoop.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=583060&mode=view",
+      "normalized_url": "https://kitcoop.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=583060&mode=view",
+      "published_date": "2026-11-23",
+      "accessed_at": "2026-11-24T08:05:43+09:00",
+      "verification_scope": "협약일·기관·학생발굴·장학·현지기업 매칭·비자·사후관리 확인",
+      "evidence_locator": "KIT News 본문"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": "학생 추천, 장학·행정지원, 현지기업 매칭, J-1 비자, 현지 안착·사후관리 계획",
+    "deadline": null,
+    "application_url": null,
+    "current_status": "협약 체결·세부 모집공고 미확인",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "타 대학의 AI·AX 해외인턴십을 취업지원부서·사업단·전문기관 역할로 나눈 비교사례",
+    "interpretations": [
+      "해외인턴십을 선발과 파견만으로 끝내지 않고 비자·현지 안착·사후관리·취업까지 지원범위로 설정했다.",
+      "국립한국교통대학교에 적용하려면 해외파견 지침·보험·안전·비자·예산과 전문기관 검증이 선행돼야 한다."
+    ],
+    "proposed_action": "향후 글로벌 AI 프로그램 기획 시 학생선발→현지기업 매칭→비자·보험·장학→현지 안착→사후관리→취업성과의 책임기관과 증빙을 사전 설계할지 검토",
+    "prerequisites": [
+      "대학 해외파견·현장실습 규정",
+      "비자·보험·안전관리",
+      "전문기관 자격·현지기업 검증",
+      "사업비·장학금 기준",
+      "취업성과 개인정보·추적 기준"
+    ],
+    "limitations": [
+      "AI중심대학사업 사례로 첨단산업 인재양성 부트캠프 직접 사업은 아님",
+      "모집대상·인원·기간·예산·현지기업·성과 미확인",
+      "게시시각이 없어 72시간 보완자료로 분류"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "비교과",
+      "현장실습인턴십",
+      "취업연계",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "우수학생 발굴·추천→현지기업 매칭→장학·행정·J-1 비자→해외인턴십→현지 안착·사후관리→해외취업 연계",
+    "evidence_fact_ids": [
+      "NEWS-20261124-003-F1",
+      "NEWS-20261124-003-F2"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "글로벌 인턴십 전문기관",
+      "현지기업 네트워크",
+      "비자·보험·안전관리",
+      "장학·체재비",
+      "현지·귀국 후 사후관리"
+    ],
+    "eligibility_checks": [
+      "사업지침상 해외파견 가능범위",
+      "대학 해외현장실습 규정",
+      "전문기관·현지기업 검증",
+      "비자·보험·안전·예산"
+    ],
+    "evidence_gaps": [
+      "세부 모집공고",
+      "인원·기간·예산",
+      "현지기업·직무",
+      "인턴십·취업성과"
+    ],
+    "maturity": "concept_review"
+  },
+  "related_issue_ids": [
+    "NEWS-20261111-002",
+    "NEWS-20261120-002"
+  ],
+  "report_paths": [
+    "reports/2026/11/2026-11-24.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-24T08:05:43+09:00",
+      "run_id": "20261124T080341+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "11월 23일 대학 공식 AI·AX 글로벌 인턴십 협약을 게시시각 미확인으로 72시간 보완범위에서 첫 수집",
+      "source_urls": [
+        "https://kitcoop.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=583060&mode=view"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261124T080341+0900",
+  "scheduled_at": "2026-11-24T08:00:00+09:00",
+  "cutoff_at": "2026-11-24T08:00:00+09:00",
+  "started_at": "2026-11-24T08:03:41+09:00",
+  "collection_completed_at": "2026-11-24T08:05:43+09:00",
+  "search_window": {
+    "start": "2026-11-23T08:00:00+09:00",
+    "end": "2026-11-24T08:00:00+09:00",
+    "timezone": "Asia/Seoul"
+  },
+  "supplement_windows": [
+    {
+      "start": "2026-11-21T08:00:00+09:00",
+      "end": "2026-11-24T08:00:00+09:00",
+      "reason": "11월 23일 게시일만 확인되고 게시시각이 없는 경북대·금오공대 공식자료를 기본 24시간 신규로 단정하지 않고 72시간 범위에서 보완 검증"
+    },
+    {
+      "type": "ongoing_notice",
+      "reason": "Innovation Challenger 일정·교통대 참가 근거와 연세대 겨울 계절제 AI인턴십·교과 모집상태 재검증"
+    }
+  ],
+  "search_status": "completed_with_supplement",
+  "queries": [
+    "2026-11-23 첨단산업 인재양성 부트캠프 AI 교육부 KIAT",
+    "2026-11-23 국립한국교통대학교 AI 부트캠프 인공지능",
+    "2026-11-23 충북 충주 AI 인재양성 제조AI 제조AX 산학협력",
+    "2026-11-23 대학 기업 AI 현장실습 인턴십 취업 피지컬AI 미래모빌리티",
+    "site:moe.go.kr 2026.11.23 AI 인재양성 대학 기업",
+    "site:kiat.or.kr 2026.11.23 부트캠프 AI 대학",
+    "2026 동계 첨단분야 인턴십 경북대 AI부트캠프 10개 기업 6학점",
+    "부산대학교 SK AX AI 인재양성 산학협력 협약 2026년 11월 23일 공식",
+    "솔트룩스 조선이공대학교 제조 AI 실무 인재 부트캠프 공식 2026년 11월 23일",
+    "금오공과대학교 AI중심대학사업단 IGE 해외인턴십 협약 공식 2026년 11월 23일",
+    "AI Bootcamp Innovation Challenger 2026 국립한국교통대학교 대표학생"
+  ],
+  "checked_official_sites": [
+    "교육부: 부트캠프 운영계획·사업공고 검색 (https://www.moe.go.kr)",
+    "한국산업기술진흥원: 부트캠프 사업·운영 공지 검색 (https://www.kiat.or.kr)",
+    "국립한국교통대학교: Innovation Challenger 대표학생 모집 공식 공지",
+    "AI Bootcamp Innovation Challenger: 제출·발표·시상 일정 원문 (https://axr.kr/ai2026)",
+    "경북대학교 AI부트캠프사업단·전자공학부: 동계 첨단분야 인턴십 공고",
+    "연세대학교 미래캠퍼스 AI부트캠프사업단: 인턴십 수정·마감 및 계절제 교과 마감",
+    "국립금오공과대학교: AI·AX 해외인턴십 협력 공식 뉴스",
+    "충청북도·충주시: AI·제조AX·인재양성 정책 검색 (https://www.chungbuk.go.kr, https://www.chungju.go.kr)"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://aibootcamp.knu.ac.kr/notices/2026-11-23-winter-internship-recruitment/",
+      "reason": "원문 직접 열람 도구가 비활성 오류를 반환했으나 동일 대학 공식 사이트 검색 본문과 전자공학부 공식 재게시로 핵심조건을 교차검증"
+    },
+    {
+      "url": "https://kitcoop.kumoh.ac.kr/ko/sub01_05_03.do?articleNo=583060&mode=view",
+      "reason": "원문 직접 열람 도구가 비활성 오류를 반환했으나 국립금오공대 공식 검색 본문에서 협약일·기관·협력내용을 확인"
+    },
+    {
+      "url": "https://m.megaeconomy.co.kr/news/newsview.php?ncode=1065583994086019",
+      "reason": "조선이공대–솔트룩스 협약의 대학·기업 공식 원문을 찾지 못해 메가경제 원문 기준으로 기록"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261123.99099007074",
+      "reason": "부산대–SK AX 협약은 공동교육·프로젝트 계획 단계로 이번 회차의 직접 부트캠프·인턴십 사례와 중복성이 높아 별도 레코드에서 제외"
+    },
+    {
+      "url": "https://smart.jj.ac.kr/jj/community/notice01.do?article.offset=0&articleLimit=20&articleNo=535923&mode=view",
+      "reason": "전주대 스마트제조DX 연장모집은 검색결과를 확인했으나 공식 원문 직접 열람 실패로 세부 자격·지원·마감을 충분히 검증하지 못해 제외"
+    },
+    {
+      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308437",
+      "reason": "국립한국교통대 산학협력전담교수 채용은 기존 NEWS-20261114-001과 동일 사건이며 마감됨"
+    }
+  ],
+  "previous_success_run_id": "20261123T075815+0900",
+  "coverage_gaps": [
+    "기본 24시간 범위에서 교육부·KIAT의 직접 신규 공고·운영지침 변경을 확정하지 못했으나 관련 소식의 절대적 부재를 뜻하지 않는다.",
+    "경북대·금오공대 자료는 11월 23일 게시일만 확인되고 시각이 없어 72시간 보완자료로 분류했다.",
+    "경북대 인턴십 마감시각은 공식 페이지 24:00와 학부 재게시 23:59가 달라 날짜만 확정했다.",
+    "조선이공대–솔트룩스 협약은 언론보도 기준이며 협약 원문·세부 교과·인원·예산·성과가 미확인이다.",
+    "국립한국교통대학교 Innovation Challenger 최종 대표팀과 실제 참가 여부는 공개자료로 확인되지 않는다."
+  ],
+  "issue_ids": {
+    "NEWS-20261124-001": "new",
+    "NEWS-20261124-002": "new",
+    "NEWS-20261124-003": "new",
+    "NEWS-20261110-001": "updated",
+    "NEWS-20261119-001": "updated",
+    "NEWS-20261120-001": "updated"
+  },
+  "counts": {
+    "new": 3,
+    "collected_new": 3,
+    "event_new": 1,
+    "published_new_24h": 1,
+    "supplement_first_collection": 2,
+    "updated": 3,
+    "unchanged": 0,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-24.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-24.md",
+    "records/2026/NEWS-20261124-001.json",
+    "records/2026/NEWS-20261124-002.json",
+    "records/2026/NEWS-20261124-003.json",
+    "records/2026/NEWS-20261110-001.json",
+    "records/2026/NEWS-20261119-001.json",
+    "records/2026/NEWS-20261120-001.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261124T080341+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

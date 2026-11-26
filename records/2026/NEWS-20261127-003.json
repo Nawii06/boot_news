@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261127-003",
+  "title": "네이버웹툰 2027 상반기 채용연계형 AI Researcher 인턴십",
+  "category": "industry",
+  "priority": "B",
+  "priority_reason": "학부 졸업예정자에게 열려 있는 6주 채용연계형 인턴십으로 LLM·멀티모달·AI에이전트의 실제 직무역량과 평가·프로덕션 연결 요구를 확인할 수 있는 공식 채용공고",
+  "first_seen_at": "2026-11-27T07:59:26+09:00",
+  "last_verified_at": "2026-11-27T08:02:01+09:00",
+  "published_date": "2026-11-25",
+  "modified_date": null,
+  "event_date": "2027-01-04",
+  "effective_date": null,
+  "freshness": "ongoing_notice",
+  "change_status": "new",
+  "organizations": [
+    "NAVER WEBTOON"
+  ],
+  "regions": [
+    "경기도",
+    "성남시"
+  ],
+  "sectors": [
+    "인공지능",
+    "콘텐츠",
+    "생성형AI"
+  ],
+  "keywords": [
+    "AI Researcher",
+    "채용연계형 인턴십",
+    "LLM",
+    "멀티모달",
+    "AI에이전트",
+    "파인튜닝",
+    "평가"
+  ],
+  "program_year": "2027",
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261127-003-F1",
+      "text": "네이버웹툰은 2027년 상반기 채용연계형 AI Researcher를 2026년 11월 25일부터 12월 6일 23:59까지 모집하며, 지원서 검토와 인터뷰를 거쳐 2027년 1월 첫째 주부터 2월 둘째 주까지 6주 인턴십 후 정규직 신입 채용 여부를 결정할 계획이다.",
+      "source_urls": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko"
+      ],
+      "evidence_locator": "NAVER Careers 255~268, 337~355행",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261127-003-F2",
+      "text": "담당업무는 캐릭터 챗봇·IP 영상화·메타정보 추출·멀티모달 콘텐츠에 적용할 AI 모델·시스템 연구, LLM·멀티모달·생성모델 학습·파인튜닝·평가, AI에이전트의 메모리·도구사용 설계와 프로토타이핑, 정량·정성 평가체계 구축이다.",
+      "source_urls": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko"
+      ],
+      "evidence_locator": "NAVER Careers 275~306행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-003-F3",
+      "text": "필요역량은 관련 전공 학부 4학년 이상 또는 대학원 재학, AI 애플리케이션·시스템 구현, 백엔드·엔지니어링 기본기, 최신 논문 아이디어의 코드 구현, 가설→실험→검증 방식의 문제해결 경험이다.",
+      "source_urls": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko"
+      ],
+      "evidence_locator": "NAVER Careers 307~317행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-003-F4",
+      "text": "실제 지원자격은 기졸업자 또는 2027년 2월 졸업예정자이며, 인턴 근무지는 성남시 정자동 그린팩토리이고 원격근무를 병행한다.",
+      "source_urls": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko"
+      ],
+      "evidence_locator": "NAVER Careers 337~355행",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2027 상반기 채용연계형 인턴십 네이버웹툰 AI Researcher",
+      "publisher": "NAVER Careers",
+      "source_type": "company_official",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko",
+      "normalized_url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko",
+      "published_date": "2026-11-25",
+      "accessed_at": "2026-11-27T08:02:01+09:00",
+      "verification_scope": "직무·필요역량·지원자격·기간·마감·채용연계 구조 확인",
+      "evidence_locator": "공식 채용공고 255~355행"
+    }
+  ],
+  "notice": {
+    "eligibility": "기졸업자 또는 2027년 2월 졸업예정자; 관련 전공 학부 4학년 이상 또는 대학원 재학 수준의 AI·엔지니어링 역량 요구",
+    "support": "6주 채용연계형 인턴십 후 정규직 신입 채용 여부 결정",
+    "deadline": "2026-12-06T23:59:00+09:00",
+    "application_url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko",
+    "current_status": "모집 중",
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "AI부트캠프 중·고급 학생에게 필요한 LLM·멀티모달·에이전트·평가·백엔드·연구기록 역량과 6주 채용연계 구조를 확인할 수 있는 공식 직무수요",
+    "interpretations": [
+      "모델 활용만이 아니라 학습·파인튜닝·평가, 시스템 구현, 가설검증과 문서화가 함께 요구된다.",
+      "회사 공식 채용공고이며 교육과정 신설이나 취업성과를 확정하는 근거는 아니다."
+    ],
+    "proposed_action": "졸업예정자 대상 취업지원에서 포트폴리오를 모델성능뿐 아니라 가설·실험·평가·데모·기술문서로 구성하도록 지도할지 검토",
+    "prerequisites": [
+      "학생별 졸업예정·지원자격 확인",
+      "기업 공식공고 직접 확인",
+      "교원·멘토의 LLM·멀티모달·백엔드 지도역량",
+      "포트폴리오 공개·보안 기준"
+    ],
+    "limitations": [
+      "2026년 11월 25일 게시 공고의 이번 회차 첫 수집으로 사건 신규가 아니다.",
+      "선발인원·보수는 공개 원문에서 확인되지 않았다.",
+      "채용연계는 정규직 채용을 보장하지 않는다."
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "현장실습인턴십",
+      "취업연계",
+      "기업수요조사",
+      "학생지원"
+    ],
+    "transferable_mechanism": "기업 직무분석→LLM·멀티모달·에이전트 프로젝트→백엔드 통합→정량·정성 평가→보고서·데모→채용연계형 인턴십 지원",
+    "evidence_fact_ids": [
+      "NEWS-20261127-003-F1",
+      "NEWS-20261127-003-F2",
+      "NEWS-20261127-003-F3",
+      "NEWS-20261127-003-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "GPU·모델 API",
+      "멀티모달 데이터",
+      "백엔드 실습환경",
+      "논문재현·평가 지도",
+      "취업 포트폴리오 멘토링"
+    ],
+    "eligibility_checks": [
+      "졸업·병역 등 기업 지원자격",
+      "개인정보·저작권·콘텐츠 데이터 이용",
+      "프로젝트 공개 가능 범위"
+    ],
+    "evidence_gaps": [
+      "선발인원",
+      "인턴 보수",
+      "세부 평가기준",
+      "정규직 전환 실적"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-27.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-27T08:02:01+09:00",
+      "run_id": "20261127T075926+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "공식 채용 페이지에서 진행 중인 AI Researcher 채용연계형 인턴십의 직무·역량·마감·지원대상을 원문 검증해 첫 수집; 사건 신규는 아님",
+      "source_urls": [
+        "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757&lang=ko"
+      ]
+    }
+  ]
+}

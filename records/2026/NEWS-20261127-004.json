@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261127-004",
+  "title": "한국공학대 미래차 부트캠프 종합설계 아이디어 공모전 연장·운영변경",
+  "category": "bootcamp",
+  "priority": "B",
+  "priority_reason": "미래자동차 부트캠프의 종합설계 프로젝트 모집 부족에 따른 기한 연장과 발표시간 조정·부문 취소를 확인할 수 있는 인접 분야 운영사례",
+  "first_seen_at": "2026-11-27T07:59:26+09:00",
+  "last_verified_at": "2026-11-27T08:02:01+09:00",
+  "published_date": "2026-11-26",
+  "modified_date": null,
+  "event_date": "2026-12-02",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "한국공학대학교 미래차공학교육혁신센터"
+  ],
+  "regions": [
+    "경기도",
+    "시흥시"
+  ],
+  "sectors": [
+    "미래자동차",
+    "모빌리티",
+    "종합설계"
+  ],
+  "keywords": [
+    "첨단산업 인재양성 부트캠프",
+    "아이디어 공모전",
+    "캡스톤디자인",
+    "모집 연장",
+    "운영 변경"
+  ],
+  "program_year": "2026",
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261127-004-F1",
+      "text": "한국공학대학교 미래차공학교육혁신센터는 참가팀 미달에 따라 2026 첨단산업 인재양성 부트캠프 종합설계 아이디어 공모전 신청과 발표자료 제출기한을 2026년 11월 30일 16:00까지 연장했다.",
+      "source_urls": [
+        "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155082/artclView.do?layout=unknown",
+        "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155104/artclView.do?layout=unknown"
+      ],
+      "evidence_locator": "공식 모집 80~112행·변경안내 80~96행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-004-F2",
+      "text": "참가대상은 2027년도 종합설계 작품 발표 예정인 부트캠프 참여학생 3~5인 팀이며, 팀원 중 1명 이상이 부트캠프 초급과정을 이수해야 한다.",
+      "source_urls": [
+        "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155082/artclView.do?layout=unknown"
+      ],
+      "evidence_locator": "공식 모집 104~116행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-004-F3",
+      "text": "공모전은 2026년 12월 2일 13:00~15:20 한국공학대학교에서 열리며, 최상위 3팀에는 상장과 팀당 50만원 상당 상품, 최상위 포함 8팀에는 종합설계 실습공간을 제공한다.",
+      "source_urls": [
+        "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155082/artclView.do?layout=unknown"
+      ],
+      "evidence_locator": "공식 모집 94~124행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-004-F4",
+      "text": "우수작 부문 개최 취소에 따라 아이디어 부문 개최시간은 11:00~16:20에서 13:00~15:20으로, 팀별 발표는 10분 발표·5분 질의응답에서 5분 발표·5분 질의응답으로 변경됐다.",
+      "source_urls": [
+        "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155104/artclView.do?layout=unknown"
+      ],
+      "evidence_locator": "공식 변경안내 80~100행",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 첨단산업 인재양성 부트캠프 종합설계 아이디어 공모전 연장",
+      "publisher": "한국공학대학교 미래차공학교육혁신센터",
+      "source_type": "university_official",
+      "url": "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155082/artclView.do?layout=unknown",
+      "normalized_url": "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155082/artclView.do",
+      "published_date": "2026-11-26",
+      "accessed_at": "2026-11-27T08:02:01+09:00",
+      "verification_scope": "대상·기한·행사·지원내용 확인",
+      "evidence_locator": "공식 공지 64~124행"
+    },
+    {
+      "title": "2026 부트캠프 종합설계 아이디어 부문 운영 일정 변경",
+      "publisher": "한국공학대학교 미래차공학교육혁신센터",
+      "source_type": "university_official",
+      "url": "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155104/artclView.do?layout=unknown",
+      "normalized_url": "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155104/artclView.do",
+      "published_date": "2026-11-26",
+      "accessed_at": "2026-11-27T08:02:01+09:00",
+      "verification_scope": "부문 취소·일정·발표시간 변경 확인",
+      "evidence_locator": "공식 공지 64~100행"
+    }
+  ],
+  "notice": {
+    "eligibility": "한국공학대학교 첨단산업 미래차 부트캠프 참여학생 중 2027년도 종합설계 작품 발표 예정자; 3~5인 팀, 팀원 1명 이상 초급과정 이수",
+    "support": "최상위 3팀 상장·팀당 50만원 상당 상품; 최상위 포함 8팀 종합설계 실습공간 제공",
+    "deadline": "2026-11-30T16:00:00+09:00",
+    "application_url": "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155082/artclView.do?layout=unknown",
+    "current_status": "접수 연장 진행 중·운영일정 변경",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "모집률에 따라 신청·발표자료 기한을 통합하고 발표시간을 축소한 미래차 부트캠프 종합설계 운영사례",
+    "interpretations": [
+      "공모전 모집·운영 변경을 학생에게 명시하고 기존 신청팀의 수정·취소 경로를 제공한 변경관리 사례다.",
+      "다른 분야·대학 사례로 교통대 AI부트캠프 규정이나 일정에 직접 적용되지 않는다."
+    ],
+    "proposed_action": "AI 산학프로젝트·해커톤 모집 시 최소팀수, 연장 판단시점, 부문 취소·발표시간 변경, 기존 신청팀 재확인 절차를 사전에 둘지 검토",
+    "prerequisites": [
+      "행사 운영지침·평가기준",
+      "모집 최소인원과 변경 승인권자",
+      "참가팀 공지·동의 절차",
+      "상품·공간 지원의 사업비 기준"
+    ],
+    "limitations": [
+      "참가팀 미달의 구체적 팀수와 취소 판단기준은 공개되지 않았다.",
+      "미래자동차 분야 학생 전용으로 교통대 학생은 지원할 수 없다.",
+      "최종 참가·수상·프로젝트 성과는 미확인이다."
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "비교과",
+      "산학프로젝트",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "종합설계 예정팀 모집→최소 모집상황 점검→기한 연장·자료 수정→부문·발표시간 조정→발표·시상→실습공간 후속지원",
+    "evidence_fact_ids": [
+      "NEWS-20261127-004-F1",
+      "NEWS-20261127-004-F2",
+      "NEWS-20261127-004-F3",
+      "NEWS-20261127-004-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "공모전 운영인력",
+      "평가위원",
+      "발표공간",
+      "상품·실습공간",
+      "변경공지 체계"
+    ],
+    "eligibility_checks": [
+      "행사 변경 승인절차",
+      "학생 공지·취소기회",
+      "상품·공간 지원 사업비 적합성"
+    ],
+    "evidence_gaps": [
+      "실제 신청팀수",
+      "연장·취소 판단기준",
+      "평가항목",
+      "최종 참여·수상성과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-27.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-27T08:02:01+09:00",
+      "run_id": "20261127T075926+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 범위에서 미래차 부트캠프 종합설계 공모전의 모집 연장과 운영변경 공식 공지를 하나의 사건으로 묶어 수집",
+      "source_urls": [
+        "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155082/artclView.do?layout=unknown",
+        "https://www.tukorea.ac.kr/bbs/futurevehicle/1474/155104/artclView.do?layout=unknown"
+      ]
+    }
+  ]
+}

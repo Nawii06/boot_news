@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261127-001",
+  "title": "경북대 AI부트캠프 미니 TeX-Corps 고객탐색 창업캠프 모집",
+  "category": "bootcamp",
+  "priority": "A",
+  "priority_reason": "AI부트캠프 학생의 아이디어를 생성형 AI 모의 고객 인터뷰와 인스트럭터 피드백으로 검증하는 직접 비교과 프로그램 운영사례",
+  "first_seen_at": "2026-11-27T07:59:26+09:00",
+  "last_verified_at": "2026-11-27T08:02:01+09:00",
+  "published_date": "2026-11-26",
+  "modified_date": null,
+  "event_date": "2026-12-21",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "경북대학교 AI부트캠프사업단",
+    "경북대학교 복합지능ICT연구센터",
+    "경북대학교 창업지원단"
+  ],
+  "regions": [
+    "대구광역시"
+  ],
+  "sectors": [
+    "인공지능",
+    "생성형AI",
+    "창업",
+    "고객탐색"
+  ],
+  "keywords": [
+    "Mini TeX-Corps",
+    "AI 모의 고객 인터뷰",
+    "BMC",
+    "VPC",
+    "비교과",
+    "멘토링"
+  ],
+  "program_year": "2026",
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261127-001-F1",
+      "text": "경북대학교 AI부트캠프사업단은 2026년 11월 26일 AI 모의 고객 인터뷰를 활용한 1박 2일 미니 TeX-Corps 참가자 모집을 공고했으며 신청 마감은 2026년 12월 14일 24:00으로 표기했다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/"
+      ],
+      "evidence_locator": "공식 공지 11~26행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-001-F2",
+      "text": "행사는 2026년 12월 21일 15:00부터 12월 22일 13:00까지 호텔 인터불고 대구에서 열리며, AI부트캠프 참여학과 학부생과 복합지능ICT연구센터 참여학과 대학원생 약 60명을 대상으로 개인 또는 2~3인 팀을 모집한다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/"
+      ],
+      "evidence_locator": "공식 공지 27~44행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-001-F3",
+      "text": "프로그램은 BMC·VPC 실습, 고객가설 설정, 인터뷰 질문 설계, 생성형 AI 기반 모의 고객 인터뷰, 결과 발표와 TeX-Corps 인스트럭터 피드백으로 구성된다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/"
+      ],
+      "evidence_locator": "공식 공지 45~55행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-001-F4",
+      "text": "부트캠프 미참여 학부생은 참여 신청서·재학증명서·건강보험 자격득실확인서를 제출해 부트캠프 참여 신청을 함께 할 수 있고, 재직 중인 학생은 참여할 수 없다. 참가비는 무료이며 숙박과 식사가 포함된다.",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/"
+      ],
+      "evidence_locator": "공식 공지 67~87행",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 KNU 미니 텍스코어(Mini TeX-Corps) 참가자 모집",
+      "publisher": "경북대학교 AI부트캠프사업단",
+      "source_type": "university_official",
+      "url": "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/",
+      "normalized_url": "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/",
+      "published_date": "2026-11-26",
+      "accessed_at": "2026-11-27T08:02:01+09:00",
+      "verification_scope": "대상·정원·일정·구성·신청·지원조건 확인",
+      "evidence_locator": "공식 공지 본문 11~93행"
+    }
+  ],
+  "notice": {
+    "eligibility": "경북대학교 AI부트캠프 참여학과 학부생 및 복합지능ICT연구센터 참여학과 대학원생; 학부생은 비재직자 요건 확인",
+    "support": "참가비 무료, 1박 2일 숙박·식사 및 인스트럭터 멘토링, 전 과정 참여 시 수료증",
+    "deadline": "2026-12-14 24:00 KST(원문 표기)",
+    "application_url": "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/",
+    "current_status": "모집 중",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "생성형 AI를 기술실습 자체가 아니라 고객가설 검증과 문제정의에 활용하고, 부트캠프·연구센터·창업지원단을 연결한 비교과 운영사례",
+    "interpretations": [
+      "AI 프로젝트의 출발점을 모델개발 전 고객·현장 문제 검증으로 확장한 구조다.",
+      "경북대학교 학생 전용이므로 국립한국교통대학교 학생이 직접 지원할 수 없다."
+    ],
+    "proposed_action": "LEAD·해커톤·산학프로젝트 사전단계에 문제정의→AI 모의 고객 인터뷰→기업·전문가 검증 절차를 적용할 수 있는지 검토",
+    "prerequisites": [
+      "비교과·창업 프로그램 운영지침",
+      "생성형 AI 사용·개인정보·결과검증 기준",
+      "인스트럭터·기업 멘토 확보",
+      "숙박·식사·보험·사업비 집행 가능 범위"
+    ],
+    "limitations": [
+      "모의 고객 인터뷰 결과가 실제 고객 검증을 대체하지 않는다.",
+      "참가자 선발·수료·후속 창업성과는 아직 확인되지 않았다."
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "비교과",
+      "산학프로젝트",
+      "학생지원",
+      "성과관리"
+    ],
+    "transferable_mechanism": "아이디어 제출→BMC·VPC와 고객가설→생성형 AI 모의 인터뷰→인스트럭터 피드백→실제 고객·기업 검증 전 사전 보완",
+    "evidence_fact_ids": [
+      "NEWS-20261127-001-F1",
+      "NEWS-20261127-001-F2",
+      "NEWS-20261127-001-F3",
+      "NEWS-20261127-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "프로그램 설계자",
+      "생성형 AI 실습환경",
+      "고객탐색 인스트럭터",
+      "숙박·식사·공간"
+    ],
+    "eligibility_checks": [
+      "비교과 인정기준",
+      "AI 활용 윤리·개인정보 기준",
+      "사업비 집행 가능 항목"
+    ],
+    "evidence_gaps": [
+      "실제 고객검증 연계 여부",
+      "참가자 결과물 평가기준",
+      "후속 창업·산학프로젝트 전환성과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-27.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-27T08:02:01+09:00",
+      "run_id": "20261127T075926+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 범위의 타 대학 AI부트캠프 비교과 공식 모집공고를 원문 검증해 사건 신규로 수집",
+      "source_urls": [
+        "https://aibootcamp.knu.ac.kr/notices/2026-11-26-mini-texcorps-recruitment/"
+      ]
+    }
+  ]
+}

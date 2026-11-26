@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261127-002",
+  "title": "한국산업인력공단 AI훈련 우수사례 경진대회와 현장 PBL 성과",
+  "category": "policy_region",
+  "priority": "B",
+  "priority_reason": "전국 중소기업 AI훈련의 현장진단·S-OJT·PBL 운영규모와 제조 현장 성과를 공식자료로 확인할 수 있는 재직자교육·산학협력 사례",
+  "first_seen_at": "2026-11-27T07:59:26+09:00",
+  "last_verified_at": "2026-11-27T08:02:01+09:00",
+  "published_date": "2026-11-26",
+  "modified_date": null,
+  "event_date": "2026-11-26",
+  "effective_date": null,
+  "freshness": "new_24h",
+  "change_status": "new",
+  "organizations": [
+    "고용노동부",
+    "한국산업인력공단",
+    "국립한국해양대학교 AI특화센터"
+  ],
+  "regions": [
+    "전국",
+    "부산광역시",
+    "경상남도"
+  ],
+  "sectors": [
+    "인공지능",
+    "중소기업",
+    "조선",
+    "제조",
+    "운수"
+  ],
+  "keywords": [
+    "AI특화공동훈련센터",
+    "중소기업AI훈련확산센터",
+    "PBL",
+    "S-OJT",
+    "Vision OCR",
+    "BOM"
+  ],
+  "program_year": "2026",
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261127-002-F1",
+      "text": "한국산업인력공단은 2026년 11월 26일 10개 중소기업AI훈련확산센터와 20개 AI특화공동훈련센터의 사례를 공유하는 첫 AI훈련 우수사례 경진대회를 개최했으며, 서류심사를 통과한 12개 기업·기관 사례가 발표됐다.",
+      "source_urls": [
+        "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20310"
+      ],
+      "evidence_locator": "고용노동부 공식 보도자료 565~581행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-002-F2",
+      "text": "중소기업AI훈련확산센터에서는 AI훈련코치 446명이 2,000개 기업의 AI 역량을 진단해 맞춤형 훈련체계를 수립했고, 이 중 600개 기업에 AI 업무개선 현장훈련(S-OJT)을 제공했다.",
+      "source_urls": [
+        "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20310"
+      ],
+      "evidence_locator": "고용노동부 공식 보도자료 576~579행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-002-F3",
+      "text": "AI특화공동훈련센터는 대기업·거점대학 등의 인프라를 활용해 전국 973개 중소기업 노동자 4,800명에게 PBL을 포함한 AI 특화훈련을 제공했다.",
+      "source_urls": [
+        "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20310"
+      ],
+      "evidence_locator": "고용노동부 공식 보도자료 579~581행",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261127-002-F4",
+      "text": "국립한국해양대학교 AI특화센터는 광림마린테크 공장을 두 차례 방문해 Vision OCR 기반 CAD 자재 추출·BOM 매칭 PBL을 설계했으며, 공식 발표에 따르면 참여자 9명 모두의 도면 1장당 자재명세서 입력시간이 25분에서 1분 미만으로 단축됐다.",
+      "source_urls": [
+        "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20310"
+      ],
+      "evidence_locator": "고용노동부 공식 보도자료 585~588행",
+      "claim_type": "confirmed_fact"
+    }
+  ],
+  "sources": [
+    {
+      "title": "한국산업인력공단, 인공지능(AI) 훈련 우수사례 경진대회 개최",
+      "publisher": "고용노동부",
+      "source_type": "government_official",
+      "url": "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20310",
+      "normalized_url": "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20310",
+      "published_date": "2026-11-26",
+      "accessed_at": "2026-11-27T08:02:01+09:00",
+      "verification_scope": "사업규모·훈련방식·기업문제·측정성과 확인",
+      "evidence_locator": "공식 보도자료 565~589행"
+    }
+  ],
+  "notice": {
+    "eligibility": null,
+    "support": null,
+    "deadline": null,
+    "application_url": null,
+    "current_status": null,
+    "university_eligibility_verified": null
+  },
+  "analysis": {
+    "relevance": "기업 진단→현장 방문→문제정의→PBL·S-OJT→전후 시간지표 측정으로 이어지는 AI 재직자교육·산학프로젝트 설계 근거",
+    "interpretations": [
+      "교육시간·수료인원뿐 아니라 기업 공정의 전후 성과를 정량 증빙한 사례다.",
+      "전국 사업 성과이며 충북·충주 대상 신규 공고나 본 부트캠프 평가기준 변경을 의미하지 않는다."
+    ],
+    "proposed_action": "지역기업 수요조사와 재직자·학생 공동프로젝트에서 작업시간·오류율·리드타임 등 사전·사후 지표를 프로젝트 기획서에 포함할지 검토",
+    "prerequisites": [
+      "참여기업 데이터·공정 접근 동의",
+      "기업 보안·개인정보 처리기준",
+      "산업체 전문가와 교원 배정",
+      "성과측정 기준·검증자료",
+      "사업비·협약 적합성"
+    ],
+    "limitations": [
+      "공식자료에 개별 교육비와 대학별 세부 운영비는 제시되지 않았다.",
+      "단일 우수사례의 성과를 모든 기업·교육과정에 일반화할 수 없다."
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "신규사업기획",
+      "재직자교육",
+      "산학프로젝트",
+      "기업수요조사",
+      "성과관리"
+    ],
+    "transferable_mechanism": "기업 AI역량 진단→현장방문·공정문제 확인→PBL·S-OJT 설계→교육생 수행→전후 시간·품질지표 측정→사례 확산",
+    "evidence_fact_ids": [
+      "NEWS-20261127-002-F1",
+      "NEWS-20261127-002-F2",
+      "NEWS-20261127-002-F3",
+      "NEWS-20261127-002-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "기업현장 진단인력",
+      "도메인 전문가",
+      "OCR·문서처리 실습환경",
+      "기업 데이터",
+      "성과측정 도구"
+    ],
+    "eligibility_checks": [
+      "재직자교육·기업지원 중복수혜",
+      "기업정보·도면 보안",
+      "사업비 집행 및 협약 범위"
+    ],
+    "evidence_gaps": [
+      "센터별 예산·교육시간",
+      "광림마린테크 성과의 외부 검증방법",
+      "교육 이후 지속사용 성과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-27.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-27T08:02:01+09:00",
+      "run_id": "20261127T075926+0900",
+      "field": "record",
+      "before": null,
+      "after": "created",
+      "reason": "기본 24시간 범위에서 고용노동부 공식 AI훈련 우수사례와 정량성과를 원문 검증해 사건 신규로 수집",
+      "source_urls": [
+        "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20310"
+      ]
+    }
+  ]
+}

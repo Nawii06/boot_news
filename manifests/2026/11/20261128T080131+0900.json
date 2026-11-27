@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20261128T080131+0900",
+  "scheduled_at": "2026-11-28T08:00:00+09:00",
+  "cutoff_at": "2026-11-28T08:00:00+09:00",
+  "started_at": "2026-11-28T08:01:31+09:00",
+  "collection_completed_at": "2026-11-28T08:04:14+09:00",
+  "search_window": {
+    "start": "2026-11-27T08:00:00+09:00",
+    "end": "2026-11-28T08:00:00+09:00",
+    "timezone": "Asia/Seoul"
+  },
+  "supplement_windows": [
+    {
+      "type": "7d_and_ongoing_notice",
+      "start": "2026-11-21T08:00:00+09:00",
+      "end": "2026-11-28T08:00:00+09:00",
+      "reason": "직접 신규자료가 부족해 대학 산학협력·채용의 진행 공고와 마감 임박 자료 보완"
+    }
+  ],
+  "search_status": "completed",
+  "queries": [
+    "[직접·정책] site:moe.go.kr OR site:kiat.or.kr 첨단산업 인재양성 부트캠프 AI 2026년 11월 27일",
+    "[직접·지역] 국립한국교통대학교 AI 부트캠프 2026년 11월 27일 OR 28일",
+    "[직접 결과] AI Bootcamp Innovation Challenger 2026 수상 결과 2026년 11월 27일",
+    "[직접 결과] 2026 AI 부트캠프 경진대회 장관상 국립한국교통대학교",
+    "[직접·지역] 충북 충주 AI 인재양성 제조AX 로봇 모빌리티 2026년 11월 27일",
+    "[전국 정책] AI 인재양성 RISE 대학 기업 공동교육 현장실습 2026년 11월 27일",
+    "[대학 공식] 대학 AI 산학협력 인턴십 공동프로젝트 2026년 11월 27일",
+    "[전국 산업] 제조AX AI 인력양성 로봇 모빌리티 2026년 11월 27일",
+    "[대학 교차] site:ac.kr AI 부트캠프 공고 2026-11-27",
+    "[공식 교차] site:korea.kr·bizinfo.go.kr·moel.go.kr·kiat.or.kr 2026-11-27 AI 인재양성",
+    "[채용] official careers AI robotics autonomous systems internship job posted November 27 2026 Korea",
+    "[채용] NAVER Careers·Hyundai Careers·나라일터 AI 로봇 자율주행 2026-11-27",
+    "[해외 OECD] site:oecd.org artificial intelligence skills workforce training November 27 2026",
+    "[해외 EU] site:ec.europa.eu AI skills academy workforce university industry November 27 2026",
+    "[해외 대학] site:.edu AI industry partnership internship workforce training November 27 2026",
+    "[해외 채용] official AI robotics autonomous mobility internship posted November 27 2026"
+  ],
+  "checked_official_sites": [
+    "대상 ChatGPT Page 및 Agent Instructions(별도 instruction 블록 없음)",
+    "GitHub Nawii06/boot_news 공개 저장소·기본 브랜치 main·월별 색인·직전 report·manifest·기존 이슈",
+    "교육부 공식 카드뉴스·보도자료",
+    "한국산업기술진흥원 공식 사업공고",
+    "AI Bootcamp Innovation Challenger 2026 공식 대회 페이지",
+    "국립한국교통대학교·충청북도·충주시 공식 공개자료",
+    "부산대학교 AI융합교육원 공식 공지",
+    "AUMOVIO Korea 공식 채용페이지",
+    "NAVER Careers 공식 채용공고",
+    "나라일터 공식 채용공고",
+    "OECD·European Commission·ESA 공식자료"
+  ],
+  "verification_failures": [
+    {
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=340&boardSeq=107900&lev=0&m=0202&opType=N&page=1&s=moe",
+      "reason": "교육부 공식 페이지는 검색 원문에서 본문을 확인했으나 별도 open 호출이 차단되어 행사 완료 상태는 공식 대회 페이지로 교차검증"
+    },
+    {
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005752",
+      "reason": "NAVER LABS 로봇 공고는 공식 검색결과에서 직무 개요를 확인했으나 open 본문이 비어 있어 채택하지 않음"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005752",
+      "reason": "정규직 공고이고 원문 본문 추출이 되지 않아 학생 활용 핵심이슈에서 제외"
+    },
+    {
+      "url": "https://jobs.esa.int/job/Harwell-Intern-in-the-Commercial-Partnerships-Department-AI-and-Robotics-Space-for-5G6G/1452920133/",
+      "reason": "11월 1일 게시 기존 공고이며 영국·아일랜드 시민 또는 영국 대학 재학생 등 제한으로 국내 학생 직접 활용이 어려움"
+    },
+    {
+      "url": "https://www.oecd.org/en/publications/skills-in-the-ai-age_972bd15e-en/full-report/component-4.html",
+      "reason": "2026년 7월 기존 정책 참고자료로 이번 회차 신규 공개가 아님"
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-talent-skills-and-literacy",
+      "reason": "기존 EU 제도 참고자료이며 기본 24시간 내 신규 변경을 확인하지 못함"
+    },
+    {
+      "url": "https://banseog.com/physical-ai/jobs/335950",
+      "reason": "기업 공식 원문이 아닌 제3자 채용 요약이며 8월 게시 기존 공고"
+    },
+    {
+      "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308860",
+      "reason": "11월 18일 게시 경력직 공공채용으로 학생 교육·인턴십 연계성이 낮아 제외"
+    }
+  ],
+  "previous_success_run_id": "20261127T075926+0900",
+  "coverage_gaps": [
+    "교육부·KIAT의 신규 사업공고·운영지침 변경은 확인하지 못했으나 관련 자료의 절대적 부재를 뜻하지 않는다.",
+    "충북·충주 공식자료에서 기준시각 이전 공개가 확인된 적격 신규 AI 인재양성 정책을 채택하지 못했다.",
+    "AI 부트캠프 경진대회는 행사·시상 완료 상태까지 확인했으나 공개 수상팀 명단과 국립한국교통대학교 대표팀 수상 결과는 확인하지 못했다.",
+    "기업·공공기관 채용은 AUMOVIO·NAVER Careers·나라일터 등을 확인했으나 전체 채용시장을 포괄하지 않는다.",
+    "해외 정부·국제기구·대학·기업 검색에서 기본 24시간 신규 공개와 국내 적용조건을 함께 검증한 적격 항목이 없었다."
+  ],
+  "search_coverage": {
+    "direct_local": {
+      "queries": 5,
+      "candidates_reviewed": 9,
+      "adopted": 0,
+      "updated": 1,
+      "unchanged": 0
+    },
+    "national_policy_university": {
+      "queries": 5,
+      "candidates_reviewed": 12,
+      "adopted": 1,
+      "updated": 0
+    },
+    "enterprise_industry": {
+      "queries": 3,
+      "candidates_reviewed": 8,
+      "adopted": 1,
+      "updated": 0
+    },
+    "official_jobs": {
+      "queries": 4,
+      "candidates_reviewed": 8,
+      "adopted": 1,
+      "updated": 0
+    },
+    "international": {
+      "queries": 4,
+      "candidates_reviewed": 7,
+      "adopted": 0,
+      "updated": 0
+    }
+  },
+  "issue_ids": {
+    "NEWS-20261110-001": "updated",
+    "NEWS-20261128-001": "new",
+    "NEWS-20261128-002": "new"
+  },
+  "counts": {
+    "new": 2,
+    "collected_new": 2,
+    "event_new": 0,
+    "published_new_24h": 0,
+    "supplement_72h": 0,
+    "supplement_7d": 0,
+    "ongoing_notice": 2,
+    "updated": 1,
+    "unchanged": 0,
+    "correction": 0,
+    "duplicate_review": 0,
+    "unprocessed": 0
+  },
+  "report_path": "reports/2026/11/2026-11-28.md",
+  "changed_paths": [
+    "reports/2026/11/2026-11-28.md",
+    "records/2026/NEWS-20261110-001.json",
+    "records/2026/NEWS-20261128-001.json",
+    "records/2026/NEWS-20261128-002.json",
+    "indexes/2026-11.md",
+    "manifests/2026/11/20261128T080131+0900.json"
+  ],
+  "archive_intent": "prepared"
+}

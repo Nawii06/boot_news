@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "issue_id": "NEWS-20261128-001",
+  "title": "부산대 겨울도약수업 기업체험형 단기 인턴십",
+  "category": "technology_curriculum",
+  "priority": "B",
+  "priority_reason": "학점·기업매칭·현장 프로젝트·실습비·결과보고서를 결합한 단기 산학협력 교육구조로 교육과정·현장실습 설계에 참고 가능",
+  "first_seen_at": "2026-11-28T08:01:31+09:00",
+  "last_verified_at": "2026-11-28T08:04:14+09:00",
+  "published_date": "2026-11-24",
+  "modified_date": null,
+  "event_date": "2027-01-25",
+  "effective_date": null,
+  "freshness": "ongoing_notice",
+  "change_status": "new",
+  "organizations": [
+    "부산대학교",
+    "부산대학교 AI융합교육원"
+  ],
+  "regions": [
+    "부산광역시"
+  ],
+  "sectors": [
+    "인공지능",
+    "소프트웨어",
+    "스마트팩토리",
+    "공장자동화",
+    "지능형교통",
+    "제조공급망"
+  ],
+  "keywords": [
+    "겨울도약수업",
+    "기업체험형 단기 인턴십",
+    "학점연계",
+    "산학협력 프로젝트",
+    "기업매칭",
+    "활동보고서",
+    "실습비"
+  ],
+  "program_year": "2026-2027",
+  "notice_number": null,
+  "verification_level": "official",
+  "verified_facts": [
+    {
+      "fact_id": "NEWS-20261128-001-F1",
+      "text": "부산대학교 AI융합교육원은 정보컴퓨터공학부와 의생명융합공학부 데이터사이언스전공 재학생 약 20명을 대상으로 학점연계 기업체험형 단기 인턴십을 모집한다.",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1474776/artclView.do"
+      ],
+      "evidence_locator": "수강대상·선발인원",
+      "claim_type": "confirmed_fact"
+    },
+    {
+      "fact_id": "NEWS-20261128-001-F2",
+      "text": "교육은 2027년 1월 25일부터 2월 5일까지 기업 근무지에서 10일·총 80시간 운영되며 기업 제안 산학협력 프로젝트와 현장실습을 포함한다.",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1474776/artclView.do"
+      ],
+      "evidence_locator": "교육기간·시간·장소·내용",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261128-001-F3",
+      "text": "출석률 90% 이상과 프로젝트 결과물 제출을 충족하면 일반선택 2학점(S/U)을 부여하고, 10일 근무 기준 실습비 55만원과 식비 20만원을 지원한다.",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1474776/artclView.do"
+      ],
+      "evidence_locator": "지원사항 1~2",
+      "claim_type": "announced_plan"
+    },
+    {
+      "fact_id": "NEWS-20261128-001-F4",
+      "text": "신청 마감은 2026년 11월 30일이며 기업 매칭 후 주간 활동보고서와 산학협력 프로젝트 결과보고서를 2027년 2월 12일까지 제출해야 한다.",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1474776/artclView.do"
+      ],
+      "evidence_locator": "신청기한·기업매칭·보고서 제출기한",
+      "claim_type": "announced_plan"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026학년도 겨울도약수업 기업체험형 단기 인턴십 참가자 모집 안내(추가)",
+      "publisher": "부산대학교 AI융합교육원",
+      "source_type": "university_official",
+      "url": "https://cse.pusan.ac.kr/bbs/cse/2055/1474776/artclView.do",
+      "normalized_url": "https://cse.pusan.ac.kr/bbs/cse/2055/1474776/artclView.do",
+      "published_date": "2026-11-24",
+      "accessed_at": "2026-11-28T08:04:14+09:00",
+      "verification_scope": "교과·대상·선발·기업분야·운영시간·학점·지원·마감·보고서 확인",
+      "evidence_locator": "공식 공고 본문 교과목 개요·수요조사·수강·교육·지원사항"
+    }
+  ],
+  "notice": {
+    "eligibility": "부산대학교 정보컴퓨터공학부 및 의생명융합공학부 데이터사이언스전공 재학생",
+    "support": "수강료 무료, 일반선택 2학점(S/U), 실습비 55만원, 식비 20만원, 마일스톤·비교과 마일리지",
+    "deadline": "2026-11-30",
+    "application_url": "https://forms.gle/DoGvzMFYaSWNfXd88",
+    "current_status": "모집 중; 신청 초과 시 조기 마감 가능, 기업 수용인원에 따라 희망기업과 매칭되지 않을 수 있음",
+    "university_eligibility_verified": false
+  },
+  "analysis": {
+    "relevance": "단기 기업체험을 학점·실습비·산학프로젝트·보고서와 결합한 대학 공식 운영사례",
+    "interpretations": [
+      "기업매칭 전 학생의 성적·코딩능력·프로젝트 실적을 확인하고 활동·결과보고서를 학점요건과 연결한다.",
+      "시간표상 60시간과 실제 운영 80시간의 차이를 공고에서 명시해 학사·근태 증빙 기준을 사전 고지했다."
+    ],
+    "proposed_action": "본교 단기 기업실습 설계 시 실제 실습시간, 학점·출석 기준, 기업별 수용인원, 학생 선발, 보고서와 비용 증빙을 하나의 운영표로 검토",
+    "prerequisites": [
+      "본교 학칙·도약학기 또는 계절학기 적용 가능성",
+      "현장실습 운영규정",
+      "사업비 집행 가능 항목·단가",
+      "기업 협약과 학생 보험·안전관리"
+    ],
+    "limitations": [
+      "부산대학교 지정 학과 학생 대상 공고로 국립한국교통대학교 학생은 지원할 수 없음",
+      "계획 공고이며 실제 교육·성과는 아직 확인되지 않음"
+    ]
+  },
+  "development": {
+    "use_cases": [
+      "교육과정",
+      "산학프로젝트",
+      "현장실습인턴십",
+      "취업연계",
+      "학생지원",
+      "성과관리",
+      "사업비행정"
+    ],
+    "transferable_mechanism": "학생 수요조사·선발→기업 매칭→필수 사전교육→10일 기업실습·제안 프로젝트→출석·활동보고→결과보고서→학점·실습비 지급",
+    "evidence_fact_ids": [
+      "NEWS-20261128-001-F1",
+      "NEWS-20261128-001-F2",
+      "NEWS-20261128-001-F3",
+      "NEWS-20261128-001-F4"
+    ],
+    "candidate_partners": [],
+    "resource_requirements": [
+      "참여기업과 수용인원",
+      "기업별 프로젝트",
+      "교과·학점 운영인력",
+      "실습비·식비 예산",
+      "출석·보고서 관리체계",
+      "보험·안전관리"
+    ],
+    "eligibility_checks": [
+      "본교 학칙과 학점 인정",
+      "사업비 집행기준",
+      "현장실습 운영규정",
+      "기업 협약·학생 보험",
+      "개인정보·기업자료 보안"
+    ],
+    "evidence_gaps": [
+      "기업별 최종 배정과 실제 프로젝트",
+      "교육 이수·학점취득 결과",
+      "기업평가·취업연계 성과"
+    ],
+    "maturity": "evidence_only"
+  },
+  "related_issue_ids": [],
+  "report_paths": [
+    "reports/2026/11/2026-11-28.md"
+  ],
+  "changes": [
+    {
+      "changed_at": "2026-11-28T08:04:14+09:00",
+      "run_id": "20261128T080131+0900",
+      "field": "initial_record",
+      "before": null,
+      "after": "created",
+      "reason": "진행 중 대학 공식 공고를 아카이브에서 처음 수집",
+      "source_urls": [
+        "https://cse.pusan.ac.kr/bbs/cse/2055/1474776/artclView.do"
+      ]
+    }
+  ]
+}
